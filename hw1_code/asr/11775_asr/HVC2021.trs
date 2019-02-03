@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2021" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.51" endTime="128.11" >
+<Turn speaker="S1" startTime="4.51" endTime="10.33">
+<Sync time="4.51"/>
+oh yeah yeah um
+</Turn>
+<Turn speaker="S2" startTime="10.33" endTime="13.56">
+<Sync time="10.33"/>
+they are all day
+</Turn>
+<Turn speaker="S1" startTime="13.56" endTime="22.45">
+<Sync time="13.56"/>
+i didn't mind game right behind me some games and
+</Turn>
+<Turn speaker="S2" startTime="22.45" endTime="29.35">
+<Sync time="22.45"/>
+i don't care if i ever
+</Turn>
+<Turn speaker="S1" startTime="29.35" endTime="37.76">
+<Sync time="29.35"/>
+far as
+</Turn>
+<Turn speaker="S2" startTime="37.76" endTime="57.11">
+<Sync time="37.76"/>
+this is why i'm scared to drive your yeah well you know the uh
+</Turn>
+<Turn speaker="S3" startTime="57.11" endTime="61.48">
+<Sync time="57.11"/>
+no
+</Turn>
+<Turn speaker="S1" startTime="61.48" endTime="69.0">
+<Sync time="61.48"/>
+base okay well it's amazing to schools anything
+</Turn>
+<Turn speaker="S2" startTime="69.0" endTime="91.09">
+<Sync time="69.0"/>
+oh really oh i fly now i know in that respect
+</Turn>
+<Turn speaker="S1" startTime="91.09" endTime="114.11">
+<Sync time="91.09"/>
+you know about the spider man no circle circle thank god that sounds interesting so thank god okay yeah it's very different one for different
+</Turn>
+<Turn speaker="S3" startTime="114.11" endTime="117.71">
+<Sync time="114.11"/>
+boy
+</Turn>
+<Turn speaker="S1" startTime="117.71" endTime="123.91">
+<Sync time="117.71"/>
+hi
+</Turn>
+<Turn speaker="S3" startTime="123.91" endTime="128.11">
+<Sync time="123.91"/>
+can
+</Turn>
+</Section>
+<Section type="report" startTime="127.87" endTime="141.64" >
+<Turn speaker="S1" startTime="127.87" endTime="141.64">
+<Sync time="127.87"/>
+oh okay well what kind of like
+</Turn>
+</Section>
+</Episode>
+</Trans>

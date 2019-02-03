@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC1227" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="215.8" endTime="226.42" >
+<Turn speaker="S1" startTime="215.8" endTime="226.42">
+<Sync time="215.8"/>
+to
+</Turn>
+</Section>
+<Section type="report" startTime="334.63" endTime="342.82" >
+<Turn speaker="S2" startTime="334.63" endTime="342.82">
+<Sync time="334.63"/>
+what did i say you know
+</Turn>
+</Section>
+<Section type="report" startTime="470.41" endTime="498.87" >
+<Turn speaker="S2" startTime="470.41" endTime="487.17">
+<Sync time="470.41"/>
+even though the messages on the will get to see somebody else will probably not
+</Turn>
+<Turn speaker="S3" startTime="487.17" endTime="498.87">
+<Sync time="487.17"/>
+game
+</Turn>
+</Section>
+<Section type="report" startTime="656.9" endTime="678.37" >
+<Turn speaker="S4" startTime="656.9" endTime="678.37">
+<Sync time="656.9"/>
+no no no they don't know no no no no no
+</Turn>
+</Section>
+<Section type="report" startTime="751.28" endTime="788.18" >
+<Turn speaker="S1" startTime="751.28" endTime="788.18">
+<Sync time="751.28"/>
+the uh
+</Turn>
+</Section>
+<Section type="report" startTime="911.31" endTime="966.33" >
+<Turn speaker="S1" startTime="911.31" endTime="966.33">
+<Sync time="911.31"/>
+uh to when they
+</Turn>
+</Section>
+</Episode>
+</Trans>

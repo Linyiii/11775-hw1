@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC1127" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="1.18" endTime="45.98" >
+<Turn speaker="S1" startTime="1.18" endTime="42.82">
+<Sync time="1.18"/>
+mm mm mm no no no no
+</Turn>
+<Turn speaker="S2" startTime="42.82" endTime="45.98">
+<Sync time="42.82"/>
+i didn't catch
+</Turn>
+</Section>
+<Section type="report" startTime="46.23" endTime="71.43" >
+<Turn speaker="S1" startTime="46.23" endTime="71.43">
+<Sync time="46.23"/>
+why why why don't they
+</Turn>
+</Section>
+</Episode>
+</Trans>

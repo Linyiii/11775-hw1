@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC1439" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="41.76" >
+<Turn speaker="S1" startTime="0.0" endTime="21.65">
+<Sync time="0.0"/>
+no i no not yet fourth of july two thousand eight okay here's a lie on the he's gonna be a future rider go why
+</Turn>
+<Turn speaker="S2" startTime="21.65" endTime="33.04">
+<Sync time="21.65"/>
+oh man
+</Turn>
+<Turn speaker="S1" startTime="33.04" endTime="41.76">
+<Sync time="33.04"/>
+to get on that thing and no fear
+</Turn>
+</Section>
+<Section type="report" startTime="41.55" endTime="57.33" >
+<Turn speaker="S3" startTime="41.55" endTime="57.33">
+<Sync time="41.55"/>
+well it ruins the restaurant or
+</Turn>
+</Section>
+</Episode>
+</Trans>

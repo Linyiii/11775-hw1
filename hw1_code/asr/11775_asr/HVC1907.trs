@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC1907" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="29.83" endTime="86.18" >
+<Turn speaker="S1" startTime="29.83" endTime="68.04">
+<Sync time="29.83"/>
+he's twenty four and we're about two weeks out from melanie being the first one on the calendar deliver so the boys are building the shelter sandy either do california
+</Turn>
+<Turn speaker="S2" startTime="68.04" endTime="86.18">
+<Sync time="68.04"/>
+throwing a little thing that comes in handy i know have no idea so
+</Turn>
+</Section>
+<Section type="report" startTime="92.49" endTime="99.07" >
+<Turn speaker="S1" startTime="92.49" endTime="99.07">
+<Sync time="92.49"/>
+no good would do
+</Turn>
+</Section>
+<Section type="report" startTime="114.58" endTime="144.14" >
+<Turn speaker="S1" startTime="114.58" endTime="144.14">
+<Sync time="114.58"/>
+a cool day to day but now the other day quickly another more going on for oh yes i do
+</Turn>
+</Section>
+<Section type="report" startTime="154.74" endTime="163.0" >
+<Turn speaker="S1" startTime="154.74" endTime="163.0">
+<Sync time="154.74"/>
+a lot easier when you got three people doing it though
+</Turn>
+</Section>
+<Section type="report" startTime="175.77" endTime="185.53" >
+<Turn speaker="S3" startTime="175.77" endTime="182.59">
+<Sync time="175.77"/>
+oh
+</Turn>
+<Turn speaker="S1" startTime="182.59" endTime="185.53">
+<Sync time="182.59"/>
+yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC387" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.4" endTime="63.0" >
+<Turn speaker="S1" startTime="4.4" endTime="63.0">
+<Sync time="4.4"/>
+for the for the for the for the bottles
+</Turn>
+</Section>
+<Section type="report" startTime="90.12" endTime="118.64" >
+<Turn speaker="S2" startTime="90.12" endTime="118.64">
+<Sync time="90.12"/>
+that's the thing about the over and we to do anything for them for one of the folks
+</Turn>
+</Section>
+<Section type="report" startTime="133.08" endTime="139.72" >
+<Turn speaker="S3" startTime="133.08" endTime="139.72">
+<Sync time="133.08"/>
+but
+</Turn>
+</Section>
+</Episode>
+</Trans>

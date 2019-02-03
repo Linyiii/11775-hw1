@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC1941" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="5.53" endTime="15.59" >
+<Turn speaker="S1" startTime="5.53" endTime="15.59">
+<Sync time="5.53"/>
+and what happens if you put your feet you gone to see the birds you find this girl that takes the food and to me away from it
+</Turn>
+</Section>
+<Section type="report" startTime="33.83" endTime="38.97" >
+<Turn speaker="S1" startTime="33.83" endTime="38.97">
+<Sync time="33.83"/>
+keep refreshing winters coming
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2066" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="38.64" >
+<Turn speaker="S1" startTime="0.0" endTime="5.28">
+<Sync time="0.0"/>
+and uh uh now
+</Turn>
+<Turn speaker="S2" startTime="5.28" endTime="15.57">
+<Sync time="5.28"/>
+uh you john
+</Turn>
+<Turn speaker="S3" startTime="15.57" endTime="25.74">
+<Sync time="15.57"/>
+uh-huh
+</Turn>
+<Turn speaker="S4" startTime="25.74" endTime="31.95">
+<Sync time="25.74"/>
+i'm alabama
+</Turn>
+<Turn speaker="S5" startTime="31.95" endTime="35.29">
+<Sync time="31.95"/>
+movies go drink on either
+</Turn>
+<Turn speaker="S6" startTime="35.29" endTime="38.64">
+<Sync time="35.29"/>
+i see
+</Turn>
+</Section>
+</Episode>
+</Trans>

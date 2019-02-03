@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC729" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.29" endTime="30.63" >
+<Turn speaker="S1" startTime="0.29" endTime="6.76">
+<Sync time="0.29"/>
+do you like any plays a big wall town it's nuts
+</Turn>
+<Turn speaker="S2" startTime="6.76" endTime="14.23">
+<Sync time="6.76"/>
+hi dean but your throat under under and my game my game
+</Turn>
+<Turn speaker="S3" startTime="14.23" endTime="20.31">
+<Sync time="14.23"/>
+you play soccer
+</Turn>
+<Turn speaker="S4" startTime="20.31" endTime="25.7">
+<Sync time="20.31"/>
+right right like like yeah
+</Turn>
+<Turn speaker="S5" startTime="25.7" endTime="30.63">
+<Sync time="25.7"/>
+a quarter million to call softball their game make your your
+</Turn>
+</Section>
+</Episode>
+</Trans>

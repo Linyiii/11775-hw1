@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC721" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.03" endTime="46.71" >
+<Turn speaker="S1" startTime="4.03" endTime="11.04">
+<Sync time="4.03"/>
+no all that
+</Turn>
+<Turn speaker="S2" startTime="11.04" endTime="37.83">
+<Sync time="11.04"/>
+no no
+</Turn>
+<Turn speaker="S3" startTime="37.83" endTime="41.34">
+<Sync time="37.83"/>
+hi
+</Turn>
+<Turn speaker="S2" startTime="41.34" endTime="46.71">
+<Sync time="41.34"/>
+right
+</Turn>
+</Section>
+<Section type="report" startTime="51.06" endTime="59.23" >
+<Turn speaker="S4" startTime="51.06" endTime="53.51">
+<Sync time="51.06"/>
+okay
+</Turn>
+<Turn speaker="S1" startTime="53.51" endTime="59.23">
+<Sync time="53.51"/>
+back
+</Turn>
+</Section>
+<Section type="report" startTime="99.17" endTime="148.9" >
+<Turn speaker="S2" startTime="99.17" endTime="148.9">
+<Sync time="99.17"/>
+you know there was the same time off work
+</Turn>
+</Section>
+<Section type="report" startTime="154.19" endTime="187.4" >
+<Turn speaker="S2" startTime="154.19" endTime="182.35">
+<Sync time="154.19"/>
+no you're fine fine
+</Turn>
+<Turn speaker="S5" startTime="182.35" endTime="187.4">
+<Sync time="182.35"/>
+bake a
+</Turn>
+</Section>
+<Section type="report" startTime="211.78" endTime="254.95" >
+<Turn speaker="S2" startTime="211.78" endTime="219.34">
+<Sync time="211.78"/>
+go away
+</Turn>
+<Turn speaker="S1" startTime="219.34" endTime="224.07">
+<Sync time="219.34"/>
+that's true
+</Turn>
+<Turn speaker="S4" startTime="224.07" endTime="237.22">
+<Sync time="224.07"/>
+i'm going to trial i always felt i felt bad because
+</Turn>
+<Turn speaker="S2" startTime="237.22" endTime="243.11">
+<Sync time="237.22"/>
+boy
+</Turn>
+<Turn speaker="S5" startTime="243.11" endTime="254.95">
+<Sync time="243.11"/>
+and they're just that space fucking make 'em pay just a job i'm trying to tell them
+</Turn>
+</Section>
+<Section type="report" startTime="257.13" endTime="293.06" >
+<Turn speaker="S4" startTime="257.13" endTime="264.01">
+<Sync time="257.13"/>
+but on the plane
+</Turn>
+<Turn speaker="S5" startTime="264.01" endTime="269.67">
+<Sync time="264.01"/>
+swimming on right now
+</Turn>
+<Turn speaker="S2" startTime="269.67" endTime="275.12">
+<Sync time="269.67"/>
+so
+</Turn>
+<Turn speaker="S4" startTime="275.12" endTime="293.06">
+<Sync time="275.12"/>
+i wish i your what's your go back and don't break your guy
+</Turn>
+</Section>
+<Section type="report" startTime="336.97" endTime="343.78" >
+<Turn speaker="S2" startTime="336.97" endTime="343.78">
+<Sync time="336.97"/>
+oh
+</Turn>
+</Section>
+<Section type="report" startTime="348.56" endTime="409.61" >
+<Turn speaker="S2" startTime="348.56" endTime="409.61">
+<Sync time="348.56"/>
+no i don't know i don't know why
+</Turn>
+</Section>
+<Section type="report" startTime="417.99" endTime="475.87" >
+<Turn speaker="S2" startTime="417.99" endTime="433.24">
+<Sync time="417.99"/>
+they've been taught wrong about that
+</Turn>
+<Turn speaker="S5" startTime="433.24" endTime="444.85">
+<Sync time="433.24"/>
+so many fucking
+</Turn>
+<Turn speaker="S2" startTime="444.85" endTime="463.55">
+<Sync time="444.85"/>
+yeah i don't know i just
+</Turn>
+<Turn speaker="S5" startTime="463.55" endTime="471.89">
+<Sync time="463.55"/>
+no but sexy
+</Turn>
+<Turn speaker="S4" startTime="471.89" endTime="475.87">
+<Sync time="471.89"/>
+way back
+</Turn>
+</Section>
+<Section type="report" startTime="480.37" endTime="508.15" >
+<Turn speaker="S3" startTime="480.37" endTime="481.72">
+<Sync time="480.37"/>
+yeah
+</Turn>
+<Turn speaker="S2" startTime="481.72" endTime="488.14">
+<Sync time="481.72"/>
+right right
+</Turn>
+<Turn speaker="S6" startTime="488.14" endTime="508.15">
+<Sync time="488.14"/>
+right they are going on
+</Turn>
+</Section>
+<Section type="report" startTime="523.64" endTime="553.37" >
+<Turn speaker="S1" startTime="523.64" endTime="530.99">
+<Sync time="523.64"/>
+is it
+</Turn>
+<Turn speaker="S2" startTime="530.99" endTime="553.37">
+<Sync time="530.99"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="556.42" endTime="640.65" >
+<Turn speaker="S2" startTime="556.42" endTime="575.97">
+<Sync time="556.42"/>
+oh we're going to be aware of what's going on
+</Turn>
+<Turn speaker="S1" startTime="575.97" endTime="578.66">
+<Sync time="575.97"/>
+that's right
+</Turn>
+<Turn speaker="S2" startTime="578.66" endTime="640.65">
+<Sync time="578.66"/>
+yeah i don't really know i try not to go to class no you are going to do on tape
+</Turn>
+</Section>
+<Section type="report" startTime="648.17" endTime="666.69" >
+<Turn speaker="S2" startTime="648.17" endTime="662.61">
+<Sync time="648.17"/>
+hot springs jamie
+</Turn>
+<Turn speaker="S5" startTime="662.61" endTime="666.69">
+<Sync time="662.61"/>
+we had our
+</Turn>
+</Section>
+<Section type="report" startTime="667.74" endTime="671.14" >
+<Turn speaker="S1" startTime="667.74" endTime="671.14">
+<Sync time="667.74"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="686.47" endTime="840.16" >
+<Turn speaker="S3" startTime="686.47" endTime="692.22">
+<Sync time="686.47"/>
+yeah
+</Turn>
+<Turn speaker="S2" startTime="692.22" endTime="820.21">
+<Sync time="692.22"/>
+you gotta totally troy gosh burglar bars so i don't know
+</Turn>
+<Turn speaker="S1" startTime="820.21" endTime="840.16">
+<Sync time="820.21"/>
+it was two broken
+</Turn>
+</Section>
+<Section type="report" startTime="906.54" endTime="943.99" >
+<Turn speaker="S1" startTime="906.54" endTime="911.07">
+<Sync time="906.54"/>
+okay
+</Turn>
+<Turn speaker="S6" startTime="911.07" endTime="921.75">
+<Sync time="911.07"/>
+uh right now our our son
+</Turn>
+<Turn speaker="S2" startTime="921.75" endTime="943.99">
+<Sync time="921.75"/>
+right right
+</Turn>
+</Section>
+<Section type="report" startTime="948.79" endTime="1040.73" >
+<Turn speaker="S2" startTime="948.79" endTime="975.94">
+<Sync time="948.79"/>
+to watch like
+</Turn>
+<Turn speaker="S5" startTime="975.94" endTime="983.72">
+<Sync time="975.94"/>
+keep her she got arm
+</Turn>
+<Turn speaker="S2" startTime="983.72" endTime="998.67">
+<Sync time="983.72"/>
+they're pretty crazy
+</Turn>
+<Turn speaker="S6" startTime="998.67" endTime="1012.17">
+<Sync time="998.67"/>
+getting to be tough them
+</Turn>
+<Turn speaker="S2" startTime="1012.17" endTime="1040.73">
+<Sync time="1012.17"/>
+around my wife
+</Turn>
+</Section>
+<Section type="report" startTime="1042.18" endTime="1056.78" >
+<Turn speaker="S6" startTime="1042.18" endTime="1056.78">
+<Sync time="1042.18"/>
+you know
+</Turn>
+</Section>
+<Section type="report" startTime="1081.88" endTime="1107.3" >
+<Turn speaker="S2" startTime="1081.88" endTime="1107.3">
+<Sync time="1081.88"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="1120.51" endTime="1137.49" >
+<Turn speaker="S2" startTime="1120.51" endTime="1134.81">
+<Sync time="1120.51"/>
+just because the
+</Turn>
+<Turn speaker="S1" startTime="1134.81" endTime="1137.49">
+<Sync time="1134.81"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="1144.47" endTime="1148.13" >
+<Turn speaker="S1" startTime="1144.47" endTime="1148.13">
+<Sync time="1144.47"/>
+really close
+</Turn>
+</Section>
+<Section type="report" startTime="1171.94" endTime="1300.65" >
+<Turn speaker="S5" startTime="1171.94" endTime="1179.5">
+<Sync time="1171.94"/>
+i didn't i didn't i didn't the uh the the second one yeah first
+</Turn>
+<Turn speaker="S2" startTime="1179.5" endTime="1209.17">
+<Sync time="1179.5"/>
+no i don't know if i can see
+</Turn>
+<Turn speaker="S3" startTime="1209.17" endTime="1213.53">
+<Sync time="1209.17"/>
+yeah
+</Turn>
+<Turn speaker="S2" startTime="1213.53" endTime="1250.41">
+<Sync time="1213.53"/>
+oh my god the the last one i saw a bill
+</Turn>
+<Turn speaker="S1" startTime="1250.41" endTime="1254.56">
+<Sync time="1250.41"/>
+and they enjoy
+</Turn>
+<Turn speaker="S2" startTime="1254.56" endTime="1278.64">
+<Sync time="1254.56"/>
+yeah it did what say somebody
+</Turn>
+<Turn speaker="S5" startTime="1278.64" endTime="1283.46">
+<Sync time="1278.64"/>
+which is called trying to get i mean
+</Turn>
+<Turn speaker="S2" startTime="1283.46" endTime="1298.0">
+<Sync time="1283.46"/>
+drop dead gorgeous but your jacket
+</Turn>
+<Turn speaker="S1" startTime="1298.0" endTime="1300.65">
+<Sync time="1298.0"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="1304.02" endTime="1316.57" >
+<Turn speaker="S5" startTime="1304.02" endTime="1305.85">
+<Sync time="1304.02"/>
+yeah
+</Turn>
+<Turn speaker="S2" startTime="1305.85" endTime="1312.13">
+<Sync time="1305.85"/>
+wanna go
+</Turn>
+<Turn speaker="S5" startTime="1312.13" endTime="1316.57">
+<Sync time="1312.13"/>
+dollar
+</Turn>
+</Section>
+<Section type="report" startTime="1326.92" endTime="1335.64" >
+<Turn speaker="S5" startTime="1326.92" endTime="1335.64">
+<Sync time="1326.92"/>
+buffet taller redemption that much
+</Turn>
+</Section>
+<Section type="report" startTime="1338.53" endTime="1347.84" >
+<Turn speaker="S5" startTime="1338.53" endTime="1347.84">
+<Sync time="1338.53"/>
+oh the one hand sometimes they come in and i'm not very type
+</Turn>
+</Section>
+</Episode>
+</Trans>

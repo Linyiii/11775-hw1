@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC1896" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="8.53" endTime="189.95" >
+<Turn speaker="S1" startTime="8.53" endTime="103.33">
+<Sync time="8.53"/>
+going back to the gym they show on the today show ties back when you rent the only way talk shows that are fun to for a show in a way way way by by my last dad are so a james bond birds in the peace corps or
+</Turn>
+<Turn speaker="S2" startTime="103.33" endTime="118.56">
+<Sync time="103.33"/>
+mm
+</Turn>
+<Turn speaker="S3" startTime="118.56" endTime="147.26">
+<Sync time="118.56"/>
+oh no
+</Turn>
+<Turn speaker="S4" startTime="147.26" endTime="173.38">
+<Sync time="147.26"/>
+no no no go
+</Turn>
+<Turn speaker="S2" startTime="173.38" endTime="179.1">
+<Sync time="173.38"/>
+no
+</Turn>
+<Turn speaker="S4" startTime="179.1" endTime="184.53">
+<Sync time="179.1"/>
+uh
+</Turn>
+<Turn speaker="S2" startTime="184.53" endTime="189.95">
+<Sync time="184.53"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="193.36" endTime="206.47" >
+<Turn speaker="S3" startTime="193.36" endTime="206.47">
+<Sync time="193.36"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

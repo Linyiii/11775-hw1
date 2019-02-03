@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC1143" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="14.93" endTime="25.28" >
+<Turn speaker="S1" startTime="14.93" endTime="25.28">
+<Sync time="14.93"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="36.9" endTime="49.15" >
+<Turn speaker="S2" startTime="36.9" endTime="43.4">
+<Sync time="36.9"/>
+you're not gonna have to found you know you'll fall through there and i'd get the sites sauce
+</Turn>
+<Turn speaker="S3" startTime="43.4" endTime="49.15">
+<Sync time="43.4"/>
+usually home and
+</Turn>
+</Section>
+<Section type="report" startTime="52.57" endTime="65.26" >
+<Turn speaker="S4" startTime="52.57" endTime="58.04">
+<Sync time="52.57"/>
+let's fetch habits
+</Turn>
+<Turn speaker="S5" startTime="58.04" endTime="65.26">
+<Sync time="58.04"/>
+that's right that it
+</Turn>
+</Section>
+</Episode>
+</Trans>

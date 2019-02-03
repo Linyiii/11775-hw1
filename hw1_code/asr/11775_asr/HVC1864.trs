@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC1864" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="6.05" endTime="185.56" >
+<Turn speaker="S1" startTime="6.05" endTime="27.07">
+<Sync time="6.05"/>
+it's not going to look at all
+</Turn>
+<Turn speaker="S2" startTime="27.07" endTime="105.48">
+<Sync time="27.07"/>
+you know the a- and and i don't know what they go in and
+</Turn>
+<Turn speaker="S3" startTime="105.48" endTime="124.19">
+<Sync time="105.48"/>
+like that
+</Turn>
+<Turn speaker="S4" startTime="124.19" endTime="142.34">
+<Sync time="124.19"/>
+there's no real you know you don't know you don't go for a long time
+</Turn>
+<Turn speaker="S3" startTime="142.34" endTime="145.04">
+<Sync time="142.34"/>
+and uh
+</Turn>
+<Turn speaker="S4" startTime="145.04" endTime="155.28">
+<Sync time="145.04"/>
+there's not really i don't know you don't
+</Turn>
+<Turn speaker="S3" startTime="155.28" endTime="158.44">
+<Sync time="155.28"/>
+and things
+</Turn>
+<Turn speaker="S4" startTime="158.44" endTime="168.8">
+<Sync time="158.44"/>
+i don't know and
+</Turn>
+<Turn speaker="S3" startTime="168.8" endTime="171.52">
+<Sync time="168.8"/>
+that the thing
+</Turn>
+<Turn speaker="S4" startTime="171.52" endTime="185.56">
+<Sync time="171.52"/>
+it's a little bit
+</Turn>
+</Section>
+<Section type="report" startTime="206.57" endTime="215.8" >
+<Turn speaker="S5" startTime="206.57" endTime="215.8">
+<Sync time="206.57"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="238.23" endTime="243.42" >
+<Turn speaker="S5" startTime="238.23" endTime="243.42">
+<Sync time="238.23"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="297.34" endTime="302.47" >
+<Turn speaker="S5" startTime="297.34" endTime="302.47">
+<Sync time="297.34"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="310.45" endTime="319.92" >
+<Turn speaker="S5" startTime="310.45" endTime="319.92">
+<Sync time="310.45"/>
+ooh
+</Turn>
+</Section>
+</Episode>
+</Trans>

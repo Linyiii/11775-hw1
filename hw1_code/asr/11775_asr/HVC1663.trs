@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC1663" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.33" endTime="17.72" >
+<Turn speaker="S1" startTime="0.33" endTime="5.48">
+<Sync time="0.33"/>
+the what does your with the big
+</Turn>
+<Turn speaker="S2" startTime="5.48" endTime="11.75">
+<Sync time="5.48"/>
+well that'd be done
+</Turn>
+<Turn speaker="S3" startTime="11.75" endTime="15.04">
+<Sync time="11.75"/>
+i've to
+</Turn>
+<Turn speaker="S4" startTime="15.04" endTime="17.72">
+<Sync time="15.04"/>
+yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

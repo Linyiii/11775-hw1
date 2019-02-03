@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC857" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.22" endTime="110.64" >
+<Turn speaker="S1" startTime="3.22" endTime="44.26">
+<Sync time="3.22"/>
+hey everybody this is john in lance food today we saw the most amazing thing what is it i think we both being dropped out of a helicopter kidding no no not down upon us industry i cried did indeed and so i hope you enjoy little clips of me crying like school girl right right
+</Turn>
+<Turn speaker="S2" startTime="44.26" endTime="85.75">
+<Sync time="44.26"/>
+well i don't normally relating or
+</Turn>
+<Turn speaker="S3" startTime="85.75" endTime="95.49">
+<Sync time="85.75"/>
+oh
+</Turn>
+<Turn speaker="S2" startTime="95.49" endTime="110.64">
+<Sync time="95.49"/>
+no no no
+</Turn>
+</Section>
+<Section type="report" startTime="117.56" endTime="134.03" >
+<Turn speaker="S2" startTime="117.56" endTime="134.03">
+<Sync time="117.56"/>
+you know
+</Turn>
+</Section>
+<Section type="report" startTime="137.0" endTime="150.26" >
+<Turn speaker="S2" startTime="137.0" endTime="150.26">
+<Sync time="137.0"/>
+oh whoa
+</Turn>
+</Section>
+</Episode>
+</Trans>

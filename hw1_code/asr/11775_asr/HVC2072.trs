@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2072" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="38.04" >
+<Turn speaker="S1" startTime="0.0" endTime="5.2">
+<Sync time="0.0"/>
+and then by then you know
+</Turn>
+<Turn speaker="S2" startTime="5.2" endTime="34.78">
+<Sync time="5.2"/>
+yeah my my done that with my my mom my mom and me
+</Turn>
+<Turn speaker="S3" startTime="34.78" endTime="38.04">
+<Sync time="34.78"/>
+wow my my wife i say yeah
+</Turn>
+</Section>
+<Section type="report" startTime="42.12" endTime="133.91" >
+<Turn speaker="S2" startTime="42.12" endTime="57.35">
+<Sync time="42.12"/>
+do you think for the phone pick up he's yeah yeah
+</Turn>
+<Turn speaker="S3" startTime="57.35" endTime="76.8">
+<Sync time="57.35"/>
+um my name is i do enjoy um
+</Turn>
+<Turn speaker="S1" startTime="76.8" endTime="82.7">
+<Sync time="76.8"/>
+you know
+</Turn>
+<Turn speaker="S3" startTime="82.7" endTime="126.62">
+<Sync time="82.7"/>
+pick anything that goes on i know i'm a oh yeah my god my you
+</Turn>
+<Turn speaker="S2" startTime="126.62" endTime="133.91">
+<Sync time="126.62"/>
+mhm did you find the i
+</Turn>
+</Section>
+<Section type="report" startTime="137.41" endTime="178.04" >
+<Turn speaker="S2" startTime="137.41" endTime="146.03">
+<Sync time="137.41"/>
+when they
+</Turn>
+<Turn speaker="S4" startTime="146.03" endTime="157.12">
+<Sync time="146.03"/>
+oh i know
+</Turn>
+<Turn speaker="S1" startTime="157.12" endTime="160.79">
+<Sync time="157.12"/>
+i mean
+</Turn>
+<Turn speaker="S3" startTime="160.79" endTime="178.04">
+<Sync time="160.79"/>
+yeah why not sometimes but yet they're i think
+</Turn>
+</Section>
+</Episode>
+</Trans>

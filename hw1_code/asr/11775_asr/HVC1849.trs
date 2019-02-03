@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC1849" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="21.53" endTime="141.83" >
+<Turn speaker="S1" startTime="21.53" endTime="84.96">
+<Sync time="21.53"/>
+where are you going back oh my god i don't like now we're only occasionally i'll have like maybe
+</Turn>
+<Turn speaker="S2" startTime="84.96" endTime="87.96">
+<Sync time="84.96"/>
+uh
+</Turn>
+<Turn speaker="S3" startTime="87.96" endTime="131.12">
+<Sync time="87.96"/>
+why why like you know that the bleeding during my run away any time
+</Turn>
+<Turn speaker="S2" startTime="131.12" endTime="141.83">
+<Sync time="131.12"/>
+uh i
+</Turn>
+</Section>
+<Section type="report" startTime="141.69" endTime="154.53" >
+<Turn speaker="S3" startTime="141.69" endTime="154.53">
+<Sync time="141.69"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

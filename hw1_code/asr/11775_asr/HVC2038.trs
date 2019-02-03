@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2038" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="8.4" endTime="53.94" >
+<Turn speaker="S1" startTime="8.4" endTime="23.87">
+<Sync time="8.4"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="23.87" endTime="26.73">
+<Sync time="23.87"/>
+no
+</Turn>
+<Turn speaker="S1" startTime="26.73" endTime="33.25">
+<Sync time="26.73"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="33.25" endTime="42.31">
+<Sync time="33.25"/>
+nah nah nah nah
+</Turn>
+<Turn speaker="S1" startTime="42.31" endTime="48.93">
+<Sync time="42.31"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="48.93" endTime="53.94">
+<Sync time="48.93"/>
+nah nah
+</Turn>
+</Section>
+<Section type="report" startTime="53.77" endTime="80.11" >
+<Turn speaker="S1" startTime="53.77" endTime="80.11">
+<Sync time="53.77"/>
+no no they're going to get warmer you want to go get my my
+</Turn>
+</Section>
+</Episode>
+</Trans>

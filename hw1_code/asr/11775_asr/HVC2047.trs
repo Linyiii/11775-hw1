@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2047" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="23.76" >
+<Turn speaker="S1" startTime="0.0" endTime="2.84">
+<Sync time="0.0"/>
+can you
+</Turn>
+<Turn speaker="S2" startTime="2.84" endTime="6.79">
+<Sync time="2.84"/>
+so you feel about what
+</Turn>
+<Turn speaker="S3" startTime="6.79" endTime="18.05">
+<Sync time="6.79"/>
+pay it's just does that make do
+</Turn>
+<Turn speaker="S4" startTime="18.05" endTime="23.76">
+<Sync time="18.05"/>
+when he goes you know look thing no line again they day i live off the hook them
+</Turn>
+</Section>
+<Section type="report" startTime="35.45" endTime="38.33" >
+<Turn speaker="S5" startTime="35.45" endTime="38.33">
+<Sync time="35.45"/>
+ain't cable
+</Turn>
+</Section>
+<Section type="report" startTime="45.12" endTime="50.02" >
+<Turn speaker="S6" startTime="45.12" endTime="50.02">
+<Sync time="45.12"/>
+oh hey hey something that
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC1850" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.01" endTime="9.31" >
+<Turn speaker="S1" startTime="0.01" endTime="9.31">
+<Sync time="0.01"/>
+what's going to be um
+</Turn>
+</Section>
+<Section type="report" startTime="13.65" endTime="38.34" >
+<Turn speaker="S2" startTime="13.65" endTime="21.42">
+<Sync time="13.65"/>
+mhm mhm
+</Turn>
+<Turn speaker="S3" startTime="21.42" endTime="29.03">
+<Sync time="21.42"/>
+and eat the the bronx
+</Turn>
+<Turn speaker="S4" startTime="29.03" endTime="38.34">
+<Sync time="29.03"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="64.77" endTime="69.73" >
+<Turn speaker="S5" startTime="64.77" endTime="69.73">
+<Sync time="64.77"/>
+just the skis
+</Turn>
+</Section>
+</Episode>
+</Trans>

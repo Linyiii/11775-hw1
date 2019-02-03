@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC532" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="59.91" >
+<Turn speaker="S1" startTime="0.0" endTime="59.91">
+<Sync time="0.0"/>
+you come from waterloo iowa you learn do you read the newspaper and have water danish not sweet rules to almost like cardboard coffee but this you hold on to every woman needs to be herself at times your answer baking making good baking often the gold medal flower little kitchen through stranger also true but you feel about gold medal away most women do you count on gold medal trusted so much you don't gold medal flowers that's fine that uniform that dependable and gives you a feeling of confidence right down to your fingertips but some couldn't you're making use this touch of gold medal confidence your flight from
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC1935" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.19" endTime="57.78" >
+<Turn speaker="S1" startTime="0.19" endTime="14.28">
+<Sync time="0.19"/>
+hit the ball with the tibet on the t._v. oh okay well let's put back on the west wing
+</Turn>
+<Turn speaker="S2" startTime="14.28" endTime="24.04">
+<Sync time="14.28"/>
+hit the ball oh somebody like this like this
+</Turn>
+<Turn speaker="S1" startTime="24.04" endTime="34.41">
+<Sync time="24.04"/>
+you have to have like a week and then you know
+</Turn>
+<Turn speaker="S2" startTime="34.41" endTime="46.26">
+<Sync time="34.41"/>
+i think that
+</Turn>
+<Turn speaker="S1" startTime="46.26" endTime="57.78">
+<Sync time="46.26"/>
+how do you do look into it and then rented basis mexico look just like
+</Turn>
+</Section>
+<Section type="report" startTime="57.56" endTime="64.09" >
+<Turn speaker="S2" startTime="57.56" endTime="64.09">
+<Sync time="57.56"/>
+any broken window
+</Turn>
+</Section>
+</Episode>
+</Trans>

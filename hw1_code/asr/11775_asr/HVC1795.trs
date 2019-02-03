@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC1795" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="104.27" >
+<Turn speaker="S1" startTime="0.0" endTime="7.0">
+<Sync time="0.0"/>
+yeah i just say hi lou hey mom we say hi audrey
+</Turn>
+<Turn speaker="S2" startTime="7.0" endTime="12.24">
+<Sync time="7.0"/>
+hi i'm carrie
+</Turn>
+<Turn speaker="S3" startTime="12.24" endTime="19.36">
+<Sync time="12.24"/>
+say hi audrey christmas tell her to
+</Turn>
+<Turn speaker="S1" startTime="19.36" endTime="25.18">
+<Sync time="19.36"/>
+adrienne big cooking they already did all these cookies
+</Turn>
+<Turn speaker="S2" startTime="25.18" endTime="26.09">
+<Sync time="25.18"/>
+and
+</Turn>
+<Turn speaker="S1" startTime="26.09" endTime="60.02">
+<Sync time="26.09"/>
+yeah and now they're starting gingerbread australia cookies made right here they made cookies and they're really really good they've got the she can see 'em 'cause they're send the video cooking mm delicious ginger bread
+</Turn>
+<Turn speaker="S2" startTime="60.02" endTime="73.99">
+<Sync time="60.02"/>
+so we haven't looked at it i listen to for phone messages so i've been with a gun right away because he said he wanted to know about the
+</Turn>
+<Turn speaker="S1" startTime="73.99" endTime="78.39">
+<Sync time="73.99"/>
+oh they say bye bye
+</Turn>
+<Turn speaker="S3" startTime="78.39" endTime="91.07">
+<Sync time="78.39"/>
+by new and to get to bed early tomorrow so cruz
+</Turn>
+<Turn speaker="S2" startTime="91.07" endTime="96.71">
+<Sync time="91.07"/>
+yeah they say
+</Turn>
+<Turn speaker="S1" startTime="96.71" endTime="104.27">
+<Sync time="96.71"/>
+yeah and to tell them to be nice
+</Turn>
+</Section>
+</Episode>
+</Trans>

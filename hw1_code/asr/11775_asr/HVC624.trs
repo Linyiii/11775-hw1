@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC624" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="50.77" >
+<Turn speaker="S1" startTime="0.03" endTime="50.77">
+<Sync time="0.03"/>
+went back to uh one of these covered room type things this one little difference 'cause i got the screen it just gets too hot in the backyard and the summer for us to be able to just sit out here in the dark and we can we can close the curtain ones and ah it's a nice little room hundred bucks former pretty happy with it for a hundred bucks
+</Turn>
+</Section>
+</Episode>
+</Trans>

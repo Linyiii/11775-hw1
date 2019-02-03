@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC1721" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.09" endTime="51.99" >
+<Turn speaker="S1" startTime="0.09" endTime="51.99">
+<Sync time="0.09"/>
+perhaps you've had a cup of fair trade coffee it's served exclusively coffee shop it's warm comes from the finest speech all the roasted in ground by hand you are sure about special cup of coffee perfect way to start moving handwriting is great cup of coffee no nothing to lose would be so you don't miss any of that great flavor that'd be around using additional thousand euro fair trade workers insurance full employment family whether in the morning i fly a cup of coffee with something extra remember fair trade coffee demand on how to make the difference
+</Turn>
+</Section>
+<Section type="report" startTime="51.85" endTime="59.96" >
+<Turn speaker="S2" startTime="51.85" endTime="59.96">
+<Sync time="51.85"/>
+don't know
+</Turn>
+</Section>
+</Episode>
+</Trans>

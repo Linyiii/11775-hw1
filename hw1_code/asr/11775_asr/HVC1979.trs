@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC1979" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S15" name="K15" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S16" name="K16" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S17" name="K17" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S18" name="K18" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S19" name="K19" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S20" name="K20" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S21" name="K21" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S22" name="K22" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S23" name="K23" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S24" name="K24" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S25" name="K25" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S26" name="K26" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S27" name="K27" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S28" name="K28" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S29" name="K29" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S30" name="K30" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S31" name="K31" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S32" name="K32" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S33" name="K33" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S34" name="K34" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S35" name="K35" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S36" name="K36" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S37" name="K37" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S38" name="K38" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S39" name="K39" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S40" name="K40" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S41" name="K41" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S42" name="K42" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S43" name="K43" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S44" name="K44" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S45" name="K45" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S46" name="K46" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S47" name="K47" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S48" name="K48" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S49" name="K49" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S50" name="K50" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S51" name="K51" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S52" name="K52" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S53" name="K53" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S54" name="K54" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S55" name="K55" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S56" name="K56" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S57" name="K57" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S58" name="K58" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S59" name="K59" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.01" endTime="369.66" >
+<Turn speaker="S1" startTime="0.01" endTime="6.16">
+<Sync time="0.01"/>
+hi my name's sandy bottom west here at the edge performance facility here and killer texas
+</Turn>
+<Turn speaker="S2" startTime="6.16" endTime="8.74">
+<Sync time="6.16"/>
+go through squat technique today to help you
+</Turn>
+<Turn speaker="S3" startTime="8.74" endTime="21.02">
+<Sync time="8.74"/>
+i do a little bit better form my things to help the form of be correct on squad squad to get a bad rap because there are bad on your back and they're bad on your knees and they are if you're doing wrong if you're doing
+</Turn>
+<Turn speaker="S4" startTime="21.02" endTime="27.29">
+<Sync time="21.02"/>
+it's the best exercises that you can do for a lower body squats again um universal left again
+</Turn>
+<Turn speaker="S5" startTime="27.29" endTime="34.38">
+<Sync time="27.29"/>
+people do them wrong a lot so weird help you see the right way to do squats starting off
+</Turn>
+<Turn speaker="S6" startTime="34.38" endTime="42.36">
+<Sync time="34.38"/>
+you to make sure the bar for most people you wanna make sure the bars right about chess level if it gets higher than that it's hard to get underneath if it's too low
+</Turn>
+<Turn speaker="S7" startTime="42.36" endTime="50.56">
+<Sync time="42.36"/>
+i get an extra rep and there to get her name and get it so you want to make the the bar without chester shoulder hyped here
+</Turn>
+<Turn speaker="S8" startTime="50.56" endTime="54.92">
+<Sync time="50.56"/>
+for someone to go over cigarettes this is approximately how most standard bars
+</Turn>
+<Turn speaker="S9" startTime="54.92" endTime="65.03">
+<Sync time="54.92"/>
+two little rings little grip brings there they are approximately thirty two inches apart for most people that i had to do is take their index finger and place it on the ranks
+</Turn>
+<Turn speaker="S10" startTime="65.03" endTime="68.34">
+<Sync time="65.03"/>
+yeah same here
+</Turn>
+<Turn speaker="S11" startTime="68.34" endTime="78.12">
+<Sync time="68.34"/>
+she would take your index finger place it on the ranks so now i got a nice even grip at the start of the moving a lot of people going to need the bar they revert wrong suppose off kilter heavier
+</Turn>
+<Turn speaker="S12" startTime="78.12" endTime="82.28">
+<Sync time="78.12"/>
+fried dust again promoters lower back and she's so
+</Turn>
+<Turn speaker="S13" startTime="82.28" endTime="85.53">
+<Sync time="82.28"/>
+even even grip that step one step
+</Turn>
+<Turn speaker="S14" startTime="85.53" endTime="94.87">
+<Sync time="85.53"/>
+now i'm going to step on to the bar i get a park placement on my back on the top quarter my shoulders i'm gonna show you the wrong way first and then the writer
+</Turn>
+<Turn speaker="S15" startTime="94.87" endTime="103.49">
+<Sync time="94.87"/>
+um the wrong way a lot people will get up here and they'll get a high bar squat like say some piling net okay there's not a lot of
+</Turn>
+<Turn speaker="S16" startTime="103.49" endTime="115.65">
+<Sync time="103.49"/>
+you're talking about a four inch area it's a little pinnacle on my knee on my on my next year and so and peters alot again a lot of problems on lower back a pilot but so we're gonna teach you out
+</Turn>
+<Turn speaker="S17" startTime="115.65" endTime="122.65">
+<Sync time="115.65"/>
+it's too low heart places where it goes below other tracks and between the shoulder blades right here in this area so american
+</Turn>
+<Turn speaker="S18" startTime="122.65" endTime="131.79">
+<Sync time="122.65"/>
+yes and all the trap get there a high morally wrong way it's a little more now the problem with the low bar squat
+</Turn>
+<Turn speaker="S19" startTime="131.79" endTime="134.44">
+<Sync time="131.79"/>
+that there was like it's written your shoulder blades outlook socket
+</Turn>
+<Turn speaker="S20" startTime="134.44" endTime="141.83">
+<Sync time="134.44"/>
+okay you gotta teach maybe uh individuals are like had to get their elbows up like this was watching it
+</Turn>
+<Turn speaker="S21" startTime="141.83" endTime="145.02">
+<Sync time="141.83"/>
+which is here it's on a table up there it's covered
+</Turn>
+<Turn speaker="S22" startTime="145.02" endTime="148.86">
+<Sync time="145.02"/>
+fifteen to twenty inches now as opposed to the poor insurance a pilot
+</Turn>
+<Turn speaker="S23" startTime="148.86" endTime="151.7">
+<Sync time="148.86"/>
+you take your new i can't use to us
+</Turn>
+<Turn speaker="S24" startTime="151.7" endTime="155.13">
+<Sync time="151.7"/>
+ability to develop this
+</Turn>
+<Turn speaker="S25" startTime="155.13" endTime="162.94">
+<Sync time="155.13"/>
+but it'll be now that station number two they're got the bar placements refrained gotta get your feet right you got
+</Turn>
+<Turn speaker="S26" startTime="162.94" endTime="169.57">
+<Sync time="162.94"/>
+stab each year you better darryl stance you got to why can't worry more conventional stand on the stand
+</Turn>
+<Turn speaker="S27" startTime="169.57" endTime="172.24">
+<Sync time="169.57"/>
+to do if you like have our toes
+</Turn>
+<Turn speaker="S28" startTime="172.24" endTime="179.71">
+<Sync time="172.24"/>
+watch out for the ducks okay you know what your feet spread out like to make sure they're
+</Turn>
+<Turn speaker="S29" startTime="179.71" endTime="186.42">
+<Sync time="179.71"/>
+for most people when it first started but we try to do just go somewhere and just outside shoulders outside shoulder with those
+</Turn>
+<Turn speaker="S30" startTime="186.42" endTime="191.5">
+<Sync time="186.42"/>
+straight out that i really don't see the first thing you do the first moon butter the first man
+</Turn>
+<Turn speaker="S31" startTime="191.5" endTime="195.43">
+<Sync time="191.5"/>
+honest schwab is when you're not sure i mean
+</Turn>
+<Turn speaker="S32" startTime="195.43" endTime="198.55">
+<Sync time="195.43"/>
+well here that's why you watch it a bad rap
+</Turn>
+<Turn speaker="S33" startTime="198.55" endTime="205.2">
+<Sync time="198.55"/>
+it's my niece burning up so much tore gone up too much pressure it's bad on your knees and and also go into your back
+</Turn>
+<Turn speaker="S34" startTime="205.2" endTime="211.91">
+<Sync time="205.2"/>
+going to push our hips back person like we wish they would kick the door shut that were in some kicking the door shut kick the door
+</Turn>
+<Turn speaker="S35" startTime="211.91" endTime="216.69">
+<Sync time="211.91"/>
+back there now my hips for back now i'm starting to stand in the squad pushy
+</Turn>
+<Turn speaker="S36" startTime="216.69" endTime="223.17">
+<Sync time="216.69"/>
+this and he's about like the flats that'd you get a shot at my feet down her go to
+</Turn>
+<Turn speaker="S37" startTime="223.17" endTime="228.37">
+<Sync time="223.17"/>
+the is on the outside of my foot and on my field is not up in in on my toes case
+</Turn>
+<Turn speaker="S38" startTime="228.37" endTime="234.69">
+<Sync time="228.37"/>
+my hamster back i'm exaggerating my team here it's either going to say slack and then i come back up
+</Turn>
+<Turn speaker="S39" startTime="234.69" endTime="237.95">
+<Sync time="234.69"/>
+so it has something to do a few restaurants you can see that push your habits
+</Turn>
+<Turn speaker="S40" startTime="237.95" endTime="244.84">
+<Sync time="237.95"/>
+don't go outside of a slow motion backup just now to about parallel and back uh
+</Turn>
+<Turn speaker="S41" startTime="244.84" endTime="249.13">
+<Sync time="244.84"/>
+my knees will never drift over my toes wants money these over my toes
+</Turn>
+<Turn speaker="S42" startTime="249.13" endTime="251.97">
+<Sync time="249.13"/>
+that is bad for pushes back like
+</Turn>
+<Turn speaker="S43" startTime="251.97" endTime="260.25">
+<Sync time="251.97"/>
+out oh my gosh sitting on a horse i'm going to be like this my name is actually in a flair outlets so i'm here like this is my new nasal starts
+</Turn>
+<Turn speaker="S44" startTime="260.25" endTime="264.3">
+<Sync time="260.25"/>
+but my abdominal oh down in between my name is
+</Turn>
+<Turn speaker="S45" startTime="264.3" endTime="275.62">
+<Sync time="264.3"/>
+just like that's a kind of exaggerate when my age what we're putting out here like that
+</Turn>
+<Turn speaker="S46" startTime="275.62" endTime="287.22">
+<Sync time="275.62"/>
+and that's a form on the squats as far as getting parallels push your hips back helping you give her though i've been standing back up when you iraq to bar mature somebody hell she spots we'll talk
+</Turn>
+<Turn speaker="S47" startTime="287.22" endTime="291.8">
+<Sync time="287.22"/>
+about a second what's that uh get back into iraq at least of our earliest
+</Turn>
+<Turn speaker="S48" startTime="291.8" endTime="299.88">
+<Sync time="291.8"/>
+big key where people get hurt 'cause when they pick the bar up and when they said the bar down when you pick the bar up make sure you use both feet to pick it up like a school
+</Turn>
+<Turn speaker="S49" startTime="299.88" endTime="303.51">
+<Sync time="299.88"/>
+don't get in there like you're doing the lunch to try to pick it up it's all on your butt
+</Turn>
+<Turn speaker="S50" startTime="303.51" endTime="313.92">
+<Sync time="303.51"/>
+quarter back to the same way we could back in her released it down with both legs don't lean into it um like you're going to watch the spot
+</Turn>
+<Turn speaker="S51" startTime="313.92" endTime="327.58">
+<Sync time="313.92"/>
+we spot somebody with a guy find a guy or a male or squatting you're going to spotted underneath the chest you kind of coming up behind him help him up this way when the lady and squatting or one of the girl athletes you're going to spot what we call the w. w. b.
+</Turn>
+<Turn speaker="S52" startTime="327.58" endTime="332.78">
+<Sync time="327.58"/>
+are you going to put your hand right there and kind of spot the bar if you have
+</Turn>
+<Turn speaker="S53" startTime="332.78" endTime="342.71">
+<Sync time="332.78"/>
+on the side and never ever have one person pick up and the other one's chicken it's just bought the given you should have the heads far behind them say take it then they get all free
+</Turn>
+<Turn speaker="S54" startTime="342.71" endTime="350.06">
+<Sync time="342.71"/>
+there's nothing worse to get in four or five hundred pounds on your back you get down there like there's so many grabbed one side bad on your back better
+</Turn>
+<Turn speaker="S55" startTime="350.06" endTime="354.33">
+<Sync time="350.06"/>
+so it could be like on the spot or israel spiders be careful um
+</Turn>
+<Turn speaker="S56" startTime="354.33" endTime="357.31">
+<Sync time="354.33"/>
+that's the basis on the spot and that's the basic on the school
+</Turn>
+<Turn speaker="S57" startTime="357.31" endTime="361.45">
+<Sync time="357.31"/>
+and again this is danny at the ashworth performance you any questions you
+</Turn>
+<Turn speaker="S58" startTime="361.45" endTime="365.94">
+<Sync time="361.45"/>
+at her number down at the bottom two screen or a website is w. w. w.
+</Turn>
+<Turn speaker="S59" startTime="365.94" endTime="369.66">
+<Sync time="365.94"/>
+that edge dash s. p. dot com
+</Turn>
+</Section>
+</Episode>
+</Trans>

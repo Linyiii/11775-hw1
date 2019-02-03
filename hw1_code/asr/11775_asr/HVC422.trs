@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC422" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="10.96" >
+<Turn speaker="S1" startTime="0.0" endTime="10.96">
+<Sync time="0.0"/>
+well it's a birthday today so i'm off work was planned so i'm going to make he beat bacon frost
+</Turn>
+</Section>
+<Section type="report" startTime="33.92" endTime="89.94" >
+<Turn speaker="S1" startTime="33.92" endTime="37.03">
+<Sync time="33.92"/>
+so far so good
+</Turn>
+<Turn speaker="S2" startTime="37.03" endTime="57.29">
+<Sync time="37.03"/>
+mhm
+</Turn>
+<Turn speaker="S1" startTime="57.29" endTime="69.04">
+<Sync time="57.29"/>
+hey that doesn't look so bad well sometimes too much is too much about the way it is
+</Turn>
+<Turn speaker="S3" startTime="69.04" endTime="75.44">
+<Sync time="69.04"/>
+we should put a price
+</Turn>
+<Turn speaker="S2" startTime="75.44" endTime="83.28">
+<Sync time="75.44"/>
+mhm
+</Turn>
+<Turn speaker="S1" startTime="83.28" endTime="89.94">
+<Sync time="83.28"/>
+a fever or they do
+</Turn>
+</Section>
+<Section type="report" startTime="93.16" endTime="96.23" >
+<Turn speaker="S1" startTime="93.16" endTime="96.23">
+<Sync time="93.16"/>
+a fever they to you
+</Turn>
+</Section>
+</Episode>
+</Trans>

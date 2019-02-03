@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC736" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="54.15" >
+<Turn speaker="S1" startTime="0.0" endTime="17.71">
+<Sync time="0.0"/>
+but i uh the happy go lucky enough time for the team that tonight but i really like it
+</Turn>
+<Turn speaker="S2" startTime="17.71" endTime="41.32">
+<Sync time="17.71"/>
+that's the way to enjoy your baseball get out early look over the line you'll be way ahead of the game short taste better everybody knows l._s._f. m._s._g. lucky strike's means find tobacco and then naturally good tasting tobacco was toasting even better so drawing millions of make your next lucky strikes
+</Turn>
+<Turn speaker="S1" startTime="41.32" endTime="54.15">
+<Sync time="41.32"/>
+that you live like right now night after lucky if i
+</Turn>
+</Section>
+<Section type="report" startTime="53.91" endTime="59.68" >
+<Turn speaker="S2" startTime="53.91" endTime="59.68">
+<Sync time="53.91"/>
+you'll say it's the best tasting cigarette you ever smoke
+</Turn>
+</Section>
+</Episode>
+</Trans>

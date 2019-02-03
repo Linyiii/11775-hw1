@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC648" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.36" endTime="158.05" >
+<Turn speaker="S1" startTime="0.36" endTime="8.54">
+<Sync time="0.36"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="8.54" endTime="24.27">
+<Sync time="8.54"/>
+i the same
+</Turn>
+<Turn speaker="S3" startTime="24.27" endTime="79.59">
+<Sync time="24.27"/>
+yeah well i know that area that i'm a uh a and i'm like oh god no no no no no no manual work and you know you know want on a
+</Turn>
+<Turn speaker="S4" startTime="79.59" endTime="87.79">
+<Sync time="79.59"/>
+you know sometimes i'm on the time
+</Turn>
+<Turn speaker="S3" startTime="87.79" endTime="95.88">
+<Sync time="87.79"/>
+no i'm always down on your dad's mom
+</Turn>
+<Turn speaker="S4" startTime="95.88" endTime="117.95">
+<Sync time="95.88"/>
+you know when you are you going to things that or
+</Turn>
+<Turn speaker="S2" startTime="117.95" endTime="125.89">
+<Sync time="117.95"/>
+and then we'll go
+</Turn>
+<Turn speaker="S3" startTime="125.89" endTime="158.05">
+<Sync time="125.89"/>
+uh and uh yeah and i know that that and and uh that uh that uh you know i know and oh my god
+</Turn>
+</Section>
+<Section type="report" startTime="163.67" endTime="190.28" >
+<Turn speaker="S3" startTime="163.67" endTime="179.16">
+<Sync time="163.67"/>
+you not a job or you know on the job you know
+</Turn>
+<Turn speaker="S4" startTime="179.16" endTime="190.28">
+<Sync time="179.16"/>
+no i'm i'm a young age 9
+</Turn>
+</Section>
+<Section type="report" startTime="190.04" endTime="199.0" >
+<Turn speaker="S1" startTime="190.04" endTime="199.0">
+<Sync time="190.04"/>
+yeah you guys you know
+</Turn>
+</Section>
+</Episode>
+</Trans>

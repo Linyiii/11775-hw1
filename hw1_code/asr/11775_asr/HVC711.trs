@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC711" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="11.19" >
+<Turn speaker="S1" startTime="0.0" endTime="11.19">
+<Sync time="0.0"/>
+so i don't think
+</Turn>
+</Section>
+<Section type="report" startTime="20.45" endTime="30.54" >
+<Turn speaker="S1" startTime="20.45" endTime="30.54">
+<Sync time="20.45"/>
+oh
+</Turn>
+</Section>
+</Episode>
+</Trans>

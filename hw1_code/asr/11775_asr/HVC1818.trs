@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC1818" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.85" endTime="16.23" >
+<Turn speaker="S1" startTime="0.85" endTime="16.23">
+<Sync time="0.85"/>
+and and and and and and and and and and
+</Turn>
+</Section>
+<Section type="report" startTime="32.28" endTime="86.26" >
+<Turn speaker="S2" startTime="32.28" endTime="62.47">
+<Sync time="32.28"/>
+and they can't stand up for a long time so you see on the beach
+</Turn>
+<Turn speaker="S3" startTime="62.47" endTime="77.98">
+<Sync time="62.47"/>
+i'm looking in the bedroom turn on the and then
+</Turn>
+<Turn speaker="S2" startTime="77.98" endTime="86.26">
+<Sync time="77.98"/>
+but um
+</Turn>
+</Section>
+</Episode>
+</Trans>

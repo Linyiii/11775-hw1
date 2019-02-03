@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC332" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.35" endTime="6.33" >
+<Turn speaker="S1" startTime="0.35" endTime="6.33">
+<Sync time="0.35"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="88.95" endTime="183.17" >
+<Turn speaker="S2" startTime="88.95" endTime="113.69">
+<Sync time="88.95"/>
+and then you must be in a in a major issue
+</Turn>
+<Turn speaker="S3" startTime="113.69" endTime="138.98">
+<Sync time="113.69"/>
+oh my god i don't know why not
+</Turn>
+<Turn speaker="S4" startTime="138.98" endTime="151.53">
+<Sync time="138.98"/>
+and
+</Turn>
+<Turn speaker="S5" startTime="151.53" endTime="162.08">
+<Sync time="151.53"/>
+no
+</Turn>
+<Turn speaker="S6" startTime="162.08" endTime="183.17">
+<Sync time="162.08"/>
+tend to be a millionaire or something a family
+</Turn>
+</Section>
+<Section type="report" startTime="221.27" endTime="227.91" >
+<Turn speaker="S6" startTime="221.27" endTime="227.91">
+<Sync time="221.27"/>
+or a dog
+</Turn>
+</Section>
+</Episode>
+</Trans>

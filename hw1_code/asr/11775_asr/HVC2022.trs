@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2022" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.51" endTime="8.84" >
+<Turn speaker="S1" startTime="4.51" endTime="8.84">
+<Sync time="4.51"/>
+you go going okay okay i got ready
+</Turn>
+</Section>
+<Section type="report" startTime="14.27" endTime="68.69" >
+<Turn speaker="S1" startTime="14.27" endTime="68.69">
+<Sync time="14.27"/>
+hey you know the high i i find okay one two three four five six seven eight nine ten here i come fire you you go high i i can find me okay one two three four five six seven eight nine ten iraq um that you're supposed to fight you
+</Turn>
+</Section>
+</Episode>
+</Trans>

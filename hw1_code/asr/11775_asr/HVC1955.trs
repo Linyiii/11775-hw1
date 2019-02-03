@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC1955" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="9.36" endTime="60.43" >
+<Turn speaker="S1" startTime="9.36" endTime="60.43">
+<Sync time="9.36"/>
+all right hello next movie here building an igloo down here i'm just starting to the first row we will get everything set up making a spiral shape a beehive kind of looking thing never made one before so uh we'll see this trial run now we are at our second tier didn't take too long back breaking putting it mildly the snow so see got the spiral thing working out and then once you get tired and not really sure what i'm to do because i've been working from the inside out it's been nice but i don't know i'm going to work from the from the outside somehow or maybe the tunnel we'll find out back to work
+</Turn>
+</Section>
+<Section type="report" startTime="60.44" endTime="91.12" >
+<Turn speaker="S2" startTime="60.44" endTime="91.12">
+<Sync time="60.44"/>
+okay can see about halfway done it's been a whole day's work well about three four hours probably three tomorrow about done for today but i think spiral going and maybe be able to camp out in this this week that's the so problems getting warm today that's for sure i see
+</Turn>
+</Section>
+</Episode>
+</Trans>

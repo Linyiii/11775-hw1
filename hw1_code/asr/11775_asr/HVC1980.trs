@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC1980" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.54" endTime="110.98" >
+<Turn speaker="S1" startTime="0.54" endTime="10.97">
+<Sync time="0.54"/>
+mm mm
+</Turn>
+<Turn speaker="S2" startTime="10.97" endTime="57.44">
+<Sync time="10.97"/>
+when i lived in money from
+</Turn>
+<Turn speaker="S3" startTime="57.44" endTime="110.98">
+<Sync time="57.44"/>
+uh uh uh uh know i never thought about uh the the or or the other with our alone or anything like that or our our our uh
+</Turn>
+</Section>
+<Section type="report" startTime="110.74" endTime="120.14" >
+<Turn speaker="S4" startTime="110.74" endTime="120.14">
+<Sync time="110.74"/>
+uh
+</Turn>
+</Section>
+</Episode>
+</Trans>

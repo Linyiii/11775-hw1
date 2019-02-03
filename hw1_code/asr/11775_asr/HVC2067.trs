@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2067" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="65.55" >
+<Turn speaker="S1" startTime="0.0" endTime="20.26">
+<Sync time="0.0"/>
+there are a tubular to to grow underground there the plant they call the jerusalem artichoke artichoke because why
+</Turn>
+<Turn speaker="S2" startTime="20.26" endTime="28.96">
+<Sync time="20.26"/>
+um i think it has to do with the french were they were called uh
+</Turn>
+<Turn speaker="S1" startTime="28.96" endTime="40.27">
+<Sync time="28.96"/>
+like i i really don't remember the exact explanation but i'm sure we can so what is this like ah what do you do with it
+</Turn>
+<Turn speaker="S2" startTime="40.27" endTime="59.85">
+<Sync time="40.27"/>
+well similar to potato okay so it's something that will probably clean flavor oh good so probably a good um
+</Turn>
+<Turn speaker="S1" startTime="59.85" endTime="65.55">
+<Sync time="59.85"/>
+gonna be parade in
+</Turn>
+</Section>
+<Section type="report" startTime="65.4" endTime="72.57" >
+<Turn speaker="S2" startTime="65.4" endTime="72.57">
+<Sync time="65.4"/>
+pork chops on okay alright that sounds like a
+</Turn>
+</Section>
+</Episode>
+</Trans>

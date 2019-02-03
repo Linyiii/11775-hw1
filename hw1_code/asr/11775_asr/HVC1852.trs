@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC1852" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.14" endTime="64.28" >
+<Turn speaker="S1" startTime="0.14" endTime="64.28">
+<Sync time="0.14"/>
+yeah again you brush her her brushes good okay can you brush her russian show us how you brush her all good girl like keep brushing look uh likes to be brushed likes to be brushed rush rush rush rush kitty good good job good job you two are buds aren't ya crush the kitty yes can you say look they look at their luka
+</Turn>
+</Section>
+<Section type="report" startTime="75.0" endTime="110.25" >
+<Turn speaker="S2" startTime="75.0" endTime="86.81">
+<Sync time="75.0"/>
+okay well i guess that's probably all rushing to get married again now i can say bye bye
+</Turn>
+<Turn speaker="S1" startTime="86.81" endTime="99.94">
+<Sync time="86.81"/>
+cats are so much more interesting than her own aren't they i mean who would want to play with toys and when you have cats toys cat brushes
+</Turn>
+<Turn speaker="S3" startTime="99.94" endTime="103.07">
+<Sync time="99.94"/>
+mhm
+</Turn>
+<Turn speaker="S1" startTime="103.07" endTime="110.25">
+<Sync time="103.07"/>
+oh you've given her toys really
+</Turn>
+</Section>
+<Section type="report" startTime="110.03" endTime="120.31" >
+<Turn speaker="S2" startTime="110.03" endTime="120.31">
+<Sync time="110.03"/>
+can you say bye bye love you
+</Turn>
+</Section>
+</Episode>
+</Trans>

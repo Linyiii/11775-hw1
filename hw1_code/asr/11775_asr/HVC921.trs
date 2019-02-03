@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC921" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="16.5" >
+<Turn speaker="S1" startTime="0.0" endTime="3.8">
+<Sync time="0.0"/>
+mm
+</Turn>
+<Turn speaker="S2" startTime="3.8" endTime="9.64">
+<Sync time="3.8"/>
+mm mm mm
+</Turn>
+<Turn speaker="S3" startTime="9.64" endTime="16.5">
+<Sync time="9.64"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="28.0" endTime="35.37" >
+<Turn speaker="S4" startTime="28.0" endTime="35.37">
+<Sync time="28.0"/>
+and everything and look at one of my retiring all hell yea
+</Turn>
+</Section>
+</Episode>
+</Trans>

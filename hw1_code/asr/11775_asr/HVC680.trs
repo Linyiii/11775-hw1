@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC680" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="21.67" endTime="119.96" >
+<Turn speaker="S1" startTime="21.67" endTime="119.96">
+<Sync time="21.67"/>
+they can be pretty independent seems to be raised to be interesting to do in the states
+</Turn>
+</Section>
+</Episode>
+</Trans>

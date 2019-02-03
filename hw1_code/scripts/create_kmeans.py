@@ -29,14 +29,14 @@ if __name__ == '__main__':
         mfcc_file = "mfcc/" + name_strip + ".mfcc.csv"
 
         # open output file
-        out_file = "kmeans-features/" + name_strip
+        out_file = "kmeans/" + name_strip
         out_file_fd = open(out_file, "w+")
 
         # if no mfcc file (no audio)
         if not os.path.exists(mfcc_file):
             # write -1 to the file?
-            out_file_fd.write("-1\n")
-            continue
+            # out_file_fd.write("-1\n")
+            histogram.fill(1.0/cluster_num) # manually set features
 
         # mfcc file exists
         else:
@@ -52,10 +52,10 @@ if __name__ == '__main__':
 
             # TO DO: normalize features?????
 
-            # write histogram to output file
-            histogram_str = ';'.join([str(t) for t in v])
-            histogram_str = histogram_str + "\n"
-            out_file_fd.write(histogram_str)
+        # write histogram to output file
+        histogram_str = ';'.join([str(t) for t in v])
+        histogram_str = histogram_str + "\n"
+        out_file_fd.write(histogram_str)
 
         out_file_fd.close()
 

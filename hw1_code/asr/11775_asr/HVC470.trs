@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC470" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.01" endTime="26.59" >
+<Turn speaker="S1" startTime="0.01" endTime="2.53">
+<Sync time="0.01"/>
+well the first one where i lost thirty pounds
+</Turn>
+<Turn speaker="S2" startTime="2.53" endTime="6.07">
+<Sync time="2.53"/>
+and then why you keep going back
+</Turn>
+<Turn speaker="S3" startTime="6.07" endTime="11.12">
+<Sync time="6.07"/>
+even if i was at a normal healthy weight wise i keep going back and some people
+</Turn>
+<Turn speaker="S4" startTime="11.12" endTime="21.54">
+<Sync time="11.12"/>
+people have lost the series on it and i write about what my theory was in why would thin person no and i i would think you me answer because you're
+</Turn>
+<Turn speaker="S5" startTime="21.54" endTime="26.59">
+<Sync time="21.54"/>
+but that's not why it's more um
+</Turn>
+</Section>
+</Episode>
+</Trans>

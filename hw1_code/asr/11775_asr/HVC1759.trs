@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC1759" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.13" endTime="170.8" >
+<Turn speaker="S1" startTime="0.13" endTime="170.8">
+<Sync time="0.13"/>
+the center of our freedoms the first amendment here the job because they feel sorry for the first amendment trying to make sure you have a government officials series restrict certain movement first amendment rights day job waiting to get really you know there's not gonna pay for this project and stuff like that does not make us safer after nine eleven was just survey last just stop it safer if the person that you watch you like i am right now you may may may we were just a great big baby that cause people change happening a lot on this earth change jobs they're jobs they're sure because the first amendment
+</Turn>
+</Section>
+<Section type="report" startTime="174.45" endTime="178.23" >
+<Turn speaker="S2" startTime="174.45" endTime="178.23">
+<Sync time="174.45"/>
+oh
+</Turn>
+</Section>
+<Section type="report" startTime="181.25" endTime="184.73" >
+<Turn speaker="S2" startTime="181.25" endTime="184.73">
+<Sync time="181.25"/>
+oh oh
+</Turn>
+</Section>
+<Section type="report" startTime="188.23" endTime="229.96" >
+<Turn speaker="S2" startTime="188.23" endTime="190.66">
+<Sync time="188.23"/>
+oh
+</Turn>
+<Turn speaker="S3" startTime="190.66" endTime="229.96">
+<Sync time="190.66"/>
+that like every the draft i don't know i my personal opinion iraq
+</Turn>
+</Section>
+<Section type="report" startTime="242.43" endTime="271.74" >
+<Turn speaker="S3" startTime="242.43" endTime="271.74">
+<Sync time="242.43"/>
+oh that's great
+</Turn>
+</Section>
+<Section type="report" startTime="271.65" endTime="309.2" >
+<Turn speaker="S1" startTime="271.65" endTime="309.2">
+<Sync time="271.65"/>
+i don't want you just looking at it stop stop
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -22,5 +22,52 @@ if __name__ == '__main__':
     feat_dim = int(sys.argv[3])
     output_file = sys.argv[4]
 
+    training_label_file = "all_trn.lst"
+    training_label_file_fd = open(training_label_file, 'r')
+    training_labels_ori = {}
+    for lin in training_label_file_fd.readlines():
+        line = lin.strip()
+        line_lst = line.split(" ")
+        file_id = line_lst[0]
+        file_label = line_lst[1]
+
+        # if no label
+        if file_label == "NULL":
+            continue
+
+        else:
+            if file_label == event_name:
+                training_labels_ori[file_id] = 1
+            else:
+                training_labels_ori[file_id] = 0
+    training_label_file_fd.close()
+
+    # exclude examples that does not have training features
+    training_examples = []
+    training_labels = []
+    for fi in training_labels_ori:
+        if os.path.exists(feat_dir + fi):
+            training_examples.append(fi)
+            training_labels.append(training_labels_ori[fi])
+
+
+    # get feature matrix
+    training_size_final = len(training_examples)
+    feat_matrix = numpy.zeros([training_size_final, feat_dim])
+    label_vector = numpy.fromiter(training_labels, dtype=int)
+    for i in range(training_size_final):
+        feat_vector = numpy.genfromtxt(feat_dir + training_examples[i], dtype=numpy.float32, delimiter=";")
+        feat_matrix[i, :] = feat_vector
+
+    # train an svm model and save to output file
+    output_file_fd = open(output_file, "w+")
+    svm_model = SVC(kernel="rbf", class_weight='balanced')  # tune this!!!!!!!!!!!!!!!!!!!!!!
+
+    svm_model.fit(feat_matrix, label_vector)
+    cPickle.dump(svm_model, output_file_fd)
+    # cPickle.HIGHEST_PROTOCOL needed?
+
+
+
 
     print 'SVM trained successfully for event %s!' % (event_name)

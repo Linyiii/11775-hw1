@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC1682" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="42.04" >
+<Turn speaker="S1" startTime="0.0" endTime="42.04">
+<Sync time="0.0"/>
+get you get to you and then get you know
+</Turn>
+</Section>
+<Section type="report" startTime="42.09" endTime="46.16" >
+<Turn speaker="S2" startTime="42.09" endTime="46.16">
+<Sync time="42.09"/>
+oh
+</Turn>
+</Section>
+</Episode>
+</Trans>

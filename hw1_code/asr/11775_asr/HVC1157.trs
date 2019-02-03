@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC1157" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="29.08" >
+<Turn speaker="S1" startTime="0.04" endTime="29.08">
+<Sync time="0.04"/>
+baseball in and uh this is brad overhear grad he wanted he wanted a special contests today he made one of the never hurt so he can actually take the pitch from me and if he hits it passed me get the extra special price you don't even know what it is yeah i don't even know what it is yet either that's a lot of trouble i think we're going to be safe to go see what happens are you ready
+</Turn>
+</Section>
+</Episode>
+</Trans>

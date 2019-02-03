@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC443" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.83" endTime="83.81" >
+<Turn speaker="S1" startTime="4.83" endTime="13.62">
+<Sync time="4.83"/>
+mm mm
+</Turn>
+<Turn speaker="S2" startTime="13.62" endTime="16.59">
+<Sync time="13.62"/>
+do they
+</Turn>
+<Turn speaker="S1" startTime="16.59" endTime="38.64">
+<Sync time="16.59"/>
+you guys get
+</Turn>
+<Turn speaker="S2" startTime="38.64" endTime="44.42">
+<Sync time="38.64"/>
+they
+</Turn>
+<Turn speaker="S1" startTime="44.42" endTime="77.63">
+<Sync time="44.42"/>
+well i'm a dancer yard playing in the cage and stuff like that
+</Turn>
+<Turn speaker="S2" startTime="77.63" endTime="83.81">
+<Sync time="77.63"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="83.71" endTime="88.49" >
+<Turn speaker="S1" startTime="83.71" endTime="88.49">
+<Sync time="83.71"/>
+out all day long
+</Turn>
+</Section>
+</Episode>
+</Trans>

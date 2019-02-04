@@ -66,6 +66,7 @@ if __name__ == '__main__':
     svm_model.fit(feat_matrix, label_vector)
     cPickle.dump(svm_model, output_file_fd)
     # cPickle.HIGHEST_PROTOCOL needed?
+    output_file_fd.close()
 
 
 

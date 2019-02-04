@@ -58,6 +58,8 @@ if __name__ == '__main__':
     label_vector = numpy.fromiter(training_labels, dtype=int)
     for i in range(training_size_final):
         feat_vector = numpy.genfromtxt(feat_dir + training_examples[i], dtype=numpy.float32, delimiter=";")
+        if not len(feat_vector) == feat_dim:
+            feat_vector = numpy.zeros(800, dtype=numpy.float32)
         feat_matrix[i, :] = feat_vector
 
     # train an svm model and save to output file

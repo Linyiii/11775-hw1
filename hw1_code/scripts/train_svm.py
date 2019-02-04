@@ -57,7 +57,7 @@ if __name__ == '__main__':
     feat_matrix = numpy.zeros([training_size_final, feat_dim])
     label_vector = numpy.fromiter(training_labels, dtype=int)
     for i in range(training_size_final):
-        if os.stat("file").st_size == 0:
+        if os.stat(feat_dir + training_examples[i]).st_size == 0:
             feat_vector = numpy.zeros(feat_dim, dtype=numpy.float32)
         else:
             feat_vector = numpy.genfromtxt(feat_dir + training_examples[i], dtype=numpy.float32, delimiter=";")

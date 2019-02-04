@@ -36,8 +36,8 @@
       <file leaf-file-name="train_svm.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hw1_code/scripts/train_svm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="62" column="111" lean-forward="false" selection-start-line="62" selection-start-column="111" selection-end-line="62" selection-end-column="111" />
+            <state relative-caret-position="264">
+              <caret line="59" column="50" lean-forward="false" selection-start-line="59" selection-start-column="50" selection-end-line="59" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -134,9 +134,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="6" />
-    <option name="y" value="36" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-25" />
+    <option name="y" value="55" />
     <option name="width" value="1280" />
     <option name="height" value="700" />
   </component>
@@ -210,7 +210,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="6" y="36" width="1280" height="700" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="700" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25767368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -519,8 +519,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hw1_code/scripts/train_svm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="62" column="111" lean-forward="false" selection-start-line="62" selection-start-column="111" selection-end-line="62" selection-end-column="111" />
+        <state relative-caret-position="264">
+          <caret line="59" column="50" lean-forward="false" selection-start-line="59" selection-start-column="50" selection-end-line="59" selection-end-column="50" />
           <folding />
         </state>
       </provider>

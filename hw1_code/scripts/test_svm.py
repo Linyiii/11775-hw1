@@ -46,7 +46,7 @@ if __name__ == '__main__':
             # feat_vector = numpy.zeros(feat_dim, dtype=numpy.float32)
 
         result = svm_model.decision_function(feat_vector)
-        output_file_fd.write(str(result[0][0]) + '\n')
+        output_file_fd.write(str(result[0]) + '\n')
 
     model_file_fd = open(model_file, "rb").close()
     output_file_fd.close()

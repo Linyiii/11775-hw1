@@ -5,6 +5,7 @@ import os
 from sklearn.svm.classes import SVC
 import cPickle
 import sys
+from sklearn.svm import LinearSVC
 
 # Performs K-means clustering and save the model to a local file
 
@@ -65,8 +66,9 @@ if __name__ == '__main__':
 
     # train an svm model and save to output file
     output_file_fd = open(output_file, "w+")
-    svm_model = SVC(kernel='linear', class_weight='balanced', cache_size=1000,
-                    C=10)  # tune this!!!!!!!!!!!!!!!!!!!!!!
+    # svm_model = SVC(kernel='linear', class_weight='balanced', cache_size=1000,
+    #                 C=10)  # tune this!!!!!!!!!!!!!!!!!!!!!!
+    svm_model = LinearSVC(C=1, loss='squared_hinge', multi_class='ovr', class_weight='balanced', tol=1e-6)
 
     svm_model.fit(feat_matrix, label_vector)
     cPickle.dump(svm_model, output_file_fd)

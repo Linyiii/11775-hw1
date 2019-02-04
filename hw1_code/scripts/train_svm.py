@@ -66,7 +66,7 @@ if __name__ == '__main__':
     # train an svm model and save to output file
     output_file_fd = open(output_file, "w+")
     svm_model = SVC(kernel='poly', class_weight='balanced', cache_size=1000,
-                    degree=2, C=1)  # tune this!!!!!!!!!!!!!!!!!!!!!!
+                    degree=5, C=1)  # tune this!!!!!!!!!!!!!!!!!!!!!!
 
     svm_model.fit(feat_matrix, label_vector)
     cPickle.dump(svm_model, output_file_fd)

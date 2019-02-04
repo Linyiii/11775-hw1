@@ -53,6 +53,7 @@ if __name__ == '__main__':
 
         if not os.path.exists(path):
             # out_file_fd.write("-1\n") # write all zeros????
+            out_line = ";".join([str(s) for s in histogram])
             pass
 
         else:
@@ -67,7 +68,7 @@ if __name__ == '__main__':
             # generate output string
             out_line = str(histogram[0])
             for j in range(1, len(histogram)):
-                out_line = out_line + ";" + histogram[j]
+                out_line = out_line + ";" + str(histogram[j])
             out_file_fd.write(out_line + "\n")
 
         out_file_fd.close()

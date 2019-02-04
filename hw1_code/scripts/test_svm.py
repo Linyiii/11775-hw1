@@ -23,8 +23,8 @@ if __name__ == '__main__':
     output_file = sys.argv[4]
 
     # get test list
-    test_list = '/home/ubuntu/11775-hw1/all_test_fake.lst'
-    # test_list = '/home/ubuntu/11775-hw1/all_val.lst'
+    # test_list = '/home/ubuntu/11775-hw1/all_test_fake.lst'
+    test_list = '/home/ubuntu/11775-hw1/all_val.lst'
     test_list_file_fd = open(test_list, "r")
     tests = []
     for tes in test_list_file_fd.readlines():

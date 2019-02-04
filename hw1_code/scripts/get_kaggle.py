@@ -44,8 +44,8 @@ if __name__ == '__main__':
         temp = [p0_conf[i], p1_conf[i], p2_conf[i]]
         labels.append(temp.index(max(temp)) + 1)
 
-    print labels
-    print name_list
+    # print labels
+    # print name_list
 
     # write to output file
     for j in range(len(p0_conf)):

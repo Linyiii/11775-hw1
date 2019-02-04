@@ -38,7 +38,7 @@ done
 # In this part, we train a clustering model to cluster the MFCC vectors. In order to speed up the clustering process, we
 # select a small portion of the MFCC vectors. In the following example, we only select 20% randomly from each video. 
 echo "Pooling MFCCs (optional)"
-python scripts/select_frames.py list/train.video 0.2 select.mfcc.csv || exit 1;
+
 
 # now trains a k-means model using the sklearn package
 echo "Training the k-means model"

@@ -33,6 +33,9 @@ if __name__ == '__main__':
         out_file = "kmeans/" + name_strip
         out_file_fd = open(out_file, "w+")
 
+        # create histogram, each represent one k-means feature
+        histogram = numpy.zeros(cluster_num)
+
         # if no mfcc file (no audio)
         if not os.path.exists(mfcc_file):
             # write -1 to the file?
@@ -41,8 +44,6 @@ if __name__ == '__main__':
 
         # mfcc file exists
         else:
-            # create histogram, each represent one k-means feature
-            histogram = numpy.zeros(cluster_num)
 
             # read in mfcc and predict k-means, then create histograms
             mfcc_features = numpy.genfromtxt(mfcc_file, dtype=numpy.float64, delimiter=";")

@@ -39,7 +39,10 @@ if __name__ == '__main__':
 
     for v in tests:
         if os.path.exists(feat_dir + v):
-            feat_vector = numpy.genfromtxt(feat_dir + v, dtype=numpy.float32, delimiter=";").reshape(1, -1)
+            if os.stat(feat_dir + v).st_size == 0:
+                feat_vector = numpy.zeros([1, feat_dim], dtype=numpy.float32).reshape(1, -1)
+            else:
+                feat_vector = numpy.genfromtxt(feat_dir + v, dtype=numpy.float32, delimiter=";").reshape(1, -1)
         else:
             # if no feature available, simply feed in zeros
             feat_vector = numpy.zeros([1, feat_dim], dtype=numpy.float32).reshape(1, -1)

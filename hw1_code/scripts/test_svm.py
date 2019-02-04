@@ -42,7 +42,8 @@ if __name__ == '__main__':
             feat_vector = numpy.genfromtxt(feat_dir + v, dtype=numpy.float32, delimiter=";")
         else:
             # if no feature available, simply feed in zeros
-            feat_vector = numpy.zeros(feat_dim, dtype=numpy.float32)
+            feat_vector = numpy.zeros([1, feat_dim], dtype=numpy.float32)
+            # feat_vector = numpy.zeros(feat_dim, dtype=numpy.float32)
 
         result = svm_model.decision_function(feat_vector)
         output_file_fd.write(str(result[0][0]) + '\n')

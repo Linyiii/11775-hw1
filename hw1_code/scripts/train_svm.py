@@ -23,7 +23,7 @@ if __name__ == '__main__':
     output_file = sys.argv[4]
 
     # training_label_file = "/home/ubuntu/11775-hw1/all_trn.lst"
-    training_label_file = "/home/ubuntu/11775-hw1/all_val.lst"
+    training_label_file = "/home/ubuntu/11775-hw1/combined_train.lst"
     training_label_file_fd = open(training_label_file, 'r')
     training_labels_ori = {}
     for lin in training_label_file_fd.readlines():

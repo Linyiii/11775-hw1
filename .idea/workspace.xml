@@ -27,8 +27,8 @@
       <file leaf-file-name="train_svm.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hw1_code/scripts/train_svm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="68" column="28" lean-forward="false" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+            <state relative-caret-position="232">
+              <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
               <folding>
                 <element signature="e#16#28#0" expanded="true" />
               </folding>
@@ -59,8 +59,8 @@
       <file leaf-file-name="test_svm.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hw1_code/scripts/test_svm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="36" column="42" lean-forward="true" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
+            <state relative-caret-position="179">
+              <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -152,8 +152,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="76" />
-    <option name="y" value="88" />
+    <option name="x" value="46" />
+    <option name="y" value="45" />
     <option name="width" value="1280" />
     <option name="height" value="700" />
   </component>
@@ -230,7 +230,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="76" y="88" width="1280" height="700" extended-state="0" />
+    <frame x="46" y="45" width="1280" height="700" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25767368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -577,14 +577,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/all_trn.lst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16159">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hw1_code/scripts/get_kaggle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -593,20 +585,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hw1_code/kaggle_1_baseline_combined_train_2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1694">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hw1_code/scripts/train_svm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="68" column="28" lean-forward="false" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+        <state relative-caret-position="232">
+          <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
           <folding>
             <element signature="e#16#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/all_trn.lst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16159">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hw1_code/scripts/test_svm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="36" column="42" lean-forward="true" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
+        <state relative-caret-position="179">
+          <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
           <folding />
         </state>
       </provider>

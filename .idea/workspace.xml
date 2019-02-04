@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0429ceb5-74f0-4e46-a567-b651ecc4fa19" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/combined_train.lst" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hw1_code/kaggle_1_baseline" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hw1_code/scripts/get_kaggle.py" afterPath="$PROJECT_DIR$/hw1_code/scripts/get_kaggle.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hw1_code/scripts/test_svm.py" afterPath="$PROJECT_DIR$/hw1_code/scripts/test_svm.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hw1_code/scripts/train_svm.py" afterPath="$PROJECT_DIR$/hw1_code/scripts/train_svm.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="train_svm.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="train_svm.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hw1_code/scripts/train_svm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="67" column="20" lean-forward="false" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="74" />
+            <state relative-caret-position="246">
+              <caret line="25" column="64" lean-forward="false" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
               <folding>
                 <element signature="e#16#28#0" expanded="true" />
               </folding>
@@ -59,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_svm.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_svm.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hw1_code/scripts/test_svm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="25" column="59" lean-forward="true" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+            <state relative-caret-position="120">
+              <caret line="26" column="44" lean-forward="true" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -113,7 +110,6 @@
         <option value="$PROJECT_DIR$/hw1_code/scripts/create_asrfeat.py" />
         <option value="$PROJECT_DIR$/hw1_code/run.med.sh" />
         <option value="$PROJECT_DIR$/hw1_code/scripts/evaluator.py" />
-        <option value="$PROJECT_DIR$/hw1_code/scripts/train_svm.py" />
         <option value="$PROJECT_DIR$/hw1_code/scripts/label" />
         <option value="$PROJECT_DIR$/hw1_code/scripts/P2" />
         <option value="$PROJECT_DIR$/hw1_code/scripts/P1" />
@@ -121,6 +117,7 @@
         <option value="$PROJECT_DIR$/hw1_code/scripts/get_kaggle.py" />
         <option value="$PROJECT_DIR$/combined_train.lst" />
         <option value="$PROJECT_DIR$/hw1_code/scripts/test_svm.py" />
+        <option value="$PROJECT_DIR$/hw1_code/scripts/train_svm.py" />
       </list>
     </option>
   </component>
@@ -524,16 +521,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw1_code/scripts/train_svm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="67" column="20" lean-forward="false" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="74" />
-          <folding>
-            <element signature="e#16#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hw1_code/scripts/out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -546,14 +533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw1_code/scripts/get_kaggle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="50" column="38" lean-forward="false" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
           <folding />
         </state>
       </provider>
@@ -574,6 +553,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hw1_code/scripts/get_kaggle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="50" column="38" lean-forward="false" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/combined_train.lst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9884">
@@ -584,9 +571,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hw1_code/scripts/test_svm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="25" column="59" lean-forward="true" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+        <state relative-caret-position="120">
+          <caret line="26" column="44" lean-forward="true" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw1_code/scripts/train_svm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="25" column="64" lean-forward="false" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
+          <folding>
+            <element signature="e#16#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

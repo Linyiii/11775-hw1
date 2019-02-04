@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0429ceb5-74f0-4e46-a567-b651ecc4fa19" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hw1_code/scripts/create_asrfeat.py" afterPath="$PROJECT_DIR$/hw1_code/scripts/create_asrfeat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hw1_code/run.med.sh" afterPath="$PROJECT_DIR$/hw1_code/run.med.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hw1_code/scripts/train_svm.py" afterPath="$PROJECT_DIR$/hw1_code/scripts/train_svm.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="create_asrfeat.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="create_asrfeat.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hw1_code/scripts/create_asrfeat.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="55" column="58" lean-forward="false" selection-start-line="55" selection-start-column="58" selection-end-line="55" selection-end-column="58" />
+            <state relative-caret-position="253">
+              <caret line="67" column="36" lean-forward="true" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run.med.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw1_code/run.med.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="28" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -33,11 +44,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="train_svm.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="train_svm.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hw1_code/scripts/train_svm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="58" column="80" lean-forward="false" selection-start-line="58" selection-start-column="80" selection-end-line="58" selection-end-column="80" />
+            <state relative-caret-position="274">
+              <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all_val.lst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all_val.lst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-100">
+              <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_svm.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw1_code/scripts/test_svm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -46,7 +77,7 @@
       <file leaf-file-name="run.feature.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hw1_code/run.feature.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
+            <state relative-caret-position="973">
               <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="64" />
               <folding />
             </state>
@@ -81,6 +112,8 @@
       <find>not</find>
       <find>fd</find>
       <find>jobs</find>
+      <find>asr</find>
+      <find>map_path</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -94,10 +127,11 @@
         <option value="$PROJECT_DIR$/hw1_code/scripts/test_svm.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/hw1_code/scripts/train_kmeans.py" />
-        <option value="$PROJECT_DIR$/hw1_code/scripts/train_svm.py" />
         <option value="$PROJECT_DIR$/hw1_code/run.feature.sh" />
         <option value="$PROJECT_DIR$/hw1_code/scripts/create_kmeans.py" />
         <option value="$PROJECT_DIR$/hw1_code/scripts/create_asrfeat.py" />
+        <option value="$PROJECT_DIR$/hw1_code/run.med.sh" />
+        <option value="$PROJECT_DIR$/hw1_code/scripts/train_svm.py" />
       </list>
     </option>
   </component>
@@ -134,12 +168,6 @@
               <item name="11775-hw1" type="b2602c69:ProjectViewProjectNode" />
               <item name="11775-hw1" type="462c0819:PsiDirectoryNode" />
               <item name="hw1_code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="11775-hw1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="11775-hw1" type="462c0819:PsiDirectoryNode" />
-              <item name="hw1_code" type="462c0819:PsiDirectoryNode" />
-              <item name="asr" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="11775-hw1" type="b2602c69:ProjectViewProjectNode" />
@@ -351,34 +379,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/all_val.lst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/all_trn.lst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-75">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw1_code/run.med.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw1_code/scripts/test_svm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36">
-          <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
           <folding />
         </state>
       </provider>
@@ -415,14 +419,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw1_code/scripts/train_svm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="58" column="80" lean-forward="false" selection-start-line="58" selection-start-column="80" selection-end-line="58" selection-end-column="80" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hw1_code/scripts/create_kmeans.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-128">
@@ -449,14 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw1_code/run.feature.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hw1_code/vocab">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
@@ -467,8 +455,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hw1_code/scripts/create_asrfeat.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="55" column="58" lean-forward="false" selection-start-line="55" selection-start-column="58" selection-end-line="55" selection-end-column="58" />
+        <state relative-caret-position="253">
+          <caret line="67" column="36" lean-forward="true" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw1_code/run.feature.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="973">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw1_code/run.med.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="28" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all_val.lst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw1_code/scripts/test_svm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw1_code/scripts/train_svm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
           <folding />
         </state>
       </provider>

@@ -16,7 +16,7 @@ echo "#       MED with MFCC Features      #"
 echo "#####################################"
 mkdir -p mfcc_pred
 # iterate over the events
-feat_dim_mfcc=200
+feat_dim_mfcc=800
 for event in P001 P002 P003; do
   echo "=========  Event $event  ========="
   # now train a svm model

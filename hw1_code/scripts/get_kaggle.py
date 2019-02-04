@@ -42,7 +42,7 @@ if __name__ == '__main__':
     # get label with highest confidence
     for i in range(len(p0_conf)):
         temp = [p0_conf[i], p1_conf[i], p2_conf[i]]
-        labels.append(temp.index(max(temp)))
+        labels.append(temp.index(max(temp)) + 1)
 
     print labels
     print name_list

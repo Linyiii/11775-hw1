@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0429ceb5-74f0-4e46-a567-b651ecc4fa19" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hw1_code/scripts/test_svm.py" afterPath="$PROJECT_DIR$/hw1_code/scripts/test_svm.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hw1_code/scripts/train_svm.py" afterPath="$PROJECT_DIR$/hw1_code/scripts/train_svm.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +23,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="train_svm.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="train_svm.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hw1_code/scripts/train_svm.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="113">
-              <caret line="68" column="20" lean-forward="false" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+              <caret line="68" column="24" lean-forward="false" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
               <folding>
                 <element signature="e#16#28#0" expanded="true" />
               </folding>
@@ -57,10 +55,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_svm.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_svm.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hw1_code/scripts/test_svm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
+            <state relative-caret-position="-69">
               <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
               <folding />
             </state>
@@ -147,8 +145,8 @@
         <option value="$PROJECT_DIR$/hw1_code/scripts/P0" />
         <option value="$PROJECT_DIR$/hw1_code/scripts/get_kaggle.py" />
         <option value="$PROJECT_DIR$/combined_train.lst" />
-        <option value="$PROJECT_DIR$/hw1_code/scripts/train_svm.py" />
         <option value="$PROJECT_DIR$/hw1_code/scripts/test_svm.py" />
+        <option value="$PROJECT_DIR$/hw1_code/scripts/train_svm.py" />
       </list>
     </option>
   </component>
@@ -602,21 +600,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw1_code/scripts/train_svm.py">
+    <entry file="file://$PROJECT_DIR$/hw1_code/scripts/test_svm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="68" column="20" lean-forward="false" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
-          <folding>
-            <element signature="e#16#28#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-69">
+          <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw1_code/scripts/test_svm.py">
+    <entry file="file://$PROJECT_DIR$/hw1_code/scripts/train_svm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="113">
+          <caret line="68" column="24" lean-forward="false" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
+          <folding>
+            <element signature="e#16#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -36,7 +36,7 @@ if __name__ == '__main__':
     p1_conf = get_all_confidence_score(p1_file_fd)
     p2_conf = get_all_confidence_score(p2_file_fd)
 
-    assert(len(p0_file) == len(p1_conf) and len(p1_conf) == len(p2_conf))
+    assert(len(p0_conf) == len(p1_conf) and len(p1_conf) == len(p2_conf))
 
     labels = []
     # get label with highest confidence

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3663" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="1.45" endTime="64.01" >
+<Turn speaker="S1" startTime="1.45" endTime="12.1">
+<Sync time="1.45"/>
+the in in in
+</Turn>
+<Turn speaker="S2" startTime="12.1" endTime="39.81">
+<Sync time="12.1"/>
+when i get old i'm losing my head many years from now where they will be sending me in palestine they greetings wine but you know three would you lock the door they still need me when still feed me when i'm sixty four
+</Turn>
+<Turn speaker="S3" startTime="39.81" endTime="64.01">
+<Sync time="39.81"/>
+mm you we will be a good thing
+</Turn>
+</Section>
+<Section type="report" startTime="68.16" endTime="95.91" >
+<Turn speaker="S2" startTime="68.16" endTime="75.41">
+<Sync time="68.16"/>
+like the the monday tuesday wednesday nights guns
+</Turn>
+<Turn speaker="S3" startTime="75.41" endTime="78.89">
+<Sync time="75.41"/>
+by by side
+</Turn>
+<Turn speaker="S2" startTime="78.89" endTime="95.91">
+<Sync time="78.89"/>
+sunday mornings right doing we do good basketball when you still need me we're still feed me when i'm sixty four
+</Turn>
+</Section>
+<Section type="report" startTime="95.96" endTime="110.07" >
+<Turn speaker="S3" startTime="95.96" endTime="110.07">
+<Sync time="95.96"/>
+the the the uh friend and
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6148" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="9.33" endTime="49.86" >
+<Turn speaker="S1" startTime="9.33" endTime="17.31">
+<Sync time="9.33"/>
+mm mm mm mm mm
+</Turn>
+<Turn speaker="S2" startTime="17.31" endTime="33.47">
+<Sync time="17.31"/>
+no
+</Turn>
+<Turn speaker="S3" startTime="33.47" endTime="42.26">
+<Sync time="33.47"/>
+and and and and
+</Turn>
+<Turn speaker="S4" startTime="42.26" endTime="49.86">
+<Sync time="42.26"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="58.99" endTime="148.56" >
+<Turn speaker="S5" startTime="58.99" endTime="148.56">
+<Sync time="58.99"/>
+they crashed in so many people in germany and they and they didn't make any burning and they don't want to be done in the morning
+</Turn>
+</Section>
+</Episode>
+</Trans>

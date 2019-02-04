@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5734" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="12.87" endTime="58.81" >
+<Turn speaker="S1" startTime="12.87" endTime="18.61">
+<Sync time="12.87"/>
+and the white sign
+</Turn>
+<Turn speaker="S2" startTime="18.61" endTime="26.65">
+<Sync time="18.61"/>
+marshmallows knitting lose no i do
+</Turn>
+<Turn speaker="S3" startTime="26.65" endTime="29.79">
+<Sync time="26.65"/>
+sam
+</Turn>
+<Turn speaker="S4" startTime="29.79" endTime="39.77">
+<Sync time="29.79"/>
+we're not really like um oh i never really been like fire every monday
+</Turn>
+<Turn speaker="S5" startTime="39.77" endTime="46.39">
+<Sync time="39.77"/>
+i like are you going to sleep
+</Turn>
+<Turn speaker="S6" startTime="46.39" endTime="53.35">
+<Sync time="46.39"/>
+plus i don't
+</Turn>
+<Turn speaker="S7" startTime="53.35" endTime="58.81">
+<Sync time="53.35"/>
+and say well now i'm getting ready to get every the hot
+</Turn>
+</Section>
+<Section type="report" startTime="61.59" endTime="93.46" >
+<Turn speaker="S8" startTime="61.59" endTime="71.35">
+<Sync time="61.59"/>
+do this too and yeah did you get in hustle
+</Turn>
+<Turn speaker="S9" startTime="71.35" endTime="79.11">
+<Sync time="71.35"/>
+spot on them down i hate i'm the days
+</Turn>
+<Turn speaker="S10" startTime="79.11" endTime="86.11">
+<Sync time="79.11"/>
+you do make sure inside it was really good
+</Turn>
+<Turn speaker="S11" startTime="86.11" endTime="89.45">
+<Sync time="86.11"/>
+me say this
+</Turn>
+<Turn speaker="S12" startTime="89.45" endTime="93.46">
+<Sync time="89.45"/>
+i know no no
+</Turn>
+</Section>
+<Section type="report" startTime="99.24" endTime="103.7" >
+<Turn speaker="S13" startTime="99.24" endTime="103.7">
+<Sync time="99.24"/>
+hi hi
+</Turn>
+</Section>
+</Episode>
+</Trans>

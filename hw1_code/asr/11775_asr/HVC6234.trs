@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6234" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="24.83" endTime="100.62" >
+<Turn speaker="S1" startTime="24.83" endTime="64.84">
+<Sync time="24.83"/>
+no no no no and the dog show and then there's there's a dull industry that should be
+</Turn>
+<Turn speaker="S2" startTime="64.84" endTime="100.62">
+<Sync time="64.84"/>
+ah you was a mess shredded no no no no no big deal
+</Turn>
+</Section>
+</Episode>
+</Trans>

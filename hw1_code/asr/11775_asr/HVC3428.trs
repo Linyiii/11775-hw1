@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3428" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="17.04" endTime="20.84" >
+<Turn speaker="S1" startTime="17.04" endTime="20.84">
+<Sync time="17.04"/>
+mm
+</Turn>
+</Section>
+<Section type="report" startTime="45.15" endTime="151.83" >
+<Turn speaker="S2" startTime="45.15" endTime="72.84">
+<Sync time="45.15"/>
+and um um
+</Turn>
+<Turn speaker="S3" startTime="72.84" endTime="81.21">
+<Sync time="72.84"/>
+um
+</Turn>
+<Turn speaker="S2" startTime="81.21" endTime="108.39">
+<Sync time="81.21"/>
+um i'm a i'm um
+</Turn>
+<Turn speaker="S3" startTime="108.39" endTime="116.46">
+<Sync time="108.39"/>
+um
+</Turn>
+<Turn speaker="S4" startTime="116.46" endTime="151.83">
+<Sync time="116.46"/>
+and and and maybe or or whatever and then uh
+</Turn>
+</Section>
+<Section type="report" startTime="152.08" endTime="160.29" >
+<Turn speaker="S5" startTime="152.08" endTime="160.29">
+<Sync time="152.08"/>
+and uh
+</Turn>
+</Section>
+</Episode>
+</Trans>

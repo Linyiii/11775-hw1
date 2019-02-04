@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2636" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S15" name="K15" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S16" name="K16" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S17" name="K17" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S18" name="K18" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S19" name="K19" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S20" name="K20" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S21" name="K21" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="9.04" endTime="11.98" >
+<Turn speaker="S1" startTime="9.04" endTime="11.98">
+<Sync time="9.04"/>
+love is they're burning
+</Turn>
+</Section>
+<Section type="report" startTime="15.35" endTime="18.3" >
+<Turn speaker="S2" startTime="15.35" endTime="18.3">
+<Sync time="15.35"/>
+and it to make up higher rewrite
+</Turn>
+</Section>
+<Section type="report" startTime="21.5" endTime="24.39" >
+<Turn speaker="S3" startTime="21.5" endTime="24.39">
+<Sync time="21.5"/>
+oh wow wow
+</Turn>
+</Section>
+<Section type="report" startTime="27.98" endTime="49.68" >
+<Turn speaker="S4" startTime="27.98" endTime="32.44">
+<Sync time="27.98"/>
+i fell into a ring like fire and
+</Turn>
+<Turn speaker="S5" startTime="32.44" endTime="40.51">
+<Sync time="32.44"/>
+i went down down down and let's landers slander
+</Turn>
+<Turn speaker="S6" startTime="40.51" endTime="44.41">
+<Sync time="40.51"/>
+i i used by
+</Turn>
+<Turn speaker="S7" startTime="44.41" endTime="49.68">
+<Sync time="44.41"/>
+hi er rank up to pie
+</Turn>
+</Section>
+<Section type="report" startTime="65.3" endTime="85.46" >
+<Turn speaker="S8" startTime="65.3" endTime="73.79">
+<Sync time="65.3"/>
+ah to burn ring up by how much um now i'm not blaming loyal
+</Turn>
+<Turn speaker="S9" startTime="73.79" endTime="77.49">
+<Sync time="73.79"/>
+as burns learn and
+</Turn>
+<Turn speaker="S10" startTime="77.49" endTime="85.46">
+<Sync time="77.49"/>
+no desire to surveying up an age awful love is sleep
+</Turn>
+</Section>
+<Section type="report" startTime="88.69" endTime="91.75" >
+<Turn speaker="S11" startTime="88.69" endTime="91.75">
+<Sync time="88.69"/>
+one of the largest black scholars
+</Turn>
+</Section>
+<Section type="report" startTime="94.88" endTime="98.6" >
+<Turn speaker="S12" startTime="94.88" endTime="98.6">
+<Sync time="94.88"/>
+i feel for your like a child and
+</Turn>
+</Section>
+<Section type="report" startTime="101.93" endTime="154.4" >
+<Turn speaker="S13" startTime="101.93" endTime="107.09">
+<Sync time="101.93"/>
+oh what the firemen wild
+</Turn>
+<Turn speaker="S14" startTime="107.09" endTime="115.3">
+<Sync time="107.09"/>
+well then i went down down down lame is more of fire
+</Turn>
+<Turn speaker="S15" startTime="115.3" endTime="118.73">
+<Sync time="115.3"/>
+and it's our priorities barn and then
+</Turn>
+<Turn speaker="S16" startTime="118.73" endTime="123.16">
+<Sync time="118.73"/>
+hey by by any means
+</Turn>
+<Turn speaker="S17" startTime="123.16" endTime="132.07">
+<Sync time="123.16"/>
+decide to do uh burning rang liar i went with um um lame
+</Turn>
+<Turn speaker="S18" startTime="132.07" endTime="135.67">
+<Sync time="132.07"/>
+and it just turns burns burning
+</Turn>
+<Turn speaker="S19" startTime="135.67" endTime="139.68">
+<Sync time="135.67"/>
+why are raymond by
+</Turn>
+<Turn speaker="S20" startTime="139.68" endTime="143.66">
+<Sync time="139.68"/>
+or
+</Turn>
+<Turn speaker="S21" startTime="143.66" endTime="154.4">
+<Sync time="143.66"/>
+by being ring him or the ring up by the ring
+</Turn>
+</Section>
+</Episode>
+</Trans>

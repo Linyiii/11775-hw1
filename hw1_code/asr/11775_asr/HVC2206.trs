@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2206" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="38.4" >
+<Turn speaker="S1" startTime="0.0" endTime="31.7">
+<Sync time="0.0"/>
+hi i'm john some time ago i posted a video using my smallest harmonica which modestly cause the little lady so i thought you might like to see my largest monica this time and i'm not aware of the owner has a name for it but it's it's submarine bands and it's rather old because of his age it doesn't have so you get a little bit when when you breathe into it because it has nothing to control the air but it's something like this
+</Turn>
+<Turn speaker="S2" startTime="31.7" endTime="38.4">
+<Sync time="31.7"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

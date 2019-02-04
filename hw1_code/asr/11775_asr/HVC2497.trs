@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2497" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="42.72" >
+<Turn speaker="S1" startTime="0.03" endTime="14.34">
+<Sync time="0.03"/>
+well that's that's or are you going for that where you're almost on top of the most part
+</Turn>
+<Turn speaker="S2" startTime="14.34" endTime="23.31">
+<Sync time="14.34"/>
+yeah but what can learn
+</Turn>
+<Turn speaker="S1" startTime="23.31" endTime="28.37">
+<Sync time="23.31"/>
+that is a legitimate through banking
+</Turn>
+<Turn speaker="S2" startTime="28.37" endTime="42.72">
+<Sync time="28.37"/>
+excellent
+</Turn>
+</Section>
+<Section type="report" startTime="42.83" endTime="47.17" >
+<Turn speaker="S1" startTime="42.83" endTime="47.17">
+<Sync time="42.83"/>
+that works
+</Turn>
+</Section>
+</Episode>
+</Trans>

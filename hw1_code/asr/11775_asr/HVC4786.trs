@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4786" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="242.32" >
+<Turn speaker="S1" startTime="0.0" endTime="109.77">
+<Sync time="0.0"/>
+um i didn't about natural thinking about it i don't know i i i mean good they don't get that today
+</Turn>
+<Turn speaker="S2" startTime="109.77" endTime="184.05">
+<Sync time="109.77"/>
+i know pretty strict your blood pressure go out have the guy well god bless you i really don't i don't know i had i think you know you can really laughing although you do okay i talked to night school i mean i just watch you bleed for when you really about that that go slowly okay my parents were really rare and little bit what are your
+</Turn>
+<Turn speaker="S1" startTime="184.05" endTime="201.32">
+<Sync time="184.05"/>
+well i didn't do much i look struggle for me
+</Turn>
+<Turn speaker="S2" startTime="201.32" endTime="219.68">
+<Sync time="201.32"/>
+yeah the only thing on the show you know excellent that's not a i oh i know when your body know
+</Turn>
+<Turn speaker="S1" startTime="219.68" endTime="242.32">
+<Sync time="219.68"/>
+good um you know
+</Turn>
+</Section>
+<Section type="report" startTime="242.48" endTime="305.81" >
+<Turn speaker="S3" startTime="242.48" endTime="305.81">
+<Sync time="242.48"/>
+just hang up but the one that looks so know my mom that you know turning your head that you know okay now you one
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3957" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="15.27" endTime="196.16" >
+<Turn speaker="S1" startTime="15.27" endTime="24.62">
+<Sync time="15.27"/>
+and uh
+</Turn>
+<Turn speaker="S2" startTime="24.62" endTime="42.59">
+<Sync time="24.62"/>
+kind of talk to my in the way that we draw the line
+</Turn>
+<Turn speaker="S1" startTime="42.59" endTime="51.92">
+<Sync time="42.59"/>
+you know and and
+</Turn>
+<Turn speaker="S2" startTime="51.92" endTime="88.21">
+<Sync time="51.92"/>
+and then i wonder why why why why why
+</Turn>
+<Turn speaker="S3" startTime="88.21" endTime="97.11">
+<Sync time="88.21"/>
+you know
+</Turn>
+<Turn speaker="S1" startTime="97.11" endTime="106.47">
+<Sync time="97.11"/>
+no no no no no
+</Turn>
+<Turn speaker="S4" startTime="106.47" endTime="124.4">
+<Sync time="106.47"/>
+the way the food that we're not gonna be
+</Turn>
+<Turn speaker="S1" startTime="124.4" endTime="133.39">
+<Sync time="124.4"/>
+and uh
+</Turn>
+<Turn speaker="S2" startTime="133.39" endTime="179.05">
+<Sync time="133.39"/>
+and i think when they when they go out and dollars no what
+</Turn>
+<Turn speaker="S5" startTime="179.05" endTime="196.16">
+<Sync time="179.05"/>
+no no no
+</Turn>
+</Section>
+<Section type="report" startTime="247.22" endTime="279.12" >
+<Turn speaker="S5" startTime="247.22" endTime="279.12">
+<Sync time="247.22"/>
+i
+</Turn>
+</Section>
+</Episode>
+</Trans>

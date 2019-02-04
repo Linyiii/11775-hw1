@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4198" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.03" endTime="9.72" >
+<Turn speaker="S1" startTime="4.03" endTime="9.72">
+<Sync time="4.03"/>
+good job what do you play
+</Turn>
+</Section>
+<Section type="report" startTime="14.67" endTime="21.1" >
+<Turn speaker="S1" startTime="14.67" endTime="21.1">
+<Sync time="14.67"/>
+to pick to get your balance
+</Turn>
+</Section>
+</Episode>
+</Trans>

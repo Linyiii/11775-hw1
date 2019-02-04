@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3976" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="6.82" endTime="15.8" >
+<Turn speaker="S1" startTime="6.82" endTime="15.8">
+<Sync time="6.82"/>
+one one two three four and i get around the
+</Turn>
+</Section>
+<Section type="report" startTime="32.38" endTime="37.35" >
+<Turn speaker="S1" startTime="32.38" endTime="37.35">
+<Sync time="32.38"/>
+little town sticker on
+</Turn>
+</Section>
+<Section type="report" startTime="37.11" endTime="42.24" >
+<Turn speaker="S2" startTime="37.11" endTime="42.24">
+<Sync time="37.11"/>
+the official
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5981" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="5.26" >
+<Turn speaker="S1" startTime="0.0" endTime="5.26">
+<Sync time="0.0"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="11.7" endTime="31.47" >
+<Turn speaker="S1" startTime="11.7" endTime="31.47">
+<Sync time="11.7"/>
+day alright happy law nice to have my kids
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3008" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="7.49" endTime="43.07" >
+<Turn speaker="S1" startTime="7.49" endTime="14.44">
+<Sync time="7.49"/>
+okay okay where are you sure in my this
+</Turn>
+<Turn speaker="S2" startTime="14.44" endTime="20.68">
+<Sync time="14.44"/>
+that's true
+</Turn>
+<Turn speaker="S1" startTime="20.68" endTime="25.87">
+<Sync time="20.68"/>
+i'm matt next to him and work on the computer goes like this
+</Turn>
+<Turn speaker="S2" startTime="25.87" endTime="32.88">
+<Sync time="25.87"/>
+okay mean
+</Turn>
+<Turn speaker="S1" startTime="32.88" endTime="43.07">
+<Sync time="32.88"/>
+okay give me sick i'm andrea i'm exhausted why
+</Turn>
+</Section>
+<Section type="report" startTime="46.05" endTime="104.56" >
+<Turn speaker="S3" startTime="46.05" endTime="55.03">
+<Sync time="46.05"/>
+hello yes this is she what
+</Turn>
+<Turn speaker="S1" startTime="55.03" endTime="60.85">
+<Sync time="55.03"/>
+you guys biological parents they just told me i was adopted
+</Turn>
+<Turn speaker="S3" startTime="60.85" endTime="71.01">
+<Sync time="60.85"/>
+uh i don't know you shake
+</Turn>
+<Turn speaker="S1" startTime="71.01" endTime="83.17">
+<Sync time="71.01"/>
+i've got today what are you talking about i feel fine your bleeding no no i'm good
+</Turn>
+<Turn speaker="S3" startTime="83.17" endTime="90.26">
+<Sync time="83.17"/>
+do andrew
+</Turn>
+<Turn speaker="S1" startTime="90.26" endTime="93.66">
+<Sync time="90.26"/>
+i don't want to play this game any more damage steve andrew
+</Turn>
+<Turn speaker="S3" startTime="93.66" endTime="101.12">
+<Sync time="93.66"/>
+steve don't do it steep andrew
+</Turn>
+<Turn speaker="S1" startTime="101.12" endTime="104.56">
+<Sync time="101.12"/>
+i'm andrew and i'm going to poison jake
+</Turn>
+</Section>
+<Section type="report" startTime="113.09" endTime="120.87" >
+<Turn speaker="S2" startTime="113.09" endTime="120.87">
+<Sync time="113.09"/>
+goes
+</Turn>
+</Section>
+</Episode>
+</Trans>

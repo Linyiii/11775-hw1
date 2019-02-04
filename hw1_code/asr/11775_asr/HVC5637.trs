@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5637" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="32.1" >
+<Turn speaker="S1" startTime="0.03" endTime="32.1">
+<Sync time="0.03"/>
+like let's let's get it off because they don't
+</Turn>
+</Section>
+<Section type="report" startTime="50.13" endTime="86.47" >
+<Turn speaker="S1" startTime="50.13" endTime="86.47">
+<Sync time="50.13"/>
+the dog jumped on top of it
+</Turn>
+</Section>
+<Section type="report" startTime="103.3" endTime="159.69" >
+<Turn speaker="S2" startTime="103.3" endTime="159.69">
+<Sync time="103.3"/>
+i don't know i was in the ten minutes
+</Turn>
+</Section>
+<Section type="report" startTime="159.45" endTime="176.22" >
+<Turn speaker="S3" startTime="159.45" endTime="176.22">
+<Sync time="159.45"/>
+i like doing them and
+</Turn>
+</Section>
+</Episode>
+</Trans>

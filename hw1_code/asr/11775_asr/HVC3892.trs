@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3892" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="100.6" >
+<Turn speaker="S1" startTime="0.0" endTime="62.63">
+<Sync time="0.0"/>
+i know
+</Turn>
+<Turn speaker="S2" startTime="62.63" endTime="100.6">
+<Sync time="62.63"/>
+they they tend to like to get people to be able to to to to
+</Turn>
+</Section>
+<Section type="report" startTime="158.35" endTime="177.16" >
+<Turn speaker="S2" startTime="158.35" endTime="177.16">
+<Sync time="158.35"/>
+to go to school in the day
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2641" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="22.04" endTime="201.02" >
+<Turn speaker="S1" startTime="22.04" endTime="42.23">
+<Sync time="22.04"/>
+yeah it's nice to us is the in my own way you know looking for either one you know you can say i plan to try and
+</Turn>
+<Turn speaker="S2" startTime="42.23" endTime="82.29">
+<Sync time="42.23"/>
+you know during the only one you know where your family down there and they they
+</Turn>
+<Turn speaker="S1" startTime="82.29" endTime="86.73">
+<Sync time="82.29"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="86.73" endTime="106.22">
+<Sync time="86.73"/>
+that one down and down you know that they're gonna to go out you know they're there yeah
+</Turn>
+<Turn speaker="S3" startTime="106.22" endTime="124.99">
+<Sync time="106.22"/>
+and trying to do
+</Turn>
+<Turn speaker="S4" startTime="124.99" endTime="146.21">
+<Sync time="124.99"/>
+and you know you can come up with dogs as well are you a young son lives in on each other you know
+</Turn>
+<Turn speaker="S1" startTime="146.21" endTime="153.17">
+<Sync time="146.21"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="153.17" endTime="156.99">
+<Sync time="153.17"/>
+no
+</Turn>
+<Turn speaker="S3" startTime="156.99" endTime="201.02">
+<Sync time="156.99"/>
+and and then now and i do you
+</Turn>
+</Section>
+</Episode>
+</Trans>

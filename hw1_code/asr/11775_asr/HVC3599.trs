@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3599" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="119.94" >
+<Turn speaker="S1" startTime="0.0" endTime="12.86">
+<Sync time="0.0"/>
+and then um
+</Turn>
+<Turn speaker="S2" startTime="12.86" endTime="37.72">
+<Sync time="12.86"/>
+and uh yeah we sure uh they really do and be all right
+</Turn>
+<Turn speaker="S1" startTime="37.72" endTime="52.92">
+<Sync time="37.72"/>
+well she even mayor
+</Turn>
+<Turn speaker="S3" startTime="52.92" endTime="67.16">
+<Sync time="52.92"/>
+all girlie damn
+</Turn>
+<Turn speaker="S4" startTime="67.16" endTime="79.71">
+<Sync time="67.16"/>
+thing
+</Turn>
+<Turn speaker="S5" startTime="79.71" endTime="94.15">
+<Sync time="79.71"/>
+you know and not go you may not may not make
+</Turn>
+<Turn speaker="S4" startTime="94.15" endTime="119.94">
+<Sync time="94.15"/>
+yeah they they went out and buying you know
+</Turn>
+</Section>
+<Section type="report" startTime="133.32" endTime="235.25" >
+<Turn speaker="S5" startTime="133.32" endTime="147.75">
+<Sync time="133.32"/>
+why do you rent the only one
+</Turn>
+<Turn speaker="S4" startTime="147.75" endTime="173.49">
+<Sync time="147.75"/>
+you know when you're young you know that i'd rather
+</Turn>
+<Turn speaker="S3" startTime="173.49" endTime="186.05">
+<Sync time="173.49"/>
+now he's to yeah he done what they one
+</Turn>
+<Turn speaker="S4" startTime="186.05" endTime="222.12">
+<Sync time="186.05"/>
+and then well the and you know but um you know right now
+</Turn>
+<Turn speaker="S6" startTime="222.12" endTime="235.25">
+<Sync time="222.12"/>
+i know that
+</Turn>
+</Section>
+</Episode>
+</Trans>

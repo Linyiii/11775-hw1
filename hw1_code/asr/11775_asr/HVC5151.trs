@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5151" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.07" endTime="97.36" >
+<Turn speaker="S1" startTime="3.07" endTime="7.04">
+<Sync time="3.07"/>
+no no no no no
+</Turn>
+<Turn speaker="S2" startTime="7.04" endTime="15.56">
+<Sync time="7.04"/>
+okay
+</Turn>
+<Turn speaker="S1" startTime="15.56" endTime="30.02">
+<Sync time="15.56"/>
+i mean i still don't know somewhere and all that all you can follow me
+</Turn>
+<Turn speaker="S3" startTime="30.02" endTime="46.87">
+<Sync time="30.02"/>
+and i really like that you know
+</Turn>
+<Turn speaker="S2" startTime="46.87" endTime="62.42">
+<Sync time="46.87"/>
+bad bad bad bad bad
+</Turn>
+<Turn speaker="S1" startTime="62.42" endTime="77.02">
+<Sync time="62.42"/>
+that are buying up the phone i go on and on that now
+</Turn>
+<Turn speaker="S3" startTime="77.02" endTime="93.59">
+<Sync time="77.02"/>
+and they live in
+</Turn>
+<Turn speaker="S1" startTime="93.59" endTime="97.36">
+<Sync time="93.59"/>
+no no no no no no no no
+</Turn>
+</Section>
+<Section type="report" startTime="116.23" endTime="134.05" >
+<Turn speaker="S4" startTime="116.23" endTime="125.28">
+<Sync time="116.23"/>
+and uh
+</Turn>
+<Turn speaker="S5" startTime="125.28" endTime="134.05">
+<Sync time="125.28"/>
+and
+</Turn>
+</Section>
+<Section type="report" startTime="137.71" endTime="170.69" >
+<Turn speaker="S2" startTime="137.71" endTime="170.69">
+<Sync time="137.71"/>
+and then after they had a bad bad bad bad bad bad bad bad
+</Turn>
+</Section>
+<Section type="report" startTime="170.94" endTime="179.59" >
+<Turn speaker="S6" startTime="170.94" endTime="179.59">
+<Sync time="170.94"/>
+i'm just doing math and i
+</Turn>
+</Section>
+</Episode>
+</Trans>

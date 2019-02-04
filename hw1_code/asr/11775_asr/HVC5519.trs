@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5519" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="84.39" >
+<Turn speaker="S1" startTime="0.0" endTime="14.11">
+<Sync time="0.0"/>
+three weeks before why do like they're not not normally when they are
+</Turn>
+<Turn speaker="S2" startTime="14.11" endTime="25.67">
+<Sync time="14.11"/>
+no i have um you know
+</Turn>
+<Turn speaker="S1" startTime="25.67" endTime="29.12">
+<Sync time="25.67"/>
+why
+</Turn>
+<Turn speaker="S2" startTime="29.12" endTime="33.12">
+<Sync time="29.12"/>
+no
+</Turn>
+<Turn speaker="S1" startTime="33.12" endTime="38.49">
+<Sync time="33.12"/>
+so what do you
+</Turn>
+<Turn speaker="S2" startTime="38.49" endTime="51.86">
+<Sync time="38.49"/>
+and uh they uh
+</Turn>
+<Turn speaker="S1" startTime="51.86" endTime="55.15">
+<Sync time="51.86"/>
+yeah
+</Turn>
+<Turn speaker="S3" startTime="55.15" endTime="73.65">
+<Sync time="55.15"/>
+nah
+</Turn>
+<Turn speaker="S4" startTime="73.65" endTime="84.39">
+<Sync time="73.65"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="95.72" endTime="171.41" >
+<Turn speaker="S5" startTime="95.72" endTime="132.88">
+<Sync time="95.72"/>
+no no no no no
+</Turn>
+<Turn speaker="S3" startTime="132.88" endTime="151.27">
+<Sync time="132.88"/>
+no
+</Turn>
+<Turn speaker="S4" startTime="151.27" endTime="162.42">
+<Sync time="151.27"/>
+know
+</Turn>
+<Turn speaker="S3" startTime="162.42" endTime="171.41">
+<Sync time="162.42"/>
+huh
+</Turn>
+</Section>
+<Section type="report" startTime="171.17" endTime="181.69" >
+<Turn speaker="S1" startTime="171.17" endTime="181.69">
+<Sync time="171.17"/>
+and i ended up on the wrong reasons
+</Turn>
+</Section>
+</Episode>
+</Trans>

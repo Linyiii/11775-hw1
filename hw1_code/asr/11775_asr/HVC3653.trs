@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3653" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.82" endTime="16.95" >
+<Turn speaker="S1" startTime="0.82" endTime="16.95">
+<Sync time="0.82"/>
+the the the the new baby
+</Turn>
+</Section>
+<Section type="report" startTime="82.83" endTime="116.04" >
+<Turn speaker="S2" startTime="82.83" endTime="116.04">
+<Sync time="82.83"/>
+we will do the name of it
+</Turn>
+</Section>
+<Section type="report" startTime="115.86" endTime="154.65" >
+<Turn speaker="S3" startTime="115.86" endTime="154.65">
+<Sync time="115.86"/>
+okay
+</Turn>
+</Section>
+</Episode>
+</Trans>

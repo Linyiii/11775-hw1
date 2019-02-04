@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4879" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.26" endTime="6.27" >
+<Turn speaker="S1" startTime="0.26" endTime="6.27">
+<Sync time="0.26"/>
+doing them soon
+</Turn>
+</Section>
+<Section type="report" startTime="18.9" endTime="102.59" >
+<Turn speaker="S1" startTime="18.9" endTime="47.39">
+<Sync time="18.9"/>
+you up from place to look to see too much money to buy their job to georgia terms used to be turn up
+</Turn>
+<Turn speaker="S2" startTime="47.39" endTime="60.98">
+<Sync time="47.39"/>
+okay
+</Turn>
+<Turn speaker="S1" startTime="60.98" endTime="74.01">
+<Sync time="60.98"/>
+current events and politics or maybe a fair shot but they're not bad
+</Turn>
+<Turn speaker="S3" startTime="74.01" endTime="102.59">
+<Sync time="74.01"/>
+di di di di di di di
+</Turn>
+</Section>
+</Episode>
+</Trans>

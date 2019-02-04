@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3484" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="13.16" >
+<Turn speaker="S1" startTime="0.03" endTime="13.16">
+<Sync time="0.03"/>
+when you really getting off the bat
+</Turn>
+</Section>
+<Section type="report" startTime="28.41" endTime="37.87" >
+<Turn speaker="S2" startTime="28.41" endTime="31.72">
+<Sync time="28.41"/>
+no
+</Turn>
+<Turn speaker="S1" startTime="31.72" endTime="37.87">
+<Sync time="31.72"/>
+well what what you
+</Turn>
+</Section>
+<Section type="report" startTime="46.36" endTime="57.33" >
+<Turn speaker="S1" startTime="46.36" endTime="57.33">
+<Sync time="46.36"/>
+there's boxing because
+</Turn>
+</Section>
+</Episode>
+</Trans>

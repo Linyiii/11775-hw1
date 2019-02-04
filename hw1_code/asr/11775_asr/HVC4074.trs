@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4074" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.19" endTime="42.44" >
+<Turn speaker="S1" startTime="4.19" endTime="38.6">
+<Sync time="4.19"/>
+taylor mountains here there's a lot of hard work and dedication to be able to do something like that he's wonderful people here with us today take the challenge like everybody's running around and we're looking like like
+</Turn>
+<Turn speaker="S2" startTime="38.6" endTime="42.44">
+<Sync time="38.6"/>
+did do
+</Turn>
+</Section>
+<Section type="report" startTime="42.73" endTime="58.55" >
+<Turn speaker="S1" startTime="42.73" endTime="58.55">
+<Sync time="42.73"/>
+that you guys usually totally what is this somebody lost focus and i mean
+</Turn>
+</Section>
+<Section type="report" startTime="58.61" endTime="70.87" >
+<Turn speaker="S1" startTime="58.61" endTime="63.6">
+<Sync time="58.61"/>
+i just beat it
+</Turn>
+<Turn speaker="S3" startTime="63.6" endTime="70.87">
+<Sync time="63.6"/>
+fair share
+</Turn>
+</Section>
+<Section type="report" startTime="71.13" endTime="76.44" >
+<Turn speaker="S1" startTime="71.13" endTime="76.44">
+<Sync time="71.13"/>
+yeah i live
+</Turn>
+</Section>
+<Section type="report" startTime="85.08" endTime="101.37" >
+<Turn speaker="S1" startTime="85.08" endTime="93.89">
+<Sync time="85.08"/>
+to the to them it's very tough climb however the reward is great hardest feeding feel like i'm
+</Turn>
+<Turn speaker="S3" startTime="93.89" endTime="101.37">
+<Sync time="93.89"/>
+that that that's great
+</Turn>
+</Section>
+<Section type="report" startTime="101.42" endTime="128.88" >
+<Turn speaker="S1" startTime="101.42" endTime="128.88">
+<Sync time="101.42"/>
+no for country wants to beginning of my car everybody's running around and or or looking like to talk about around here is about the bar
+</Turn>
+</Section>
+<Section type="report" startTime="136.37" endTime="142.39" >
+<Turn speaker="S4" startTime="136.37" endTime="142.39">
+<Sync time="136.37"/>
+uh we're almost
+</Turn>
+</Section>
+<Section type="report" startTime="142.62" endTime="156.31" >
+<Turn speaker="S4" startTime="142.62" endTime="156.31">
+<Sync time="142.62"/>
+and the guy came in and i mean
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4047" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.15" endTime="157.25" >
+<Turn speaker="S1" startTime="0.15" endTime="11.03">
+<Sync time="0.15"/>
+mm mm mm
+</Turn>
+<Turn speaker="S2" startTime="11.03" endTime="46.89">
+<Sync time="11.03"/>
+and they do
+</Turn>
+<Turn speaker="S3" startTime="46.89" endTime="88.77">
+<Sync time="46.89"/>
+but i'm not on your mind you're not you know i don't know i know when i was going on
+</Turn>
+<Turn speaker="S2" startTime="88.77" endTime="105.15">
+<Sync time="88.77"/>
+good
+</Turn>
+<Turn speaker="S3" startTime="105.15" endTime="157.25">
+<Sync time="105.15"/>
+i'm not i'm not i'm not i'm not either but i'm not going to do with your and they don't go anywhere
+</Turn>
+</Section>
+<Section type="report" startTime="168.63" endTime="297.44" >
+<Turn speaker="S3" startTime="168.63" endTime="199.52">
+<Sync time="168.63"/>
+and i totally agree
+</Turn>
+<Turn speaker="S2" startTime="199.52" endTime="203.1">
+<Sync time="199.52"/>
+no
+</Turn>
+<Turn speaker="S3" startTime="203.1" endTime="212.49">
+<Sync time="203.1"/>
+i'm not a man
+</Turn>
+<Turn speaker="S2" startTime="212.49" endTime="251.03">
+<Sync time="212.49"/>
+and she did
+</Turn>
+<Turn speaker="S3" startTime="251.03" endTime="282.25">
+<Sync time="251.03"/>
+and they're not going to do it i got an and
+</Turn>
+<Turn speaker="S1" startTime="282.25" endTime="297.44">
+<Sync time="282.25"/>
+and i'm
+</Turn>
+</Section>
+<Section type="report" startTime="297.29" endTime="301.9" >
+<Turn speaker="S4" startTime="297.29" endTime="301.9">
+<Sync time="297.29"/>
+mhm
+</Turn>
+</Section>
+</Episode>
+</Trans>

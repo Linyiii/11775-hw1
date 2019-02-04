@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5933" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.52" endTime="84.89" >
+<Turn speaker="S1" startTime="3.52" endTime="9.45">
+<Sync time="3.52"/>
+and
+</Turn>
+<Turn speaker="S2" startTime="9.45" endTime="13.86">
+<Sync time="9.45"/>
+you and he said yeah
+</Turn>
+<Turn speaker="S1" startTime="13.86" endTime="32.0">
+<Sync time="13.86"/>
+alright and i need to
+</Turn>
+<Turn speaker="S2" startTime="32.0" endTime="51.96">
+<Sync time="32.0"/>
+strange carriers seeing or aid i as well or do they use a
+</Turn>
+<Turn speaker="S1" startTime="51.96" endTime="74.95">
+<Sync time="51.96"/>
+he he and his to very easy to
+</Turn>
+<Turn speaker="S2" startTime="74.95" endTime="84.89">
+<Sync time="74.95"/>
+see so he and and
+</Turn>
+</Section>
+</Episode>
+</Trans>

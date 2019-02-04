@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4684" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.07" endTime="240.14" >
+<Turn speaker="S1" startTime="0.07" endTime="18.15">
+<Sync time="0.07"/>
+very strong mine and um i see
+</Turn>
+<Turn speaker="S2" startTime="18.15" endTime="58.24">
+<Sync time="18.15"/>
+and also um um or like
+</Turn>
+<Turn speaker="S1" startTime="58.24" endTime="240.14">
+<Sync time="58.24"/>
+oh sure oh poor the eagles or or a third of charlotte i mean i am a parade or is a sure here they call me a week agree shaved she's a pill they used to go to be strong you know in any way for about eight to five pound fish do you see doctors you know when you are so it's interesting that so about um i am totally in who they all all over the world
+</Turn>
+</Section>
+<Section type="report" startTime="240.04" endTime="621.21" >
+<Turn speaker="S2" startTime="240.04" endTime="621.21">
+<Sync time="240.04"/>
+oh so showers so where are you still have a baby i like um the cells or any age yeah first twelve to fourteen right they sure when all the way away after they you know like um sure he likes to have money in your back wait wait so i'm sure that oh right that you know alright and then so my dad i really i know all that to me and
+</Turn>
+</Section>
+</Episode>
+</Trans>

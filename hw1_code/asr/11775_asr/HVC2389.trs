@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2389" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.28" endTime="70.71" >
+<Turn speaker="S1" startTime="3.28" endTime="53.04">
+<Sync time="3.28"/>
+uh walking i think you've seen it before freestyle snowboard skateboarding dial walking
+</Turn>
+<Turn speaker="S2" startTime="53.04" endTime="66.84">
+<Sync time="53.04"/>
+the name but he was two years ago two years ago when you have the right way way way before you guys before
+</Turn>
+<Turn speaker="S1" startTime="66.84" endTime="70.71">
+<Sync time="66.84"/>
+we all start welcome to
+</Turn>
+</Section>
+<Section type="report" startTime="70.95" endTime="79.51" >
+<Turn speaker="S2" startTime="70.95" endTime="79.51">
+<Sync time="70.95"/>
+yeah not not europe
+</Turn>
+</Section>
+</Episode>
+</Trans>

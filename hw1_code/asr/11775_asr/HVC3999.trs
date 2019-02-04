@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3999" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="1.87" >
+<Turn speaker="S1" startTime="0.04" endTime="1.87">
+<Sync time="0.04"/>
+yeah i totally agree
+</Turn>
+</Section>
+<Section type="report" startTime="3.82" endTime="9.91" >
+<Turn speaker="S1" startTime="3.82" endTime="9.91">
+<Sync time="3.82"/>
+god
+</Turn>
+</Section>
+<Section type="report" startTime="11.88" endTime="18.01" >
+<Turn speaker="S1" startTime="11.88" endTime="18.01">
+<Sync time="11.88"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="19.98" endTime="40.77" >
+<Turn speaker="S1" startTime="19.98" endTime="40.77">
+<Sync time="19.98"/>
+no don't to your when you're not going to count that really thought about going over the over
+</Turn>
+</Section>
+<Section type="report" startTime="42.74" endTime="69.74" >
+<Turn speaker="S1" startTime="42.74" endTime="69.74">
+<Sync time="42.74"/>
+uh we may be girls so you want me down every day or three two one way or or
+</Turn>
+</Section>
+</Episode>
+</Trans>

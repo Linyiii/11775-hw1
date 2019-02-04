@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2404" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.1" endTime="52.73" >
+<Turn speaker="S1" startTime="0.1" endTime="4.0">
+<Sync time="0.1"/>
+mm
+</Turn>
+<Turn speaker="S2" startTime="4.0" endTime="27.9">
+<Sync time="4.0"/>
+there you go good job they can help you put a bigger that you put it on the tray oh wow good job
+</Turn>
+<Turn speaker="S1" startTime="27.9" endTime="30.77">
+<Sync time="27.9"/>
+and
+</Turn>
+<Turn speaker="S2" startTime="30.77" endTime="41.78">
+<Sync time="30.77"/>
+like that or not she mm probably enough grandpa and put another student on the
+</Turn>
+<Turn speaker="S1" startTime="41.78" endTime="46.73">
+<Sync time="41.78"/>
+and
+</Turn>
+<Turn speaker="S2" startTime="46.73" endTime="52.73">
+<Sync time="46.73"/>
+to make cookies mm you can eat out and put it on the track
+</Turn>
+</Section>
+<Section type="report" startTime="56.94" endTime="69.8" >
+<Turn speaker="S2" startTime="56.94" endTime="66.31">
+<Sync time="56.94"/>
+there you go to bed good good good spoonful
+</Turn>
+<Turn speaker="S1" startTime="66.31" endTime="69.8">
+<Sync time="66.31"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="69.99" endTime="73.7" >
+<Turn speaker="S2" startTime="69.99" endTime="73.7">
+<Sync time="69.99"/>
+job
+</Turn>
+</Section>
+</Episode>
+</Trans>

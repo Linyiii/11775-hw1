@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4629" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.01" endTime="20.68" >
+<Turn speaker="S1" startTime="0.01" endTime="4.62">
+<Sync time="0.01"/>
+one thing
+</Turn>
+<Turn speaker="S2" startTime="4.62" endTime="9.2">
+<Sync time="4.62"/>
+right yeah
+</Turn>
+<Turn speaker="S3" startTime="9.2" endTime="13.31">
+<Sync time="9.2"/>
+mhm
+</Turn>
+<Turn speaker="S4" startTime="13.31" endTime="20.68">
+<Sync time="13.31"/>
+libra honey dumb me
+</Turn>
+</Section>
+<Section type="report" startTime="27.85" endTime="40.61" >
+<Turn speaker="S5" startTime="27.85" endTime="37.75">
+<Sync time="27.85"/>
+right and i think it's a donkey actually er not a doggy a donkey
+</Turn>
+<Turn speaker="S6" startTime="37.75" endTime="40.61">
+<Sync time="37.75"/>
+what is only one
+</Turn>
+</Section>
+</Episode>
+</Trans>

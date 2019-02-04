@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3897" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="9.0" endTime="50.89" >
+<Turn speaker="S1" startTime="9.0" endTime="50.89">
+<Sync time="9.0"/>
+i don't know what's going on strike
+</Turn>
+</Section>
+<Section type="report" startTime="63.48" endTime="84.09" >
+<Turn speaker="S1" startTime="63.48" endTime="67.1">
+<Sync time="63.48"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="67.1" endTime="84.09">
+<Sync time="67.1"/>
+so i'm trying to
+</Turn>
+</Section>
+<Section type="report" startTime="112.54" endTime="119.82" >
+<Turn speaker="S1" startTime="112.54" endTime="114.71">
+<Sync time="112.54"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="114.71" endTime="119.82">
+<Sync time="114.71"/>
+oh
+</Turn>
+</Section>
+<Section type="report" startTime="126.89" endTime="153.9" >
+<Turn speaker="S1" startTime="126.89" endTime="133.22">
+<Sync time="126.89"/>
+know
+</Turn>
+<Turn speaker="S2" startTime="133.22" endTime="153.9">
+<Sync time="133.22"/>
+to go on for oh okay um
+</Turn>
+</Section>
+<Section type="report" startTime="158.1" endTime="189.49" >
+<Turn speaker="S2" startTime="158.1" endTime="189.49">
+<Sync time="158.1"/>
+a little bit in turkey and and i know one of out
+</Turn>
+</Section>
+<Section type="report" startTime="193.47" endTime="201.42" >
+<Turn speaker="S3" startTime="193.47" endTime="201.42">
+<Sync time="193.47"/>
+iraq
+</Turn>
+</Section>
+</Episode>
+</Trans>

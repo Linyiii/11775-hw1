@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2535" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.67" endTime="12.36" >
+<Turn speaker="S1" startTime="3.67" endTime="12.36">
+<Sync time="3.67"/>
+take one day one mother her hair done for a party son in law just
+</Turn>
+</Section>
+<Section type="report" startTime="15.46" endTime="41.22" >
+<Turn speaker="S2" startTime="15.46" endTime="41.22">
+<Sync time="15.46"/>
+and there goes the hairdo to hairdos but that's all right it can be fixed she the good hairspray ozone fluid that that's been sprayed with ozone fluid that can be fixed comb touch it still feels
+</Turn>
+</Section>
+<Section type="report" startTime="54.87" endTime="60.44" >
+<Turn speaker="S2" startTime="54.87" endTime="60.44">
+<Sync time="54.87"/>
+that the hairdressers hairspray that leaves hair feeling like hair
+</Turn>
+</Section>
+</Episode>
+</Trans>

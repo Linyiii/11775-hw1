@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5185" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="2.72" >
+<Turn speaker="S1" startTime="0.03" endTime="2.72">
+<Sync time="0.03"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="18.22" endTime="211.19" >
+<Turn speaker="S2" startTime="18.22" endTime="41.04">
+<Sync time="18.22"/>
+do they do they on the they go
+</Turn>
+<Turn speaker="S3" startTime="41.04" endTime="63.87">
+<Sync time="41.04"/>
+scary when you're there right that the just so much in the law
+</Turn>
+<Turn speaker="S2" startTime="63.87" endTime="74.71">
+<Sync time="63.87"/>
+and uh
+</Turn>
+<Turn speaker="S4" startTime="74.71" endTime="124.67">
+<Sync time="74.71"/>
+more than the and they're all done in the town down downturn in the on on like
+</Turn>
+<Turn speaker="S5" startTime="124.67" endTime="133.94">
+<Sync time="124.67"/>
+um will different people and
+</Turn>
+<Turn speaker="S4" startTime="133.94" endTime="149.25">
+<Sync time="133.94"/>
+away from the lab and get the go down the drain
+</Turn>
+<Turn speaker="S6" startTime="149.25" endTime="199.28">
+<Sync time="149.25"/>
+oh
+</Turn>
+<Turn speaker="S3" startTime="199.28" endTime="211.19">
+<Sync time="199.28"/>
+but by the the beginning when you go to you find yourself
+</Turn>
+</Section>
+</Episode>
+</Trans>

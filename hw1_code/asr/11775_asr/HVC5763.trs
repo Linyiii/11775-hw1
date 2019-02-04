@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5763" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="9.92" endTime="82.92" >
+<Turn speaker="S1" startTime="9.92" endTime="16.09">
+<Sync time="9.92"/>
+maybe
+</Turn>
+<Turn speaker="S2" startTime="16.09" endTime="24.94">
+<Sync time="16.09"/>
+they have the baby
+</Turn>
+<Turn speaker="S3" startTime="24.94" endTime="39.37">
+<Sync time="24.94"/>
+yeah yeah me me they use
+</Turn>
+<Turn speaker="S2" startTime="39.37" endTime="49.62">
+<Sync time="39.37"/>
+okay yeah
+</Turn>
+<Turn speaker="S1" startTime="49.62" endTime="82.92">
+<Sync time="49.62"/>
+okay so this goes need to get before oh no it's supposed to be you want to put anything below or did they know how everywhere i don't yeah i think the the paper off you break it up i mean you don't pick it up she needs wow
+</Turn>
+</Section>
+<Section type="report" startTime="89.69" endTime="104.07" >
+<Turn speaker="S2" startTime="89.69" endTime="100.16">
+<Sync time="89.69"/>
+mhm yes
+</Turn>
+<Turn speaker="S1" startTime="100.16" endTime="104.07">
+<Sync time="100.16"/>
+um yeah i've heard of things go in yeah
+</Turn>
+</Section>
+<Section type="report" startTime="114.96" endTime="123.9" >
+<Turn speaker="S2" startTime="114.96" endTime="123.9">
+<Sync time="114.96"/>
+what i have a good
+</Turn>
+</Section>
+<Section type="report" startTime="124.07" endTime="126.62" >
+<Turn speaker="S1" startTime="124.07" endTime="126.62">
+<Sync time="124.07"/>
+yum yum yum yum
+</Turn>
+</Section>
+</Episode>
+</Trans>

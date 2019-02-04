@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2708" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="58.29" >
+<Turn speaker="S1" startTime="0.0" endTime="30.57">
+<Sync time="0.0"/>
+first birthday today it's ah december tends to nine and first birthday hey guys good morning you knees or whatever they do you have a birthday do you have a birthday dear you is happy birthday to you
+</Turn>
+<Turn speaker="S2" startTime="30.57" endTime="47.45">
+<Sync time="30.57"/>
+i just i i i know for a moment that well but he blew up up his strong
+</Turn>
+<Turn speaker="S1" startTime="47.45" endTime="53.15">
+<Sync time="47.45"/>
+hey guy
+</Turn>
+<Turn speaker="S2" startTime="53.15" endTime="58.29">
+<Sync time="53.15"/>
+yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

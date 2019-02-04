@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4610" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="23.0" endTime="112.69" >
+<Turn speaker="S1" startTime="23.0" endTime="48.87">
+<Sync time="23.0"/>
+buy a pack a day to day but i don't know one person but i don't know what you want to stay around that time meant to be
+</Turn>
+<Turn speaker="S2" startTime="48.87" endTime="61.57">
+<Sync time="48.87"/>
+no no no no i'm on a plane
+</Turn>
+<Turn speaker="S1" startTime="61.57" endTime="87.21">
+<Sync time="61.57"/>
+me too i don't know what i would get better that way now
+</Turn>
+<Turn speaker="S2" startTime="87.21" endTime="112.69">
+<Sync time="87.21"/>
+you know not so what did they find a place as soon as i know i'm i'm a flag on my job is you know last night
+</Turn>
+</Section>
+<Section type="report" startTime="124.07" endTime="184.44" >
+<Turn speaker="S2" startTime="124.07" endTime="184.44">
+<Sync time="124.07"/>
+uh so uh uh a little bit and i love them you know what i'm hearing about it and i had one on there
+</Turn>
+</Section>
+<Section type="report" startTime="184.2" endTime="189.97" >
+<Turn speaker="S3" startTime="184.2" endTime="189.97">
+<Sync time="184.2"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

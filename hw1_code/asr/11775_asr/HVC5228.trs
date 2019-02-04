@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5228" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="24.27" >
+<Turn speaker="S1" startTime="0.0" endTime="15.05">
+<Sync time="0.0"/>
+a full time
+</Turn>
+<Turn speaker="S2" startTime="15.05" endTime="24.27">
+<Sync time="15.05"/>
+we're trying to get the camera and then the girls all done
+</Turn>
+</Section>
+<Section type="report" startTime="28.38" endTime="32.89" >
+<Turn speaker="S2" startTime="28.38" endTime="32.89">
+<Sync time="28.38"/>
+they're using it soon like a big girl
+</Turn>
+</Section>
+</Episode>
+</Trans>

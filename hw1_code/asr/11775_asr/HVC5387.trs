@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5387" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="21.23" endTime="29.88" >
+<Turn speaker="S1" startTime="21.23" endTime="29.88">
+<Sync time="21.23"/>
+and know um
+</Turn>
+</Section>
+<Section type="report" startTime="38.91" endTime="50.63" >
+<Turn speaker="S1" startTime="38.91" endTime="50.63">
+<Sync time="38.91"/>
+why
+</Turn>
+</Section>
+<Section type="report" startTime="50.75" endTime="59.19" >
+<Turn speaker="S2" startTime="50.75" endTime="59.19">
+<Sync time="50.75"/>
+you know to me what do you think about it again
+</Turn>
+</Section>
+<Section type="report" startTime="59.29" endTime="65.43" >
+<Turn speaker="S2" startTime="59.29" endTime="65.43">
+<Sync time="59.29"/>
+five to close enough
+</Turn>
+</Section>
+<Section type="report" startTime="65.58" endTime="74.29" >
+<Turn speaker="S2" startTime="65.58" endTime="74.29">
+<Sync time="65.58"/>
+so i don't know some fish
+</Turn>
+</Section>
+<Section type="report" startTime="83.92" endTime="95.03" >
+<Turn speaker="S2" startTime="83.92" endTime="95.03">
+<Sync time="83.92"/>
+again i want to run down
+</Turn>
+</Section>
+<Section type="report" startTime="114.65" endTime="118.74" >
+<Turn speaker="S3" startTime="114.65" endTime="118.74">
+<Sync time="114.65"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="137.93" endTime="147.87" >
+<Turn speaker="S3" startTime="137.93" endTime="147.87">
+<Sync time="137.93"/>
+nope
+</Turn>
+</Section>
+<Section type="report" startTime="170.85" endTime="178.06" >
+<Turn speaker="S2" startTime="170.85" endTime="178.06">
+<Sync time="170.85"/>
+yeah why
+</Turn>
+</Section>
+<Section type="report" startTime="178.19" endTime="187.21" >
+<Turn speaker="S2" startTime="178.19" endTime="187.21">
+<Sync time="178.19"/>
+yeah to think if i go out to do next
+</Turn>
+</Section>
+<Section type="report" startTime="203.21" endTime="206.99" >
+<Turn speaker="S1" startTime="203.21" endTime="206.99">
+<Sync time="203.21"/>
+know
+</Turn>
+</Section>
+<Section type="report" startTime="238.97" endTime="252.19" >
+<Turn speaker="S1" startTime="238.97" endTime="252.19">
+<Sync time="238.97"/>
+well
+</Turn>
+</Section>
+<Section type="report" startTime="294.55" endTime="305.14" >
+<Turn speaker="S1" startTime="294.55" endTime="305.14">
+<Sync time="294.55"/>
+oh okay
+</Turn>
+</Section>
+<Section type="report" startTime="320.04" endTime="327.75" >
+<Turn speaker="S1" startTime="320.04" endTime="327.75">
+<Sync time="320.04"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="327.88" endTime="341.44" >
+<Turn speaker="S2" startTime="327.88" endTime="341.44">
+<Sync time="327.88"/>
+slower fresh mr president how you doing
+</Turn>
+</Section>
+<Section type="report" startTime="372.63" endTime="390.49" >
+<Turn speaker="S4" startTime="372.63" endTime="390.49">
+<Sync time="372.63"/>
+their pets
+</Turn>
+</Section>
+<Section type="report" startTime="396.09" endTime="411.28" >
+<Turn speaker="S5" startTime="396.09" endTime="411.28">
+<Sync time="396.09"/>
+oh why
+</Turn>
+</Section>
+<Section type="report" startTime="411.41" endTime="425.08" >
+<Turn speaker="S5" startTime="411.41" endTime="425.08">
+<Sync time="411.41"/>
+okay
+</Turn>
+</Section>
+</Episode>
+</Trans>

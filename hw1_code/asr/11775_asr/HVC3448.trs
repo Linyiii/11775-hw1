@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3448" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="19.0" >
+<Turn speaker="S1" startTime="0.0" endTime="2.79">
+<Sync time="0.0"/>
+well look at the bottle
+</Turn>
+<Turn speaker="S2" startTime="2.79" endTime="19.0">
+<Sync time="2.79"/>
+uh basically around the area you can see not that we've been talking about the rockies were only build roads area please don't go outside the concerns me that the parents are important people are are just tend to go out
+</Turn>
+</Section>
+<Section type="report" startTime="19.25" endTime="29.61" >
+<Turn speaker="S1" startTime="19.25" endTime="29.61">
+<Sync time="19.25"/>
+yeah well that's what i'm doing looking guy can't resist going up and we'll go we'll go
+</Turn>
+</Section>
+</Episode>
+</Trans>

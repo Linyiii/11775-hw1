@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3779" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="4.57" >
+<Turn speaker="S1" startTime="0.04" endTime="4.57">
+<Sync time="0.04"/>
+although i know
+</Turn>
+</Section>
+<Section type="report" startTime="13.69" endTime="25.62" >
+<Turn speaker="S2" startTime="13.69" endTime="25.62">
+<Sync time="13.69"/>
+oh god
+</Turn>
+</Section>
+<Section type="report" startTime="40.82" endTime="49.49" >
+<Turn speaker="S3" startTime="40.82" endTime="49.49">
+<Sync time="40.82"/>
+oh hey let 'em but i don't my my my
+</Turn>
+</Section>
+<Section type="report" startTime="59.0" endTime="72.11" >
+<Turn speaker="S4" startTime="59.0" endTime="68.04">
+<Sync time="59.0"/>
+thanks
+</Turn>
+<Turn speaker="S5" startTime="68.04" endTime="72.11">
+<Sync time="68.04"/>
+oh wow
+</Turn>
+</Section>
+<Section type="report" startTime="76.35" endTime="107.15" >
+<Turn speaker="S6" startTime="76.35" endTime="83.7">
+<Sync time="76.35"/>
+job let's rent money all
+</Turn>
+<Turn speaker="S7" startTime="83.7" endTime="94.01">
+<Sync time="83.7"/>
+no no no i'm home now
+</Turn>
+<Turn speaker="S8" startTime="94.01" endTime="107.15">
+<Sync time="94.01"/>
+oh my god wow
+</Turn>
+</Section>
+<Section type="report" startTime="116.81" endTime="124.39" >
+<Turn speaker="S9" startTime="116.81" endTime="124.39">
+<Sync time="116.81"/>
+mhm mm
+</Turn>
+</Section>
+<Section type="report" startTime="127.12" endTime="145.49" >
+<Turn speaker="S10" startTime="127.12" endTime="139.94">
+<Sync time="127.12"/>
+oh really well that's what i really
+</Turn>
+<Turn speaker="S11" startTime="139.94" endTime="145.49">
+<Sync time="139.94"/>
+well i i
+</Turn>
+</Section>
+</Episode>
+</Trans>

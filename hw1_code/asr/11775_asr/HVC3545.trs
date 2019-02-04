@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3545" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.19" endTime="63.28" >
+<Turn speaker="S1" startTime="0.19" endTime="63.28">
+<Sync time="0.19"/>
+yeah they do is just my legs and talk show
+</Turn>
+</Section>
+<Section type="report" startTime="72.94" endTime="81.13" >
+<Turn speaker="S1" startTime="72.94" endTime="81.13">
+<Sync time="72.94"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

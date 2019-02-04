@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3856" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="17.28" endTime="22.91" >
+<Turn speaker="S1" startTime="17.28" endTime="22.91">
+<Sync time="17.28"/>
+mm
+</Turn>
+</Section>
+<Section type="report" startTime="50.64" endTime="92.19" >
+<Turn speaker="S2" startTime="50.64" endTime="71.6">
+<Sync time="50.64"/>
+mm mm mm
+</Turn>
+<Turn speaker="S3" startTime="71.6" endTime="79.49">
+<Sync time="71.6"/>
+keeps
+</Turn>
+<Turn speaker="S4" startTime="79.49" endTime="92.19">
+<Sync time="79.49"/>
+sports which which which which which which which which which which which which which which which which which which which which which which which one
+</Turn>
+</Section>
+<Section type="report" startTime="125.07" endTime="137.41" >
+<Turn speaker="S5" startTime="125.07" endTime="129.0">
+<Sync time="125.07"/>
+mhm
+</Turn>
+<Turn speaker="S6" startTime="129.0" endTime="137.41">
+<Sync time="129.0"/>
+uh
+</Turn>
+</Section>
+<Section type="report" startTime="195.95" endTime="202.88" >
+<Turn speaker="S7" startTime="195.95" endTime="202.88">
+<Sync time="195.95"/>
+mm mm
+</Turn>
+</Section>
+</Episode>
+</Trans>

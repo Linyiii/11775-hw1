@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5199" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="4.98" >
+<Turn speaker="S1" startTime="0.0" endTime="4.98">
+<Sync time="0.0"/>
+uh-huh uh
+</Turn>
+</Section>
+<Section type="report" startTime="9.4" endTime="99.04" >
+<Turn speaker="S2" startTime="9.4" endTime="31.27">
+<Sync time="9.4"/>
+uh the way out towards a a uh
+</Turn>
+<Turn speaker="S3" startTime="31.27" endTime="55.2">
+<Sync time="31.27"/>
+and you know ban me man you know not being a
+</Turn>
+<Turn speaker="S2" startTime="55.2" endTime="81.07">
+<Sync time="55.2"/>
+i think to dream of or you know are they not bad for a couple of places where they should
+</Turn>
+<Turn speaker="S3" startTime="81.07" endTime="84.88">
+<Sync time="81.07"/>
+so
+</Turn>
+<Turn speaker="S2" startTime="84.88" endTime="96.72">
+<Sync time="84.88"/>
+the only thing i i live
+</Turn>
+<Turn speaker="S3" startTime="96.72" endTime="99.04">
+<Sync time="96.72"/>
+do you
+</Turn>
+</Section>
+<Section type="report" startTime="99.15" endTime="102.45" >
+<Turn speaker="S2" startTime="99.15" endTime="102.45">
+<Sync time="99.15"/>
+uh
+</Turn>
+</Section>
+</Episode>
+</Trans>

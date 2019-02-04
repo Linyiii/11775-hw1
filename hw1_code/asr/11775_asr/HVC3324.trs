@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3324" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.1" endTime="158.61" >
+<Turn speaker="S1" startTime="0.1" endTime="125.3">
+<Sync time="0.1"/>
+no matter what was the same time the kids get done with the they probably pay money and they change the the players that you or so we will probably gain a little in may go get it by men men in the bed and they go to public places is really not for gas and the answers and the newspaper
+</Turn>
+<Turn speaker="S2" startTime="125.3" endTime="158.61">
+<Sync time="125.3"/>
+but anyway i was going on
+</Turn>
+</Section>
+</Episode>
+</Trans>

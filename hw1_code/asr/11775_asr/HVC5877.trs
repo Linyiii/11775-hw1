@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5877" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="48.8" >
+<Turn speaker="S1" startTime="0.0" endTime="35.62">
+<Sync time="0.0"/>
+right that's a big difference little ways like i said you're going to grow more like human rights as much like when it's cold outside you know you know i got up there or maybe the lions buddy
+</Turn>
+<Turn speaker="S2" startTime="35.62" endTime="48.8">
+<Sync time="35.62"/>
+let's say more like you know
+</Turn>
+</Section>
+<Section type="report" startTime="48.57" endTime="57.05" >
+<Turn speaker="S1" startTime="48.57" endTime="57.05">
+<Sync time="48.57"/>
+or the low
+</Turn>
+</Section>
+</Episode>
+</Trans>

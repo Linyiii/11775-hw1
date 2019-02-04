@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2618" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="6.28" endTime="81.78" >
+<Turn speaker="S1" startTime="6.28" endTime="77.33">
+<Sync time="6.28"/>
+and they record me the picture my daddy thing um okay clear day that i'll get one here something on the other side daddy compared you can wear that you've been with me you know they do you help me my birthday to daddy happy birthday daddy that'll be to be ready yeah
+</Turn>
+<Turn speaker="S2" startTime="77.33" endTime="81.78">
+<Sync time="77.33"/>
+then
+</Turn>
+</Section>
+<Section type="report" startTime="81.65" endTime="92.95" >
+<Turn speaker="S1" startTime="81.65" endTime="92.95">
+<Sync time="81.65"/>
+i'm fine thanks
+</Turn>
+</Section>
+</Episode>
+</Trans>

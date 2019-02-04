@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5752" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="3.56" >
+<Turn speaker="S1" startTime="0.0" endTime="3.56">
+<Sync time="0.0"/>
+then no don't yeah i i know it's a habit
+</Turn>
+</Section>
+<Section type="report" startTime="6.84" endTime="30.03" >
+<Turn speaker="S2" startTime="6.84" endTime="11.54">
+<Sync time="6.84"/>
+okay noticed that you take a really big down and it will
+</Turn>
+<Turn speaker="S3" startTime="11.54" endTime="18.48">
+<Sync time="11.54"/>
+plane which is have you know you can't they seem to take the most important and it's not like oh
+</Turn>
+<Turn speaker="S4" startTime="18.48" endTime="25.66">
+<Sync time="18.48"/>
+and he sees in places you know any sense to me when he came to name was
+</Turn>
+<Turn speaker="S5" startTime="25.66" endTime="30.03">
+<Sync time="25.66"/>
+neil craig's warm actually sound like interest rates
+</Turn>
+</Section>
+</Episode>
+</Trans>

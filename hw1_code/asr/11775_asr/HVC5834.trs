@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5834" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.08" endTime="27.83" >
+<Turn speaker="S1" startTime="0.08" endTime="15.12">
+<Sync time="0.08"/>
+the go onto video nice don't slash sweet to make the flash
+</Turn>
+<Turn speaker="S2" startTime="15.12" endTime="21.53">
+<Sync time="15.12"/>
+you know i know we have more oh
+</Turn>
+<Turn speaker="S1" startTime="21.53" endTime="27.83">
+<Sync time="21.53"/>
+little tiny agreed to brown
+</Turn>
+</Section>
+<Section type="report" startTime="35.4" endTime="112.15" >
+<Turn speaker="S1" startTime="35.4" endTime="52.73">
+<Sync time="35.4"/>
+i don't know i can't i can't even to get hurt
+</Turn>
+<Turn speaker="S2" startTime="52.73" endTime="112.15">
+<Sync time="52.73"/>
+under your shoe unless you go i don't get me wrong but we're i want to hold change color my hands we will keep them keep them i never change color back oh what last oh no oh we didn't do that too um did we i don't think we did we did
+</Turn>
+</Section>
+<Section type="report" startTime="112.4" endTime="115.39" >
+<Turn speaker="S1" startTime="112.4" endTime="115.39">
+<Sync time="112.4"/>
+little guy we love you
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5466" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S15" name="K15" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S16" name="K16" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S17" name="K17" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S18" name="K18" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S19" name="K19" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S20" name="K20" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="17.71" endTime="35.85" >
+<Turn speaker="S1" startTime="17.71" endTime="21.42">
+<Sync time="17.71"/>
+and
+</Turn>
+<Turn speaker="S2" startTime="21.42" endTime="29.76">
+<Sync time="21.42"/>
+and then you
+</Turn>
+<Turn speaker="S3" startTime="29.76" endTime="33.23">
+<Sync time="29.76"/>
+any um
+</Turn>
+<Turn speaker="S4" startTime="33.23" endTime="35.85">
+<Sync time="33.23"/>
+to me
+</Turn>
+</Section>
+<Section type="report" startTime="45.62" endTime="110.27" >
+<Turn speaker="S5" startTime="45.62" endTime="50.18">
+<Sync time="45.62"/>
+pardon me
+</Turn>
+<Turn speaker="S6" startTime="50.18" endTime="57.93">
+<Sync time="50.18"/>
+i hadn't seen tennessee uh even more he did it really is um
+</Turn>
+<Turn speaker="S7" startTime="57.93" endTime="64.77">
+<Sync time="57.93"/>
+what is she and
+</Turn>
+<Turn speaker="S8" startTime="64.77" endTime="70.16">
+<Sync time="64.77"/>
+mm mm
+</Turn>
+<Turn speaker="S9" startTime="70.16" endTime="77.73">
+<Sync time="70.16"/>
+and to me
+</Turn>
+<Turn speaker="S10" startTime="77.73" endTime="85.09">
+<Sync time="77.73"/>
+yeah
+</Turn>
+<Turn speaker="S11" startTime="85.09" endTime="90.16">
+<Sync time="85.09"/>
+um and
+</Turn>
+<Turn speaker="S12" startTime="90.16" endTime="97.32">
+<Sync time="90.16"/>
+no me neither a i think he asked me uh and
+</Turn>
+<Turn speaker="S13" startTime="97.32" endTime="102.99">
+<Sync time="97.32"/>
+um
+</Turn>
+<Turn speaker="S14" startTime="102.99" endTime="110.27">
+<Sync time="102.99"/>
+eighteen
+</Turn>
+</Section>
+<Section type="report" startTime="124.22" endTime="153.02" >
+<Turn speaker="S15" startTime="124.22" endTime="130.7">
+<Sync time="124.22"/>
+i was bad
+</Turn>
+<Turn speaker="S16" startTime="130.7" endTime="138.18">
+<Sync time="130.7"/>
+hi pat uh and they are and and if they did the other day um
+</Turn>
+<Turn speaker="S17" startTime="138.18" endTime="145.38">
+<Sync time="138.18"/>
+wow
+</Turn>
+<Turn speaker="S18" startTime="145.38" endTime="153.02">
+<Sync time="145.38"/>
+wow um
+</Turn>
+</Section>
+<Section type="report" startTime="159.94" endTime="163.73" >
+<Turn speaker="S19" startTime="159.94" endTime="163.73">
+<Sync time="159.94"/>
+game
+</Turn>
+</Section>
+<Section type="report" startTime="174.28" endTime="180.91" >
+<Turn speaker="S20" startTime="174.28" endTime="180.91">
+<Sync time="174.28"/>
+um
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6243" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="240.61" >
+<Turn speaker="S1" startTime="0.04" endTime="18.81">
+<Sync time="0.04"/>
+some speaker phone and i live in you love me this i can i can find
+</Turn>
+<Turn speaker="S2" startTime="18.81" endTime="25.32">
+<Sync time="18.81"/>
+um and women are beautiful
+</Turn>
+<Turn speaker="S3" startTime="25.32" endTime="43.29">
+<Sync time="25.32"/>
+is last june and candles out of bed and not a good topic today about i'll be back to them but i
+</Turn>
+<Turn speaker="S4" startTime="43.29" endTime="74.31">
+<Sync time="43.29"/>
+i can i can you know i just buy one and carries the confidence i'm not sure if i'll be helping a ton of money the but
+</Turn>
+<Turn speaker="S3" startTime="74.31" endTime="93.29">
+<Sync time="74.31"/>
+the bad old age don't they haven't found the god no bills a little
+</Turn>
+<Turn speaker="S4" startTime="93.29" endTime="151.24">
+<Sync time="93.29"/>
+no no not yet i'm fine you can talk too much my all the time i don't think they do all that means a lot more now you know they go in and we were young mom and my mom said oh
+</Turn>
+<Turn speaker="S1" startTime="151.24" endTime="165.9">
+<Sync time="151.24"/>
+and i live in the same time
+</Turn>
+<Turn speaker="S5" startTime="165.9" endTime="227.19">
+<Sync time="165.9"/>
+they've come a time when my mom and dad i don't know how that goes along yeah yeah that was a man i'm retired i don't buy that are on your mind you know i'm not know man with a lot of 'em and say ten dollars i'm like oh no no no no no no no no just the dog
+</Turn>
+<Turn speaker="S4" startTime="227.19" endTime="232.6">
+<Sync time="227.19"/>
+i can live on line
+</Turn>
+<Turn speaker="S3" startTime="232.6" endTime="240.61">
+<Sync time="232.6"/>
+um
+</Turn>
+</Section>
+<Section type="report" startTime="247.96" endTime="250.62" >
+<Turn speaker="S6" startTime="247.96" endTime="250.62">
+<Sync time="247.96"/>
+mhm
+</Turn>
+</Section>
+</Episode>
+</Trans>

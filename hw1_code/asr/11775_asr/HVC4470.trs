@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4470" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.36" endTime="89.84" >
+<Turn speaker="S1" startTime="0.36" endTime="6.35">
+<Sync time="0.36"/>
+is a great program that combines obedience for dogs and exercise their owners
+</Turn>
+<Turn speaker="S2" startTime="6.35" endTime="15.38">
+<Sync time="6.35"/>
+yeah
+</Turn>
+<Turn speaker="S3" startTime="15.38" endTime="19.82">
+<Sync time="15.38"/>
+in the country
+</Turn>
+<Turn speaker="S1" startTime="19.82" endTime="27.71">
+<Sync time="19.82"/>
+great alternative to obedience school because you're going to get all that training here and you're also going to get out workout kill two birds with one
+</Turn>
+<Turn speaker="S3" startTime="27.71" endTime="34.12">
+<Sync time="27.71"/>
+and
+</Turn>
+<Turn speaker="S4" startTime="34.12" endTime="51.8">
+<Sync time="34.12"/>
+the personal trainers i'm responsible for getting a great workout and i'm the training i had twelve years of experience we started off on something like he'll say and some to get into jumps and i'm more training assistance right
+</Turn>
+<Turn speaker="S1" startTime="51.8" endTime="73.86">
+<Sync time="51.8"/>
+it's really well organized because you've got all helping with the dogs and making sure that the dogs are doing what they're supposed to be doing and then you've got solid pushing you on the exercise it's just hard enough for me and i know that there's more people in the class and i know that it works for them to enjoy exercising with your dog and the social friends love it you're anybody that a
+</Turn>
+<Turn speaker="S5" startTime="73.86" endTime="83.9">
+<Sync time="73.86"/>
+exercise do you want me to train your dog um save time and money and have fun as a place
+</Turn>
+<Turn speaker="S4" startTime="83.9" endTime="89.84">
+<Sync time="83.9"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

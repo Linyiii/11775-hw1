@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5606" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.21" endTime="54.72" >
+<Turn speaker="S1" startTime="0.21" endTime="3.73">
+<Sync time="0.21"/>
+let them be
+</Turn>
+<Turn speaker="S2" startTime="3.73" endTime="10.67">
+<Sync time="3.73"/>
+mm mm
+</Turn>
+<Turn speaker="S3" startTime="10.67" endTime="23.32">
+<Sync time="10.67"/>
+you know
+</Turn>
+<Turn speaker="S4" startTime="23.32" endTime="40.96">
+<Sync time="23.32"/>
+fine
+</Turn>
+<Turn speaker="S5" startTime="40.96" endTime="54.72">
+<Sync time="40.96"/>
+and the bank and
+</Turn>
+</Section>
+<Section type="report" startTime="68.08" endTime="92.84" >
+<Turn speaker="S6" startTime="68.08" endTime="81.25">
+<Sync time="68.08"/>
+just worst things like that what am i going to be like no don't say that they always break it down for your body
+</Turn>
+<Turn speaker="S3" startTime="81.25" endTime="92.84">
+<Sync time="81.25"/>
+nice to meet you
+</Turn>
+</Section>
+<Section type="report" startTime="92.97" endTime="109.3" >
+<Turn speaker="S4" startTime="92.97" endTime="109.3">
+<Sync time="92.97"/>
+fast fast
+</Turn>
+</Section>
+</Episode>
+</Trans>

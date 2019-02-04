@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3591" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.54" endTime="194.75" >
+<Turn speaker="S1" startTime="3.54" endTime="102.08">
+<Sync time="3.54"/>
+yeah i know you should be your only maybe joking i know i'm not like that they want to eat all guy you know and now they have a trailer on my way around you know i'm not going to do do you you have to be over here but some don't over there that are like a lot of and then you i to go into to do you know many things your daughter she is going on you know actually supposed to talk
+</Turn>
+<Turn speaker="S2" startTime="102.08" endTime="143.55">
+<Sync time="102.08"/>
+on a a a new years younger than me and
+</Turn>
+<Turn speaker="S1" startTime="143.55" endTime="151.71">
+<Sync time="143.55"/>
+you know you know there are no good
+</Turn>
+<Turn speaker="S3" startTime="151.71" endTime="194.75">
+<Sync time="151.71"/>
+i can't hear you you're going to
+</Turn>
+</Section>
+<Section type="report" startTime="194.51" endTime="203.34" >
+<Turn speaker="S4" startTime="194.51" endTime="203.34">
+<Sync time="194.51"/>
+play on the other line
+</Turn>
+</Section>
+</Episode>
+</Trans>

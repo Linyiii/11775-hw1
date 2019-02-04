@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4890" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.12" endTime="52.49" >
+<Turn speaker="S1" startTime="0.12" endTime="18.68">
+<Sync time="0.12"/>
+do you angels
+</Turn>
+<Turn speaker="S2" startTime="18.68" endTime="31.23">
+<Sync time="18.68"/>
+they call your trash
+</Turn>
+<Turn speaker="S1" startTime="31.23" endTime="34.15">
+<Sync time="31.23"/>
+i do too
+</Turn>
+<Turn speaker="S3" startTime="34.15" endTime="38.51">
+<Sync time="34.15"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="38.51" endTime="52.49">
+<Sync time="38.51"/>
+ball game shows on
+</Turn>
+</Section>
+<Section type="report" startTime="66.33" endTime="144.95" >
+<Turn speaker="S2" startTime="66.33" endTime="101.27">
+<Sync time="66.33"/>
+and then last summer oh big on the too
+</Turn>
+<Turn speaker="S3" startTime="101.27" endTime="117.21">
+<Sync time="101.27"/>
+we we check and then try again
+</Turn>
+<Turn speaker="S2" startTime="117.21" endTime="144.95">
+<Sync time="117.21"/>
+no no real t. v. uh
+</Turn>
+</Section>
+<Section type="report" startTime="144.88" endTime="182.91" >
+<Turn speaker="S4" startTime="144.88" endTime="182.91">
+<Sync time="144.88"/>
+nineteen forty three okay okay and do something to do it
+</Turn>
+</Section>
+</Episode>
+</Trans>

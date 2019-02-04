@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3272" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="59.19" endTime="102.7" >
+<Turn speaker="S1" startTime="59.19" endTime="102.7">
+<Sync time="59.19"/>
+you know to be the same i i i they are for the heart to anybody from doing that or yeah because i'm just going to go to the country
+</Turn>
+</Section>
+<Section type="report" startTime="122.56" endTime="140.13" >
+<Turn speaker="S2" startTime="122.56" endTime="140.13">
+<Sync time="122.56"/>
+and ah
+</Turn>
+</Section>
+</Episode>
+</Trans>

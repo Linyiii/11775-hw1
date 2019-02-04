@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6233" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.07" endTime="12.56" >
+<Turn speaker="S1" startTime="0.07" endTime="12.56">
+<Sync time="0.07"/>
+how would you like your own piece of nature you think that can only happen in your dreams now you can call the number at the bottom of the screen but wait
+</Turn>
+</Section>
+<Section type="report" startTime="13.18" endTime="19.72" >
+<Turn speaker="S1" startTime="13.18" endTime="19.72">
+<Sync time="13.18"/>
+the next fifteen minutes we'll give you the surrounding area for free that eighty nine dollars for
+</Turn>
+</Section>
+<Section type="report" startTime="20.49" endTime="22.91" >
+<Turn speaker="S1" startTime="20.49" endTime="22.91">
+<Sync time="20.49"/>
+so in your hands now
+</Turn>
+</Section>
+<Section type="report" startTime="23.09" endTime="30.24" >
+<Turn speaker="S1" startTime="23.09" endTime="30.24">
+<Sync time="23.09"/>
+so cold out and buy your own piece of nature and be part of the campaign for nature
+</Turn>
+</Section>
+</Episode>
+</Trans>

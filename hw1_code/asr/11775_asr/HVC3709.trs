@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3709" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="86.39" >
+<Turn speaker="S1" startTime="0.0" endTime="8.65">
+<Sync time="0.0"/>
+hi i'm hi hi what's that
+</Turn>
+<Turn speaker="S2" startTime="8.65" endTime="28.97">
+<Sync time="8.65"/>
+oh i mean jokes can i hear jokes clean the sex thinking that banana his knock nap who's then then since then and then i can anna his neck not who's this the gas bananas not cat who's uh managed to put an who who's uh
+</Turn>
+<Turn speaker="S3" startTime="28.97" endTime="34.02">
+<Sync time="28.97"/>
+manhattan now mack whose name manny not me
+</Turn>
+<Turn speaker="S4" startTime="34.02" endTime="45.03">
+<Sync time="34.02"/>
+maybe in a banana his who who's there but then who who's a nanny for then who our cat who's a banana who who's there
+</Turn>
+<Turn speaker="S5" startTime="45.03" endTime="49.66">
+<Sync time="45.03"/>
+i'm from who
+</Turn>
+<Turn speaker="S6" startTime="49.66" endTime="52.88">
+<Sync time="49.66"/>
+you've trained trained them and
+</Turn>
+<Turn speaker="S7" startTime="52.88" endTime="60.28">
+<Sync time="52.88"/>
+yeah isn't good joe hi hi hi you have a joke you want to tell
+</Turn>
+<Turn speaker="S8" startTime="60.28" endTime="66.96">
+<Sync time="60.28"/>
+not to say i never been out of his not his thing and honest banana
+</Turn>
+<Turn speaker="S9" startTime="66.96" endTime="75.04">
+<Sync time="66.96"/>
+mm tonight is there apple too
+</Turn>
+<Turn speaker="S10" startTime="75.04" endTime="79.67">
+<Sync time="75.04"/>
+you're exposed like love i love you
+</Turn>
+<Turn speaker="S11" startTime="79.67" endTime="82.61">
+<Sync time="79.67"/>
+care siamese
+</Turn>
+<Turn speaker="S12" startTime="82.61" endTime="86.39">
+<Sync time="82.61"/>
+not oh then but i
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5165" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="15.56" endTime="127.48" >
+<Turn speaker="S1" startTime="15.56" endTime="127.48">
+<Sync time="15.56"/>
+just lay all the other day um my goodness i can't even believe that you know this is that i just feel like you need to i went back
+</Turn>
+</Section>
+</Episode>
+</Trans>

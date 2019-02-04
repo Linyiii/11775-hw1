@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4779" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.07" endTime="180.31" >
+<Turn speaker="S1" startTime="0.07" endTime="17.1">
+<Sync time="0.07"/>
+and and and and and and uh
+</Turn>
+<Turn speaker="S2" startTime="17.1" endTime="25.78">
+<Sync time="17.1"/>
+and you're not not a lot in common garage
+</Turn>
+<Turn speaker="S3" startTime="25.78" endTime="34.37">
+<Sync time="25.78"/>
+go by that
+</Turn>
+<Turn speaker="S2" startTime="34.37" endTime="38.79">
+<Sync time="34.37"/>
+do you ever
+</Turn>
+<Turn speaker="S3" startTime="38.79" endTime="67.7">
+<Sync time="38.79"/>
+is just a very very down down and now it's your turn and then you just can't stand going
+</Turn>
+<Turn speaker="S2" startTime="67.7" endTime="70.65">
+<Sync time="67.7"/>
+there are so old
+</Turn>
+<Turn speaker="S3" startTime="70.65" endTime="80.58">
+<Sync time="70.65"/>
+uh
+</Turn>
+<Turn speaker="S2" startTime="80.58" endTime="83.35">
+<Sync time="80.58"/>
+is that
+</Turn>
+<Turn speaker="S3" startTime="83.35" endTime="87.82">
+<Sync time="83.35"/>
+no way
+</Turn>
+<Turn speaker="S4" startTime="87.82" endTime="104.75">
+<Sync time="87.82"/>
+and then
+</Turn>
+<Turn speaker="S1" startTime="104.75" endTime="123.16">
+<Sync time="104.75"/>
+and and and and then you know no doubt about that
+</Turn>
+<Turn speaker="S3" startTime="123.16" endTime="129.57">
+<Sync time="123.16"/>
+and oh no no no man
+</Turn>
+<Turn speaker="S1" startTime="129.57" endTime="132.8">
+<Sync time="129.57"/>
+no
+</Turn>
+<Turn speaker="S5" startTime="132.8" endTime="167.82">
+<Sync time="132.8"/>
+uh you know and and just a man around anybody on calling in uh they're trying get out of kind of annoying that and i thought oh man you know you go to college
+</Turn>
+<Turn speaker="S1" startTime="167.82" endTime="174.74">
+<Sync time="167.82"/>
+no
+</Turn>
+<Turn speaker="S6" startTime="174.74" endTime="180.31">
+<Sync time="174.74"/>
+mm mm
+</Turn>
+</Section>
+<Section type="report" startTime="185.73" endTime="208.07" >
+<Turn speaker="S6" startTime="185.73" endTime="193.25">
+<Sync time="185.73"/>
+no
+</Turn>
+<Turn speaker="S7" startTime="193.25" endTime="208.07">
+<Sync time="193.25"/>
+uh uh a
+</Turn>
+</Section>
+<Section type="report" startTime="242.74" endTime="281.54" >
+<Turn speaker="S7" startTime="242.74" endTime="263.68">
+<Sync time="242.74"/>
+oh my gosh
+</Turn>
+<Turn speaker="S8" startTime="263.68" endTime="281.54">
+<Sync time="263.68"/>
+and um
+</Turn>
+</Section>
+<Section type="report" startTime="294.29" endTime="361.64" >
+<Turn speaker="S9" startTime="294.29" endTime="313.2">
+<Sync time="294.29"/>
+and do that
+</Turn>
+<Turn speaker="S7" startTime="313.2" endTime="335.16">
+<Sync time="313.2"/>
+uh uh and uh
+</Turn>
+<Turn speaker="S8" startTime="335.16" endTime="353.75">
+<Sync time="335.16"/>
+and um
+</Turn>
+<Turn speaker="S6" startTime="353.75" endTime="361.64">
+<Sync time="353.75"/>
+and
+</Turn>
+</Section>
+</Episode>
+</Trans>

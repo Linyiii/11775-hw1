@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4124" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="87.18" endTime="110.82" >
+<Turn speaker="S1" startTime="87.18" endTime="110.82">
+<Sync time="87.18"/>
+and they live in a for their own
+</Turn>
+</Section>
+<Section type="report" startTime="221.9" endTime="253.41" >
+<Turn speaker="S1" startTime="221.9" endTime="253.41">
+<Sync time="221.9"/>
+or a baseball game or anything
+</Turn>
+</Section>
+</Episode>
+</Trans>

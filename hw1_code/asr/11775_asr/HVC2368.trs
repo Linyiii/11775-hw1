@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2368" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="23.89" >
+<Turn speaker="S1" startTime="0.0" endTime="5.46">
+<Sync time="0.0"/>
+well uh uh uh
+</Turn>
+<Turn speaker="S2" startTime="5.46" endTime="11.66">
+<Sync time="5.46"/>
+they go in that man i've been all the word for ya single or this be thrown in you and i have something
+</Turn>
+<Turn speaker="S3" startTime="11.66" endTime="23.89">
+<Sync time="11.66"/>
+long as we speak smoker you'll mix eating all the way back and goes like this
+</Turn>
+</Section>
+<Section type="report" startTime="27.56" endTime="61.96" >
+<Turn speaker="S4" startTime="27.56" endTime="37.92">
+<Sync time="27.56"/>
+driving with my knees some broken into twice some homeless jury that it was cool to throw this rock through this window i'm still my golf clubs looking for me left and right
+</Turn>
+<Turn speaker="S5" startTime="37.92" endTime="43.76">
+<Sync time="37.92"/>
+take a look at the dashboard it always says that we're in driving wild parking my window
+</Turn>
+<Turn speaker="S6" startTime="43.76" endTime="47.11">
+<Sync time="43.76"/>
+provide a decent brief
+</Turn>
+<Turn speaker="S7" startTime="47.11" endTime="49.96">
+<Sync time="47.11"/>
+window
+</Turn>
+<Turn speaker="S8" startTime="49.96" endTime="54.6">
+<Sync time="49.96"/>
+provide no breeze mashed cards out reign on important five years i gotta go from one
+</Turn>
+<Turn speaker="S9" startTime="54.6" endTime="61.96">
+<Sync time="54.6"/>
+for what's up matt celebrations really overrated conan
+</Turn>
+</Section>
+<Section type="report" startTime="73.18" endTime="89.93" >
+<Turn speaker="S10" startTime="73.18" endTime="83.34">
+<Sync time="73.18"/>
+excuse me they should be off my hands and blow it up i'll go one better i'll throw this thing and my nineteen eighty six church fans currently a storage unit
+</Turn>
+<Turn speaker="S11" startTime="83.34" endTime="87.32">
+<Sync time="83.34"/>
+milk like mop i don't know how you get it to l._a.
+</Turn>
+<Turn speaker="S12" startTime="87.32" endTime="89.93">
+<Sync time="87.32"/>
+doesn't it doesn't start
+</Turn>
+</Section>
+</Episode>
+</Trans>

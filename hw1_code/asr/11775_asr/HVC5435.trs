@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5435" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.3" endTime="4.6" >
+<Turn speaker="S1" startTime="0.3" endTime="4.6">
+<Sync time="0.3"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="8.26" endTime="16.74" >
+<Turn speaker="S2" startTime="8.26" endTime="16.74">
+<Sync time="8.26"/>
+when was that
+</Turn>
+</Section>
+<Section type="report" startTime="30.91" endTime="43.07" >
+<Turn speaker="S3" startTime="30.91" endTime="43.07">
+<Sync time="30.91"/>
+here we have had a bill and billy
+</Turn>
+</Section>
+<Section type="report" startTime="64.23" endTime="68.26" >
+<Turn speaker="S2" startTime="64.23" endTime="68.26">
+<Sync time="64.23"/>
+then
+</Turn>
+</Section>
+<Section type="report" startTime="100.6" endTime="133.25" >
+<Turn speaker="S3" startTime="100.6" endTime="109.74">
+<Sync time="100.6"/>
+looking for this part of the day you can hide you
+</Turn>
+<Turn speaker="S4" startTime="109.74" endTime="133.25">
+<Sync time="109.74"/>
+they said they would actually is a nice place to bring the dogs the you you see the voice it it has to the show a picture here it's it'll be like it's really it's really amazing
+</Turn>
+</Section>
+<Section type="report" startTime="165.57" endTime="192.39" >
+<Turn speaker="S4" startTime="165.57" endTime="172.73">
+<Sync time="165.57"/>
+the girl she loves to be
+</Turn>
+<Turn speaker="S5" startTime="172.73" endTime="183.58">
+<Sync time="172.73"/>
+and uh
+</Turn>
+<Turn speaker="S6" startTime="183.58" endTime="192.39">
+<Sync time="183.58"/>
+he
+</Turn>
+</Section>
+<Section type="report" startTime="198.79" endTime="309.99" >
+<Turn speaker="S7" startTime="198.79" endTime="218.81">
+<Sync time="198.79"/>
+that's uh just seems like it's going been on a really nice and actually bought bitches about almost six months and she has like a manager the little guy is almost
+</Turn>
+<Turn speaker="S8" startTime="218.81" endTime="293.32">
+<Sync time="218.81"/>
+do you do need to do the
+</Turn>
+<Turn speaker="S7" startTime="293.32" endTime="309.99">
+<Sync time="293.32"/>
+that's really the only way to to like corporate exposure from the body is being here
+</Turn>
+</Section>
+<Section type="report" startTime="343.93" endTime="392.73" >
+<Turn speaker="S8" startTime="343.93" endTime="392.73">
+<Sync time="343.93"/>
+and they do do do do do do think they need to go to penn state or new jersey
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6101" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.01" endTime="56.47" >
+<Turn speaker="S1" startTime="0.01" endTime="56.47">
+<Sync time="0.01"/>
+alright so an hour and a half later in the auto parts store we uh ended up getting back on their little part didn't end up needing it but uh i had to basically read read the inside of the tank by hand and then i put the broken back in that attach the uh release the censor by hand and then back into their two hours two hours behind our own schedule but we're still technically i happened to schedule because we left on sunday afternoons and monday morning so we get to go and eat some food get back on the road um dirty
+</Turn>
+</Section>
+</Episode>
+</Trans>

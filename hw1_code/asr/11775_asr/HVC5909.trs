@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5909" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S15" name="K15" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S16" name="K16" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S17" name="K17" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S18" name="K18" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S19" name="K19" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S20" name="K20" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S21" name="K21" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="127.5" >
+<Turn speaker="S1" startTime="0.0" endTime="6.07">
+<Sync time="0.0"/>
+mm i know yeah well she gore eyes to speak
+</Turn>
+<Turn speaker="S2" startTime="6.07" endTime="10.21">
+<Sync time="6.07"/>
+no um i'm jamie
+</Turn>
+<Turn speaker="S3" startTime="10.21" endTime="20.7">
+<Sync time="10.21"/>
+so oh man but i mean what i said was uh-huh
+</Turn>
+<Turn speaker="S4" startTime="20.7" endTime="23.92">
+<Sync time="20.7"/>
+and uh
+</Turn>
+<Turn speaker="S5" startTime="23.92" endTime="26.81">
+<Sync time="23.92"/>
+you know
+</Turn>
+<Turn speaker="S6" startTime="26.81" endTime="33.09">
+<Sync time="26.81"/>
+mm mm uh true mm
+</Turn>
+<Turn speaker="S7" startTime="33.09" endTime="41.99">
+<Sync time="33.09"/>
+don't see who i wanted it again uh
+</Turn>
+<Turn speaker="S8" startTime="41.99" endTime="53.54">
+<Sync time="41.99"/>
+oh jeeze well well no
+</Turn>
+<Turn speaker="S9" startTime="53.54" endTime="57.33">
+<Sync time="53.54"/>
+there's no reason to believe in a mall
+</Turn>
+<Turn speaker="S10" startTime="57.33" endTime="62.95">
+<Sync time="57.33"/>
+junkie
+</Turn>
+<Turn speaker="S11" startTime="62.95" endTime="68.84">
+<Sync time="62.95"/>
+i know that she um
+</Turn>
+<Turn speaker="S12" startTime="68.84" endTime="74.19">
+<Sync time="68.84"/>
+jeeze
+</Turn>
+<Turn speaker="S13" startTime="74.19" endTime="79.3">
+<Sync time="74.19"/>
+huge wise um mm bad god
+</Turn>
+<Turn speaker="S14" startTime="79.3" endTime="87.02">
+<Sync time="79.3"/>
+oh ah needle the uh bull
+</Turn>
+<Turn speaker="S15" startTime="87.02" endTime="92.02">
+<Sync time="87.02"/>
+um my um father
+</Turn>
+<Turn speaker="S16" startTime="92.02" endTime="95.12">
+<Sync time="92.02"/>
+ah yeah
+</Turn>
+<Turn speaker="S17" startTime="95.12" endTime="106.52">
+<Sync time="95.12"/>
+would um drawing alone so i'm still learning new orleans
+</Turn>
+<Turn speaker="S18" startTime="106.52" endTime="110.04">
+<Sync time="106.52"/>
+i one
+</Turn>
+<Turn speaker="S19" startTime="110.04" endTime="113.26">
+<Sync time="110.04"/>
+to
+</Turn>
+<Turn speaker="S20" startTime="113.26" endTime="121.44">
+<Sync time="113.26"/>
+so on you oh um in yeah oh well
+</Turn>
+<Turn speaker="S21" startTime="121.44" endTime="127.5">
+<Sync time="121.44"/>
+oh
+</Turn>
+</Section>
+</Episode>
+</Trans>

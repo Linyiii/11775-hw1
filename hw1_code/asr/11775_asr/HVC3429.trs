@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3429" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="11.72" endTime="27.35" >
+<Turn speaker="S1" startTime="11.72" endTime="22.39">
+<Sync time="11.72"/>
+and
+</Turn>
+<Turn speaker="S2" startTime="22.39" endTime="27.35">
+<Sync time="22.39"/>
+oh
+</Turn>
+</Section>
+<Section type="report" startTime="33.13" endTime="136.16" >
+<Turn speaker="S3" startTime="33.13" endTime="76.78">
+<Sync time="33.13"/>
+and uh on the show but other than my mom to put it on the one of my mom or dad's side to side at all today by by law
+</Turn>
+<Turn speaker="S4" startTime="76.78" endTime="95.78">
+<Sync time="76.78"/>
+uh the whole pack a day
+</Turn>
+<Turn speaker="S3" startTime="95.78" endTime="136.16">
+<Sync time="95.78"/>
+and i'm like oh man and then one day all day long whoa blah blah so
+</Turn>
+</Section>
+</Episode>
+</Trans>

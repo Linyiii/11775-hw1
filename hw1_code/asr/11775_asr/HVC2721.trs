@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2721" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="9.87" endTime="13.23" >
+<Turn speaker="S1" startTime="9.87" endTime="13.23">
+<Sync time="9.87"/>
+mm mm
+</Turn>
+</Section>
+<Section type="report" startTime="21.79" endTime="71.23" >
+<Turn speaker="S2" startTime="21.79" endTime="47.79">
+<Sync time="21.79"/>
+some people there for the fame people thought just the
+</Turn>
+<Turn speaker="S3" startTime="47.79" endTime="71.23">
+<Sync time="47.79"/>
+and the main man made the time when when it happened and then we will do that you know
+</Turn>
+</Section>
+<Section type="report" startTime="97.67" endTime="146.75" >
+<Turn speaker="S2" startTime="97.67" endTime="110.25">
+<Sync time="97.67"/>
+some people for
+</Turn>
+<Turn speaker="S4" startTime="110.25" endTime="120.06">
+<Sync time="110.25"/>
+people do their way weight
+</Turn>
+<Turn speaker="S3" startTime="120.06" endTime="132.75">
+<Sync time="120.06"/>
+and you know
+</Turn>
+<Turn speaker="S2" startTime="132.75" endTime="136.98">
+<Sync time="132.75"/>
+man
+</Turn>
+<Turn speaker="S4" startTime="136.98" endTime="146.75">
+<Sync time="136.98"/>
+and then
+</Turn>
+</Section>
+</Episode>
+</Trans>

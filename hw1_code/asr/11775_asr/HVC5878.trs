@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5878" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.08" endTime="18.58" >
+<Turn speaker="S1" startTime="0.08" endTime="2.59">
+<Sync time="0.08"/>
+okay okay
+</Turn>
+<Turn speaker="S2" startTime="2.59" endTime="11.16">
+<Sync time="2.59"/>
+maybe what you do is you get a haircut
+</Turn>
+<Turn speaker="S1" startTime="11.16" endTime="18.58">
+<Sync time="11.16"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="24.85" endTime="55.28" >
+<Turn speaker="S2" startTime="24.85" endTime="28.45">
+<Sync time="24.85"/>
+and you get a haircut aren't ya
+</Turn>
+<Turn speaker="S3" startTime="28.45" endTime="33.97">
+<Sync time="28.45"/>
+he is
+</Turn>
+<Turn speaker="S1" startTime="33.97" endTime="39.08">
+<Sync time="33.97"/>
+yeah
+</Turn>
+<Turn speaker="S3" startTime="39.08" endTime="47.36">
+<Sync time="39.08"/>
+i know i guess i better give us a warning
+</Turn>
+<Turn speaker="S2" startTime="47.36" endTime="55.28">
+<Sync time="47.36"/>
+what is that what you're saying trying to get a good girl and
+</Turn>
+</Section>
+<Section type="report" startTime="80.28" endTime="100.85" >
+<Turn speaker="S2" startTime="80.28" endTime="100.85">
+<Sync time="80.28"/>
+yeah first haircut excellent during the web site down the safest even doesn't matter to me like yeah i got a job
+</Turn>
+</Section>
+</Episode>
+</Trans>

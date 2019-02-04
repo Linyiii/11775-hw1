@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3027" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="2.75" endTime="26.07" >
+<Turn speaker="S1" startTime="2.75" endTime="8.72">
+<Sync time="2.75"/>
+they had no jason he's already tonight
+</Turn>
+<Turn speaker="S2" startTime="8.72" endTime="15.67">
+<Sync time="8.72"/>
+then and
+</Turn>
+<Turn speaker="S1" startTime="15.67" endTime="19.6">
+<Sync time="15.67"/>
+eating at home
+</Turn>
+<Turn speaker="S2" startTime="19.6" endTime="26.07">
+<Sync time="19.6"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="45.58" endTime="48.93" >
+<Turn speaker="S3" startTime="45.58" endTime="48.93">
+<Sync time="45.58"/>
+mm mm
+</Turn>
+</Section>
+<Section type="report" startTime="55.49" endTime="62.57" >
+<Turn speaker="S4" startTime="55.49" endTime="62.57">
+<Sync time="55.49"/>
+they
+</Turn>
+</Section>
+<Section type="report" startTime="80.43" endTime="84.27" >
+<Turn speaker="S1" startTime="80.43" endTime="84.27">
+<Sync time="80.43"/>
+you think
+</Turn>
+</Section>
+<Section type="report" startTime="103.19" endTime="106.38" >
+<Turn speaker="S3" startTime="103.19" endTime="106.38">
+<Sync time="103.19"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="116.31" endTime="154.81" >
+<Turn speaker="S2" startTime="116.31" endTime="121.06">
+<Sync time="116.31"/>
+no
+</Turn>
+<Turn speaker="S1" startTime="121.06" endTime="125.09">
+<Sync time="121.06"/>
+jason look up and see if you could see a bird
+</Turn>
+<Turn speaker="S5" startTime="125.09" endTime="131.46">
+<Sync time="125.09"/>
+or
+</Turn>
+<Turn speaker="S6" startTime="131.46" endTime="154.81">
+<Sync time="131.46"/>
+well
+</Turn>
+</Section>
+<Section type="report" startTime="154.86" endTime="162.15" >
+<Turn speaker="S5" startTime="154.86" endTime="162.15">
+<Sync time="154.86"/>
+okay that's
+</Turn>
+</Section>
+</Episode>
+</Trans>

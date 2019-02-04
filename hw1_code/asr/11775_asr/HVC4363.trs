@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4363" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.73" endTime="85.37" >
+<Turn speaker="S1" startTime="4.73" endTime="13.09">
+<Sync time="4.73"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="13.09" endTime="34.22">
+<Sync time="13.09"/>
+mm no not really gone up you know i'm not a whole game
+</Turn>
+<Turn speaker="S3" startTime="34.22" endTime="52.22">
+<Sync time="34.22"/>
+the way the government they tell they
+</Turn>
+<Turn speaker="S4" startTime="52.22" endTime="68.75">
+<Sync time="52.22"/>
+no
+</Turn>
+<Turn speaker="S5" startTime="68.75" endTime="85.37">
+<Sync time="68.75"/>
+no no no they don't
+</Turn>
+</Section>
+<Section type="report" startTime="100.08" endTime="159.22" >
+<Turn speaker="S6" startTime="100.08" endTime="107.09">
+<Sync time="100.08"/>
+mm mm mm
+</Turn>
+<Turn speaker="S2" startTime="107.09" endTime="141.32">
+<Sync time="107.09"/>
+i love to go there no no i'm not a novel by dumping the the day
+</Turn>
+<Turn speaker="S3" startTime="141.32" endTime="159.22">
+<Sync time="141.32"/>
+you know them they they they they
+</Turn>
+</Section>
+<Section type="report" startTime="174.66" endTime="203.61" >
+<Turn speaker="S5" startTime="174.66" endTime="203.61">
+<Sync time="174.66"/>
+no no
+</Turn>
+</Section>
+</Episode>
+</Trans>

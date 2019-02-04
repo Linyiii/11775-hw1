@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2645" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="22.26" >
+<Turn speaker="S1" startTime="0.04" endTime="22.26">
+<Sync time="0.04"/>
+that's nice that's nice that's nice it's nice it's nice it's really
+</Turn>
+</Section>
+<Section type="report" startTime="29.12" endTime="33.87" >
+<Turn speaker="S1" startTime="29.12" endTime="33.87">
+<Sync time="29.12"/>
+this that's
+</Turn>
+</Section>
+<Section type="report" startTime="33.99" endTime="53.96" >
+<Turn speaker="S1" startTime="33.99" endTime="53.96">
+<Sync time="33.99"/>
+oh
+</Turn>
+</Section>
+</Episode>
+</Trans>

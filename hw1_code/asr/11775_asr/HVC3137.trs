@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3137" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.11" endTime="171.68" >
+<Turn speaker="S1" startTime="0.11" endTime="38.99">
+<Sync time="0.11"/>
+yeah well no first sprinkles sprinkle anyway i want to look at the cake that daddy and mommy and has made her birthday hadn't made it and mine just helped mommy makeup all now he's going to do the decorating and make it a greenwood lake which is what specifically requested for just that the candle puck handling here first yeah okay this one watch
+</Turn>
+<Turn speaker="S2" startTime="38.99" endTime="64.91">
+<Sync time="38.99"/>
+see that i can hear ya hi shake it good who knows birthday cakes
+</Turn>
+<Turn speaker="S1" startTime="64.91" endTime="96.37">
+<Sync time="64.91"/>
+hi harry now what do you want to do next what do you want to do oh which colors and you want to call us okay yeah i'm into green put it right there let you sleep
+</Turn>
+<Turn speaker="S2" startTime="96.37" endTime="109.63">
+<Sync time="96.37"/>
+candle and doing right here please right there yeah
+</Turn>
+<Turn speaker="S1" startTime="109.63" endTime="116.64">
+<Sync time="109.63"/>
+alright and last one to go right there
+</Turn>
+<Turn speaker="S2" startTime="116.64" endTime="120.12">
+<Sync time="116.64"/>
+okay
+</Turn>
+<Turn speaker="S1" startTime="120.12" endTime="132.52">
+<Sync time="120.12"/>
+the other callers i do think that's good i like that that's good yeah let's see that we do right here
+</Turn>
+<Turn speaker="S2" startTime="132.52" endTime="148.88">
+<Sync time="132.52"/>
+okay excellent and can we do pain right here please right there in the middle between the two grades right there were
+</Turn>
+<Turn speaker="S1" startTime="148.88" endTime="154.82">
+<Sync time="148.88"/>
+excellent and last but not least you want to do one yellow one ready for the last one
+</Turn>
+<Turn speaker="S2" startTime="154.82" endTime="164.55">
+<Sync time="154.82"/>
+red big big rather
+</Turn>
+<Turn speaker="S3" startTime="164.55" endTime="171.68">
+<Sync time="164.55"/>
+okay let's give it to burn okay give it to go
+</Turn>
+</Section>
+<Section type="report" startTime="172.49" endTime="179.72" >
+<Turn speaker="S1" startTime="172.49" endTime="179.72">
+<Sync time="172.49"/>
+sprinkle just stand those nice job
+</Turn>
+</Section>
+<Section type="report" startTime="179.85" endTime="183.95" >
+<Turn speaker="S3" startTime="179.85" endTime="183.95">
+<Sync time="179.85"/>
+right
+</Turn>
+</Section>
+</Episode>
+</Trans>

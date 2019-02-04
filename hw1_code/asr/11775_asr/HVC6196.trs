@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6196" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.01" endTime="52.72" >
+<Turn speaker="S1" startTime="0.01" endTime="3.52">
+<Sync time="0.01"/>
+hi my name is jack owner and i'm from wisconsin jaime
+</Turn>
+<Turn speaker="S2" startTime="3.52" endTime="6.34">
+<Sync time="3.52"/>
+i'm on a regular scott
+</Turn>
+<Turn speaker="S3" startTime="6.34" endTime="10.05">
+<Sync time="6.34"/>
+and what you like to do while you're visiting was sporting clubs
+</Turn>
+<Turn speaker="S4" startTime="10.05" endTime="14.21">
+<Sync time="10.05"/>
+i like to go fishing do swimming everything
+</Turn>
+<Turn speaker="S5" startTime="14.21" endTime="21.69">
+<Sync time="14.21"/>
+what about when you go out with jake up what do you enjoy doing with him shooting targets emily what do you like to do when you compare it to the groomer sporting
+</Turn>
+<Turn speaker="S6" startTime="21.69" endTime="25.89">
+<Sync time="21.69"/>
+southern at school and go fishing
+</Turn>
+<Turn speaker="S7" startTime="25.89" endTime="29.99">
+<Sync time="25.89"/>
+do you enjoy eating here yeah it's a wonderful especially at gabe written in the morning
+</Turn>
+<Turn speaker="S8" startTime="29.99" endTime="36.48">
+<Sync time="29.99"/>
+sunday and and so like go to u. t. checking ten days
+</Turn>
+<Turn speaker="S9" startTime="36.48" endTime="44.51">
+<Sync time="36.48"/>
+i like to eat in it because it's got like compete couches and when you go into the bars later you get please
+</Turn>
+<Turn speaker="S10" startTime="44.51" endTime="47.38">
+<Sync time="44.51"/>
+wishy washy get eating him
+</Turn>
+<Turn speaker="S11" startTime="47.38" endTime="52.72">
+<Sync time="47.38"/>
+in a lot of things you can walk up here play checkers it's fun and i wish things got here at the sporting clock
+</Turn>
+</Section>
+</Episode>
+</Trans>

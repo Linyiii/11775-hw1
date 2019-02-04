@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5609" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S15" name="K15" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S16" name="K16" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="5.08" endTime="7.71" >
+<Turn speaker="S1" startTime="5.08" endTime="7.71">
+<Sync time="5.08"/>
+oh nice
+</Turn>
+</Section>
+<Section type="report" startTime="17.05" endTime="82.52" >
+<Turn speaker="S2" startTime="17.05" endTime="21.04">
+<Sync time="17.05"/>
+yeah
+</Turn>
+<Turn speaker="S3" startTime="21.04" endTime="31.34">
+<Sync time="21.04"/>
+goodness we're there
+</Turn>
+<Turn speaker="S4" startTime="31.34" endTime="36.6">
+<Sync time="31.34"/>
+johnny of reputable in twenty seconds
+</Turn>
+<Turn speaker="S5" startTime="36.6" endTime="42.56">
+<Sync time="36.6"/>
+i like watching it
+</Turn>
+<Turn speaker="S6" startTime="42.56" endTime="46.39">
+<Sync time="42.56"/>
+that one time
+</Turn>
+<Turn speaker="S7" startTime="46.39" endTime="55.31">
+<Sync time="46.39"/>
+that was an accident
+</Turn>
+<Turn speaker="S8" startTime="55.31" endTime="62.39">
+<Sync time="55.31"/>
+yeah
+</Turn>
+<Turn speaker="S9" startTime="62.39" endTime="67.09">
+<Sync time="62.39"/>
+anyway
+</Turn>
+<Turn speaker="S10" startTime="67.09" endTime="72.89">
+<Sync time="67.09"/>
+pardon go hotdog
+</Turn>
+<Turn speaker="S11" startTime="72.89" endTime="76.76">
+<Sync time="72.89"/>
+like um
+</Turn>
+<Turn speaker="S12" startTime="76.76" endTime="82.52">
+<Sync time="76.76"/>
+oh my god oh yeah they don't we don't get a five hundred dollars or a different that's how many
+</Turn>
+</Section>
+<Section type="report" startTime="87.71" endTime="119.09" >
+<Turn speaker="S13" startTime="87.71" endTime="94.26">
+<Sync time="87.71"/>
+oh god it oh last time
+</Turn>
+<Turn speaker="S14" startTime="94.26" endTime="98.04">
+<Sync time="94.26"/>
+no
+</Turn>
+<Turn speaker="S15" startTime="98.04" endTime="109.13">
+<Sync time="98.04"/>
+several you forget you know where am go gentleman you got it
+</Turn>
+<Turn speaker="S16" startTime="109.13" endTime="119.09">
+<Sync time="109.13"/>
+what
+</Turn>
+</Section>
+</Episode>
+</Trans>

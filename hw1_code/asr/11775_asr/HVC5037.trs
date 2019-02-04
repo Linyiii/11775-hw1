@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5037" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="110.41" >
+<Turn speaker="S1" startTime="0.0" endTime="51.2">
+<Sync time="0.0"/>
+i have have these uh these hotels these hotels i'm currently located on or just landed on boardwalk two thousand dollars so we're probably going to say that i get everything he has to pay me in total is three hundred three hundred and fifty sixty seventy eighty three hundred and eighty five as well as a ammonia in connecticut avenue all all the three but the other one so all the railroad and water work and um
+</Turn>
+<Turn speaker="S2" startTime="51.2" endTime="98.67">
+<Sync time="51.2"/>
+probably from him okay um do you mean none of the one thousand thirteen hundred fourteen fifteen one thousand five hundred sixteen money separate hundred seven hundred seven hundred million dollars or green green beach and the hotel yellow has nothing
+</Turn>
+<Turn speaker="S1" startTime="98.67" endTime="110.41">
+<Sync time="98.67"/>
+and it's not just for my turn on c._n._n. in jail and i'm looking on the walking with my friends from there and
+</Turn>
+</Section>
+<Section type="report" startTime="110.64" endTime="115.66" >
+<Turn speaker="S2" startTime="110.64" endTime="115.66">
+<Sync time="110.64"/>
+i am located and you know first turn in jail
+</Turn>
+</Section>
+</Episode>
+</Trans>

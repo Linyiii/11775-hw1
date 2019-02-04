@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4794" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="35.16" >
+<Turn speaker="S1" startTime="0.0" endTime="19.25">
+<Sync time="0.0"/>
+i live a drive in your i like uh
+</Turn>
+<Turn speaker="S2" startTime="19.25" endTime="35.16">
+<Sync time="19.25"/>
+you know
+</Turn>
+</Section>
+<Section type="report" startTime="37.67" endTime="177.43" >
+<Turn speaker="S3" startTime="37.67" endTime="83.91">
+<Sync time="37.67"/>
+yeah they they come down here though that all the for or they they show like you got onto the good thing i hope they how they they don't how to sorry okay okay
+</Turn>
+<Turn speaker="S4" startTime="83.91" endTime="104.63">
+<Sync time="83.91"/>
+you know
+</Turn>
+<Turn speaker="S5" startTime="104.63" endTime="122.88">
+<Sync time="104.63"/>
+you doing great holiday do you do the moment people just
+</Turn>
+<Turn speaker="S4" startTime="122.88" endTime="149.68">
+<Sync time="122.88"/>
+oh well you know you know miles a day
+</Turn>
+<Turn speaker="S5" startTime="149.68" endTime="170.03">
+<Sync time="149.68"/>
+so many um don't you go to my money there's no limit on it
+</Turn>
+<Turn speaker="S4" startTime="170.03" endTime="177.43">
+<Sync time="170.03"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="182.29" endTime="259.25" >
+<Turn speaker="S4" startTime="182.29" endTime="218.79">
+<Sync time="182.29"/>
+you get into doing ten times the i can't just doing this why hanging when they want to know you can get away
+</Turn>
+<Turn speaker="S6" startTime="218.79" endTime="248.07">
+<Sync time="218.79"/>
+a little bit i mean you know during the day care or they do this baby or
+</Turn>
+<Turn speaker="S4" startTime="248.07" endTime="259.25">
+<Sync time="248.07"/>
+hanging out you know die from
+</Turn>
+</Section>
+<Section type="report" startTime="279.08" endTime="299.26" >
+<Turn speaker="S1" startTime="279.08" endTime="299.26">
+<Sync time="279.08"/>
+okay we've been dry
+</Turn>
+</Section>
+</Episode>
+</Trans>

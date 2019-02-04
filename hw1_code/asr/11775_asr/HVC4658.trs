@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4658" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="7.98" endTime="155.79" >
+<Turn speaker="S1" startTime="7.98" endTime="29.34">
+<Sync time="7.98"/>
+no no no no no no no no no no no no no
+</Turn>
+<Turn speaker="S2" startTime="29.34" endTime="108.96">
+<Sync time="29.34"/>
+and there's there's just some shows ah and in and and go she can't do that
+</Turn>
+<Turn speaker="S3" startTime="108.96" endTime="127.59">
+<Sync time="108.96"/>
+you're gone at the top you know when you talk to minimum wage you think that really means doesn't have the problem
+</Turn>
+<Turn speaker="S4" startTime="127.59" endTime="155.79">
+<Sync time="127.59"/>
+question everybody everybody so we're about to start with the money for everybody gathered did you come here to party do you do now she's on my shoulder and everybody in the back we're starting a line
+</Turn>
+</Section>
+<Section type="report" startTime="155.66" endTime="186.71" >
+<Turn speaker="S5" startTime="155.66" endTime="186.71">
+<Sync time="155.66"/>
+no no no no did you get people so i'm so hungry i wanna get out you know the ah sometimes just about anybody but i don't want to be raised i write that down there right
+</Turn>
+</Section>
+</Episode>
+</Trans>

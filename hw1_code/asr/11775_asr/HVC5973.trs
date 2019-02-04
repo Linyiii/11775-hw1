@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5973" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.07" endTime="151.03" >
+<Turn speaker="S1" startTime="0.07" endTime="151.03">
+<Sync time="0.07"/>
+i don't remember like i don't know what i want to know that for going to go there because i don't know what's going on i don't know for whatever reason for going to anyway i never heard of that before but no one no one really wants to go
+</Turn>
+</Section>
+</Episode>
+</Trans>

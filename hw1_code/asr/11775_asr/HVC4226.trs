@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4226" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="8.62" >
+<Turn speaker="S1" startTime="0.0" endTime="3.22">
+<Sync time="0.0"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="3.22" endTime="8.62">
+<Sync time="3.22"/>
+oh okay hold on a second
+</Turn>
+</Section>
+<Section type="report" startTime="22.72" endTime="40.02" >
+<Turn speaker="S3" startTime="22.72" endTime="40.02">
+<Sync time="22.72"/>
+don't push it yeah you have to go to fix it again to push the button or something
+</Turn>
+</Section>
+<Section type="report" startTime="51.03" endTime="56.66" >
+<Turn speaker="S2" startTime="51.03" endTime="56.66">
+<Sync time="51.03"/>
+you can't push the button remember
+</Turn>
+</Section>
+<Section type="report" startTime="71.46" endTime="95.68" >
+<Turn speaker="S3" startTime="71.46" endTime="81.72">
+<Sync time="71.46"/>
+did you break it again yeah
+</Turn>
+<Turn speaker="S1" startTime="81.72" endTime="95.68">
+<Sync time="81.72"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="95.88" endTime="100.99" >
+<Turn speaker="S2" startTime="95.88" endTime="100.99">
+<Sync time="95.88"/>
+working
+</Turn>
+</Section>
+</Episode>
+</Trans>

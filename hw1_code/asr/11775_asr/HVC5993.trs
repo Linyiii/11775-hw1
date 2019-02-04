@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5993" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="42.49" >
+<Turn speaker="S1" startTime="0.0" endTime="2.85">
+<Sync time="0.0"/>
+yeah that's
+</Turn>
+<Turn speaker="S2" startTime="2.85" endTime="16.15">
+<Sync time="2.85"/>
+very say junior news actually birthday their gravy have a baby burgers and choose to use
+</Turn>
+<Turn speaker="S3" startTime="16.15" endTime="29.93">
+<Sync time="16.15"/>
+how old are you i'm on
+</Turn>
+<Turn speaker="S4" startTime="29.93" endTime="35.62">
+<Sync time="29.93"/>
+oregon i saw something
+</Turn>
+<Turn speaker="S5" startTime="35.62" endTime="42.49">
+<Sync time="35.62"/>
+you want your elmo cake
+</Turn>
+</Section>
+</Episode>
+</Trans>

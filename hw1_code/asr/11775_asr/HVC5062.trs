@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5062" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.6" endTime="70.14" >
+<Turn speaker="S1" startTime="0.6" endTime="7.31">
+<Sync time="0.6"/>
+that that uh well
+</Turn>
+<Turn speaker="S2" startTime="7.31" endTime="17.48">
+<Sync time="7.31"/>
+yeah
+</Turn>
+<Turn speaker="S3" startTime="17.48" endTime="70.14">
+<Sync time="17.48"/>
+they gave me smell let me you got the movie and then i probably about shop i i know they they mississippi to the boss during i don't know what i'm i'm always remain game playing i explained to him about three o'clock in the top down and they may come back to have around the game
+</Turn>
+</Section>
+</Episode>
+</Trans>

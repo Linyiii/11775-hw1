@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5227" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.08" endTime="15.33" >
+<Turn speaker="S1" startTime="0.08" endTime="15.33">
+<Sync time="0.08"/>
+it's a little dog
+</Turn>
+</Section>
+<Section type="report" startTime="30.99" endTime="173.0" >
+<Turn speaker="S1" startTime="30.99" endTime="59.42">
+<Sync time="30.99"/>
+no get your needles it's just fun out there on the street
+</Turn>
+<Turn speaker="S2" startTime="59.42" endTime="63.25">
+<Sync time="59.42"/>
+shouldn't be that long i don't know i see my little
+</Turn>
+<Turn speaker="S1" startTime="63.25" endTime="77.86">
+<Sync time="63.25"/>
+like in between
+</Turn>
+<Turn speaker="S2" startTime="77.86" endTime="154.5">
+<Sync time="77.86"/>
+and then it's the same thing when you get the last one still little don't stretch it gets bigger and you can't like the who needs a single dose through adults don't like needles too far apart from and you stick to the bottom i'll look through the same boxing at the very end we spread out every time but it just i'm just going to if you if you don't spread it seems like this is like like like your tail right here you have like you're not yeah but you're going to and you're also when if i of the that's your ball so much easier to talk a little confusing we only have one you know your second round like when you go to go hardly began with them like right here and you just go into the same thing and like at the very top
+</Turn>
+<Turn speaker="S1" startTime="154.5" endTime="162.2">
+<Sync time="154.5"/>
+it's getting that you can see
+</Turn>
+<Turn speaker="S2" startTime="162.2" endTime="173.0">
+<Sync time="162.2"/>
+and then you have this because it goes through it's going to be like that so it should i mean it gets a little confusing to talk but it
+</Turn>
+</Section>
+<Section type="report" startTime="172.86" endTime="182.02" >
+<Turn speaker="S1" startTime="172.86" endTime="182.02">
+<Sync time="172.86"/>
+like if you can even here in
+</Turn>
+</Section>
+</Episode>
+</Trans>

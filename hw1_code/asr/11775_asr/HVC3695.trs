@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3695" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="19.04" endTime="105.66" >
+<Turn speaker="S1" startTime="19.04" endTime="49.77">
+<Sync time="19.04"/>
+they say that they can show yeah yeah my mother you know but
+</Turn>
+<Turn speaker="S2" startTime="49.77" endTime="60.24">
+<Sync time="49.77"/>
+and then i'm not saying that evening
+</Turn>
+<Turn speaker="S1" startTime="60.24" endTime="95.59">
+<Sync time="60.24"/>
+i know they but i don't know the the
+</Turn>
+<Turn speaker="S2" startTime="95.59" endTime="105.66">
+<Sync time="95.59"/>
+they said that the job they love it
+</Turn>
+</Section>
+<Section type="report" startTime="105.72" endTime="117.52" >
+<Turn speaker="S1" startTime="105.72" endTime="117.52">
+<Sync time="105.72"/>
+job to job
+</Turn>
+</Section>
+</Episode>
+</Trans>

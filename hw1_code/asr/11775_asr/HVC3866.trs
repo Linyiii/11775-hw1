@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3866" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="15.5" endTime="63.24" >
+<Turn speaker="S1" startTime="15.5" endTime="19.97">
+<Sync time="15.5"/>
+so long
+</Turn>
+<Turn speaker="S2" startTime="19.97" endTime="27.02">
+<Sync time="19.97"/>
+how long long keep going keep going to go go go go go go go go
+</Turn>
+<Turn speaker="S3" startTime="27.02" endTime="45.42">
+<Sync time="27.02"/>
+um
+</Turn>
+<Turn speaker="S1" startTime="45.42" endTime="55.44">
+<Sync time="45.42"/>
+the olympic girl maybe she wants to play
+</Turn>
+<Turn speaker="S2" startTime="55.44" endTime="63.24">
+<Sync time="55.44"/>
+for someone to bring you fight about
+</Turn>
+</Section>
+<Section type="report" startTime="67.33" endTime="146.99" >
+<Turn speaker="S2" startTime="67.33" endTime="73.31">
+<Sync time="67.33"/>
+did you hear that like since she was under your use or a master
+</Turn>
+<Turn speaker="S4" startTime="73.31" endTime="87.75">
+<Sync time="73.31"/>
+yeah since i was in
+</Turn>
+<Turn speaker="S5" startTime="87.75" endTime="104.2">
+<Sync time="87.75"/>
+oh my god there's gonna be a rumble some into a little too
+</Turn>
+<Turn speaker="S1" startTime="104.2" endTime="118.01">
+<Sync time="104.2"/>
+okay you too i wanna good clean by which means nothing below the bowels participants let's get it on
+</Turn>
+<Turn speaker="S6" startTime="118.01" endTime="131.04">
+<Sync time="118.01"/>
+that they can take the million dollars
+</Turn>
+<Turn speaker="S5" startTime="131.04" endTime="146.99">
+<Sync time="131.04"/>
+and and be there for you to do with
+</Turn>
+</Section>
+<Section type="report" startTime="150.28" endTime="174.23" >
+<Turn speaker="S6" startTime="150.28" endTime="164.83">
+<Sync time="150.28"/>
+you know when you're going to do
+</Turn>
+<Turn speaker="S5" startTime="164.83" endTime="174.23">
+<Sync time="164.83"/>
+from from they they're for the winter
+</Turn>
+</Section>
+<Section type="report" startTime="177.95" endTime="192.67" >
+<Turn speaker="S7" startTime="177.95" endTime="192.67">
+<Sync time="177.95"/>
+the little a dream
+</Turn>
+</Section>
+<Section type="report" startTime="192.61" endTime="209.04" >
+<Turn speaker="S1" startTime="192.61" endTime="209.04">
+<Sync time="192.61"/>
+who am i gonna play frisbee way out
+</Turn>
+</Section>
+</Episode>
+</Trans>

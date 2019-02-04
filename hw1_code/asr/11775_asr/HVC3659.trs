@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3659" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.63" endTime="11.77" >
+<Turn speaker="S1" startTime="0.63" endTime="11.77">
+<Sync time="0.63"/>
+when it's been
+</Turn>
+</Section>
+<Section type="report" startTime="18.71" endTime="57.64" >
+<Turn speaker="S1" startTime="18.71" endTime="57.64">
+<Sync time="18.71"/>
+the front describing i was asked a kennedy uh a uh kennedy
+</Turn>
+</Section>
+<Section type="report" startTime="58.72" endTime="194.74" >
+<Turn speaker="S1" startTime="58.72" endTime="194.74">
+<Sync time="58.72"/>
+yeah uh for when these are but again these are democrat t i'm going into it on at night when i i was getting going back and or ah how about directed democracy or uh the democrat he only or or or this can be itself an you know is that that i get to get that that that that i yeah or or you know for for for your
+</Turn>
+</Section>
+<Section type="report" startTime="198.34" endTime="204.05" >
+<Turn speaker="S1" startTime="198.34" endTime="204.05">
+<Sync time="198.34"/>
+yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

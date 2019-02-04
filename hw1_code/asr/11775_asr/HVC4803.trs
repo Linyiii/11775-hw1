@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4803" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="44.24" >
+<Turn speaker="S1" startTime="0.0" endTime="11.32">
+<Sync time="0.0"/>
+where are you doing you are let's see that i know
+</Turn>
+<Turn speaker="S2" startTime="11.32" endTime="19.57">
+<Sync time="11.32"/>
+alright let's see it wow
+</Turn>
+<Turn speaker="S3" startTime="19.57" endTime="25.8">
+<Sync time="19.57"/>
+good
+</Turn>
+<Turn speaker="S2" startTime="25.8" endTime="44.24">
+<Sync time="25.8"/>
+awesome whoops sorry
+</Turn>
+</Section>
+<Section type="report" startTime="62.55" endTime="92.37" >
+<Turn speaker="S1" startTime="62.55" endTime="74.7">
+<Sync time="62.55"/>
+um i'm going down the street their goal
+</Turn>
+<Turn speaker="S4" startTime="74.7" endTime="77.31">
+<Sync time="74.7"/>
+mhm
+</Turn>
+<Turn speaker="S3" startTime="77.31" endTime="84.22">
+<Sync time="77.31"/>
+keep keep keep uh
+</Turn>
+<Turn speaker="S4" startTime="84.22" endTime="89.19">
+<Sync time="84.22"/>
+mhm
+</Turn>
+<Turn speaker="S1" startTime="89.19" endTime="92.37">
+<Sync time="89.19"/>
+um
+</Turn>
+</Section>
+<Section type="report" startTime="92.32" endTime="98.09" >
+<Turn speaker="S4" startTime="92.32" endTime="98.09">
+<Sync time="92.32"/>
+ooh
+</Turn>
+</Section>
+</Episode>
+</Trans>

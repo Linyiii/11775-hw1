@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4070" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.62" endTime="33.14" >
+<Turn speaker="S1" startTime="3.62" endTime="7.52">
+<Sync time="3.62"/>
+yeah and and i'll give him time to seventy one
+</Turn>
+<Turn speaker="S2" startTime="7.52" endTime="10.19">
+<Sync time="7.52"/>
+especially
+</Turn>
+<Turn speaker="S3" startTime="10.19" endTime="22.24">
+<Sync time="10.19"/>
+thank god for seventeen years ago when when that
+</Turn>
+<Turn speaker="S4" startTime="22.24" endTime="25.64">
+<Sync time="22.24"/>
+we say that i'm going to be heading grass
+</Turn>
+<Turn speaker="S5" startTime="25.64" endTime="33.14">
+<Sync time="25.64"/>
+alright one day i got an be say hey god you have more to say on the field checked check that uh
+</Turn>
+</Section>
+</Episode>
+</Trans>

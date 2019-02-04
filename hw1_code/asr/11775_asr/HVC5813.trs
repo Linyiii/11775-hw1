@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5813" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="74.82" >
+<Turn speaker="S1" startTime="0.0" endTime="28.89">
+<Sync time="0.0"/>
+i don't even all the uh let me know grass or or or you know
+</Turn>
+<Turn speaker="S2" startTime="28.89" endTime="38.58">
+<Sync time="28.89"/>
+alright no big deal i'm sure we're going on the inside
+</Turn>
+<Turn speaker="S3" startTime="38.58" endTime="43.32">
+<Sync time="38.58"/>
+how
+</Turn>
+<Turn speaker="S4" startTime="43.32" endTime="47.29">
+<Sync time="43.32"/>
+um
+</Turn>
+<Turn speaker="S2" startTime="47.29" endTime="74.82">
+<Sync time="47.29"/>
+i think that would be going to be a greater the cookout whenever is a a
+</Turn>
+</Section>
+<Section type="report" startTime="83.88" endTime="96.82" >
+<Turn speaker="S3" startTime="83.88" endTime="96.82">
+<Sync time="83.88"/>
+all right go down to uh i've actually a big thing because uh
+</Turn>
+</Section>
+<Section type="report" startTime="102.87" endTime="141.46" >
+<Turn speaker="S3" startTime="102.87" endTime="141.46">
+<Sync time="102.87"/>
+they they or or leave it alone because then you get out but the the right to be what they know all the the way i am know about that
+</Turn>
+</Section>
+</Episode>
+</Trans>

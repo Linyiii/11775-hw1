@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2704" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="10.76" >
+<Turn speaker="S1" startTime="0.0" endTime="10.76">
+<Sync time="0.0"/>
+in
+</Turn>
+</Section>
+<Section type="report" startTime="18.82" endTime="111.43" >
+<Turn speaker="S2" startTime="18.82" endTime="36.49">
+<Sync time="18.82"/>
+candy makes my children are not read the directions i bleeding
+</Turn>
+<Turn speaker="S3" startTime="36.49" endTime="65.41">
+<Sync time="36.49"/>
+cats cats can be way above you know you can't that crazy about you
+</Turn>
+<Turn speaker="S2" startTime="65.41" endTime="75.76">
+<Sync time="65.41"/>
+making just talk with them and not just different
+</Turn>
+<Turn speaker="S3" startTime="75.76" endTime="111.43">
+<Sync time="75.76"/>
+the way hey maybe about above you you can't that crazy about the and came out fine
+</Turn>
+</Section>
+</Episode>
+</Trans>

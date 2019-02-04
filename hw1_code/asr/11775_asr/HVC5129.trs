@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5129" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="2.45" endTime="39.45" >
+<Turn speaker="S1" startTime="2.45" endTime="20.81">
+<Sync time="2.45"/>
+sometimes i can see dr di di di di di di di di di di di di
+</Turn>
+<Turn speaker="S2" startTime="20.81" endTime="39.45">
+<Sync time="20.81"/>
+and my dad told all day a of the and
+</Turn>
+</Section>
+<Section type="report" startTime="43.6" endTime="140.07" >
+<Turn speaker="S1" startTime="43.6" endTime="61.87">
+<Sync time="43.6"/>
+and i don't think about what she was going back to that
+</Turn>
+<Turn speaker="S2" startTime="61.87" endTime="81.1">
+<Sync time="61.87"/>
+nah nah nah nah
+</Turn>
+<Turn speaker="S1" startTime="81.1" endTime="100.72">
+<Sync time="81.1"/>
+oh no
+</Turn>
+<Turn speaker="S2" startTime="100.72" endTime="140.07">
+<Sync time="100.72"/>
+ah ah nah nah nah nah
+</Turn>
+</Section>
+</Episode>
+</Trans>

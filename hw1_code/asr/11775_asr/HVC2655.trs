@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2655" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="11.14" endTime="130.79" >
+<Turn speaker="S1" startTime="11.14" endTime="40.43">
+<Sync time="11.14"/>
+and to me than i am and things and then the know and and know what she's doing that that they don't
+</Turn>
+<Turn speaker="S2" startTime="40.43" endTime="113.42">
+<Sync time="40.43"/>
+i know where to fault that's all i've done it for you though i may be due to the rain and know they um say though i mean maybe when they're that things to such a and that's when you're in a place to go
+</Turn>
+<Turn speaker="S1" startTime="113.42" endTime="130.79">
+<Sync time="113.42"/>
+do all the the i do too
+</Turn>
+</Section>
+<Section type="report" startTime="133.52" endTime="154.35" >
+<Turn speaker="S2" startTime="133.52" endTime="154.35">
+<Sync time="133.52"/>
+so you go have several uh los angeles then
+</Turn>
+</Section>
+</Episode>
+</Trans>

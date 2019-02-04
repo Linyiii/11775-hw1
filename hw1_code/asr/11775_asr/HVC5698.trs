@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5698" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="9.26" >
+<Turn speaker="S1" startTime="0.0" endTime="4.47">
+<Sync time="0.0"/>
+too
+</Turn>
+<Turn speaker="S2" startTime="4.47" endTime="9.26">
+<Sync time="4.47"/>
+oh no
+</Turn>
+</Section>
+<Section type="report" startTime="16.46" endTime="34.93" >
+<Turn speaker="S3" startTime="16.46" endTime="22.61">
+<Sync time="16.46"/>
+you gotta they get out and all down i still see some
+</Turn>
+<Turn speaker="S4" startTime="22.61" endTime="27.55">
+<Sync time="22.61"/>
+um
+</Turn>
+<Turn speaker="S5" startTime="27.55" endTime="34.93">
+<Sync time="27.55"/>
+oh what don't you go there yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

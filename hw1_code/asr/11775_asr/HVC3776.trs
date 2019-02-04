@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3776" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="249.21" >
+<Turn speaker="S1" startTime="0.04" endTime="60.73">
+<Sync time="0.04"/>
+and in the uh brand new baseball i that are begging me you know the bad man i joined the my best friend twain and james bond i got my my name
+</Turn>
+<Turn speaker="S2" startTime="60.73" endTime="94.46">
+<Sync time="60.73"/>
+um and i don't know how to write a report on your um
+</Turn>
+<Turn speaker="S1" startTime="94.46" endTime="134.07">
+<Sync time="94.46"/>
+uh the last time my from blab on math on line to me and my my name's
+</Turn>
+<Turn speaker="S2" startTime="134.07" endTime="193.21">
+<Sync time="134.07"/>
+well i'm or a grown man i mean on our allies and and the now how they're from
+</Turn>
+<Turn speaker="S1" startTime="193.21" endTime="206.75">
+<Sync time="193.21"/>
+oh boy well you know
+</Turn>
+<Turn speaker="S2" startTime="206.75" endTime="242.8">
+<Sync time="206.75"/>
+on the on the on reason they go on on on uh
+</Turn>
+<Turn speaker="S1" startTime="242.8" endTime="249.21">
+<Sync time="242.8"/>
+alright
+</Turn>
+</Section>
+</Episode>
+</Trans>

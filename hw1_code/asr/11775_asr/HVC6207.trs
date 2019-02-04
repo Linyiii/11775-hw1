@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6207" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.05" endTime="255.83" >
+<Turn speaker="S1" startTime="0.05" endTime="14.57">
+<Sync time="0.05"/>
+um
+</Turn>
+<Turn speaker="S2" startTime="14.57" endTime="32.74">
+<Sync time="14.57"/>
+okay say blood stream so my my spokane very nice
+</Turn>
+<Turn speaker="S3" startTime="32.74" endTime="38.72">
+<Sync time="32.74"/>
+they they don't feel like my
+</Turn>
+<Turn speaker="S2" startTime="38.72" endTime="40.79">
+<Sync time="38.72"/>
+and
+</Turn>
+<Turn speaker="S3" startTime="40.79" endTime="45.88">
+<Sync time="40.79"/>
+yeah do one time no just
+</Turn>
+<Turn speaker="S2" startTime="45.88" endTime="60.4">
+<Sync time="45.88"/>
+so i go to stay
+</Turn>
+<Turn speaker="S3" startTime="60.4" endTime="106.52">
+<Sync time="60.4"/>
+is to say to myself now and it was in my hair on my still don't really no no no no no
+</Turn>
+<Turn speaker="S4" startTime="106.52" endTime="188.43">
+<Sync time="106.52"/>
+cool pretty flower don't do that there's a lot of different reasons was important to take care of mother nature and not pick flowers can be beautiful but it can also smell good still underground three major things about nature that are important trees rocks animals maybe ask him why are they well it's really simple trees they give you for your lungs rocks they're pretty appalling animals well we're we have seen a lot of fun when you treat it right you know it may be fun to walking trails and make sure you don't do anything bad writing on stuff and vandalizing trails is not good for anyone you know many people come to visit nature centre doing why nature so important to well sit down and think about it and say probably the colors well hope you got to learn a whole lot about the outdoors today
+</Turn>
+<Turn speaker="S5" startTime="188.43" endTime="198.47">
+<Sync time="188.43"/>
+yeah don't mess with major
+</Turn>
+<Turn speaker="S6" startTime="198.47" endTime="255.83">
+<Sync time="198.47"/>
+we have those british lola lola down you know forget about that now with my children are the same thing you know anything
+</Turn>
+</Section>
+</Episode>
+</Trans>

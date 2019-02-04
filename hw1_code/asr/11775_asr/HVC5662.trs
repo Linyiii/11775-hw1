@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5662" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="23.19" endTime="42.74" >
+<Turn speaker="S1" startTime="23.19" endTime="33.83">
+<Sync time="23.19"/>
+there's some you know
+</Turn>
+<Turn speaker="S2" startTime="33.83" endTime="42.74">
+<Sync time="33.83"/>
+but i
+</Turn>
+</Section>
+<Section type="report" startTime="50.62" endTime="61.88" >
+<Turn speaker="S2" startTime="50.62" endTime="61.88">
+<Sync time="50.62"/>
+and she has a dog
+</Turn>
+</Section>
+<Section type="report" startTime="80.46" endTime="106.33" >
+<Turn speaker="S3" startTime="80.46" endTime="106.33">
+<Sync time="80.46"/>
+that will be a good way to smoke
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4768" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.37" endTime="4.92" >
+<Turn speaker="S1" startTime="3.37" endTime="4.92">
+<Sync time="3.37"/>
+regarding
+</Turn>
+</Section>
+<Section type="report" startTime="29.02" endTime="64.33" >
+<Turn speaker="S1" startTime="29.02" endTime="44.95">
+<Sync time="29.02"/>
+there are a little bit
+</Turn>
+<Turn speaker="S2" startTime="44.95" endTime="54.35">
+<Sync time="44.95"/>
+okay how much like
+</Turn>
+<Turn speaker="S1" startTime="54.35" endTime="64.33">
+<Sync time="54.35"/>
+we have to push your first
+</Turn>
+</Section>
+<Section type="report" startTime="83.91" endTime="98.75" >
+<Turn speaker="S1" startTime="83.91" endTime="87.94">
+<Sync time="83.91"/>
+she got up anyway
+</Turn>
+<Turn speaker="S3" startTime="87.94" endTime="93.68">
+<Sync time="87.94"/>
+maybe
+</Turn>
+<Turn speaker="S2" startTime="93.68" endTime="98.75">
+<Sync time="93.68"/>
+and you're making
+</Turn>
+</Section>
+<Section type="report" startTime="109.11" endTime="117.87" >
+<Turn speaker="S3" startTime="109.11" endTime="117.87">
+<Sync time="109.11"/>
+ooh
+</Turn>
+</Section>
+<Section type="report" startTime="127.69" endTime="145.07" >
+<Turn speaker="S1" startTime="127.69" endTime="134.54">
+<Sync time="127.69"/>
+keep going for the other way now the other way go towards me
+</Turn>
+<Turn speaker="S4" startTime="134.54" endTime="145.07">
+<Sync time="134.54"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="145.2" endTime="149.44" >
+<Turn speaker="S1" startTime="145.2" endTime="149.44">
+<Sync time="145.2"/>
+the other way turned out
+</Turn>
+</Section>
+</Episode>
+</Trans>

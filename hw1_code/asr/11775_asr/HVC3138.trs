@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3138" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="47.43" >
+<Turn speaker="S1" startTime="0.03" endTime="22.82">
+<Sync time="0.03"/>
+and i remember they make
+</Turn>
+<Turn speaker="S2" startTime="22.82" endTime="47.43">
+<Sync time="22.82"/>
+nah nah nah nah
+</Turn>
+</Section>
+<Section type="report" startTime="47.6" endTime="86.1" >
+<Turn speaker="S3" startTime="47.6" endTime="86.1">
+<Sync time="47.6"/>
+no he he did
+</Turn>
+</Section>
+</Episode>
+</Trans>

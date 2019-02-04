@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4796" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="15.58" >
+<Turn speaker="S1" startTime="0.0" endTime="10.59">
+<Sync time="0.0"/>
+hi this is doing tae kwon do um
+</Turn>
+<Turn speaker="S2" startTime="10.59" endTime="15.58">
+<Sync time="10.59"/>
+really
+</Turn>
+</Section>
+<Section type="report" startTime="26.22" endTime="29.07" >
+<Turn speaker="S2" startTime="26.22" endTime="29.07">
+<Sync time="26.22"/>
+um
+</Turn>
+</Section>
+</Episode>
+</Trans>

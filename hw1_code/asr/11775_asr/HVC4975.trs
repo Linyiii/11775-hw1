@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4975" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="15.32" endTime="86.18" >
+<Turn speaker="S1" startTime="15.32" endTime="71.2">
+<Sync time="15.32"/>
+and now i'm going to solve that as well no no and you're in in try and get back to get back on the phone rang comes out all the way back they to mind on my on my mom's mom my mom and my my uh
+</Turn>
+<Turn speaker="S2" startTime="71.2" endTime="86.18">
+<Sync time="71.2"/>
+and say hey hey hey
+</Turn>
+</Section>
+<Section type="report" startTime="86.23" endTime="113.5" >
+<Turn speaker="S1" startTime="86.23" endTime="113.5">
+<Sync time="86.23"/>
+i'm not at all the time now i don't know we're going to um no spring
+</Turn>
+</Section>
+</Episode>
+</Trans>

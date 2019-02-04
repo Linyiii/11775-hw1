@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5762" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="15.65" >
+<Turn speaker="S1" startTime="0.0" endTime="15.65">
+<Sync time="0.0"/>
+and i don't want to get a cat oh like back when i had here aren't your birthday
+</Turn>
+</Section>
+<Section type="report" startTime="23.14" endTime="44.31" >
+<Turn speaker="S1" startTime="23.14" endTime="37.37">
+<Sync time="23.14"/>
+see now the cameras out so we'll perform and i also
+</Turn>
+<Turn speaker="S2" startTime="37.37" endTime="41.37">
+<Sync time="37.37"/>
+mhm
+</Turn>
+<Turn speaker="S1" startTime="41.37" endTime="44.31">
+<Sync time="41.37"/>
+oh
+</Turn>
+</Section>
+</Episode>
+</Trans>

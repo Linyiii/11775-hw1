@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2813" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="65.01" >
+<Turn speaker="S1" startTime="0.04" endTime="26.75">
+<Sync time="0.04"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="26.75" endTime="43.11">
+<Sync time="26.75"/>
+you did good job so he's good helper good cookie making some good job
+</Turn>
+<Turn speaker="S1" startTime="43.11" endTime="57.01">
+<Sync time="43.11"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="57.01" endTime="65.01">
+<Sync time="57.01"/>
+beautiful you're right mhm
+</Turn>
+</Section>
+<Section type="report" startTime="64.9" endTime="69.43" >
+<Turn speaker="S1" startTime="64.9" endTime="69.43">
+<Sync time="64.9"/>
+mhm
+</Turn>
+</Section>
+</Episode>
+</Trans>

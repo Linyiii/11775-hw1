@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2565" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="88.88" >
+<Turn speaker="S1" startTime="0.0" endTime="25.59">
+<Sync time="0.0"/>
+alright we are here hearing uh travelers restaurant carolina painting by scott studios that's marines scott studios dot com or website anyway christmas tree and
+</Turn>
+<Turn speaker="S2" startTime="25.59" endTime="88.88">
+<Sync time="25.59"/>
+okay alright you probably we can say okay we're making for jesus to see how does either i need to increase it i had just reached down we did and the lines down in heaven on earth i know who was a candle um i think i think everyone okay alright lots to do um two thousand and uh
+</Turn>
+</Section>
+<Section type="report" startTime="88.64" endTime="106.44" >
+<Turn speaker="S1" startTime="88.64" endTime="106.44">
+<Sync time="88.64"/>
+what do you think oh just tomorrow okay you guys to ah keep making cakes
+</Turn>
+</Section>
+</Episode>
+</Trans>

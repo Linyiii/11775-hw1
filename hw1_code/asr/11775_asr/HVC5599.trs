@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5599" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.07" endTime="23.29" >
+<Turn speaker="S1" startTime="0.07" endTime="4.15">
+<Sync time="0.07"/>
+um then why
+</Turn>
+<Turn speaker="S2" startTime="4.15" endTime="14.28">
+<Sync time="4.15"/>
+and you know and and and and everyone
+</Turn>
+<Turn speaker="S3" startTime="14.28" endTime="20.46">
+<Sync time="14.28"/>
+and just not not um
+</Turn>
+<Turn speaker="S4" startTime="20.46" endTime="23.29">
+<Sync time="20.46"/>
+and i mean
+</Turn>
+</Section>
+</Episode>
+</Trans>

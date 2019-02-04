@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3847" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="24.32" endTime="45.38" >
+<Turn speaker="S1" startTime="24.32" endTime="45.38">
+<Sync time="24.32"/>
+and uh
+</Turn>
+</Section>
+<Section type="report" startTime="60.11" endTime="138.81" >
+<Turn speaker="S1" startTime="60.11" endTime="81.58">
+<Sync time="60.11"/>
+down there
+</Turn>
+<Turn speaker="S2" startTime="81.58" endTime="138.81">
+<Sync time="81.58"/>
+you know the people who do not di di di di di di di di di
+</Turn>
+</Section>
+<Section type="report" startTime="147.96" endTime="155.12" >
+<Turn speaker="S3" startTime="147.96" endTime="155.12">
+<Sync time="147.96"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="158.89" endTime="266.57" >
+<Turn speaker="S3" startTime="158.89" endTime="164.94">
+<Sync time="158.89"/>
+doing
+</Turn>
+<Turn speaker="S4" startTime="164.94" endTime="173.37">
+<Sync time="164.94"/>
+no
+</Turn>
+<Turn speaker="S5" startTime="173.37" endTime="186.08">
+<Sync time="173.37"/>
+they do
+</Turn>
+<Turn speaker="S3" startTime="186.08" endTime="202.7">
+<Sync time="186.08"/>
+uh
+</Turn>
+<Turn speaker="S6" startTime="202.7" endTime="218.59">
+<Sync time="202.7"/>
+do you do
+</Turn>
+<Turn speaker="S5" startTime="218.59" endTime="235.49">
+<Sync time="218.59"/>
+they they do
+</Turn>
+<Turn speaker="S7" startTime="235.49" endTime="266.57">
+<Sync time="235.49"/>
+and and i don't know um
+</Turn>
+</Section>
+<Section type="report" startTime="279.51" endTime="322.32" >
+<Turn speaker="S2" startTime="279.51" endTime="322.32">
+<Sync time="279.51"/>
+my mom and uh
+</Turn>
+</Section>
+<Section type="report" startTime="322.08" endTime="329.92" >
+<Turn speaker="S8" startTime="322.08" endTime="329.92">
+<Sync time="322.08"/>
+we um
+</Turn>
+</Section>
+</Episode>
+</Trans>

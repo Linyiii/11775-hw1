@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2798" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.05" endTime="32.1" >
+<Turn speaker="S1" startTime="0.05" endTime="32.1">
+<Sync time="0.05"/>
+wow cinderella is great decorator beautiful wow get to go in the middle yeah once the good job
+</Turn>
+</Section>
+<Section type="report" startTime="36.02" endTime="53.3" >
+<Turn speaker="S2" startTime="36.02" endTime="39.22">
+<Sync time="36.02"/>
+um
+</Turn>
+<Turn speaker="S3" startTime="39.22" endTime="53.3">
+<Sync time="39.22"/>
+oh your d._v._d. it turned out it was over the candle goes on wow must be somebody's birthday are pretty good cupcakes
+</Turn>
+</Section>
+<Section type="report" startTime="82.92" endTime="172.47" >
+<Turn speaker="S2" startTime="82.92" endTime="106.12">
+<Sync time="82.92"/>
+happy birthday that'd be wonderful yeah we did do that
+</Turn>
+<Turn speaker="S4" startTime="106.12" endTime="116.79">
+<Sync time="106.12"/>
+okay
+</Turn>
+<Turn speaker="S3" startTime="116.79" endTime="125.35">
+<Sync time="116.79"/>
+mm yeah
+</Turn>
+<Turn speaker="S2" startTime="125.35" endTime="129.12">
+<Sync time="125.35"/>
+go ahead
+</Turn>
+<Turn speaker="S3" startTime="129.12" endTime="146.28">
+<Sync time="129.12"/>
+yeah good don't take the candle off you're telling me on those
+</Turn>
+<Turn speaker="S2" startTime="146.28" endTime="155.48">
+<Sync time="146.28"/>
+try it okay
+</Turn>
+<Turn speaker="S3" startTime="155.48" endTime="172.47">
+<Sync time="155.48"/>
+how the taste
+</Turn>
+</Section>
+<Section type="report" startTime="172.68" endTime="187.83" >
+<Turn speaker="S2" startTime="172.68" endTime="187.83">
+<Sync time="172.68"/>
+oh i'm trying to think okay i can get it from
+</Turn>
+</Section>
+</Episode>
+</Trans>

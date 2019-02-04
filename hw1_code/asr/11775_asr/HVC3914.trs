@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3914" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="17.07" endTime="34.56" >
+<Turn speaker="S1" startTime="17.07" endTime="34.56">
+<Sync time="17.07"/>
+good
+</Turn>
+</Section>
+<Section type="report" startTime="42.08" endTime="94.73" >
+<Turn speaker="S1" startTime="42.08" endTime="54.08">
+<Sync time="42.08"/>
+you know what i don't know about what about you
+</Turn>
+<Turn speaker="S2" startTime="54.08" endTime="63.51">
+<Sync time="54.08"/>
+for
+</Turn>
+<Turn speaker="S1" startTime="63.51" endTime="94.73">
+<Sync time="63.51"/>
+it'd be like well i'm not you can just come on so clearly the boy scouts
+</Turn>
+</Section>
+<Section type="report" startTime="105.28" endTime="164.35" >
+<Turn speaker="S1" startTime="105.28" endTime="126.27">
+<Sync time="105.28"/>
+that one day so
+</Turn>
+<Turn speaker="S3" startTime="126.27" endTime="164.35">
+<Sync time="126.27"/>
+subject i just said oh or try to
+</Turn>
+</Section>
+<Section type="report" startTime="167.15" endTime="193.59" >
+<Turn speaker="S2" startTime="167.15" endTime="182.26">
+<Sync time="167.15"/>
+you know so we're kind of what i was
+</Turn>
+<Turn speaker="S1" startTime="182.26" endTime="193.59">
+<Sync time="182.26"/>
+in come country
+</Turn>
+</Section>
+<Section type="report" startTime="193.8" endTime="211.77" >
+<Turn speaker="S2" startTime="193.8" endTime="211.77">
+<Sync time="193.8"/>
+how old
+</Turn>
+</Section>
+</Episode>
+</Trans>

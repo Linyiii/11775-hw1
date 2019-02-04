@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5136" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="3.62" >
+<Turn speaker="S1" startTime="0.04" endTime="1.29">
+<Sync time="0.04"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="1.29" endTime="3.62">
+<Sync time="1.29"/>
+i i uh
+</Turn>
+</Section>
+<Section type="report" startTime="10.95" endTime="36.46" >
+<Turn speaker="S2" startTime="10.95" endTime="36.46">
+<Sync time="10.95"/>
+your grandmother videos yeah hello grandma a whole a whole lot of snow planted potatoes i think we say that when we try to get the potatoes there aren't any were disappointed that we say alright let's hope this works
+</Turn>
+</Section>
+</Episode>
+</Trans>

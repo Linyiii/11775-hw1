@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6107" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="4.81" >
+<Turn speaker="S1" startTime="0.0" endTime="4.81">
+<Sync time="0.0"/>
+really
+</Turn>
+</Section>
+<Section type="report" startTime="8.88" endTime="14.66" >
+<Turn speaker="S1" startTime="8.88" endTime="14.66">
+<Sync time="8.88"/>
+who are very often
+</Turn>
+</Section>
+<Section type="report" startTime="17.92" endTime="23.95" >
+<Turn speaker="S2" startTime="17.92" endTime="23.95">
+<Sync time="17.92"/>
+that's good
+</Turn>
+</Section>
+</Episode>
+</Trans>

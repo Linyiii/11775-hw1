@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2585" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="26.12" endTime="308.2" >
+<Turn speaker="S1" startTime="26.12" endTime="53.02">
+<Sync time="26.12"/>
+me neither me neither actually either to be done to be a man
+</Turn>
+<Turn speaker="S2" startTime="53.02" endTime="57.75">
+<Sync time="53.02"/>
+a um
+</Turn>
+<Turn speaker="S3" startTime="57.75" endTime="66.65">
+<Sync time="57.75"/>
+and then um
+</Turn>
+<Turn speaker="S4" startTime="66.65" endTime="71.63">
+<Sync time="66.65"/>
+no and
+</Turn>
+<Turn speaker="S5" startTime="71.63" endTime="77.18">
+<Sync time="71.63"/>
+no
+</Turn>
+<Turn speaker="S4" startTime="77.18" endTime="83.86">
+<Sync time="77.18"/>
+did you
+</Turn>
+<Turn speaker="S5" startTime="83.86" endTime="92.96">
+<Sync time="83.86"/>
+and then they
+</Turn>
+<Turn speaker="S1" startTime="92.96" endTime="97.28">
+<Sync time="92.96"/>
+a hold on to the
+</Turn>
+<Turn speaker="S4" startTime="97.28" endTime="107.92">
+<Sync time="97.28"/>
+and well that's too much to um
+</Turn>
+<Turn speaker="S6" startTime="107.92" endTime="135.03">
+<Sync time="107.92"/>
+you know the one thing during the day and then the um
+</Turn>
+<Turn speaker="S3" startTime="135.03" endTime="148.76">
+<Sync time="135.03"/>
+and um
+</Turn>
+<Turn speaker="S4" startTime="148.76" endTime="153.32">
+<Sync time="148.76"/>
+and um
+</Turn>
+<Turn speaker="S5" startTime="153.32" endTime="160.99">
+<Sync time="153.32"/>
+yeah
+</Turn>
+<Turn speaker="S4" startTime="160.99" endTime="165.93">
+<Sync time="160.99"/>
+no
+</Turn>
+<Turn speaker="S3" startTime="165.93" endTime="178.39">
+<Sync time="165.93"/>
+a pretty good
+</Turn>
+<Turn speaker="S2" startTime="178.39" endTime="192.76">
+<Sync time="178.39"/>
+you know a
+</Turn>
+<Turn speaker="S7" startTime="192.76" endTime="218.03">
+<Sync time="192.76"/>
+who
+</Turn>
+<Turn speaker="S6" startTime="218.03" endTime="236.53">
+<Sync time="218.03"/>
+to be not used to be the same way and
+</Turn>
+<Turn speaker="S3" startTime="236.53" endTime="243.14">
+<Sync time="236.53"/>
+but no money
+</Turn>
+<Turn speaker="S2" startTime="243.14" endTime="250.78">
+<Sync time="243.14"/>
+be a day they um
+</Turn>
+<Turn speaker="S6" startTime="250.78" endTime="263.81">
+<Sync time="250.78"/>
+i'm very close to me
+</Turn>
+<Turn speaker="S3" startTime="263.81" endTime="272.27">
+<Sync time="263.81"/>
+okay
+</Turn>
+<Turn speaker="S6" startTime="272.27" endTime="287.46">
+<Sync time="272.27"/>
+yeah they do during the day and
+</Turn>
+<Turn speaker="S3" startTime="287.46" endTime="293.74">
+<Sync time="287.46"/>
+but then
+</Turn>
+<Turn speaker="S2" startTime="293.74" endTime="301.04">
+<Sync time="293.74"/>
+she would do that
+</Turn>
+<Turn speaker="S8" startTime="301.04" endTime="308.2">
+<Sync time="301.04"/>
+mm
+</Turn>
+</Section>
+</Episode>
+</Trans>

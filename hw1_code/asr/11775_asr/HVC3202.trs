@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3202" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="21.47" endTime="39.49" >
+<Turn speaker="S1" startTime="21.47" endTime="29.18">
+<Sync time="21.47"/>
+maine bang bang bang bang bang bang bang
+</Turn>
+<Turn speaker="S2" startTime="29.18" endTime="31.85">
+<Sync time="29.18"/>
+yeah
+</Turn>
+<Turn speaker="S3" startTime="31.85" endTime="39.49">
+<Sync time="31.85"/>
+bang bang bang bang bang bang bang
+</Turn>
+</Section>
+<Section type="report" startTime="42.23" endTime="73.81" >
+<Turn speaker="S4" startTime="42.23" endTime="49.79">
+<Sync time="42.23"/>
+sam counting on those shows
+</Turn>
+<Turn speaker="S5" startTime="49.79" endTime="53.2">
+<Sync time="49.79"/>
+per se
+</Turn>
+<Turn speaker="S6" startTime="53.2" endTime="60.09">
+<Sync time="53.2"/>
+oh definitely being and uh
+</Turn>
+<Turn speaker="S7" startTime="60.09" endTime="63.0">
+<Sync time="60.09"/>
+cause people maybe
+</Turn>
+<Turn speaker="S8" startTime="63.0" endTime="70.62">
+<Sync time="63.0"/>
+be overwhelming song and shit
+</Turn>
+<Turn speaker="S9" startTime="70.62" endTime="73.81">
+<Sync time="70.62"/>
+stalin banks
+</Turn>
+</Section>
+</Episode>
+</Trans>

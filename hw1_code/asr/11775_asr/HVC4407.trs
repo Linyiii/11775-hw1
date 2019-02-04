@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4407" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="33.74" >
+<Turn speaker="S1" startTime="0.0" endTime="2.95">
+<Sync time="0.0"/>
+it's
+</Turn>
+<Turn speaker="S2" startTime="2.95" endTime="7.67">
+<Sync time="2.95"/>
+oh good right
+</Turn>
+<Turn speaker="S3" startTime="7.67" endTime="13.89">
+<Sync time="7.67"/>
+hoping that
+</Turn>
+<Turn speaker="S4" startTime="13.89" endTime="22.31">
+<Sync time="13.89"/>
+try to throw that hard i'm actually i go to aruba oh what
+</Turn>
+<Turn speaker="S5" startTime="22.31" endTime="27.23">
+<Sync time="22.31"/>
+so you have to like this though that's sort of throw these are you store like that and
+</Turn>
+<Turn speaker="S6" startTime="27.23" endTime="30.35">
+<Sync time="27.23"/>
+drivers in hammers and see them close is just fine
+</Turn>
+<Turn speaker="S7" startTime="30.35" endTime="33.74">
+<Sync time="30.35"/>
+off
+</Turn>
+</Section>
+</Episode>
+</Trans>

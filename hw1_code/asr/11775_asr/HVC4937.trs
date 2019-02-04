@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4937" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.93" endTime="62.69" >
+<Turn speaker="S1" startTime="3.93" endTime="37.81">
+<Sync time="3.93"/>
+yeah it's pretty bad though i don't know how they think by the mom and dad too i don't know
+</Turn>
+<Turn speaker="S2" startTime="37.81" endTime="62.69">
+<Sync time="37.81"/>
+now they're
+</Turn>
+</Section>
+<Section type="report" startTime="62.91" endTime="65.76" >
+<Turn speaker="S1" startTime="62.91" endTime="65.76">
+<Sync time="62.91"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

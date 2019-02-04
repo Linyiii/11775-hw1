@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5111" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="26.73" >
+<Turn speaker="S1" startTime="0.0" endTime="3.37">
+<Sync time="0.0"/>
+i don't mind hey my look up mommy
+</Turn>
+<Turn speaker="S2" startTime="3.37" endTime="8.18">
+<Sync time="3.37"/>
+plus while my my my yeah
+</Turn>
+<Turn speaker="S3" startTime="8.18" endTime="14.04">
+<Sync time="8.18"/>
+my ma ma ma ma ma
+</Turn>
+<Turn speaker="S4" startTime="14.04" endTime="19.17">
+<Sync time="14.04"/>
+oh your body can try ya at this age uh
+</Turn>
+<Turn speaker="S5" startTime="19.17" endTime="26.73">
+<Sync time="19.17"/>
+yeah i'm not part of cheese cheese susannah
+</Turn>
+</Section>
+</Episode>
+</Trans>

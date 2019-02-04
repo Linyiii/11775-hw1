@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4472" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.06" endTime="23.92" >
+<Turn speaker="S1" startTime="0.06" endTime="6.41">
+<Sync time="0.06"/>
+hi i'm mike plus west demonstrating on how to clean the fan and a certain extent
+</Turn>
+<Turn speaker="S2" startTime="6.41" endTime="14.14">
+<Sync time="6.41"/>
+first
+</Turn>
+<Turn speaker="S1" startTime="14.14" endTime="23.92">
+<Sync time="14.14"/>
+first remove the base cover that covers the fans simply most laptops are different this happens to be the easiest one to take part
+</Turn>
+</Section>
+</Episode>
+</Trans>

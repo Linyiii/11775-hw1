@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3136" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.05" endTime="10.68" >
+<Turn speaker="S1" startTime="0.05" endTime="10.68">
+<Sync time="0.05"/>
+okay what kind of she's going to put her down into her address to swim in the fall and a half a peanut
+</Turn>
+</Section>
+<Section type="report" startTime="10.75" endTime="27.32" >
+<Turn speaker="S1" startTime="10.75" endTime="13.04">
+<Sync time="10.75"/>
+alright
+</Turn>
+<Turn speaker="S2" startTime="13.04" endTime="23.32">
+<Sync time="13.04"/>
+i'm unfair hello
+</Turn>
+<Turn speaker="S1" startTime="23.32" endTime="27.32">
+<Sync time="23.32"/>
+oh no
+</Turn>
+</Section>
+<Section type="report" startTime="31.67" endTime="40.07" >
+<Turn speaker="S1" startTime="31.67" endTime="40.07">
+<Sync time="31.67"/>
+you're talking about just for more leverage on her shoulders
+</Turn>
+</Section>
+<Section type="report" startTime="45.05" endTime="50.78" >
+<Turn speaker="S1" startTime="45.05" endTime="50.78">
+<Sync time="45.05"/>
+the skill okay that might be and i go
+</Turn>
+</Section>
+</Episode>
+</Trans>

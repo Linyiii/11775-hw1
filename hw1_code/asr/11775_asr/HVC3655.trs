@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3655" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="19.02" >
+<Turn speaker="S1" startTime="0.0" endTime="3.19">
+<Sync time="0.0"/>
+hi my name's amy
+</Turn>
+<Turn speaker="S2" startTime="3.19" endTime="9.71">
+<Sync time="3.19"/>
+objects to reasonable to the state of israel and palestine issue today would state
+</Turn>
+<Turn speaker="S3" startTime="9.71" endTime="19.02">
+<Sync time="9.71"/>
+on violence in luck there or not we just knew that weekend asian vitamins heads off and
+</Turn>
+</Section>
+</Episode>
+</Trans>

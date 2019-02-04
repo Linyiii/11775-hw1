@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3283" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="20.15" >
+<Turn speaker="S1" startTime="0.03" endTime="20.15">
+<Sync time="0.03"/>
+similar to i like to know that that's cool you know you could be cake
+</Turn>
+</Section>
+<Section type="report" startTime="32.28" endTime="39.55" >
+<Turn speaker="S2" startTime="32.28" endTime="39.55">
+<Sync time="32.28"/>
+the
+</Turn>
+</Section>
+<Section type="report" startTime="46.75" endTime="83.9" >
+<Turn speaker="S2" startTime="46.75" endTime="83.9">
+<Sync time="46.75"/>
+read the book to be drawn because i can't breathe
+</Turn>
+</Section>
+<Section type="report" startTime="92.26" endTime="94.58" >
+<Turn speaker="S3" startTime="92.26" endTime="94.58">
+<Sync time="92.26"/>
+mhm
+</Turn>
+</Section>
+</Episode>
+</Trans>

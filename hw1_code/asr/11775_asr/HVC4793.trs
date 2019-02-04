@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4793" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="15.31" >
+<Turn speaker="S1" startTime="0.0" endTime="15.31">
+<Sync time="0.0"/>
+like a like where you go and you can't look at the when you go and bomb riding a brand new bike for like a pretty good at it and only a day
+</Turn>
+</Section>
+<Section type="report" startTime="15.17" endTime="56.93" >
+<Turn speaker="S2" startTime="15.17" endTime="56.93">
+<Sync time="15.17"/>
+good okay go ahead so
+</Turn>
+</Section>
+</Episode>
+</Trans>

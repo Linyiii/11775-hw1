@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6078" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="31.22" endTime="40.36" >
+<Turn speaker="S1" startTime="31.22" endTime="40.36">
+<Sync time="31.22"/>
+it's probably fifteen you
+</Turn>
+</Section>
+<Section type="report" startTime="151.68" endTime="166.34" >
+<Turn speaker="S2" startTime="151.68" endTime="155.27">
+<Sync time="151.68"/>
+mhm
+</Turn>
+<Turn speaker="S3" startTime="155.27" endTime="166.34">
+<Sync time="155.27"/>
+judy
+</Turn>
+</Section>
+<Section type="report" startTime="168.92" endTime="217.45" >
+<Turn speaker="S3" startTime="168.92" endTime="217.45">
+<Sync time="168.92"/>
+and then this other italian there was a little yeah so that's up here it's almost it wasn't much love my
+</Turn>
+</Section>
+<Section type="report" startTime="230.98" endTime="274.33" >
+<Turn speaker="S4" startTime="230.98" endTime="274.33">
+<Sync time="230.98"/>
+yeah middle eastern
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5152" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="215.34" >
+<Turn speaker="S1" startTime="0.0" endTime="84.65">
+<Sync time="0.0"/>
+more or they don't end up did you come back grind cards though they had a lot but i usually like you know i mean you know mm i see
+</Turn>
+<Turn speaker="S2" startTime="84.65" endTime="161.57">
+<Sync time="84.65"/>
+they just want to go for anything uh-huh that's why he's nice because i know how much i mean you know no one yes no maybe i was making me as long as you want to get some today or no okay i'm really tall guy
+</Turn>
+<Turn speaker="S3" startTime="161.57" endTime="198.72">
+<Sync time="161.57"/>
+man i miss out on this and i thought well this is all different kinds of cancer she had so much money you know
+</Turn>
+<Turn speaker="S2" startTime="198.72" endTime="205.39">
+<Sync time="198.72"/>
+right but all the time
+</Turn>
+<Turn speaker="S4" startTime="205.39" endTime="215.34">
+<Sync time="205.39"/>
+he wants test today
+</Turn>
+</Section>
+<Section type="report" startTime="215.45" endTime="230.32" >
+<Turn speaker="S3" startTime="215.45" endTime="230.32">
+<Sync time="215.45"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

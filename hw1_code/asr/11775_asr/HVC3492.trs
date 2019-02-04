@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3492" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="50.04" >
+<Turn speaker="S1" startTime="0.04" endTime="11.06">
+<Sync time="0.04"/>
+i'm real wild wild boar wild boar wild
+</Turn>
+<Turn speaker="S2" startTime="11.06" endTime="50.04">
+<Sync time="11.06"/>
+twenty or twenty dollars to do the other day and don't do that uh while while or you know the wild child
+</Turn>
+</Section>
+<Section type="report" startTime="69.95" endTime="89.43" >
+<Turn speaker="S2" startTime="69.95" endTime="89.43">
+<Sync time="69.95"/>
+so uh little bit longer than a little while or roller shop
+</Turn>
+</Section>
+</Episode>
+</Trans>

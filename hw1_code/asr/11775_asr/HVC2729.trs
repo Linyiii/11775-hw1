@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2729" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.08" endTime="62.36" >
+<Turn speaker="S1" startTime="0.08" endTime="62.36">
+<Sync time="0.08"/>
+and and uh
+</Turn>
+</Section>
+<Section type="report" startTime="77.13" endTime="159.19" >
+<Turn speaker="S1" startTime="77.13" endTime="127.04">
+<Sync time="77.13"/>
+man and and and and and and and whatever and
+</Turn>
+<Turn speaker="S2" startTime="127.04" endTime="141.61">
+<Sync time="127.04"/>
+and just bang bang bang
+</Turn>
+<Turn speaker="S1" startTime="141.61" endTime="159.19">
+<Sync time="141.61"/>
+i'm paying a basic camera
+</Turn>
+</Section>
+<Section type="report" startTime="195.8" endTime="219.15" >
+<Turn speaker="S3" startTime="195.8" endTime="219.15">
+<Sync time="195.8"/>
+and uh
+</Turn>
+</Section>
+<Section type="report" startTime="240.92" endTime="246.72" >
+<Turn speaker="S4" startTime="240.92" endTime="246.72">
+<Sync time="240.92"/>
+uh
+</Turn>
+</Section>
+</Episode>
+</Trans>

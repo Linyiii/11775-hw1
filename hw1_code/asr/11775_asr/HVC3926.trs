@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3926" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="6.57" endTime="184.72" >
+<Turn speaker="S1" startTime="6.57" endTime="26.37">
+<Sync time="6.57"/>
+they they did there's new stuff they do they they
+</Turn>
+<Turn speaker="S2" startTime="26.37" endTime="46.37">
+<Sync time="26.37"/>
+then bang bang bang bang bang
+</Turn>
+<Turn speaker="S3" startTime="46.37" endTime="65.21">
+<Sync time="46.37"/>
+nobody nobody no
+</Turn>
+<Turn speaker="S2" startTime="65.21" endTime="86.03">
+<Sync time="65.21"/>
+a day to day
+</Turn>
+<Turn speaker="S4" startTime="86.03" endTime="92.59">
+<Sync time="86.03"/>
+and and
+</Turn>
+<Turn speaker="S1" startTime="92.59" endTime="96.83">
+<Sync time="92.59"/>
+they
+</Turn>
+<Turn speaker="S4" startTime="96.83" endTime="105.45">
+<Sync time="96.83"/>
+you they do that
+</Turn>
+<Turn speaker="S2" startTime="105.45" endTime="125.37">
+<Sync time="105.45"/>
+a day and and and
+</Turn>
+<Turn speaker="S4" startTime="125.37" endTime="142.7">
+<Sync time="125.37"/>
+and then they gave you a little bit
+</Turn>
+<Turn speaker="S1" startTime="142.7" endTime="145.11">
+<Sync time="142.7"/>
+is
+</Turn>
+<Turn speaker="S2" startTime="145.11" endTime="165.69">
+<Sync time="145.11"/>
+and and and
+</Turn>
+<Turn speaker="S5" startTime="165.69" endTime="184.72">
+<Sync time="165.69"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="184.82" endTime="226.59" >
+<Turn speaker="S6" startTime="184.82" endTime="226.59">
+<Sync time="184.82"/>
+okay and then and so
+</Turn>
+</Section>
+</Episode>
+</Trans>

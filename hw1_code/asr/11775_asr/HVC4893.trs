@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4893" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="8.32" endTime="248.16" >
+<Turn speaker="S1" startTime="8.32" endTime="64.44">
+<Sync time="8.32"/>
+like the minimum sat around i mean that practice almost anywhere drunk people they get like
+</Turn>
+<Turn speaker="S2" startTime="64.44" endTime="175.37">
+<Sync time="64.44"/>
+now my own time dying can go out the door to go down there right now that i get really bad and he drove around going down in orlando i like uh
+</Turn>
+<Turn speaker="S1" startTime="175.37" endTime="208.76">
+<Sync time="175.37"/>
+second hand yeah i'm i'm i am and then i was a long time yeah
+</Turn>
+<Turn speaker="S2" startTime="208.76" endTime="229.06">
+<Sync time="208.76"/>
+they they know they live like that
+</Turn>
+<Turn speaker="S1" startTime="229.06" endTime="248.16">
+<Sync time="229.06"/>
+hi this is why you know money off of it i know when i wake up
+</Turn>
+</Section>
+</Episode>
+</Trans>

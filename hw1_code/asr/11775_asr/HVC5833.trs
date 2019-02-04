@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5833" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="6.33" endTime="30.54" >
+<Turn speaker="S1" startTime="6.33" endTime="10.83">
+<Sync time="6.33"/>
+okay
+</Turn>
+<Turn speaker="S2" startTime="10.83" endTime="20.59">
+<Sync time="10.83"/>
+it's amazing that he's saying that fills you gotta wear quickly
+</Turn>
+<Turn speaker="S3" startTime="20.59" endTime="24.51">
+<Sync time="20.59"/>
+that's okay let him and he was such a
+</Turn>
+<Turn speaker="S4" startTime="24.51" endTime="30.54">
+<Sync time="24.51"/>
+so interested in good taste or not
+</Turn>
+</Section>
+</Episode>
+</Trans>

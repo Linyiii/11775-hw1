@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5145" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="2.0" endTime="28.46" >
+<Turn speaker="S1" startTime="2.0" endTime="14.63">
+<Sync time="2.0"/>
+'cause i think that you must be doing at the moment we all buying highway justifying fattening trapped what'd you like to look at them three half mary i'm cooking that
+</Turn>
+<Turn speaker="S2" startTime="14.63" endTime="20.9">
+<Sync time="14.63"/>
+something lovely
+</Turn>
+<Turn speaker="S3" startTime="20.9" endTime="24.94">
+<Sync time="20.9"/>
+really
+</Turn>
+<Turn speaker="S4" startTime="24.94" endTime="28.46">
+<Sync time="24.94"/>
+how'd you can say take health conscious and there was this year
+</Turn>
+</Section>
+<Section type="report" startTime="31.48" endTime="31.72" >
+<Turn speaker="S5" startTime="31.48" endTime="31.72">
+<Sync time="31.48"/>
+mhm
+</Turn>
+</Section>
+</Episode>
+</Trans>

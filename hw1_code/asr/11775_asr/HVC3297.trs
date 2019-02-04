@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3297" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="24.0" endTime="187.5" >
+<Turn speaker="S1" startTime="24.0" endTime="98.64">
+<Sync time="24.0"/>
+the bank account number that you know things like that and i don't know
+</Turn>
+<Turn speaker="S2" startTime="98.64" endTime="112.79">
+<Sync time="98.64"/>
+you know
+</Turn>
+<Turn speaker="S3" startTime="112.79" endTime="175.07">
+<Sync time="112.79"/>
+you know china that's
+</Turn>
+<Turn speaker="S2" startTime="175.07" endTime="187.5">
+<Sync time="175.07"/>
+oh man oh man
+</Turn>
+</Section>
+<Section type="report" startTime="240.43" endTime="251.19" >
+<Turn speaker="S2" startTime="240.43" endTime="251.19">
+<Sync time="240.43"/>
+um
+</Turn>
+</Section>
+<Section type="report" startTime="283.76" endTime="287.3" >
+<Turn speaker="S1" startTime="283.76" endTime="287.3">
+<Sync time="283.76"/>
+okay
+</Turn>
+</Section>
+</Episode>
+</Trans>

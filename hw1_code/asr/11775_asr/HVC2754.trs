@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2754" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="92.2" endTime="98.32" >
+<Turn speaker="S1" startTime="92.2" endTime="98.32">
+<Sync time="92.2"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="121.96" endTime="154.69" >
+<Turn speaker="S2" startTime="121.96" endTime="154.69">
+<Sync time="121.96"/>
+yes very good and how they make you automated from a guy and so the life the rangers
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,4 @@
+1
+00:00:01.490 --> 00:00:19.240
+ready one two three do you study
+

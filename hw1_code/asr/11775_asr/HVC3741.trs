@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3741" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="5.81" >
+<Turn speaker="S1" startTime="0.0" endTime="5.81">
+<Sync time="0.0"/>
+have you ever heard of yeah science
+</Turn>
+</Section>
+<Section type="report" startTime="12.03" endTime="71.25" >
+<Turn speaker="S1" startTime="12.03" endTime="17.88">
+<Sync time="12.03"/>
+ah yes lord bad
+</Turn>
+<Turn speaker="S2" startTime="17.88" endTime="28.6">
+<Sync time="17.88"/>
+look at the dolls that small science stop
+</Turn>
+<Turn speaker="S3" startTime="28.6" endTime="32.57">
+<Sync time="28.6"/>
+right
+</Turn>
+<Turn speaker="S2" startTime="32.57" endTime="67.89">
+<Sync time="32.57"/>
+if i had to summarize smart bed in one word alleged small that you know what i don't think you can handle a smart that i can handle a smart can you know some people come up to that is stupid i say no it's not that difficult stupid that stupid that was
+</Turn>
+<Turn speaker="S1" startTime="67.89" endTime="71.25">
+<Sync time="67.89"/>
+no one bought it it was stupid
+</Turn>
+</Section>
+</Episode>
+</Trans>

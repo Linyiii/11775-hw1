@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4379" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.06" endTime="18.22" >
+<Turn speaker="S1" startTime="0.06" endTime="9.24">
+<Sync time="0.06"/>
+oh yeah
+</Turn>
+<Turn speaker="S2" startTime="9.24" endTime="18.22">
+<Sync time="9.24"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="20.69" endTime="112.47" >
+<Turn speaker="S2" startTime="20.69" endTime="46.64">
+<Sync time="20.69"/>
+mhm
+</Turn>
+<Turn speaker="S3" startTime="46.64" endTime="112.47">
+<Sync time="46.64"/>
+so i wasn't trying they're scary scary i'm seriously hurt it doesn't matter here's the deal here's the deal i'm hurting bad and i need to go to a doctor you're probably to yourself so i just got on the phone with my dad and i ended up telling him about the whole bomb scares school but um funny thing is i made it seem like it was a joke they broke my leg thing is he still have a job and don't give up my apartment because i can't afford to pay the rent so when i was thinking oh maybe getting me no no no um i was thinking that maybe i would live here at the time being um what we can do considering them for you i'd be employed ruins again kind of three online versus versus a room to do is dr the
+</Turn>
+</Section>
+<Section type="report" startTime="115.3" endTime="126.19" >
+<Turn speaker="S3" startTime="115.3" endTime="126.19">
+<Sync time="115.3"/>
+you have to tell the doctor that you did this to me no not for you okay how about you tell him i fell out of my dad's monster truck when we were jumping over the house
+</Turn>
+</Section>
+</Episode>
+</Trans>

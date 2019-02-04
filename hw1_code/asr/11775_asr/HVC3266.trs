@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3266" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="5.31" >
+<Turn speaker="S1" startTime="0.0" endTime="5.31">
+<Sync time="0.0"/>
+and and
+</Turn>
+</Section>
+<Section type="report" startTime="35.06" endTime="50.1" >
+<Turn speaker="S2" startTime="35.06" endTime="37.25">
+<Sync time="35.06"/>
+um
+</Turn>
+<Turn speaker="S3" startTime="37.25" endTime="50.1">
+<Sync time="37.25"/>
+yeah true or not
+</Turn>
+</Section>
+<Section type="report" startTime="56.5" endTime="72.51" >
+<Turn speaker="S2" startTime="56.5" endTime="72.51">
+<Sync time="56.5"/>
+you guys given up on my shoulders and may have a better know
+</Turn>
+</Section>
+<Section type="report" startTime="94.36" endTime="119.02" >
+<Turn speaker="S3" startTime="94.36" endTime="101.68">
+<Sync time="94.36"/>
+good
+</Turn>
+<Turn speaker="S2" startTime="101.68" endTime="119.02">
+<Sync time="101.68"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="125.74" endTime="199.04" >
+<Turn speaker="S4" startTime="125.74" endTime="139.95">
+<Sync time="125.74"/>
+either job
+</Turn>
+<Turn speaker="S2" startTime="139.95" endTime="176.14">
+<Sync time="139.95"/>
+is good
+</Turn>
+<Turn speaker="S4" startTime="176.14" endTime="199.04">
+<Sync time="176.14"/>
+right good good when you got it for this why not
+</Turn>
+</Section>
+<Section type="report" startTime="237.64" endTime="266.23" >
+<Turn speaker="S5" startTime="237.64" endTime="242.76">
+<Sync time="237.64"/>
+uh
+</Turn>
+<Turn speaker="S4" startTime="242.76" endTime="266.23">
+<Sync time="242.76"/>
+well okay alright the
+</Turn>
+</Section>
+</Episode>
+</Trans>

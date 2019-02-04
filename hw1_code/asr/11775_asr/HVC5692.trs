@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5692" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.98" endTime="19.89" >
+<Turn speaker="S1" startTime="3.98" endTime="19.89">
+<Sync time="3.98"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="20.56" endTime="107.48" >
+<Turn speaker="S2" startTime="20.56" endTime="27.28">
+<Sync time="20.56"/>
+um
+</Turn>
+<Turn speaker="S3" startTime="27.28" endTime="79.34">
+<Sync time="27.28"/>
+i like to eat eat eat them banana mm i like to eat eat eat i like eight eight eight eight i like the eight eight eight eight i like i like to eat eat eat bugs bunny and then i like i like that but i i like to i i i i
+</Turn>
+<Turn speaker="S1" startTime="79.34" endTime="89.03">
+<Sync time="79.34"/>
+the money
+</Turn>
+<Turn speaker="S4" startTime="89.03" endTime="107.48">
+<Sync time="89.03"/>
+oh oh hope okay get no i like to cook i like
+</Turn>
+</Section>
+</Episode>
+</Trans>

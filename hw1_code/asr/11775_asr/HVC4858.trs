@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4858" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.97" endTime="8.11" >
+<Turn speaker="S1" startTime="4.97" endTime="8.11">
+<Sync time="4.97"/>
+exercise to
+</Turn>
+</Section>
+<Section type="report" startTime="11.87" endTime="21.34" >
+<Turn speaker="S2" startTime="11.87" endTime="21.34">
+<Sync time="11.87"/>
+wow
+</Turn>
+</Section>
+<Section type="report" startTime="35.19" endTime="58.88" >
+<Turn speaker="S3" startTime="35.19" endTime="48.5">
+<Sync time="35.19"/>
+that's really nice
+</Turn>
+<Turn speaker="S4" startTime="48.5" endTime="54.1">
+<Sync time="48.5"/>
+uh-huh uh-huh
+</Turn>
+<Turn speaker="S5" startTime="54.1" endTime="58.88">
+<Sync time="54.1"/>
+the same time it's the same thing same exercise
+</Turn>
+</Section>
+<Section type="report" startTime="61.57" endTime="82.96" >
+<Turn speaker="S4" startTime="61.57" endTime="64.57">
+<Sync time="61.57"/>
+we're
+</Turn>
+<Turn speaker="S3" startTime="64.57" endTime="69.37">
+<Sync time="64.57"/>
+nice
+</Turn>
+<Turn speaker="S4" startTime="69.37" endTime="73.5">
+<Sync time="69.37"/>
+each
+</Turn>
+<Turn speaker="S5" startTime="73.5" endTime="82.96">
+<Sync time="73.5"/>
+nice to to the whole body when i was
+</Turn>
+</Section>
+<Section type="report" startTime="104.8" endTime="135.23" >
+<Turn speaker="S6" startTime="104.8" endTime="122.74">
+<Sync time="104.8"/>
+well it was on t._v.
+</Turn>
+<Turn speaker="S5" startTime="122.74" endTime="130.91">
+<Sync time="122.74"/>
+how much travelling to um
+</Turn>
+<Turn speaker="S1" startTime="130.91" endTime="135.23">
+<Sync time="130.91"/>
+practitioner to feel farmers
+</Turn>
+</Section>
+<Section type="report" startTime="138.41" endTime="163.62" >
+<Turn speaker="S2" startTime="138.41" endTime="149.25">
+<Sync time="138.41"/>
+hold on
+</Turn>
+<Turn speaker="S4" startTime="149.25" endTime="163.62">
+<Sync time="149.25"/>
+exercise is a complete confirmation practice method to increase although it was just crazy
+</Turn>
+</Section>
+<Section type="report" startTime="174.92" endTime="207.02" >
+<Turn speaker="S5" startTime="174.92" endTime="186.15">
+<Sync time="174.92"/>
+keeping the posture change when she was too yeah
+</Turn>
+<Turn speaker="S7" startTime="186.15" endTime="196.22">
+<Sync time="186.15"/>
+to show on the rise in
+</Turn>
+<Turn speaker="S1" startTime="196.22" endTime="207.02">
+<Sync time="196.22"/>
+with exercise do business naturally i'm trying to not go even you love the attention
+</Turn>
+</Section>
+<Section type="report" startTime="213.16" endTime="226.63" >
+<Turn speaker="S1" startTime="213.16" endTime="219.96">
+<Sync time="213.16"/>
+the position of he is not even i came down with the size of the head
+</Turn>
+<Turn speaker="S2" startTime="219.96" endTime="226.63">
+<Sync time="219.96"/>
+he's the supposed to fall back on
+</Turn>
+</Section>
+<Section type="report" startTime="232.38" endTime="236.19" >
+<Turn speaker="S2" startTime="232.38" endTime="236.19">
+<Sync time="232.38"/>
+each of the exercise movement
+</Turn>
+</Section>
+<Section type="report" startTime="240.46" endTime="245.27" >
+<Turn speaker="S4" startTime="240.46" endTime="245.27">
+<Sync time="240.46"/>
+some painting of one in
+</Turn>
+</Section>
+<Section type="report" startTime="260.95" endTime="272.63" >
+<Turn speaker="S2" startTime="260.95" endTime="261.75">
+<Sync time="260.95"/>
+no
+</Turn>
+<Turn speaker="S3" startTime="261.75" endTime="272.63">
+<Sync time="261.75"/>
+to say
+</Turn>
+</Section>
+<Section type="report" startTime="272.39" endTime="285.65" >
+<Turn speaker="S8" startTime="272.39" endTime="285.65">
+<Sync time="272.39"/>
+mhm
+</Turn>
+</Section>
+</Episode>
+</Trans>

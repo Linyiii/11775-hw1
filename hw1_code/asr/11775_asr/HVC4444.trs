@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4444" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.51" endTime="36.28" >
+<Turn speaker="S1" startTime="3.51" endTime="36.28">
+<Sync time="3.51"/>
+what's going on just chilling sense to me at the people that will yeah do you think will ever be peace
+</Turn>
+</Section>
+<Section type="report" startTime="64.71" endTime="79.9" >
+<Turn speaker="S2" startTime="64.71" endTime="79.9">
+<Sync time="64.71"/>
+uh so that it's demolition time
+</Turn>
+</Section>
+<Section type="report" startTime="114.24" endTime="182.74" >
+<Turn speaker="S3" startTime="114.24" endTime="171.04">
+<Sync time="114.24"/>
+they show the they're going to do wrong to do that and they came down and do you remember those i don't know there's some day and then in you go back to
+</Turn>
+<Turn speaker="S4" startTime="171.04" endTime="182.74">
+<Sync time="171.04"/>
+that's good
+</Turn>
+</Section>
+<Section type="report" startTime="199.12" endTime="206.39" >
+<Turn speaker="S5" startTime="199.12" endTime="206.39">
+<Sync time="199.12"/>
+uh t._v. sucks
+</Turn>
+</Section>
+</Episode>
+</Trans>

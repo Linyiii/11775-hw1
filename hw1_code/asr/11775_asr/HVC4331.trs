@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4331" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="23.52" >
+<Turn speaker="S1" startTime="0.0" endTime="23.52">
+<Sync time="0.0"/>
+okay it's recording now let's see the underwear we turn around so we can see that they're all on a a little bit easier actually connected in the garage area mhm and they have to be connected everybody knows as far down there but they are connected okay alright
+</Turn>
+</Section>
+<Section type="report" startTime="109.04" endTime="117.4" >
+<Turn speaker="S1" startTime="109.04" endTime="117.4">
+<Sync time="109.04"/>
+let me just to get to uh
+</Turn>
+</Section>
+</Episode>
+</Trans>

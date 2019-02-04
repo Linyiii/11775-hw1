@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4459" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="31.36" >
+<Turn speaker="S1" startTime="0.0" endTime="31.36">
+<Sync time="0.0"/>
+so it's about eighty i'm on a wednesday morning and you can see all of the wind blowing trees moving their form blizzard going on i can see how much snow coming down there but it's quite a bit so the lizard number two twenty ten
+</Turn>
+</Section>
+<Section type="report" startTime="31.22" endTime="45.51" >
+<Turn speaker="S2" startTime="31.22" endTime="45.51">
+<Sync time="31.22"/>
+first second take a look so bad
+</Turn>
+</Section>
+</Episode>
+</Trans>

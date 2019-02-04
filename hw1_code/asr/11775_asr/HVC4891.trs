@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4891" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.05" endTime="132.28" >
+<Turn speaker="S1" startTime="0.05" endTime="13.32">
+<Sync time="0.05"/>
+mm mm
+</Turn>
+<Turn speaker="S2" startTime="13.32" endTime="58.51">
+<Sync time="13.32"/>
+why why they want you know was all you gotta draw the laws we don't know about and i live in maine
+</Turn>
+<Turn speaker="S3" startTime="58.51" endTime="109.61">
+<Sync time="58.51"/>
+what do you live in like good 'cause there's no but we have to deal with that the the topic um
+</Turn>
+<Turn speaker="S2" startTime="109.61" endTime="132.28">
+<Sync time="109.61"/>
+oh not very long time to live you know
+</Turn>
+</Section>
+</Episode>
+</Trans>

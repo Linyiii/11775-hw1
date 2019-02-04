@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6163" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="44.85" >
+<Turn speaker="S1" startTime="0.0" endTime="8.51">
+<Sync time="0.0"/>
+and then
+</Turn>
+<Turn speaker="S2" startTime="8.51" endTime="44.85">
+<Sync time="8.51"/>
+no i don't want to know all of our neighbors and your name of like you just want to be repeated the m._t._v. one like everybody else people think that they
+</Turn>
+</Section>
+<Section type="report" startTime="44.97" endTime="175.14" >
+<Turn speaker="S2" startTime="44.97" endTime="175.14">
+<Sync time="44.97"/>
+it's not about salary it's all about reality make story shoving me what do you know when the seasons change you know we don't really enjoy rolling anymore i know we in germany they would know why we came and they were our neighbors they don't want to come down you know i'm going to there and my wife i don't know maybe you know the people i know my parents blind people joke about my body really knows how to work so hard like i never got because right the right to live in new york it was on a lot of or you know
+</Turn>
+</Section>
+<Section type="report" startTime="175.2" endTime="212.27" >
+<Turn speaker="S2" startTime="175.2" endTime="212.27">
+<Sync time="175.2"/>
+that i never did not even sure i had him for five hundred for our neighbors on line or whatever
+</Turn>
+</Section>
+<Section type="report" startTime="224.63" endTime="294.86" >
+<Turn speaker="S2" startTime="224.63" endTime="294.86">
+<Sync time="224.63"/>
+do you know i couldn't stand it when you know we enjoy the ball rolling in arizona we hang around like a german know that i wouldn't i can't remember when i was going to trade towers papers you know our neighbors
+</Turn>
+</Section>
+<Section type="report" startTime="294.8" endTime="316.91" >
+<Turn speaker="S1" startTime="294.8" endTime="316.91">
+<Sync time="294.8"/>
+i mean i don't know i know i mean i know and
+</Turn>
+</Section>
+</Episode>
+</Trans>

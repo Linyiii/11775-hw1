@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5198" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.1" endTime="61.65" >
+<Turn speaker="S1" startTime="0.1" endTime="61.65">
+<Sync time="0.1"/>
+he he likes the the smoother worth doing the daily chores or did you get to do a lot of stuff i love gardening i do have to have to take care of them because they have some water and give us making me feel good about
+</Turn>
+</Section>
+</Episode>
+</Trans>

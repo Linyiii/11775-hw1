@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3873" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="194.42" >
+<Turn speaker="S1" startTime="0.0" endTime="23.77">
+<Sync time="0.0"/>
+um my word
+</Turn>
+<Turn speaker="S2" startTime="23.77" endTime="37.09">
+<Sync time="23.77"/>
+oh man
+</Turn>
+<Turn speaker="S1" startTime="37.09" endTime="51.97">
+<Sync time="37.09"/>
+uh and uh to the law and
+</Turn>
+<Turn speaker="S2" startTime="51.97" endTime="70.57">
+<Sync time="51.97"/>
+wow oh god i know
+</Turn>
+<Turn speaker="S1" startTime="70.57" endTime="90.26">
+<Sync time="70.57"/>
+or a dollar now we're going to go out
+</Turn>
+<Turn speaker="S2" startTime="90.26" endTime="103.52">
+<Sync time="90.26"/>
+no no no
+</Turn>
+<Turn speaker="S1" startTime="103.52" endTime="119.65">
+<Sync time="103.52"/>
+a dollar an hour and a and and
+</Turn>
+<Turn speaker="S2" startTime="119.65" endTime="158.51">
+<Sync time="119.65"/>
+oh god and a half a year
+</Turn>
+<Turn speaker="S3" startTime="158.51" endTime="161.15">
+<Sync time="158.51"/>
+no
+</Turn>
+<Turn speaker="S4" startTime="161.15" endTime="186.03">
+<Sync time="161.15"/>
+the animal away
+</Turn>
+<Turn speaker="S5" startTime="186.03" endTime="194.42">
+<Sync time="186.03"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="201.53" endTime="269.72" >
+<Turn speaker="S2" startTime="201.53" endTime="249.45">
+<Sync time="201.53"/>
+my mom and my mom and dad and then a man and and and and and things like that and
+</Turn>
+<Turn speaker="S5" startTime="249.45" endTime="269.72">
+<Sync time="249.45"/>
+da da da da da da da da da da
+</Turn>
+</Section>
+</Episode>
+</Trans>

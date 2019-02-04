@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5208" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="49.14" >
+<Turn speaker="S1" startTime="0.04" endTime="30.38">
+<Sync time="0.04"/>
+so this is my apartment and uh i can see it really messy cleaning and you go out on top of your own own own own own own own own own
+</Turn>
+<Turn speaker="S2" startTime="30.38" endTime="43.71">
+<Sync time="30.38"/>
+how much time again i
+</Turn>
+<Turn speaker="S1" startTime="43.71" endTime="49.14">
+<Sync time="43.71"/>
+and what do you do
+</Turn>
+</Section>
+<Section type="report" startTime="49.04" endTime="51.86" >
+<Turn speaker="S2" startTime="49.04" endTime="51.86">
+<Sync time="49.04"/>
+this time on the
+</Turn>
+</Section>
+</Episode>
+</Trans>

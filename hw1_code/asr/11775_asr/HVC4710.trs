@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4710" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="5.22" endTime="14.26" >
+<Turn speaker="S1" startTime="5.22" endTime="14.26">
+<Sync time="5.22"/>
+hi i'm helen from east bears and i'm going to replace the light
+</Turn>
+</Section>
+<Section type="report" startTime="14.32" endTime="61.76" >
+<Turn speaker="S1" startTime="14.32" endTime="61.76">
+<Sync time="14.32"/>
+first always make sure you're disconnected from the main before you can work to open up the food we just need to try to cover looks through ninety degrees carefully removed the cover number to make sure that you're doing the right part from it's on the here replacing the ball because obviously very easy to write one has blown replace that far i can see it just cruise um we just and i like we just need to remove the spring holder
+</Turn>
+</Section>
+<Section type="report" startTime="73.14" endTime="101.48" >
+<Turn speaker="S1" startTime="73.14" endTime="78.9">
+<Sync time="73.14"/>
+it's the same process in reverse
+</Turn>
+<Turn speaker="S2" startTime="78.9" endTime="93.86">
+<Sync time="78.9"/>
+they were spring hold nothing down
+</Turn>
+<Turn speaker="S1" startTime="93.86" endTime="101.48">
+<Sync time="93.86"/>
+we just need to replace the to secure in place
+</Turn>
+</Section>
+<Section type="report" startTime="105.09" endTime="117.07" >
+<Turn speaker="S1" startTime="105.09" endTime="117.07">
+<Sync time="105.09"/>
+filters involved for can be fined on the east along with for over five hundred different brands of home and garden appliance
+</Turn>
+</Section>
+<Section type="report" startTime="117.6" endTime="120.0" >
+<Turn speaker="S1" startTime="117.6" endTime="120.0">
+<Sync time="117.6"/>
+for watching
+</Turn>
+</Section>
+</Episode>
+</Trans>

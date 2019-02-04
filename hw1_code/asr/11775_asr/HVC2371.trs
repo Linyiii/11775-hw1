@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2371" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.05" endTime="73.87" >
+<Turn speaker="S1" startTime="0.05" endTime="3.03">
+<Sync time="0.05"/>
+okay
+</Turn>
+<Turn speaker="S2" startTime="3.03" endTime="28.84">
+<Sync time="3.03"/>
+and and uh
+</Turn>
+<Turn speaker="S3" startTime="28.84" endTime="41.18">
+<Sync time="28.84"/>
+okay
+</Turn>
+<Turn speaker="S2" startTime="41.18" endTime="56.78">
+<Sync time="41.18"/>
+no
+</Turn>
+<Turn speaker="S3" startTime="56.78" endTime="60.5">
+<Sync time="56.78"/>
+and
+</Turn>
+<Turn speaker="S2" startTime="60.5" endTime="64.24">
+<Sync time="60.5"/>
+no
+</Turn>
+<Turn speaker="S3" startTime="64.24" endTime="68.05">
+<Sync time="64.24"/>
+and all and
+</Turn>
+<Turn speaker="S1" startTime="68.05" endTime="73.87">
+<Sync time="68.05"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="103.46" endTime="115.11" >
+<Turn speaker="S2" startTime="103.46" endTime="115.11">
+<Sync time="103.46"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="136.09" endTime="148.2" >
+<Turn speaker="S2" startTime="136.09" endTime="144.19">
+<Sync time="136.09"/>
+no
+</Turn>
+<Turn speaker="S3" startTime="144.19" endTime="148.2">
+<Sync time="144.19"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="179.27" endTime="237.86" >
+<Turn speaker="S2" startTime="179.27" endTime="203.37">
+<Sync time="179.27"/>
+no
+</Turn>
+<Turn speaker="S3" startTime="203.37" endTime="219.38">
+<Sync time="203.37"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="219.38" endTime="234.11">
+<Sync time="219.38"/>
+no
+</Turn>
+<Turn speaker="S3" startTime="234.11" endTime="237.86">
+<Sync time="234.11"/>
+that
+</Turn>
+</Section>
+<Section type="report" startTime="241.76" endTime="272.18" >
+<Turn speaker="S3" startTime="241.76" endTime="245.66">
+<Sync time="241.76"/>
+and go
+</Turn>
+<Turn speaker="S1" startTime="245.66" endTime="250.2">
+<Sync time="245.66"/>
+i am
+</Turn>
+<Turn speaker="S3" startTime="250.2" endTime="258.01">
+<Sync time="250.2"/>
+well people old
+</Turn>
+<Turn speaker="S2" startTime="258.01" endTime="261.81">
+<Sync time="258.01"/>
+um
+</Turn>
+<Turn speaker="S3" startTime="261.81" endTime="269.47">
+<Sync time="261.81"/>
+no
+</Turn>
+<Turn speaker="S1" startTime="269.47" endTime="272.18">
+<Sync time="269.47"/>
+oh
+</Turn>
+</Section>
+</Episode>
+</Trans>

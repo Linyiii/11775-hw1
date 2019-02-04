@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4546" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="78.51" >
+<Turn speaker="S1" startTime="0.0" endTime="30.51">
+<Sync time="0.0"/>
+i don't think they what is it that you're playing i do you enjoy it yeah is it your favorite game yeah okay can show them how you know how to play okay what do what is that i where's the rest of the very good where are you going to put
+</Turn>
+<Turn speaker="S2" startTime="30.51" endTime="45.67">
+<Sync time="30.51"/>
+that is right here and with all this uh these bugs you've already put together by yourself
+</Turn>
+<Turn speaker="S1" startTime="45.67" endTime="49.39">
+<Sync time="45.67"/>
+yeah i
+</Turn>
+<Turn speaker="S2" startTime="49.39" endTime="57.79">
+<Sync time="49.39"/>
+yeah we had a bumble bee in our back yard yesterday didn't we okay good job you want to do another one
+</Turn>
+<Turn speaker="S1" startTime="57.79" endTime="68.47">
+<Sync time="57.79"/>
+can you show grandma grandpa where's the oh yes that's right
+</Turn>
+<Turn speaker="S2" startTime="68.47" endTime="78.51">
+<Sync time="68.47"/>
+very good very good job mommy's going to slide this out
+</Turn>
+</Section>
+<Section type="report" startTime="82.17" endTime="94.28" >
+<Turn speaker="S2" startTime="82.17" endTime="88.28">
+<Sync time="82.17"/>
+very good what animal or what book are you gonna do next
+</Turn>
+<Turn speaker="S1" startTime="88.28" endTime="94.28">
+<Sync time="88.28"/>
+what is that i fly no i don't think it's a look at it again
+</Turn>
+</Section>
+<Section type="report" startTime="104.94" endTime="116.14" >
+<Turn speaker="S2" startTime="104.94" endTime="116.14">
+<Sync time="104.94"/>
+no no silly now where's the rest of the dragon fly
+</Turn>
+</Section>
+<Section type="report" startTime="119.58" endTime="127.23" >
+<Turn speaker="S1" startTime="119.58" endTime="127.23">
+<Sync time="119.58"/>
+there you go good job that's right okay
+</Turn>
+</Section>
+<Section type="report" startTime="130.44" endTime="152.72" >
+<Turn speaker="S2" startTime="130.44" endTime="141.69">
+<Sync time="130.44"/>
+grandma and grandpa huge hit and she has mastered it within less than twelve hours we opened it last night and it is now um nine o'clock in the morning
+</Turn>
+<Turn speaker="S1" startTime="141.69" endTime="152.72">
+<Sync time="141.69"/>
+yeah well you have to stay in front of the camera can you tell grandma and grandpa so much any you us
+</Turn>
+</Section>
+<Section type="report" startTime="158.41" endTime="170.28" >
+<Turn speaker="S1" startTime="158.41" endTime="170.28">
+<Sync time="158.41"/>
+are you ready to go watch cartoons can say bye to grandma and grandpa okay see you later
+</Turn>
+</Section>
+<Section type="report" startTime="170.2" endTime="171.9" >
+<Turn speaker="S3" startTime="170.2" endTime="171.9">
+<Sync time="170.2"/>
+mhm
+</Turn>
+</Section>
+</Episode>
+</Trans>

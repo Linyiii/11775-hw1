@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4853" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="17.63" endTime="22.44" >
+<Turn speaker="S1" startTime="17.63" endTime="22.44">
+<Sync time="17.63"/>
+the lady
+</Turn>
+</Section>
+<Section type="report" startTime="27.39" endTime="151.72" >
+<Turn speaker="S1" startTime="27.39" endTime="151.72">
+<Sync time="27.39"/>
+i think that um but then again you know while they need to learn when the stuff that for not to the game to know like the quality about like you never know when you're around and you can see when we go we go out and the other guy go to the gym and and the lady the only thing i'll watch because back you will see you again to agree that that to me they told me the mind anybody
+</Turn>
+</Section>
+</Episode>
+</Trans>

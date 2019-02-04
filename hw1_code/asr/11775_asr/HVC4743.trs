@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4743" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="1.26" endTime="14.25" >
+<Turn speaker="S1" startTime="1.26" endTime="14.25">
+<Sync time="1.26"/>
+oh there was a family had a dog and his name s. u. s. s. i. u. s. s. i. l. u. s. was his name
+</Turn>
+</Section>
+<Section type="report" startTime="17.19" endTime="94.02" >
+<Turn speaker="S1" startTime="17.19" endTime="29.64">
+<Sync time="17.19"/>
+there was a family had a dog and one name bark i bark a u._s. bark a u._s. was his name
+</Turn>
+<Turn speaker="S2" startTime="29.64" endTime="32.13">
+<Sync time="29.64"/>
+nope
+</Turn>
+<Turn speaker="S1" startTime="32.13" endTime="64.81">
+<Sync time="32.13"/>
+oh there was a family had a dog and silent night bark bark bark us bark bark bark us bark bark bark us than silence was his name oh sure oh you want to give me there was a family had a dog and bark bark bark bark bark bark bark bark bark bark and was his name oh
+</Turn>
+<Turn speaker="S2" startTime="64.81" endTime="67.62">
+<Sync time="64.81"/>
+ooh
+</Turn>
+<Turn speaker="S1" startTime="67.62" endTime="83.54">
+<Sync time="67.62"/>
+there was a family had a dog and was his name oh bark bark bark bark bark bark bark bark bark bark bark bark bark and what's his name now
+</Turn>
+<Turn speaker="S2" startTime="83.54" endTime="88.9">
+<Sync time="83.54"/>
+we make you have fun
+</Turn>
+<Turn speaker="S1" startTime="88.9" endTime="94.02">
+<Sync time="88.9"/>
+watching whatever in the better please she better
+</Turn>
+</Section>
+<Section type="report" startTime="93.79" endTime="100.29" >
+<Turn speaker="S2" startTime="93.79" endTime="100.29">
+<Sync time="93.79"/>
+bark bark bark
+</Turn>
+</Section>
+</Episode>
+</Trans>

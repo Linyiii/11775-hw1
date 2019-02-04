@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4361" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.08" endTime="30.9" >
+<Turn speaker="S1" startTime="3.08" endTime="30.9">
+<Sync time="3.08"/>
+so that was the main stream of el chico's still but the and them as to you know it can make your holiday but a lot of
+</Turn>
+</Section>
+<Section type="report" startTime="30.96" endTime="75.51" >
+<Turn speaker="S2" startTime="30.96" endTime="75.51">
+<Sync time="30.96"/>
+oh i in the in the the thing is we will order all the way they're going on and people are still alive
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5057" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="51.58" >
+<Turn speaker="S1" startTime="0.0" endTime="51.58">
+<Sync time="0.0"/>
+yeah how are you okay you can go go go go
+</Turn>
+</Section>
+<Section type="report" startTime="61.22" endTime="109.22" >
+<Turn speaker="S1" startTime="61.22" endTime="109.22">
+<Sync time="61.22"/>
+i said whoa whoa whoa whoa whoa whoa whoa whoa whoa whoa whoa whoa whoa whoa whoa whoa whoa whoa whoa whoa
+</Turn>
+</Section>
+<Section type="report" startTime="127.98" endTime="166.86" >
+<Turn speaker="S2" startTime="127.98" endTime="166.86">
+<Sync time="127.98"/>
+i just don't have any
+</Turn>
+</Section>
+<Section type="report" startTime="182.67" endTime="184.32" >
+<Turn speaker="S2" startTime="182.67" endTime="184.32">
+<Sync time="182.67"/>
+are you
+</Turn>
+</Section>
+</Episode>
+</Trans>

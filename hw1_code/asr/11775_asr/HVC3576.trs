@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3576" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S15" name="K15" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S16" name="K16" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S17" name="K17" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S18" name="K18" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S19" name="K19" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S20" name="K20" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S21" name="K21" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S22" name="K22" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S23" name="K23" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S24" name="K24" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S25" name="K25" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S26" name="K26" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S27" name="K27" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="46.69" >
+<Turn speaker="S1" startTime="0.0" endTime="6.91">
+<Sync time="0.0"/>
+and she into the pentagon got mad then she from the pentagon she
+</Turn>
+<Turn speaker="S2" startTime="6.91" endTime="18.31">
+<Sync time="6.91"/>
+and then maybe i might add done a
+</Turn>
+<Turn speaker="S3" startTime="18.31" endTime="24.25">
+<Sync time="18.31"/>
+and and ah
+</Turn>
+<Turn speaker="S4" startTime="24.25" endTime="29.57">
+<Sync time="24.25"/>
+a little around that age here
+</Turn>
+<Turn speaker="S5" startTime="29.57" endTime="36.55">
+<Sync time="29.57"/>
+yeah you gotta time uh
+</Turn>
+<Turn speaker="S6" startTime="36.55" endTime="42.78">
+<Sync time="36.55"/>
+um and and
+</Turn>
+<Turn speaker="S7" startTime="42.78" endTime="46.69">
+<Sync time="42.78"/>
+right
+</Turn>
+</Section>
+<Section type="report" startTime="51.19" endTime="140.57" >
+<Turn speaker="S8" startTime="51.19" endTime="53.91">
+<Sync time="51.19"/>
+um
+</Turn>
+<Turn speaker="S9" startTime="53.91" endTime="59.99">
+<Sync time="53.91"/>
+um and
+</Turn>
+<Turn speaker="S10" startTime="59.99" endTime="66.41">
+<Sync time="59.99"/>
+and
+</Turn>
+<Turn speaker="S11" startTime="66.41" endTime="76.48">
+<Sync time="66.41"/>
+a lady and the idea and and i mean she i say you know my age and day out today
+</Turn>
+<Turn speaker="S12" startTime="76.48" endTime="84.35">
+<Sync time="76.48"/>
+going to hang out and she
+</Turn>
+<Turn speaker="S13" startTime="84.35" endTime="95.71">
+<Sync time="84.35"/>
+any shining and and i don't know and and and doing signing on it and
+</Turn>
+<Turn speaker="S14" startTime="95.71" endTime="106.12">
+<Sync time="95.71"/>
+little down in tennessee and what about nine and and they're on t._v. and and so
+</Turn>
+<Turn speaker="S15" startTime="106.12" endTime="115.19">
+<Sync time="106.12"/>
+and then i'm not saying now
+</Turn>
+<Turn speaker="S16" startTime="115.19" endTime="125.48">
+<Sync time="115.19"/>
+and and the cat is many animals mountain dew
+</Turn>
+<Turn speaker="S17" startTime="125.48" endTime="135.34">
+<Sync time="125.48"/>
+and on and
+</Turn>
+<Turn speaker="S18" startTime="135.34" endTime="140.57">
+<Sync time="135.34"/>
+and and yeah and
+</Turn>
+</Section>
+<Section type="report" startTime="150.12" endTime="183.05" >
+<Turn speaker="S19" startTime="150.12" endTime="153.73">
+<Sync time="150.12"/>
+label
+</Turn>
+<Turn speaker="S20" startTime="153.73" endTime="159.41">
+<Sync time="153.73"/>
+hey who knows
+</Turn>
+<Turn speaker="S21" startTime="159.41" endTime="169.55">
+<Sync time="159.41"/>
+yeah well hey hey hey hey who got loud
+</Turn>
+<Turn speaker="S22" startTime="169.55" endTime="178.12">
+<Sync time="169.55"/>
+any any
+</Turn>
+<Turn speaker="S23" startTime="178.12" endTime="183.05">
+<Sync time="178.12"/>
+and um
+</Turn>
+</Section>
+<Section type="report" startTime="187.31" endTime="200.13" >
+<Turn speaker="S24" startTime="187.31" endTime="190.42">
+<Sync time="187.31"/>
+and
+</Turn>
+<Turn speaker="S25" startTime="190.42" endTime="200.13">
+<Sync time="190.42"/>
+and money and the other day and uh
+</Turn>
+</Section>
+<Section type="report" startTime="207.58" endTime="216.69" >
+<Turn speaker="S26" startTime="207.58" endTime="212.39">
+<Sync time="207.58"/>
+yeah
+</Turn>
+<Turn speaker="S27" startTime="212.39" endTime="216.69">
+<Sync time="212.39"/>
+er
+</Turn>
+</Section>
+</Episode>
+</Trans>

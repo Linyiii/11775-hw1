@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4641" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="12.53" >
+<Turn speaker="S1" startTime="0.0" endTime="12.53">
+<Sync time="0.0"/>
+you can't go back and started the one not the stars and you wanna go backwards okay
+</Turn>
+</Section>
+<Section type="report" startTime="24.98" endTime="35.57" >
+<Turn speaker="S1" startTime="24.98" endTime="35.57">
+<Sync time="24.98"/>
+one one okay stop
+</Turn>
+</Section>
+<Section type="report" startTime="40.53" endTime="42.73" >
+<Turn speaker="S1" startTime="40.53" endTime="42.73">
+<Sync time="40.53"/>
+i don't think there's enough water to float about
+</Turn>
+</Section>
+<Section type="report" startTime="48.86" endTime="56.99" >
+<Turn speaker="S1" startTime="48.86" endTime="56.99">
+<Sync time="48.86"/>
+sure daddy jumping your hopscotch
+</Turn>
+</Section>
+</Episode>
+</Trans>

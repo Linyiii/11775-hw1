@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4799" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="10.04" endTime="68.25" >
+<Turn speaker="S1" startTime="10.04" endTime="29.2">
+<Sync time="10.04"/>
+so i think they're trying to open up paying the same town that i'm finding burning okay
+</Turn>
+<Turn speaker="S2" startTime="29.2" endTime="49.05">
+<Sync time="29.2"/>
+no no down down down down down down down down down down down down down down down down down that i'm i'm um
+</Turn>
+<Turn speaker="S1" startTime="49.05" endTime="68.25">
+<Sync time="49.05"/>
+well they were one guy they and then when they do
+</Turn>
+</Section>
+<Section type="report" startTime="68.35" endTime="106.35" >
+<Turn speaker="S3" startTime="68.35" endTime="106.35">
+<Sync time="68.35"/>
+no not uh right now that i'm not a great di di di di di di di though no no no no
+</Turn>
+</Section>
+</Episode>
+</Trans>

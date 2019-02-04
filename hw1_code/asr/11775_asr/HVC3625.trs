@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3625" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="29.38" >
+<Turn speaker="S1" startTime="0.03" endTime="7.12">
+<Sync time="0.03"/>
+see what my mom so it can be hard on his head dolls boring all i tell you what do you watch
+</Turn>
+<Turn speaker="S2" startTime="7.12" endTime="13.24">
+<Sync time="7.12"/>
+it's a lot of good how are you are always saying well you weren't real
+</Turn>
+<Turn speaker="S3" startTime="13.24" endTime="17.63">
+<Sync time="13.24"/>
+go ahead that fear a long way and then they'll go together in the job
+</Turn>
+<Turn speaker="S4" startTime="17.63" endTime="22.81">
+<Sync time="17.63"/>
+well if i love to do that sort of friends in my mind
+</Turn>
+<Turn speaker="S5" startTime="22.81" endTime="29.38">
+<Sync time="22.81"/>
+damn man
+</Turn>
+</Section>
+<Section type="report" startTime="33.81" endTime="64.23" >
+<Turn speaker="S6" startTime="33.81" endTime="49.7">
+<Sync time="33.81"/>
+oh the good man they're friendly with violence mine's bad and then we got to ask him to look for making clean fine but at least in the qualifier let's see what do you live in ohio oh i know
+</Turn>
+<Turn speaker="S7" startTime="49.7" endTime="58.64">
+<Sync time="49.7"/>
+i just about them so i called and got has five for all kinds of it he just about ready to go do they don't
+</Turn>
+<Turn speaker="S8" startTime="58.64" endTime="64.23">
+<Sync time="58.64"/>
+oh yeah do you understand that
+</Turn>
+</Section>
+</Episode>
+</Trans>

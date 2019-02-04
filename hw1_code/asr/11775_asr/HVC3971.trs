@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3971" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.18" endTime="35.21" >
+<Turn speaker="S1" startTime="0.18" endTime="17.6">
+<Sync time="0.18"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="17.6" endTime="35.21">
+<Sync time="17.6"/>
+and
+</Turn>
+</Section>
+<Section type="report" startTime="39.4" endTime="222.03" >
+<Turn speaker="S2" startTime="39.4" endTime="71.5">
+<Sync time="39.4"/>
+but you know they don't always know where to go on tonight tonight know tonight
+</Turn>
+<Turn speaker="S3" startTime="71.5" endTime="95.11">
+<Sync time="71.5"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="95.11" endTime="132.62">
+<Sync time="95.11"/>
+she learned on the other one and it's not too late model your body i don't i don't i don't know not not tonight
+</Turn>
+<Turn speaker="S3" startTime="132.62" endTime="155.23">
+<Sync time="132.62"/>
+know if you decided that long um
+</Turn>
+<Turn speaker="S4" startTime="155.23" endTime="189.47">
+<Sync time="155.23"/>
+um i'm i'm a i'm a mother or your and we are going to the largest da da da da da da da
+</Turn>
+<Turn speaker="S3" startTime="189.47" endTime="202.68">
+<Sync time="189.47"/>
+i'm i'm a and um
+</Turn>
+<Turn speaker="S2" startTime="202.68" endTime="207.52">
+<Sync time="202.68"/>
+man
+</Turn>
+<Turn speaker="S3" startTime="207.52" endTime="222.03">
+<Sync time="207.52"/>
+whoa
+</Turn>
+</Section>
+</Episode>
+</Trans>

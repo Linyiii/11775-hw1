@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4851" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.08" endTime="157.32" >
+<Turn speaker="S1" startTime="0.08" endTime="12.46">
+<Sync time="0.08"/>
+and then bam bam bam bam bam bam bam bam bam bam bam bam
+</Turn>
+<Turn speaker="S2" startTime="12.46" endTime="35.9">
+<Sync time="12.46"/>
+mine's bam bam bam and joe show
+</Turn>
+<Turn speaker="S3" startTime="35.9" endTime="60.78">
+<Sync time="35.9"/>
+you know and and told her every body won't call right now
+</Turn>
+<Turn speaker="S2" startTime="60.78" endTime="84.2">
+<Sync time="60.78"/>
+and they show show
+</Turn>
+<Turn speaker="S3" startTime="84.2" endTime="109.08">
+<Sync time="84.2"/>
+do you walk in the building you know on the monitor
+</Turn>
+<Turn speaker="S2" startTime="109.08" endTime="132.01">
+<Sync time="109.08"/>
+um i'm sure
+</Turn>
+<Turn speaker="S3" startTime="132.01" endTime="157.32">
+<Sync time="132.01"/>
+i'm not ready to go out and the girl that like the you were pregnant
+</Turn>
+</Section>
+<Section type="report" startTime="157.08" endTime="175.19" >
+<Turn speaker="S4" startTime="157.08" endTime="175.19">
+<Sync time="157.08"/>
+where are you a little girl
+</Turn>
+</Section>
+</Episode>
+</Trans>

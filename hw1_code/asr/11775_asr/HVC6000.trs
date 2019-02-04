@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6000" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.14" endTime="18.47" >
+<Turn speaker="S1" startTime="0.14" endTime="18.47">
+<Sync time="0.14"/>
+i forgot that you really weird
+</Turn>
+</Section>
+<Section type="report" startTime="25.38" endTime="42.38" >
+<Turn speaker="S2" startTime="25.38" endTime="42.38">
+<Sync time="25.38"/>
+i'm from you must have been on hold for a lot of yeah it's all right
+</Turn>
+</Section>
+<Section type="report" startTime="42.44" endTime="63.83" >
+<Turn speaker="S3" startTime="42.44" endTime="63.83">
+<Sync time="42.44"/>
+do you try to you i'm i'm a do you
+</Turn>
+</Section>
+</Episode>
+</Trans>

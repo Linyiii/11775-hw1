@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4210" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="18.11" >
+<Turn speaker="S1" startTime="0.0" endTime="9.71">
+<Sync time="0.0"/>
+right now i have lots of salt in the water and then i want you to also
+</Turn>
+<Turn speaker="S2" startTime="9.71" endTime="18.11">
+<Sync time="9.71"/>
+it is
+</Turn>
+</Section>
+<Section type="report" startTime="18.19" endTime="36.37" >
+<Turn speaker="S1" startTime="18.19" endTime="36.37">
+<Sync time="18.19"/>
+and when you look at your work you know that's the um after you saw very good so to x. men how do you think
+</Turn>
+</Section>
+</Episode>
+</Trans>

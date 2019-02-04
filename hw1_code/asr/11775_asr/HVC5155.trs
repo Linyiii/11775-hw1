@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5155" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="150.04" >
+<Turn speaker="S1" startTime="0.03" endTime="5.86">
+<Sync time="0.03"/>
+mm mm mm mm
+</Turn>
+<Turn speaker="S2" startTime="5.86" endTime="15.34">
+<Sync time="5.86"/>
+and and
+</Turn>
+<Turn speaker="S3" startTime="15.34" endTime="43.43">
+<Sync time="15.34"/>
+no no no born and the other uh do the bad no no no no no question about a lot and then reject the u._n. they die
+</Turn>
+<Turn speaker="S4" startTime="43.43" endTime="53.04">
+<Sync time="43.43"/>
+and then and then and then the on and um
+</Turn>
+<Turn speaker="S3" startTime="53.04" endTime="67.98">
+<Sync time="53.04"/>
+then they'll bring your mind and then then then good anytime that um
+</Turn>
+<Turn speaker="S5" startTime="67.98" endTime="119.49">
+<Sync time="67.98"/>
+the dumb blonde girl a lot of money you know yeah know like to tell you and then then right
+</Turn>
+<Turn speaker="S4" startTime="119.49" endTime="127.89">
+<Sync time="119.49"/>
+and i was gonna do another
+</Turn>
+<Turn speaker="S3" startTime="127.89" endTime="137.46">
+<Sync time="127.89"/>
+well you are dying
+</Turn>
+<Turn speaker="S2" startTime="137.46" endTime="150.04">
+<Sync time="137.46"/>
+and uh
+</Turn>
+</Section>
+</Episode>
+</Trans>

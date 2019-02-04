@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4505" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.17" endTime="21.2" >
+<Turn speaker="S1" startTime="0.17" endTime="21.2">
+<Sync time="0.17"/>
+that's so sweet juice sure
+</Turn>
+</Section>
+<Section type="report" startTime="82.65" endTime="84.53" >
+<Turn speaker="S1" startTime="82.65" endTime="84.53">
+<Sync time="82.65"/>
+excellent
+</Turn>
+</Section>
+<Section type="report" startTime="103.56" endTime="120.57" >
+<Turn speaker="S1" startTime="103.56" endTime="120.57">
+<Sync time="103.56"/>
+control that would be very useful
+</Turn>
+</Section>
+<Section type="report" startTime="137.33" endTime="147.37" >
+<Turn speaker="S1" startTime="137.33" endTime="147.37">
+<Sync time="137.33"/>
+very nice
+</Turn>
+</Section>
+</Episode>
+</Trans>

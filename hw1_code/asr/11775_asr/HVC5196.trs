@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5196" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="69.18" >
+<Turn speaker="S1" startTime="0.0" endTime="22.56">
+<Sync time="0.0"/>
+i would bring it over here over here walking do walking rain rain
+</Turn>
+<Turn speaker="S2" startTime="22.56" endTime="44.86">
+<Sync time="22.56"/>
+the new one the new one the new one that's right here okay and then over here good aiming just go back to the baby
+</Turn>
+<Turn speaker="S1" startTime="44.86" endTime="49.68">
+<Sync time="44.86"/>
+every time you come over every day
+</Turn>
+<Turn speaker="S2" startTime="49.68" endTime="69.18">
+<Sync time="49.68"/>
+doing it over there over here this one girl that one yeah that one that's right that's very nice
+</Turn>
+</Section>
+</Episode>
+</Trans>

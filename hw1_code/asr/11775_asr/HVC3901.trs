@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3901" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.08" endTime="137.47" >
+<Turn speaker="S1" startTime="0.08" endTime="17.28">
+<Sync time="0.08"/>
+oh i see like a i mean in the atmosphere i go into the atmosphere roll around me surrounded by
+</Turn>
+<Turn speaker="S2" startTime="17.28" endTime="21.38">
+<Sync time="17.28"/>
+you
+</Turn>
+<Turn speaker="S1" startTime="21.38" endTime="42.25">
+<Sync time="21.38"/>
+they're not even a climbing wall never tried down what i do uh well one day we'll be out of school and uh they can't be it won't be
+</Turn>
+<Turn speaker="S2" startTime="42.25" endTime="46.24">
+<Sync time="42.25"/>
+that's nice
+</Turn>
+<Turn speaker="S1" startTime="46.24" endTime="63.56">
+<Sync time="46.24"/>
+so surprised by the way they look at me and then in the now looking at the fact that i'm on the back or don't want to be threat now school got a couple of
+</Turn>
+<Turn speaker="S3" startTime="63.56" endTime="66.71">
+<Sync time="63.56"/>
+you keep too
+</Turn>
+<Turn speaker="S2" startTime="66.71" endTime="73.18">
+<Sync time="66.71"/>
+if money born right by the time when
+</Turn>
+<Turn speaker="S1" startTime="73.18" endTime="86.07">
+<Sync time="73.18"/>
+chemistry they can't even find a man he yells blown up i was growing up but uh seem to be
+</Turn>
+<Turn speaker="S3" startTime="86.07" endTime="92.31">
+<Sync time="86.07"/>
+it's got us in this in this world
+</Turn>
+<Turn speaker="S2" startTime="92.31" endTime="96.98">
+<Sync time="92.31"/>
+yes i agree there
+</Turn>
+<Turn speaker="S1" startTime="96.98" endTime="112.3">
+<Sync time="96.98"/>
+but uh you know i got my own pace you know racist people around me is they complacent but i can't stand the same
+</Turn>
+<Turn speaker="S3" startTime="112.3" endTime="116.57">
+<Sync time="112.3"/>
+some drums and it's scary to be
+</Turn>
+<Turn speaker="S2" startTime="116.57" endTime="127.0">
+<Sync time="116.57"/>
+barely even with a team they don't really understand the man
+</Turn>
+<Turn speaker="S1" startTime="127.0" endTime="137.47">
+<Sync time="127.0"/>
+i'm trying to uh to be slow down and the cost of my life
+</Turn>
+</Section>
+<Section type="report" startTime="137.5" endTime="145.99" >
+<Turn speaker="S3" startTime="137.5" endTime="145.99">
+<Sync time="137.5"/>
+uh this is going or something
+</Turn>
+</Section>
+</Episode>
+</Trans>

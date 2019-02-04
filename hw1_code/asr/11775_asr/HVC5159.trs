@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5159" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="7.37" endTime="63.86" >
+<Turn speaker="S1" startTime="7.37" endTime="63.86">
+<Sync time="7.37"/>
+and and the i haven't either and i think that the minimum wage and there was like man she's turning dental surgery or maybe they should do it and then they should they should
+</Turn>
+</Section>
+<Section type="report" startTime="73.77" endTime="102.96" >
+<Turn speaker="S1" startTime="73.77" endTime="102.96">
+<Sync time="73.77"/>
+and then they have that and i don't know
+</Turn>
+</Section>
+</Episode>
+</Trans>

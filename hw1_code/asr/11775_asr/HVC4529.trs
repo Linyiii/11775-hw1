@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4529" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="44.24" >
+<Turn speaker="S1" startTime="0.0" endTime="7.26">
+<Sync time="0.0"/>
+walking back for another exciting experiment this one is called color changing liquids i have my assistant
+</Turn>
+<Turn speaker="S2" startTime="7.26" endTime="14.82">
+<Sync time="7.26"/>
+does he smoke and my
+</Turn>
+<Turn speaker="S1" startTime="14.82" endTime="33.52">
+<Sync time="14.82"/>
+i think he's still here in front of us we have two cups filled with regular tap water in a little bit of what's called red cabbage juice powder that we've mixed in their previously in my system in both assistant
+</Turn>
+<Turn speaker="S2" startTime="33.52" endTime="44.24">
+<Sync time="33.52"/>
+now we're going to take one scoop of baking soda
+</Turn>
+</Section>
+<Section type="report" startTime="47.88" endTime="89.96" >
+<Turn speaker="S2" startTime="47.88" endTime="68.17">
+<Sync time="47.88"/>
+thank you and put it in one cup what the thing no no no no stir it up
+</Turn>
+<Turn speaker="S3" startTime="68.17" endTime="75.61">
+<Sync time="68.17"/>
+i don't really the crazy isn't it
+</Turn>
+<Turn speaker="S1" startTime="75.61" endTime="89.96">
+<Sync time="75.61"/>
+i'm trying to please stop starting with a strong plate scoop scoop the other one we can see the transformation he stood up little straw
+</Turn>
+</Section>
+<Section type="report" startTime="96.02" endTime="121.69" >
+<Turn speaker="S3" startTime="96.02" endTime="106.07">
+<Sync time="96.02"/>
+ten our intake citric acid
+</Turn>
+<Turn speaker="S2" startTime="106.07" endTime="121.69">
+<Sync time="106.07"/>
+just wants to and put it in the second cup pick sure uh
+</Turn>
+</Section>
+<Section type="report" startTime="124.74" endTime="160.97" >
+<Turn speaker="S1" startTime="124.74" endTime="160.97">
+<Sync time="124.74"/>
+from the purpose mhm cool now now if we take a third cop no no no no no no no no no no listening and we're going to put a third of all i could turn red purple almost read a bit of this in here for blower for this one in here
+</Turn>
+</Section>
+<Section type="report" startTime="160.75" endTime="179.68" >
+<Turn speaker="S3" startTime="160.75" endTime="179.68">
+<Sync time="160.75"/>
+oh it's my turn to purple okay or black we didn't do think enough the changing colors
+</Turn>
+</Section>
+</Episode>
+</Trans>

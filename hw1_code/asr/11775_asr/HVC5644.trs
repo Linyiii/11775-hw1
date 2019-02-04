@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5644" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="18.2" >
+<Turn speaker="S1" startTime="0.0" endTime="3.06">
+<Sync time="0.0"/>
+oh
+</Turn>
+<Turn speaker="S2" startTime="3.06" endTime="10.34">
+<Sync time="3.06"/>
+oh no
+</Turn>
+<Turn speaker="S3" startTime="10.34" endTime="14.78">
+<Sync time="10.34"/>
+no
+</Turn>
+<Turn speaker="S1" startTime="14.78" endTime="18.2">
+<Sync time="14.78"/>
+on the more you gotta pick it up on either
+</Turn>
+</Section>
+<Section type="report" startTime="24.28" endTime="54.78" >
+<Turn speaker="S2" startTime="24.28" endTime="49.69">
+<Sync time="24.28"/>
+it's all it's all going to go and they were all laid out yeah and you know
+</Turn>
+<Turn speaker="S1" startTime="49.69" endTime="54.78">
+<Sync time="49.69"/>
+the stress ladies go go go
+</Turn>
+</Section>
+<Section type="report" startTime="59.22" endTime="70.75" >
+<Turn speaker="S1" startTime="59.22" endTime="61.86">
+<Sync time="59.22"/>
+and when you get that movie
+</Turn>
+<Turn speaker="S3" startTime="61.86" endTime="70.75">
+<Sync time="61.86"/>
+oh i hope so
+</Turn>
+</Section>
+</Episode>
+</Trans>

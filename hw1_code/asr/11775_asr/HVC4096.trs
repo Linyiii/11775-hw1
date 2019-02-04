@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4096" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="17.03" >
+<Turn speaker="S1" startTime="0.0" endTime="8.11">
+<Sync time="0.0"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="8.11" endTime="17.03">
+<Sync time="8.11"/>
+oh
+</Turn>
+</Section>
+<Section type="report" startTime="16.88" endTime="90.03" >
+<Turn speaker="S3" startTime="16.88" endTime="90.03">
+<Sync time="16.88"/>
+bomb iraq you know my my little girl with a hockey game
+</Turn>
+</Section>
+</Episode>
+</Trans>

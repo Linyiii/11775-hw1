@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5982" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="23.35" >
+<Turn speaker="S1" startTime="0.0" endTime="6.64">
+<Sync time="0.0"/>
+when will i will have the same path
+</Turn>
+<Turn speaker="S2" startTime="6.64" endTime="23.35">
+<Sync time="6.64"/>
+how are you interested in the car that i made right definitely
+</Turn>
+</Section>
+<Section type="report" startTime="23.11" endTime="39.5" >
+<Turn speaker="S1" startTime="23.11" endTime="39.5">
+<Sync time="23.11"/>
+mild moderate blow that
+</Turn>
+</Section>
+</Episode>
+</Trans>

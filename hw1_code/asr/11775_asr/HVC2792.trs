@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2792" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="6.04" endTime="60.24" >
+<Turn speaker="S1" startTime="6.04" endTime="16.47">
+<Sync time="6.04"/>
+to look for um naturally
+</Turn>
+<Turn speaker="S2" startTime="16.47" endTime="29.84">
+<Sync time="16.47"/>
+seems like you know you can see where you know your brain going for a job
+</Turn>
+<Turn speaker="S1" startTime="29.84" endTime="60.24">
+<Sync time="29.84"/>
+uh within the cream cheese going well anyway i'm gonna go to lot mistake to make
+</Turn>
+</Section>
+<Section type="report" startTime="60.21" endTime="123.72" >
+<Turn speaker="S2" startTime="60.21" endTime="123.72">
+<Sync time="60.21"/>
+that's gotta be like oh god oh i better not anticipate walking taking pictures do you have to take this shit cheesecake or some kind of in a week
+</Turn>
+</Section>
+</Episode>
+</Trans>

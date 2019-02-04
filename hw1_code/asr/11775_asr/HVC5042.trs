@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5042" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="10.14" >
+<Turn speaker="S1" startTime="0.04" endTime="4.75">
+<Sync time="0.04"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="4.75" endTime="10.14">
+<Sync time="4.75"/>
+you too
+</Turn>
+</Section>
+<Section type="report" startTime="17.29" endTime="38.9" >
+<Turn speaker="S3" startTime="17.29" endTime="31.91">
+<Sync time="17.29"/>
+the ladder retirement home brand
+</Turn>
+<Turn speaker="S1" startTime="31.91" endTime="35.27">
+<Sync time="31.91"/>
+yeah
+</Turn>
+<Turn speaker="S2" startTime="35.27" endTime="38.9">
+<Sync time="35.27"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

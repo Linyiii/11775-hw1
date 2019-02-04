@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4655" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="230.79" endTime="321.46" >
+<Turn speaker="S1" startTime="230.79" endTime="321.46">
+<Sync time="230.79"/>
+one of those um it's very
+</Turn>
+</Section>
+<Section type="report" startTime="335.65" endTime="519.96" >
+<Turn speaker="S2" startTime="335.65" endTime="379.48">
+<Sync time="335.65"/>
+what do you know that it's eating you know come to this one
+</Turn>
+<Turn speaker="S1" startTime="379.48" endTime="519.96">
+<Sync time="379.48"/>
+tell me about the do you like do you like that we do like that what's it called he go oh that's nice
+</Turn>
+</Section>
+<Section type="report" startTime="534.41" endTime="559.75" >
+<Turn speaker="S1" startTime="534.41" endTime="559.75">
+<Sync time="534.41"/>
+which one is your favorite
+</Turn>
+</Section>
+<Section type="report" startTime="921.46" endTime="943.62" >
+<Turn speaker="S1" startTime="921.46" endTime="943.62">
+<Sync time="921.46"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="1047.75" endTime="1082.45" >
+<Turn speaker="S3" startTime="1047.75" endTime="1082.45">
+<Sync time="1047.75"/>
+i'm scared you know how to do
+</Turn>
+</Section>
+</Episode>
+</Trans>

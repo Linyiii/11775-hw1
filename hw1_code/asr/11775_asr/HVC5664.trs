@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5664" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.13" endTime="28.66" >
+<Turn speaker="S1" startTime="0.13" endTime="3.78">
+<Sync time="0.13"/>
+another
+</Turn>
+<Turn speaker="S2" startTime="3.78" endTime="20.74">
+<Sync time="3.78"/>
+know
+</Turn>
+<Turn speaker="S3" startTime="20.74" endTime="28.66">
+<Sync time="20.74"/>
+some of it
+</Turn>
+</Section>
+<Section type="report" startTime="36.85" endTime="48.34" >
+<Turn speaker="S1" startTime="36.85" endTime="48.34">
+<Sync time="36.85"/>
+one thing that that you're not gonna change things you don't say to see the
+</Turn>
+</Section>
+<Section type="report" startTime="65.72" endTime="97.26" >
+<Turn speaker="S2" startTime="65.72" endTime="97.26">
+<Sync time="65.72"/>
+so i'm them a lot of what why is that what into the bouncing
+</Turn>
+</Section>
+<Section type="report" startTime="97.32" endTime="102.43" >
+<Turn speaker="S3" startTime="97.32" endTime="102.43">
+<Sync time="97.32"/>
+i don't know
+</Turn>
+</Section>
+</Episode>
+</Trans>

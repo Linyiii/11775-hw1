@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4706" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="122.74" >
+<Turn speaker="S1" startTime="0.03" endTime="20.98">
+<Sync time="0.03"/>
+mm mm
+</Turn>
+<Turn speaker="S2" startTime="20.98" endTime="34.78">
+<Sync time="20.98"/>
+oh my lord
+</Turn>
+<Turn speaker="S3" startTime="34.78" endTime="39.47">
+<Sync time="34.78"/>
+no
+</Turn>
+<Turn speaker="S4" startTime="39.47" endTime="53.3">
+<Sync time="39.47"/>
+oh
+</Turn>
+<Turn speaker="S5" startTime="53.3" endTime="60.32">
+<Sync time="53.3"/>
+um
+</Turn>
+<Turn speaker="S6" startTime="60.32" endTime="63.79">
+<Sync time="60.32"/>
+and
+</Turn>
+<Turn speaker="S7" startTime="63.79" endTime="69.76">
+<Sync time="63.79"/>
+um
+</Turn>
+<Turn speaker="S6" startTime="69.76" endTime="73.36">
+<Sync time="69.76"/>
+oh
+</Turn>
+<Turn speaker="S3" startTime="73.36" endTime="81.16">
+<Sync time="73.36"/>
+uh i
+</Turn>
+<Turn speaker="S5" startTime="81.16" endTime="87.37">
+<Sync time="81.16"/>
+oh
+</Turn>
+<Turn speaker="S3" startTime="87.37" endTime="91.63">
+<Sync time="87.37"/>
+oh
+</Turn>
+<Turn speaker="S8" startTime="91.63" endTime="98.19">
+<Sync time="91.63"/>
+um
+</Turn>
+<Turn speaker="S9" startTime="98.19" endTime="105.58">
+<Sync time="98.19"/>
+and uh
+</Turn>
+<Turn speaker="S3" startTime="105.58" endTime="111.38">
+<Sync time="105.58"/>
+jeeze
+</Turn>
+<Turn speaker="S7" startTime="111.38" endTime="114.88">
+<Sync time="111.38"/>
+um
+</Turn>
+<Turn speaker="S5" startTime="114.88" endTime="118.37">
+<Sync time="114.88"/>
+uh
+</Turn>
+<Turn speaker="S9" startTime="118.37" endTime="122.74">
+<Sync time="118.37"/>
+hum
+</Turn>
+</Section>
+</Episode>
+</Trans>

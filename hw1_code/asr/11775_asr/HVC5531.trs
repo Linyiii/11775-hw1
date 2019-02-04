@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5531" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="68.55" >
+<Turn speaker="S1" startTime="0.03" endTime="9.6">
+<Sync time="0.03"/>
+see jar dies on average years i
+</Turn>
+<Turn speaker="S2" startTime="9.6" endTime="14.18">
+<Sync time="9.6"/>
+no no no no
+</Turn>
+<Turn speaker="S3" startTime="14.18" endTime="23.65">
+<Sync time="14.18"/>
+hello hi
+</Turn>
+<Turn speaker="S4" startTime="23.65" endTime="28.34">
+<Sync time="23.65"/>
+read your i'm online and just
+</Turn>
+<Turn speaker="S5" startTime="28.34" endTime="35.67">
+<Sync time="28.34"/>
+grow grow sledding you'll have to be easier by uh
+</Turn>
+<Turn speaker="S6" startTime="35.67" endTime="45.44">
+<Sync time="35.67"/>
+sharing sharing sharing
+</Turn>
+<Turn speaker="S7" startTime="45.44" endTime="52.39">
+<Sync time="45.44"/>
+oh me god all like pretty and just gross else right
+</Turn>
+<Turn speaker="S8" startTime="52.39" endTime="59.52">
+<Sync time="52.39"/>
+yeah
+</Turn>
+<Turn speaker="S9" startTime="59.52" endTime="64.24">
+<Sync time="59.52"/>
+leave i know
+</Turn>
+<Turn speaker="S10" startTime="64.24" endTime="68.55">
+<Sync time="64.24"/>
+yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

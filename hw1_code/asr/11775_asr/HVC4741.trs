@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4741" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="49.9" >
+<Turn speaker="S1" startTime="0.0" endTime="9.46">
+<Sync time="0.0"/>
+yeah
+</Turn>
+<Turn speaker="S2" startTime="9.46" endTime="49.9">
+<Sync time="9.46"/>
+so you get a basket to build bombs on the but it would happen during during some stuff but i don't know did you get down to adopt
+</Turn>
+</Section>
+<Section type="report" startTime="54.77" endTime="109.39" >
+<Turn speaker="S2" startTime="54.77" endTime="109.39">
+<Sync time="54.77"/>
+oh go go go do the doctor that did not best by offering during the day and they don't go to bed i'm not that go on a lot
+</Turn>
+</Section>
+</Episode>
+</Trans>

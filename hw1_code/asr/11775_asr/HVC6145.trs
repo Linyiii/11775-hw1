@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6145" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.3" endTime="121.62" >
+<Turn speaker="S1" startTime="0.3" endTime="30.53">
+<Sync time="0.3"/>
+me too
+</Turn>
+<Turn speaker="S2" startTime="30.53" endTime="121.62">
+<Sync time="30.53"/>
+oh god
+</Turn>
+</Section>
+<Section type="report" startTime="135.57" endTime="194.39" >
+<Turn speaker="S2" startTime="135.57" endTime="194.39">
+<Sync time="135.57"/>
+i know who would i i i i was things years you know the pain
+</Turn>
+</Section>
+</Episode>
+</Trans>

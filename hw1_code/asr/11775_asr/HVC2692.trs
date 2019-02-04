@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2692" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="58.79" >
+<Turn speaker="S1" startTime="0.0" endTime="8.34">
+<Sync time="0.0"/>
+that's right yeah
+</Turn>
+<Turn speaker="S2" startTime="8.34" endTime="10.07">
+<Sync time="8.34"/>
+yeah i'm mom
+</Turn>
+<Turn speaker="S1" startTime="10.07" endTime="30.11">
+<Sync time="10.07"/>
+everything so i
+</Turn>
+<Turn speaker="S2" startTime="30.11" endTime="54.19">
+<Sync time="30.11"/>
+that's as far as making this is easy yeah they told people that was that bad yeah you're just hanging uh
+</Turn>
+<Turn speaker="S1" startTime="54.19" endTime="58.79">
+<Sync time="54.19"/>
+get back
+</Turn>
+</Section>
+<Section type="report" startTime="58.76" endTime="88.69" >
+<Turn speaker="S2" startTime="58.76" endTime="88.69">
+<Sync time="58.76"/>
+pretty much a little more challenging i know that i i don't have to climb that they're rock iraq wow you got one again
+</Turn>
+</Section>
+</Episode>
+</Trans>

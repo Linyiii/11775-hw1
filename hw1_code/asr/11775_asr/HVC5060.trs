@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5060" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="9.06" >
+<Turn speaker="S1" startTime="0.0" endTime="9.06">
+<Sync time="0.0"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="13.05" endTime="98.94" >
+<Turn speaker="S2" startTime="13.05" endTime="28.13">
+<Sync time="13.05"/>
+okay
+</Turn>
+<Turn speaker="S3" startTime="28.13" endTime="55.93">
+<Sync time="28.13"/>
+the organization that name by the the to the to the back they do the carry on the reading reading a for eight nine ten eleven twelve point
+</Turn>
+<Turn speaker="S2" startTime="55.93" endTime="60.16">
+<Sync time="55.93"/>
+okay
+</Turn>
+<Turn speaker="S4" startTime="60.16" endTime="91.21">
+<Sync time="60.16"/>
+the the biggest the my son small amount of time it is very very heavy workout probably six or so and then you have the ladies that are going on the money that's coming on or anything
+</Turn>
+<Turn speaker="S1" startTime="91.21" endTime="98.94">
+<Sync time="91.21"/>
+the last twenty or thirty years and my family my dad's number my brother's coming back
+</Turn>
+</Section>
+<Section type="report" startTime="106.61" endTime="115.96" >
+<Turn speaker="S1" startTime="106.61" endTime="115.96">
+<Sync time="106.61"/>
+little girl i learned how to make my grandma my longest lenders you're not that i'm thirty nine yeah
+</Turn>
+</Section>
+<Section type="report" startTime="119.52" endTime="182.64" >
+<Turn speaker="S5" startTime="119.52" endTime="162.97">
+<Sync time="119.52"/>
+i don't know your opinion i i said no no no no no they need to go for the money they make a man
+</Turn>
+<Turn speaker="S4" startTime="162.97" endTime="168.64">
+<Sync time="162.97"/>
+this is one big one weekend
+</Turn>
+<Turn speaker="S5" startTime="168.64" endTime="182.64">
+<Sync time="168.64"/>
+we have going on
+</Turn>
+</Section>
+</Episode>
+</Trans>

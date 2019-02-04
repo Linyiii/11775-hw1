@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5445" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="104.22" >
+<Turn speaker="S1" startTime="0.0" endTime="78.82">
+<Sync time="0.0"/>
+go with that type children back to figure out you can take it or not we need to do more harm the you're squeezing more as hard as you can and you're climbing the focal point on the but i mean by that quite a or even a part of the whatever maybe who bought back when you have that choice of going for a while so it's in line with that point you're focusing your vision one hundred percent on that stop from their their your your ribs that they're gonna cut your chest of the bar you know what if you watch when i called myself down for coming down to forty five degrees voters chicken wings we're going in almost so i'm going to set myself see where you from
+</Turn>
+<Turn speaker="S2" startTime="78.82" endTime="93.44">
+<Sync time="78.82"/>
+hold on one time like forty miles from here we can i'm going to push away from the bottom line
+</Turn>
+<Turn speaker="S1" startTime="93.44" endTime="104.22">
+<Sync time="93.44"/>
+from here which is a can be anything where you remember i'm pulling me
+</Turn>
+</Section>
+<Section type="report" startTime="107.03" endTime="113.08" >
+<Turn speaker="S1" startTime="107.03" endTime="113.08">
+<Sync time="107.03"/>
+that the better
+</Turn>
+</Section>
+</Episode>
+</Trans>

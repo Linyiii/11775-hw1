@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6184" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="9.89" endTime="157.1" >
+<Turn speaker="S1" startTime="9.89" endTime="157.1">
+<Sync time="9.89"/>
+i don't really watch watch dog
+</Turn>
+</Section>
+<Section type="report" startTime="174.34" endTime="200.7" >
+<Turn speaker="S1" startTime="174.34" endTime="200.7">
+<Sync time="174.34"/>
+i think too
+</Turn>
+</Section>
+</Episode>
+</Trans>

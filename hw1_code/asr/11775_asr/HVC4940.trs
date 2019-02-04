@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4940" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.93" endTime="12.06" >
+<Turn speaker="S1" startTime="0.93" endTime="12.06">
+<Sync time="0.93"/>
+different strokes for different one
+</Turn>
+</Section>
+<Section type="report" startTime="16.24" endTime="17.92" >
+<Turn speaker="S2" startTime="16.24" endTime="17.92">
+<Sync time="16.24"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="21.5" endTime="24.51" >
+<Turn speaker="S2" startTime="21.5" endTime="24.51">
+<Sync time="21.5"/>
+where
+</Turn>
+</Section>
+<Section type="report" startTime="28.45" endTime="51.71" >
+<Turn speaker="S3" startTime="28.45" endTime="33.51">
+<Sync time="28.45"/>
+then
+</Turn>
+<Turn speaker="S2" startTime="33.51" endTime="36.19">
+<Sync time="33.51"/>
+mhm
+</Turn>
+<Turn speaker="S4" startTime="36.19" endTime="44.78">
+<Sync time="36.19"/>
+why did you
+</Turn>
+<Turn speaker="S1" startTime="44.78" endTime="51.71">
+<Sync time="44.78"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="62.7" endTime="108.0" >
+<Turn speaker="S1" startTime="62.7" endTime="79.8">
+<Sync time="62.7"/>
+oh i you know when they get they agree with that and yeah
+</Turn>
+<Turn speaker="S4" startTime="79.8" endTime="94.53">
+<Sync time="79.8"/>
+oh you know and
+</Turn>
+<Turn speaker="S1" startTime="94.53" endTime="98.78">
+<Sync time="94.53"/>
+their lives over christmas
+</Turn>
+<Turn speaker="S3" startTime="98.78" endTime="102.16">
+<Sync time="98.78"/>
+oh yeah
+</Turn>
+<Turn speaker="S1" startTime="102.16" endTime="108.0">
+<Sync time="102.16"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="123.91" endTime="140.89" >
+<Turn speaker="S4" startTime="123.91" endTime="140.89">
+<Sync time="123.91"/>
+and this like after shot one or not
+</Turn>
+</Section>
+<Section type="report" startTime="141.04" endTime="157.94" >
+<Turn speaker="S1" startTime="141.04" endTime="157.94">
+<Sync time="141.04"/>
+oh that's nice i don't i don't yeah that's i'm a typical
+</Turn>
+</Section>
+</Episode>
+</Trans>

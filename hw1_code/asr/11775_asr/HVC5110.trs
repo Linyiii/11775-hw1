@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5110" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="23.79" >
+<Turn speaker="S1" startTime="0.0" endTime="23.79">
+<Sync time="0.0"/>
+pretty bad i went to iraq would love to live in are right
+</Turn>
+</Section>
+<Section type="report" startTime="23.9" endTime="37.59" >
+<Turn speaker="S1" startTime="23.9" endTime="37.59">
+<Sync time="23.9"/>
+it was good
+</Turn>
+</Section>
+</Episode>
+</Trans>

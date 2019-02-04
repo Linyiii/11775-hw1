@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3772" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="42.42" >
+<Turn speaker="S1" startTime="0.0" endTime="42.42">
+<Sync time="0.0"/>
+you know the and all that and when you marry a millionaire and say you know i mean
+</Turn>
+</Section>
+<Section type="report" startTime="64.52" endTime="83.35" >
+<Turn speaker="S2" startTime="64.52" endTime="81.56">
+<Sync time="64.52"/>
+you don't want to play and i don't know
+</Turn>
+<Turn speaker="S3" startTime="81.56" endTime="83.35">
+<Sync time="81.56"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="86.61" endTime="101.48" >
+<Turn speaker="S3" startTime="86.61" endTime="101.48">
+<Sync time="86.61"/>
+i don't know
+</Turn>
+</Section>
+<Section type="report" startTime="106.34" endTime="126.43" >
+<Turn speaker="S4" startTime="106.34" endTime="126.43">
+<Sync time="106.34"/>
+i don't know
+</Turn>
+</Section>
+<Section type="report" startTime="129.24" endTime="137.5" >
+<Turn speaker="S4" startTime="129.24" endTime="137.5">
+<Sync time="129.24"/>
+and that could have done it
+</Turn>
+</Section>
+<Section type="report" startTime="241.93" endTime="258.49" >
+<Turn speaker="S1" startTime="241.93" endTime="258.49">
+<Sync time="241.93"/>
+and um
+</Turn>
+</Section>
+</Episode>
+</Trans>

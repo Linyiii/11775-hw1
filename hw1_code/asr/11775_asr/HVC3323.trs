@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3323" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="6.29" endTime="28.34" >
+<Turn speaker="S1" startTime="6.29" endTime="28.34">
+<Sync time="6.29"/>
+the science project
+</Turn>
+</Section>
+<Section type="report" startTime="33.2" endTime="39.11" >
+<Turn speaker="S2" startTime="33.2" endTime="39.11">
+<Sync time="33.2"/>
+what'd you do in places goldfish volcano
+</Turn>
+</Section>
+<Section type="report" startTime="45.38" endTime="48.99" >
+<Turn speaker="S2" startTime="45.38" endTime="48.99">
+<Sync time="45.38"/>
+what's he doing he only has a memory of three seconds
+</Turn>
+</Section>
+<Section type="report" startTime="55.63" endTime="93.69" >
+<Turn speaker="S2" startTime="55.63" endTime="86.12">
+<Sync time="55.63"/>
+yeah he doesn't like every three seconds look one two three one two three one two three two one two three so i know that you might as well don't like to make fun of baking soda that that's pretty tough enough
+</Turn>
+<Turn speaker="S3" startTime="86.12" endTime="88.51">
+<Sync time="86.12"/>
+yeah
+</Turn>
+<Turn speaker="S2" startTime="88.51" endTime="93.69">
+<Sync time="88.51"/>
+that sounds like okay now it's like okay
+</Turn>
+</Section>
+<Section type="report" startTime="97.15" endTime="100.68" >
+<Turn speaker="S2" startTime="97.15" endTime="100.68">
+<Sync time="97.15"/>
+he's getting away to get the proper shortly
+</Turn>
+</Section>
+<Section type="report" startTime="165.18" endTime="176.9" >
+<Turn speaker="S4" startTime="165.18" endTime="176.9">
+<Sync time="165.18"/>
+okay okay good well it'll be okay i'll take good care of you come out
+</Turn>
+</Section>
+<Section type="report" startTime="176.95" endTime="196.54" >
+<Turn speaker="S4" startTime="176.95" endTime="191.37">
+<Sync time="176.95"/>
+you almost here yeah it's that close yeah what are you doing where are you
+</Turn>
+<Turn speaker="S5" startTime="191.37" endTime="196.54">
+<Sync time="191.37"/>
+okay
+</Turn>
+</Section>
+</Episode>
+</Trans>

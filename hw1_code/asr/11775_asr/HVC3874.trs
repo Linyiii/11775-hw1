@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3874" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="14.85" >
+<Turn speaker="S1" startTime="0.04" endTime="14.85">
+<Sync time="0.04"/>
+there is only second to go to war
+</Turn>
+</Section>
+<Section type="report" startTime="34.07" endTime="45.06" >
+<Turn speaker="S2" startTime="34.07" endTime="41.64">
+<Sync time="34.07"/>
+and
+</Turn>
+<Turn speaker="S3" startTime="41.64" endTime="45.06">
+<Sync time="41.64"/>
+sometimes
+</Turn>
+</Section>
+<Section type="report" startTime="53.58" endTime="165.19" >
+<Turn speaker="S4" startTime="53.58" endTime="67.4">
+<Sync time="53.58"/>
+so ah
+</Turn>
+<Turn speaker="S5" startTime="67.4" endTime="75.94">
+<Sync time="67.4"/>
+yeah
+</Turn>
+<Turn speaker="S4" startTime="75.94" endTime="89.77">
+<Sync time="75.94"/>
+i mean i
+</Turn>
+<Turn speaker="S5" startTime="89.77" endTime="128.99">
+<Sync time="89.77"/>
+i uh uh uh i ah ah ah ah
+</Turn>
+<Turn speaker="S3" startTime="128.99" endTime="148.15">
+<Sync time="128.99"/>
+nah nah
+</Turn>
+<Turn speaker="S4" startTime="148.15" endTime="165.19">
+<Sync time="148.15"/>
+rather
+</Turn>
+</Section>
+<Section type="report" startTime="173.06" endTime="225.92" >
+<Turn speaker="S4" startTime="173.06" endTime="187.03">
+<Sync time="173.06"/>
+and yet you're you're in area
+</Turn>
+<Turn speaker="S5" startTime="187.03" endTime="225.92">
+<Sync time="187.03"/>
+yeah uh uh you know they're really a and and
+</Turn>
+</Section>
+</Episode>
+</Trans>

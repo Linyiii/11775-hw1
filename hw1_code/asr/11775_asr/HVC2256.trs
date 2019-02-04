@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2256" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="24.64" endTime="171.18" >
+<Turn speaker="S1" startTime="24.64" endTime="59.55">
+<Sync time="24.64"/>
+mm mm and da da da da da da da dr dr dr i'm a i'm a i'm a pad on five days a week
+</Turn>
+<Turn speaker="S2" startTime="59.55" endTime="75.16">
+<Sync time="59.55"/>
+but there are a carrier and
+</Turn>
+<Turn speaker="S1" startTime="75.16" endTime="107.12">
+<Sync time="75.16"/>
+and do you go to a a daughter and da da da da da da da da da da di di di di di di di di da da da da and learn to do
+</Turn>
+<Turn speaker="S3" startTime="107.12" endTime="139.19">
+<Sync time="107.12"/>
+and and a daughter want to do to to to and
+</Turn>
+<Turn speaker="S1" startTime="139.19" endTime="171.18">
+<Sync time="139.19"/>
+in your yard in a a child they don't like the going to work um you know da da da da da da da and doing the body everybody was drawing or live in
+</Turn>
+</Section>
+<Section type="report" startTime="171.26" endTime="179.9" >
+<Turn speaker="S2" startTime="171.26" endTime="179.9">
+<Sync time="171.26"/>
+dr
+</Turn>
+</Section>
+</Episode>
+</Trans>

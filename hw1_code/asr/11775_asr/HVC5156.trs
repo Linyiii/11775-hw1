@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5156" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="9.31" endTime="22.72" >
+<Turn speaker="S1" startTime="9.31" endTime="16.94">
+<Sync time="9.31"/>
+so they're gonna get
+</Turn>
+<Turn speaker="S2" startTime="16.94" endTime="22.72">
+<Sync time="16.94"/>
+yep
+</Turn>
+</Section>
+<Section type="report" startTime="37.51" endTime="54.61" >
+<Turn speaker="S1" startTime="37.51" endTime="54.61">
+<Sync time="37.51"/>
+get on camera
+</Turn>
+</Section>
+<Section type="report" startTime="54.81" endTime="61.58" >
+<Turn speaker="S2" startTime="54.81" endTime="61.58">
+<Sync time="54.81"/>
+to get a judge or no
+</Turn>
+</Section>
+</Episode>
+</Trans>

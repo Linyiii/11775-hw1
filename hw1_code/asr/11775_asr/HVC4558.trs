@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4558" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="98.29" >
+<Turn speaker="S1" startTime="0.0" endTime="23.61">
+<Sync time="0.0"/>
+hi even though it sounds like fun
+</Turn>
+<Turn speaker="S2" startTime="23.61" endTime="31.39">
+<Sync time="23.61"/>
+yeah oh
+</Turn>
+<Turn speaker="S1" startTime="31.39" endTime="44.95">
+<Sync time="31.39"/>
+is this grandma show oh okay one more time
+</Turn>
+<Turn speaker="S2" startTime="44.95" endTime="88.4">
+<Sync time="44.95"/>
+oh interesting thing is time maybe want to stand up and you're tired trying
+</Turn>
+<Turn speaker="S3" startTime="88.4" endTime="98.29">
+<Sync time="88.4"/>
+yeah but he's really bad
+</Turn>
+</Section>
+</Episode>
+</Trans>

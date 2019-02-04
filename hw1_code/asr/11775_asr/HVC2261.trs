@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2261" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="4.77" >
+<Turn speaker="S1" startTime="0.04" endTime="4.77">
+<Sync time="0.04"/>
+get through enough austin
+</Turn>
+</Section>
+<Section type="report" startTime="4.87" endTime="35.92" >
+<Turn speaker="S2" startTime="4.87" endTime="35.92">
+<Sync time="4.87"/>
+mhm and and and all that money and and i'm going to
+</Turn>
+</Section>
+</Episode>
+</Trans>

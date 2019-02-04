@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5087" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.06" endTime="157.67" >
+<Turn speaker="S1" startTime="0.06" endTime="15.57">
+<Sync time="0.06"/>
+and then the game
+</Turn>
+<Turn speaker="S2" startTime="15.57" endTime="31.02">
+<Sync time="15.57"/>
+changes down there then monday and back and and dumb and dumber died day
+</Turn>
+<Turn speaker="S3" startTime="31.02" endTime="62.75">
+<Sync time="31.02"/>
+and then they don't tell them
+</Turn>
+<Turn speaker="S4" startTime="62.75" endTime="78.97">
+<Sync time="62.75"/>
+that is
+</Turn>
+<Turn speaker="S2" startTime="78.97" endTime="100.86">
+<Sync time="78.97"/>
+yeah they get the guy that baby all day and then there's some you know then then it overweight do their thing and and and then they when they they they they made they made they made they made they made
+</Turn>
+<Turn speaker="S3" startTime="100.86" endTime="141.93">
+<Sync time="100.86"/>
+they don't they don't they
+</Turn>
+<Turn speaker="S4" startTime="141.93" endTime="157.67">
+<Sync time="141.93"/>
+down down down down down here
+</Turn>
+</Section>
+<Section type="report" startTime="157.48" endTime="163.36" >
+<Turn speaker="S1" startTime="157.48" endTime="163.36">
+<Sync time="157.48"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

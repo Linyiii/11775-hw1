@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4548" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="45.29" endTime="48.25" >
+<Turn speaker="S1" startTime="45.29" endTime="48.25">
+<Sync time="45.29"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="60.35" endTime="85.85" >
+<Turn speaker="S2" startTime="60.35" endTime="82.08">
+<Sync time="60.35"/>
+for excuse me
+</Turn>
+<Turn speaker="S1" startTime="82.08" endTime="85.85">
+<Sync time="82.08"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="123.41" endTime="126.6" >
+<Turn speaker="S2" startTime="123.41" endTime="126.6">
+<Sync time="123.41"/>
+you know
+</Turn>
+</Section>
+<Section type="report" startTime="216.79" endTime="283.38" >
+<Turn speaker="S3" startTime="216.79" endTime="247.75">
+<Sync time="216.79"/>
+um but my back they're open she looks you
+</Turn>
+<Turn speaker="S2" startTime="247.75" endTime="251.64">
+<Sync time="247.75"/>
+gee
+</Turn>
+<Turn speaker="S3" startTime="251.64" endTime="270.22">
+<Sync time="251.64"/>
+who
+</Turn>
+<Turn speaker="S4" startTime="270.22" endTime="278.54">
+<Sync time="270.22"/>
+yeah
+</Turn>
+<Turn speaker="S5" startTime="278.54" endTime="283.38">
+<Sync time="278.54"/>
+everybody
+</Turn>
+</Section>
+<Section type="report" startTime="288.13" endTime="305.11" >
+<Turn speaker="S6" startTime="288.13" endTime="305.11">
+<Sync time="288.13"/>
+yeah for something else okay here can i i i thought oh
+</Turn>
+</Section>
+<Section type="report" startTime="354.15" endTime="372.85" >
+<Turn speaker="S6" startTime="354.15" endTime="372.85">
+<Sync time="354.15"/>
+i can't just go out you know she you know better i can't fit in without driving
+</Turn>
+</Section>
+<Section type="report" startTime="376.83" endTime="390.45" >
+<Turn speaker="S7" startTime="376.83" endTime="390.45">
+<Sync time="376.83"/>
+right
+</Turn>
+</Section>
+<Section type="report" startTime="411.8" endTime="415.2" >
+<Turn speaker="S8" startTime="411.8" endTime="413.88">
+<Sync time="411.8"/>
+hello
+</Turn>
+<Turn speaker="S9" startTime="413.88" endTime="415.2">
+<Sync time="413.88"/>
+whoa
+</Turn>
+</Section>
+<Section type="report" startTime="423.37" endTime="444.99" >
+<Turn speaker="S7" startTime="423.37" endTime="444.99">
+<Sync time="423.37"/>
+go go go go
+</Turn>
+</Section>
+<Section type="report" startTime="447.95" endTime="477.84" >
+<Turn speaker="S6" startTime="447.95" endTime="453.92">
+<Sync time="447.95"/>
+nope
+</Turn>
+<Turn speaker="S7" startTime="453.92" endTime="477.84">
+<Sync time="453.92"/>
+what's your washing bush
+</Turn>
+</Section>
+<Section type="report" startTime="498.05" endTime="503.78" >
+<Turn speaker="S10" startTime="498.05" endTime="503.78">
+<Sync time="498.05"/>
+no closer go
+</Turn>
+</Section>
+<Section type="report" startTime="540.23" endTime="574.94" >
+<Turn speaker="S10" startTime="540.23" endTime="558.65">
+<Sync time="540.23"/>
+okay
+</Turn>
+<Turn speaker="S1" startTime="558.65" endTime="560.79">
+<Sync time="558.65"/>
+yeah
+</Turn>
+<Turn speaker="S11" startTime="560.79" endTime="574.94">
+<Sync time="560.79"/>
+everybody over
+</Turn>
+</Section>
+<Section type="report" startTime="620.27" endTime="640.99" >
+<Turn speaker="S11" startTime="620.27" endTime="640.99">
+<Sync time="620.27"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="676.56" endTime="687.48" >
+<Turn speaker="S3" startTime="676.56" endTime="687.48">
+<Sync time="676.56"/>
+so we
+</Turn>
+</Section>
+<Section type="report" startTime="711.22" endTime="715.82" >
+<Turn speaker="S5" startTime="711.22" endTime="715.82">
+<Sync time="711.22"/>
+you get your grandparents
+</Turn>
+</Section>
+<Section type="report" startTime="719.52" endTime="722.89" >
+<Turn speaker="S1" startTime="719.52" endTime="722.89">
+<Sync time="719.52"/>
+that's my plan
+</Turn>
+</Section>
+<Section type="report" startTime="725.79" endTime="769.72" >
+<Turn speaker="S1" startTime="725.79" endTime="736.4">
+<Sync time="725.79"/>
+isn't it grilling turning the giants
+</Turn>
+<Turn speaker="S10" startTime="736.4" endTime="755.96">
+<Sync time="736.4"/>
+uh not a giant tree i know you can't play very well yes
+</Turn>
+<Turn speaker="S5" startTime="755.96" endTime="769.72">
+<Sync time="755.96"/>
+what did she weigh when you sit down
+</Turn>
+</Section>
+<Section type="report" startTime="782.51" endTime="783.79" >
+<Turn speaker="S5" startTime="782.51" endTime="783.79">
+<Sync time="782.51"/>
+cool
+</Turn>
+</Section>
+<Section type="report" startTime="789.26" endTime="805.43" >
+<Turn speaker="S5" startTime="789.26" endTime="805.43">
+<Sync time="789.26"/>
+there was something to what are you doing and what are you doing haven't haven't really
+</Turn>
+</Section>
+<Section type="report" startTime="810.56" endTime="863.55" >
+<Turn speaker="S3" startTime="810.56" endTime="828.68">
+<Sync time="810.56"/>
+that's true that's true
+</Turn>
+<Turn speaker="S5" startTime="828.68" endTime="842.39">
+<Sync time="828.68"/>
+what are you doing yeah i didn't
+</Turn>
+<Turn speaker="S1" startTime="842.39" endTime="863.55">
+<Sync time="842.39"/>
+way too lazy well
+</Turn>
+</Section>
+<Section type="report" startTime="875.26" endTime="894.71" >
+<Turn speaker="S5" startTime="875.26" endTime="891.07">
+<Sync time="875.26"/>
+they get lazy
+</Turn>
+<Turn speaker="S1" startTime="891.07" endTime="894.71">
+<Sync time="891.07"/>
+to drive a car
+</Turn>
+</Section>
+</Episode>
+</Trans>

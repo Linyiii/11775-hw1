@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4021" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S15" name="K15" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S16" name="K16" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S17" name="K17" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S18" name="K18" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S19" name="K19" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S20" name="K20" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S21" name="K21" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S22" name="K22" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S23" name="K23" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S24" name="K24" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S25" name="K25" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S26" name="K26" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S27" name="K27" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S28" name="K28" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S29" name="K29" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S30" name="K30" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S31" name="K31" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S32" name="K32" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S33" name="K33" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S34" name="K34" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S35" name="K35" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S36" name="K36" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S37" name="K37" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S38" name="K38" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S39" name="K39" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S40" name="K40" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S41" name="K41" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S42" name="K42" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S43" name="K43" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S44" name="K44" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S45" name="K45" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S46" name="K46" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S47" name="K47" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S48" name="K48" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S49" name="K49" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S50" name="K50" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S51" name="K51" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S52" name="K52" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S53" name="K53" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S54" name="K54" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S55" name="K55" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S56" name="K56" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S57" name="K57" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S58" name="K58" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S59" name="K59" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S60" name="K60" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S61" name="K61" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S62" name="K62" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S63" name="K63" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S64" name="K64" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S65" name="K65" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="103.16" >
+<Turn speaker="S1" startTime="0.0" endTime="7.58">
+<Sync time="0.0"/>
+oh they're just gonna thing it plan get out of my head i don't remember
+</Turn>
+<Turn speaker="S2" startTime="7.58" endTime="16.88">
+<Sync time="7.58"/>
+so no memory and i don't remember i thing so when i'm feeling really down about my really in the
+</Turn>
+<Turn speaker="S3" startTime="16.88" endTime="21.84">
+<Sync time="16.88"/>
+and and myself things kind of low to turn on the t._v. and watch my super sweet sixteen
+</Turn>
+<Turn speaker="S4" startTime="21.84" endTime="26.87">
+<Sync time="21.84"/>
+okay at least i'm not like that
+</Turn>
+<Turn speaker="S5" startTime="26.87" endTime="42.18">
+<Sync time="26.87"/>
+so i bring out the costs camping in mexico which isn't imperative in when jokes and you really interesting because here put in like a sect of people who like used
+</Turn>
+<Turn speaker="S6" startTime="42.18" endTime="49.53">
+<Sync time="42.18"/>
+anything about them and you're trying to get out as much information as possible and since i'm at a practical basically we're all from out of state from like all over the country and
+</Turn>
+<Turn speaker="S7" startTime="49.53" endTime="52.45">
+<Sync time="49.53"/>
+and the easiest thing
+</Turn>
+<Turn speaker="S8" startTime="52.45" endTime="56.21">
+<Sync time="52.45"/>
+to learn english people should like associate characters with them about their state
+</Turn>
+<Turn speaker="S9" startTime="56.21" endTime="61.67">
+<Sync time="56.21"/>
+i'm from colorado and then like oh you can allied mountains then no the release of the caribbean or drifts
+</Turn>
+<Turn speaker="S10" startTime="61.67" endTime="67.81">
+<Sync time="61.67"/>
+no let me think texas either tense
+</Turn>
+<Turn speaker="S11" startTime="67.81" endTime="73.74">
+<Sync time="67.81"/>
+i'm from colorado and i need judgements about people from california and all over the east and everything
+</Turn>
+<Turn speaker="S12" startTime="73.74" endTime="80.3">
+<Sync time="73.74"/>
+so the one thing i've learned at my school we have all kinds of museums i don't know just
+</Turn>
+<Turn speaker="S13" startTime="80.3" endTime="88.48">
+<Sync time="80.3"/>
+lots of liberal arts and all the kids are pretty smart and whenever i go to a party i've learned that psychology majors are really good at peer pressure
+</Turn>
+<Turn speaker="S14" startTime="88.48" endTime="91.61">
+<Sync time="88.48"/>
+and they they know their stuff
+</Turn>
+<Turn speaker="S15" startTime="91.61" endTime="97.33">
+<Sync time="91.61"/>
+to take a drink no non get no like it it tastes great not good
+</Turn>
+<Turn speaker="S16" startTime="97.33" endTime="103.16">
+<Sync time="97.33"/>
+so that hold your life when you went know collateral father figure and western attendant holding your line no uh
+</Turn>
+</Section>
+<Section type="report" startTime="110.68" endTime="160.67" >
+<Turn speaker="S17" startTime="110.68" endTime="116.35">
+<Sync time="110.68"/>
+and again oh so i got to experience the election on a liberal
+</Turn>
+<Turn speaker="S18" startTime="116.35" endTime="118.88">
+<Sync time="116.35"/>
+campus wasn't between
+</Turn>
+<Turn speaker="S19" startTime="118.88" endTime="129.04">
+<Sync time="118.88"/>
+buying a cane it was between osama and neater there was no mccain on my campus did you register did you registered have you brush or did you vote did you go did you both
+</Turn>
+<Turn speaker="S20" startTime="129.04" endTime="132.09">
+<Sync time="129.04"/>
+were doing this
+</Turn>
+<Turn speaker="S21" startTime="132.09" endTime="137.01">
+<Sync time="132.09"/>
+maybe dreamed politically apathetic ten minutes and like i'm sorry
+</Turn>
+<Turn speaker="S22" startTime="137.01" endTime="142.38">
+<Sync time="137.01"/>
+okay so i i'm a little bit too liberal on some things were not
+</Turn>
+<Turn speaker="S23" startTime="142.38" endTime="146.11">
+<Sync time="142.38"/>
+to get into that because i really like my face the shape it is
+</Turn>
+<Turn speaker="S24" startTime="146.11" endTime="149.9">
+<Sync time="146.11"/>
+get punched in way on here but i
+</Turn>
+<Turn speaker="S25" startTime="149.9" endTime="160.67">
+<Sync time="149.9"/>
+opinion down at an art school and it had got me into a lot of debates and i've learned a whole bunch of like political labels that i've never heard before like and our go send the
+</Turn>
+</Section>
+<Section type="report" startTime="164.17" endTime="175.7" >
+<Turn speaker="S26" startTime="164.17" endTime="175.7">
+<Sync time="164.17"/>
+little community sense ram a butcher in a bigger and risk it'd be like an r. t. but we're going to be organized and then i get really can i'm like i like
+</Turn>
+</Section>
+<Section type="report" startTime="180.58" endTime="200.55" >
+<Turn speaker="S27" startTime="180.58" endTime="200.55">
+<Sync time="180.58"/>
+and i got paid they really got me i started thinking like what would it be like to live in a libertarian household like to grow up in one and the little baby like had walked me he can what where are crime you want to be said again you and your self self reliant dairy queens
+</Turn>
+</Section>
+<Section type="report" startTime="204.98" endTime="234.98" >
+<Turn speaker="S28" startTime="204.98" endTime="211.26">
+<Sync time="204.98"/>
+so sometimes when i'm on yahoo
+</Turn>
+<Turn speaker="S29" startTime="211.26" endTime="214.96">
+<Sync time="211.26"/>
+and i read my spanish it makes me feel really bad
+</Turn>
+<Turn speaker="S30" startTime="214.96" endTime="220.18">
+<Sync time="214.96"/>
+so i'm like no i don't need to use car or to make money on craig's list or want to lose eighty five pounds of grown a date with the lana
+</Turn>
+<Turn speaker="S31" startTime="220.18" endTime="223.11">
+<Sync time="220.18"/>
+i mean i think you
+</Turn>
+<Turn speaker="S32" startTime="223.11" endTime="230.14">
+<Sync time="223.11"/>
+oh right back to college i go to an art school there are artsy guys
+</Turn>
+<Turn speaker="S33" startTime="230.14" endTime="234.98">
+<Sync time="230.14"/>
+there which means i'm not afraid of being raped because i could beat up eighty five percent of that
+</Turn>
+</Section>
+<Section type="report" startTime="243.71" endTime="254.02" >
+<Turn speaker="S34" startTime="243.71" endTime="249.39">
+<Sync time="243.71"/>
+i throw up and hearing your poetry
+</Turn>
+<Turn speaker="S35" startTime="249.39" endTime="254.02">
+<Sync time="249.39"/>
+oh that's a nice song kind of reminds me jason rad
+</Turn>
+</Section>
+<Section type="report" startTime="257.14" endTime="276.71" >
+<Turn speaker="S36" startTime="257.14" endTime="262.64">
+<Sync time="257.14"/>
+so why do you rent a type cancer to make him wherever dynamic or some circulation
+</Turn>
+<Turn speaker="S37" startTime="262.64" endTime="270.28">
+<Sync time="262.64"/>
+probably i don't need a whistle
+</Turn>
+<Turn speaker="S38" startTime="270.28" endTime="276.71">
+<Sync time="270.28"/>
+when i'm old and my kids are given me crap i'm just gonna pool when i was young used to be a plant
+</Turn>
+</Section>
+<Section type="report" startTime="281.08" endTime="312.0" >
+<Turn speaker="S39" startTime="281.08" endTime="291.88">
+<Sync time="281.08"/>
+so they're just some phrases in life actually in movies not life that can only be okay in the context of the movie i e damn
+</Turn>
+<Turn speaker="S40" startTime="291.88" endTime="295.45">
+<Sync time="291.88"/>
+until that happened um can you can not
+</Turn>
+<Turn speaker="S41" startTime="295.45" endTime="304.75">
+<Sync time="295.45"/>
+other girl this time something to name again part in lion which seems to
+</Turn>
+<Turn speaker="S42" startTime="304.75" endTime="312.0">
+<Sync time="304.75"/>
+brought up the lights a lot when who being chased by now and then she gets stuck in little branch election lurks hand
+</Turn>
+</Section>
+<Section type="report" startTime="323.77" endTime="376.44" >
+<Turn speaker="S43" startTime="323.77" endTime="328.74">
+<Sync time="323.77"/>
+it's been i've been a scam okay so i wasn't ah
+</Turn>
+<Turn speaker="S44" startTime="328.74" endTime="332.57">
+<Sync time="328.74"/>
+emotionally uh
+</Turn>
+<Turn speaker="S45" startTime="332.57" endTime="340.09">
+<Sync time="332.57"/>
+is awesome because i especially going over my fear catching people are we going to be kind of a choice
+</Turn>
+<Turn speaker="S46" startTime="340.09" endTime="346.07">
+<Sync time="340.09"/>
+yeah see you and even though i've got over my fear touching people i gained a fear of people with me
+</Turn>
+<Turn speaker="S47" startTime="346.07" endTime="353.01">
+<Sync time="346.07"/>
+hot i think they booed and and showed you
+</Turn>
+<Turn speaker="S48" startTime="353.01" endTime="355.63">
+<Sync time="353.01"/>
+my that i
+</Turn>
+<Turn speaker="S49" startTime="355.63" endTime="360.13">
+<Sync time="355.63"/>
+not really comfortable i don't want to go with that says oh
+</Turn>
+<Turn speaker="S50" startTime="360.13" endTime="364.07">
+<Sync time="360.13"/>
+so after semester
+</Turn>
+<Turn speaker="S51" startTime="364.07" endTime="369.4">
+<Sync time="364.07"/>
+i think i just made the decision to drop out i found a new calling i'm mean
+</Turn>
+<Turn speaker="S52" startTime="369.4" endTime="376.44">
+<Sync time="369.4"/>
+spontaneous turned the clinic really down the street from planned one where you have a bunch of mannequins cry their shoulder give you some teachers
+</Turn>
+</Section>
+<Section type="report" startTime="383.45" endTime="440.28" >
+<Turn speaker="S53" startTime="383.45" endTime="386.9">
+<Sync time="383.45"/>
+my friends not a restaurant
+</Turn>
+<Turn speaker="S54" startTime="386.9" endTime="391.23">
+<Sync time="386.9"/>
+into college wow
+</Turn>
+<Turn speaker="S55" startTime="391.23" endTime="397.51">
+<Sync time="391.23"/>
+what do you college kids miss the most good fresh baked goods
+</Turn>
+<Turn speaker="S56" startTime="397.51" endTime="403.82">
+<Sync time="397.51"/>
+oh we totally went down to safeway bought a whole bunch of the naturally total house chocolate lovers that kinda stuff
+</Turn>
+<Turn speaker="S57" startTime="403.82" endTime="408.31">
+<Sync time="403.82"/>
+remember the labeled it's we've danger managed to have like the best time ever and ever like
+</Turn>
+<Turn speaker="S58" startTime="408.31" endTime="414.97">
+<Sync time="408.31"/>
+genius we could sell these and make a profit or do it was awesome we get kids
+</Turn>
+<Turn speaker="S59" startTime="414.97" endTime="421.49">
+<Sync time="414.97"/>
+take the four actor and dry or huck he went on rolling your little i got
+</Turn>
+<Turn speaker="S60" startTime="421.49" endTime="424.51">
+<Sync time="421.49"/>
+and
+</Turn>
+<Turn speaker="S61" startTime="424.51" endTime="427.27">
+<Sync time="424.51"/>
+dance we got our connections on mexico common knew
+</Turn>
+<Turn speaker="S62" startTime="427.27" endTime="432.45">
+<Sync time="427.27"/>
+gosh
+</Turn>
+<Turn speaker="S63" startTime="432.45" endTime="440.28">
+<Sync time="432.45"/>
+are getting basements feed that how is destructive it wasn't just an addiction affection area
+</Turn>
+</Section>
+<Section type="report" startTime="443.61" endTime="454.65" >
+<Turn speaker="S64" startTime="443.61" endTime="450.19">
+<Sync time="443.61"/>
+listening to the bunkers have arm and you hear the knock of opportunity
+</Turn>
+<Turn speaker="S65" startTime="450.19" endTime="454.65">
+<Sync time="450.19"/>
+and i just want to leave you all of that no thank you
+</Turn>
+</Section>
+</Episode>
+</Trans>

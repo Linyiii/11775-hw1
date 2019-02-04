@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2523" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="39.9" endTime="111.44" >
+<Turn speaker="S1" startTime="39.9" endTime="111.44">
+<Sync time="39.9"/>
+did you are you getting me this is mr lincoln pretty bad well i usually i usually
+</Turn>
+</Section>
+<Section type="report" startTime="121.78" endTime="129.58" >
+<Turn speaker="S1" startTime="121.78" endTime="129.58">
+<Sync time="121.78"/>
+where's your like where's your toy
+</Turn>
+</Section>
+<Section type="report" startTime="137.36" endTime="249.92" >
+<Turn speaker="S2" startTime="137.36" endTime="249.92">
+<Sync time="137.36"/>
+so you know reading a camera guy yeah yeah yeah where'd you twenty
+</Turn>
+</Section>
+</Episode>
+</Trans>

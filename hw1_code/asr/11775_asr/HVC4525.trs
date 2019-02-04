@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4525" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="40.2" >
+<Turn speaker="S1" startTime="0.03" endTime="7.86">
+<Sync time="0.03"/>
+in the building
+</Turn>
+<Turn speaker="S2" startTime="7.86" endTime="40.2">
+<Sync time="7.86"/>
+hi i'm she finally try heating or so much the problem is with the we recommend you replaced by the same time and that's what i'm going to do in the city now fussing fast you don't want to keep yourself uh like so i'm going to remove that as well as the time i will send you to remove the in order to remove the tunnel and that's what i'm going to do now
+</Turn>
+</Section>
+<Section type="report" startTime="57.41" endTime="112.99" >
+<Turn speaker="S2" startTime="57.41" endTime="112.99">
+<Sync time="57.41"/>
+now we we can see the on the we have our new element and now there's two very important things about the they must be why correctly do this documentation and make sure that don't touch the in the middle of this would damage with stuff now the wiring and will differ from what you see here everything exactly as you find it as if you could damage the dry now what's what's a good idea to take so you can consult them to make sure that you'll rewiring everything perfectly i'm going to do that now that we've made sure that we know exactly how everything's wide removing the elements
+</Turn>
+</Section>
+<Section type="report" startTime="121.8" endTime="160.41" >
+<Turn speaker="S2" startTime="121.8" endTime="132.24">
+<Sync time="121.8"/>
+i'm just going to give it quick white now i'm going to put the new
+</Turn>
+<Turn speaker="S3" startTime="132.24" endTime="155.43">
+<Sync time="132.24"/>
+and the other
+</Turn>
+<Turn speaker="S2" startTime="155.43" endTime="160.41">
+<Sync time="155.43"/>
+once we we found him everything back together
+</Turn>
+</Section>
+<Section type="report" startTime="177.62" endTime="182.63" >
+<Turn speaker="S1" startTime="177.62" endTime="182.63">
+<Sync time="177.62"/>
+and
+</Turn>
+</Section>
+</Episode>
+</Trans>

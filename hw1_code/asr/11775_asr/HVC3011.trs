@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3011" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="42.78" >
+<Turn speaker="S1" startTime="0.0" endTime="33.99">
+<Sync time="0.0"/>
+oh
+</Turn>
+<Turn speaker="S2" startTime="33.99" endTime="42.78">
+<Sync time="33.99"/>
+uh
+</Turn>
+</Section>
+<Section type="report" startTime="52.2" endTime="78.15" >
+<Turn speaker="S3" startTime="52.2" endTime="62.83">
+<Sync time="52.2"/>
+where do you think
+</Turn>
+<Turn speaker="S4" startTime="62.83" endTime="78.15">
+<Sync time="62.83"/>
+i know that we can't get to everyone and we saw apologize i just want to encourage your support and
+</Turn>
+</Section>
+<Section type="report" startTime="81.58" endTime="137.52" >
+<Turn speaker="S4" startTime="81.58" endTime="86.27">
+<Sync time="81.58"/>
+my mom and dad
+</Turn>
+<Turn speaker="S3" startTime="86.27" endTime="108.51">
+<Sync time="86.27"/>
+oh okay
+</Turn>
+<Turn speaker="S4" startTime="108.51" endTime="113.59">
+<Sync time="108.51"/>
+thank you
+</Turn>
+<Turn speaker="S3" startTime="113.59" endTime="137.52">
+<Sync time="113.59"/>
+was the first time i've ever been to florida
+</Turn>
+</Section>
+</Episode>
+</Trans>

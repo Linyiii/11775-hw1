@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4138" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="52.53" endTime="60.34" >
+<Turn speaker="S1" startTime="52.53" endTime="60.34">
+<Sync time="52.53"/>
+those extra basketball
+</Turn>
+</Section>
+<Section type="report" startTime="71.25" endTime="77.22" >
+<Turn speaker="S1" startTime="71.25" endTime="77.22">
+<Sync time="71.25"/>
+oh jeeze t._j.
+</Turn>
+</Section>
+<Section type="report" startTime="100.31" endTime="109.79" >
+<Turn speaker="S1" startTime="100.31" endTime="109.79">
+<Sync time="100.31"/>
+i get to your and you check your runner everytime
+</Turn>
+</Section>
+<Section type="report" startTime="136.0" endTime="172.87" >
+<Turn speaker="S2" startTime="136.0" endTime="146.88">
+<Sync time="136.0"/>
+oh boy
+</Turn>
+<Turn speaker="S1" startTime="146.88" endTime="152.83">
+<Sync time="146.88"/>
+oh boy
+</Turn>
+<Turn speaker="S2" startTime="152.83" endTime="161.63">
+<Sync time="152.83"/>
+hello
+</Turn>
+<Turn speaker="S1" startTime="161.63" endTime="172.87">
+<Sync time="161.63"/>
+pretty good
+</Turn>
+</Section>
+<Section type="report" startTime="176.92" endTime="186.33" >
+<Turn speaker="S1" startTime="176.92" endTime="186.33">
+<Sync time="176.92"/>
+c._j.
+</Turn>
+</Section>
+</Episode>
+</Trans>

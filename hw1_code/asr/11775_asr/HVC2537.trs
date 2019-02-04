@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2537" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="2.13" endTime="13.08" >
+<Turn speaker="S1" startTime="2.13" endTime="13.08">
+<Sync time="2.13"/>
+no you smiling as well go with sauce the security clean white and
+</Turn>
+</Section>
+<Section type="report" startTime="13.23" endTime="29.36" >
+<Turn speaker="S2" startTime="13.23" endTime="29.36">
+<Sync time="13.23"/>
+it's it's getting your teeth cleaned is the security mclean skating new cleans toothpaste
+</Turn>
+</Section>
+</Episode>
+</Trans>

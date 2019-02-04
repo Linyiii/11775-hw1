@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2422" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="79.01" >
+<Turn speaker="S1" startTime="0.04" endTime="13.19">
+<Sync time="0.04"/>
+how many people are you in the internet and uh
+</Turn>
+<Turn speaker="S2" startTime="13.19" endTime="79.01">
+<Sync time="13.19"/>
+well i going the fifties i came here my friend the but here and i was going to the if you go i and uh and and and how many hours each uh you know they thought they were much right through and i smoke too
+</Turn>
+</Section>
+<Section type="report" startTime="79.23" endTime="85.75" >
+<Turn speaker="S1" startTime="79.23" endTime="85.75">
+<Sync time="79.23"/>
+know
+</Turn>
+</Section>
+</Episode>
+</Trans>

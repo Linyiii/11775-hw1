@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2648" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.07" endTime="33.24" >
+<Turn speaker="S1" startTime="0.07" endTime="33.24">
+<Sync time="0.07"/>
+waiting waiting find time to show her we find out here i'm from
+</Turn>
+</Section>
+</Episode>
+</Trans>

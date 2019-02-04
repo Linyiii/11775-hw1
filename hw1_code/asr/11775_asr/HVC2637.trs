@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2637" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="16.92" endTime="32.49" >
+<Turn speaker="S1" startTime="16.92" endTime="20.67">
+<Sync time="16.92"/>
+uh-huh
+</Turn>
+<Turn speaker="S2" startTime="20.67" endTime="26.18">
+<Sync time="20.67"/>
+uh-huh
+</Turn>
+<Turn speaker="S3" startTime="26.18" endTime="32.49">
+<Sync time="26.18"/>
+uh-huh
+</Turn>
+</Section>
+<Section type="report" startTime="50.6" endTime="61.74" >
+<Turn speaker="S4" startTime="50.6" endTime="61.74">
+<Sync time="50.6"/>
+i don't know
+</Turn>
+</Section>
+<Section type="report" startTime="86.2" endTime="92.24" >
+<Turn speaker="S5" startTime="86.2" endTime="89.14">
+<Sync time="86.2"/>
+oh no
+</Turn>
+<Turn speaker="S6" startTime="89.14" endTime="92.24">
+<Sync time="89.14"/>
+well now
+</Turn>
+</Section>
+<Section type="report" startTime="109.6" endTime="115.84" >
+<Turn speaker="S7" startTime="109.6" endTime="115.84">
+<Sync time="109.6"/>
+uh-huh
+</Turn>
+</Section>
+<Section type="report" startTime="137.88" endTime="154.55" >
+<Turn speaker="S8" startTime="137.88" endTime="148.58">
+<Sync time="137.88"/>
+i don't know i don't know how to
+</Turn>
+<Turn speaker="S9" startTime="148.58" endTime="154.55">
+<Sync time="148.58"/>
+yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

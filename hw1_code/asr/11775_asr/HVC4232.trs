@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4232" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="198.86" >
+<Turn speaker="S1" startTime="0.0" endTime="14.15">
+<Sync time="0.0"/>
+the we we let him mm
+</Turn>
+<Turn speaker="S2" startTime="14.15" endTime="23.17">
+<Sync time="14.15"/>
+okay
+</Turn>
+<Turn speaker="S1" startTime="23.17" endTime="58.52">
+<Sync time="23.17"/>
+it's like yeah or yeah that must have been
+</Turn>
+<Turn speaker="S2" startTime="58.52" endTime="82.17">
+<Sync time="58.52"/>
+uh we found them doesn't go but that can be
+</Turn>
+<Turn speaker="S3" startTime="82.17" endTime="113.62">
+<Sync time="82.17"/>
+he he he key to do but actually sending money to get it done today i'm going to or something or let me see i saw that article in d. c.
+</Turn>
+<Turn speaker="S2" startTime="113.62" endTime="135.07">
+<Sync time="113.62"/>
+the one thing we can hear
+</Turn>
+<Turn speaker="S3" startTime="135.07" endTime="143.33">
+<Sync time="135.07"/>
+i'm a physician miller like
+</Turn>
+<Turn speaker="S1" startTime="143.33" endTime="152.74">
+<Sync time="143.33"/>
+him i do
+</Turn>
+<Turn speaker="S3" startTime="152.74" endTime="163.32">
+<Sync time="152.74"/>
+see together
+</Turn>
+<Turn speaker="S2" startTime="163.32" endTime="170.71">
+<Sync time="163.32"/>
+come on
+</Turn>
+<Turn speaker="S3" startTime="170.71" endTime="194.93">
+<Sync time="170.71"/>
+say hi to high um so cute baby am reading okay we'll have to say that is another issue we we um we um
+</Turn>
+<Turn speaker="S1" startTime="194.93" endTime="198.86">
+<Sync time="194.93"/>
+more relaxed
+</Turn>
+</Section>
+<Section type="report" startTime="199.11" endTime="208.75" >
+<Turn speaker="S3" startTime="199.11" endTime="208.75">
+<Sync time="199.11"/>
+okay bye-bye bye-bye bye-bye
+</Turn>
+</Section>
+</Episode>
+</Trans>

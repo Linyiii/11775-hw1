@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4787" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.85" endTime="43.56" >
+<Turn speaker="S1" startTime="0.85" endTime="7.27">
+<Sync time="0.85"/>
+mhm mhm mhm
+</Turn>
+<Turn speaker="S2" startTime="7.27" endTime="25.38">
+<Sync time="7.27"/>
+riding my bike riding a bike riding my bike
+</Turn>
+<Turn speaker="S3" startTime="25.38" endTime="36.14">
+<Sync time="25.38"/>
+mm in plano
+</Turn>
+<Turn speaker="S2" startTime="36.14" endTime="43.56">
+<Sync time="36.14"/>
+you know the jerry springer by teachers
+</Turn>
+</Section>
+<Section type="report" startTime="46.32" endTime="61.16" >
+<Turn speaker="S2" startTime="46.32" endTime="61.16">
+<Sync time="46.32"/>
+before i got i had the training and like today
+</Turn>
+</Section>
+<Section type="report" startTime="74.71" endTime="86.38" >
+<Turn speaker="S3" startTime="74.71" endTime="77.65">
+<Sync time="74.71"/>
+no
+</Turn>
+<Turn speaker="S4" startTime="77.65" endTime="86.38">
+<Sync time="77.65"/>
+what they are
+</Turn>
+</Section>
+<Section type="report" startTime="89.69" endTime="98.75" >
+<Turn speaker="S4" startTime="89.69" endTime="98.75">
+<Sync time="89.69"/>
+they change the oil
+</Turn>
+</Section>
+<Section type="report" startTime="98.51" endTime="110.92" >
+<Turn speaker="S2" startTime="98.51" endTime="110.92">
+<Sync time="98.51"/>
+riding my bike and i guess
+</Turn>
+</Section>
+</Episode>
+</Trans>

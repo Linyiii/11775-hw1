@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3522" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="9.21" endTime="25.35" >
+<Turn speaker="S1" startTime="9.21" endTime="14.43">
+<Sync time="9.21"/>
+hello stays mission to build a shed so
+</Turn>
+<Turn speaker="S2" startTime="14.43" endTime="25.35">
+<Sync time="14.43"/>
+let's see
+</Turn>
+</Section>
+<Section type="report" startTime="58.58" endTime="109.64" >
+<Turn speaker="S3" startTime="58.58" endTime="74.63">
+<Sync time="58.58"/>
+and you know
+</Turn>
+<Turn speaker="S2" startTime="74.63" endTime="91.78">
+<Sync time="74.63"/>
+like independent
+</Turn>
+<Turn speaker="S1" startTime="91.78" endTime="109.64">
+<Sync time="91.78"/>
+okay shit but you expect from me
+</Turn>
+</Section>
+</Episode>
+</Trans>

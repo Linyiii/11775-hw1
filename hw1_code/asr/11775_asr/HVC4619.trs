@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4619" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.11" endTime="68.59" >
+<Turn speaker="S1" startTime="0.11" endTime="25.97">
+<Sync time="0.11"/>
+didn't really know the country that i can see how far how far to go uh
+</Turn>
+<Turn speaker="S2" startTime="25.97" endTime="41.75">
+<Sync time="25.97"/>
+okay what did she okay i'm going to call here watch
+</Turn>
+<Turn speaker="S1" startTime="41.75" endTime="51.78">
+<Sync time="41.75"/>
+just walk
+</Turn>
+<Turn speaker="S2" startTime="51.78" endTime="68.59">
+<Sync time="51.78"/>
+yeah my wife
+</Turn>
+</Section>
+<Section type="report" startTime="68.39" endTime="81.95" >
+<Turn speaker="S1" startTime="68.39" endTime="81.95">
+<Sync time="68.39"/>
+video of someone getting hit by that our our parking lot armed this kind of goes down like this i want to kill somebody walking by him
+</Turn>
+</Section>
+</Episode>
+</Trans>

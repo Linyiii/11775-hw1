@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3883" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.1" endTime="116.44" >
+<Turn speaker="S1" startTime="0.1" endTime="116.44">
+<Sync time="0.1"/>
+you don't hear any tone my daughter she's like oh my gosh they're already actually you know it was like wait a minute ago i don't think that was last night was like what we can you hear about forty i i don't know i'm like no
+</Turn>
+</Section>
+</Episode>
+</Trans>

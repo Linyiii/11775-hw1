@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3864" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.65" endTime="3.32" >
+<Turn speaker="S1" startTime="0.65" endTime="3.32">
+<Sync time="0.65"/>
+planned
+</Turn>
+</Section>
+<Section type="report" startTime="4.19" endTime="15.31" >
+<Turn speaker="S1" startTime="4.19" endTime="11.63">
+<Sync time="4.19"/>
+okay
+</Turn>
+<Turn speaker="S2" startTime="11.63" endTime="15.31">
+<Sync time="11.63"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="17.54" endTime="21.26" >
+<Turn speaker="S3" startTime="17.54" endTime="21.26">
+<Sync time="17.54"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="26.93" endTime="32.93" >
+<Turn speaker="S2" startTime="26.93" endTime="32.93">
+<Sync time="26.93"/>
+um and
+</Turn>
+</Section>
+<Section type="report" startTime="59.23" endTime="85.12" >
+<Turn speaker="S3" startTime="59.23" endTime="85.12">
+<Sync time="59.23"/>
+oh man man and a new
+</Turn>
+</Section>
+<Section type="report" startTime="90.12" endTime="105.33" >
+<Turn speaker="S3" startTime="90.12" endTime="95.94">
+<Sync time="90.12"/>
+painting and the
+</Turn>
+<Turn speaker="S2" startTime="95.94" endTime="105.33">
+<Sync time="95.94"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="109.74" endTime="117.03" >
+<Turn speaker="S2" startTime="109.74" endTime="117.03">
+<Sync time="109.74"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="132.45" endTime="147.57" >
+<Turn speaker="S1" startTime="132.45" endTime="137.07">
+<Sync time="132.45"/>
+okay
+</Turn>
+<Turn speaker="S2" startTime="137.07" endTime="140.51">
+<Sync time="137.07"/>
+no
+</Turn>
+<Turn speaker="S4" startTime="140.51" endTime="147.57">
+<Sync time="140.51"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="152.37" endTime="159.39" >
+<Turn speaker="S4" startTime="152.37" endTime="159.39">
+<Sync time="152.37"/>
+and uh
+</Turn>
+</Section>
+</Episode>
+</Trans>

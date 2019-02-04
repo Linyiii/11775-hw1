@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4032" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="11.19" endTime="71.49" >
+<Turn speaker="S1" startTime="11.19" endTime="16.44">
+<Sync time="11.19"/>
+but look at my got like
+</Turn>
+<Turn speaker="S2" startTime="16.44" endTime="20.22">
+<Sync time="16.44"/>
+you were
+</Turn>
+<Turn speaker="S1" startTime="20.22" endTime="24.88">
+<Sync time="20.22"/>
+man look through my mind like
+</Turn>
+<Turn speaker="S2" startTime="24.88" endTime="38.83">
+<Sync time="24.88"/>
+know
+</Turn>
+<Turn speaker="S3" startTime="38.83" endTime="71.49">
+<Sync time="38.83"/>
+and then my twenty four and there's so much no no not paying anything you getting the tone like you're doing good
+</Turn>
+</Section>
+<Section type="report" startTime="99.67" endTime="139.68" >
+<Turn speaker="S3" startTime="99.67" endTime="139.68">
+<Sync time="99.67"/>
+doesn't mean much your team by the time on the road
+</Turn>
+</Section>
+<Section type="report" startTime="169.35" endTime="190.47" >
+<Turn speaker="S1" startTime="169.35" endTime="174.63">
+<Sync time="169.35"/>
+looked at my mind
+</Turn>
+<Turn speaker="S2" startTime="174.63" endTime="178.4">
+<Sync time="174.63"/>
+no
+</Turn>
+<Turn speaker="S1" startTime="178.4" endTime="183.06">
+<Sync time="178.4"/>
+oh man my mind
+</Turn>
+<Turn speaker="S3" startTime="183.06" endTime="190.47">
+<Sync time="183.06"/>
+yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

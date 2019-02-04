@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5623" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.1" endTime="18.36" >
+<Turn speaker="S1" startTime="4.1" endTime="18.36">
+<Sync time="4.1"/>
+i got details level to make yourself okay
+</Turn>
+</Section>
+<Section type="report" startTime="26.0" endTime="110.77" >
+<Turn speaker="S1" startTime="26.0" endTime="41.51">
+<Sync time="26.0"/>
+comedy at all
+</Turn>
+<Turn speaker="S2" startTime="41.51" endTime="96.52">
+<Sync time="41.51"/>
+yeah
+</Turn>
+<Turn speaker="S3" startTime="96.52" endTime="110.77">
+<Sync time="96.52"/>
+i don't know why but he's
+</Turn>
+</Section>
+<Section type="report" startTime="111.02" endTime="119.49" >
+<Turn speaker="S1" startTime="111.02" endTime="119.49">
+<Sync time="111.02"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

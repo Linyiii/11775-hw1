@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5134" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="372.57" >
+<Turn speaker="S1" startTime="0.04" endTime="57.92">
+<Sync time="0.04"/>
+yeah i like i'm going to like like on my mind that i would think nah i bring that guy and my grandparents
+</Turn>
+<Turn speaker="S2" startTime="57.92" endTime="109.3">
+<Sync time="57.92"/>
+more for us to see what she's talking to you know you know go around your picture everybody comes from
+</Turn>
+<Turn speaker="S1" startTime="109.3" endTime="214.12">
+<Sync time="109.3"/>
+and writing and arithmetic perfect family you guys over during this he's very solid on video
+</Turn>
+<Turn speaker="S2" startTime="214.12" endTime="294.9">
+<Sync time="214.12"/>
+everybody here what are we going to make better better that way if we got the they
+</Turn>
+<Turn speaker="S3" startTime="294.9" endTime="302.31">
+<Sync time="294.9"/>
+i hear republican are you ready
+</Turn>
+<Turn speaker="S2" startTime="302.31" endTime="372.57">
+<Sync time="302.31"/>
+alright going to have that trip next year proof reading downstairs behind the honesty you know
+</Turn>
+</Section>
+<Section type="report" startTime="372.49" endTime="415.64" >
+<Turn speaker="S3" startTime="372.49" endTime="415.64">
+<Sync time="372.49"/>
+you know what do you have to talk cars i mean i'm sure
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4242" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="11.66" endTime="132.69" >
+<Turn speaker="S1" startTime="11.66" endTime="18.24">
+<Sync time="11.66"/>
+and nah
+</Turn>
+<Turn speaker="S2" startTime="18.24" endTime="24.36">
+<Sync time="18.24"/>
+nah
+</Turn>
+<Turn speaker="S1" startTime="24.36" endTime="30.92">
+<Sync time="24.36"/>
+um
+</Turn>
+<Turn speaker="S3" startTime="30.92" endTime="52.61">
+<Sync time="30.92"/>
+it's a a day
+</Turn>
+<Turn speaker="S1" startTime="52.61" endTime="66.82">
+<Sync time="52.61"/>
+uh or or
+</Turn>
+<Turn speaker="S4" startTime="66.82" endTime="92.81">
+<Sync time="66.82"/>
+i don't know no matter what other way around
+</Turn>
+<Turn speaker="S1" startTime="92.81" endTime="107.32">
+<Sync time="92.81"/>
+on what's going on
+</Turn>
+<Turn speaker="S4" startTime="107.32" endTime="132.69">
+<Sync time="107.32"/>
+so
+</Turn>
+</Section>
+<Section type="report" startTime="170.33" endTime="278.01" >
+<Turn speaker="S5" startTime="170.33" endTime="278.01">
+<Sync time="170.33"/>
+ha ha ha ha it was it was a i'm just kidding ha ha ha ha ha ha ha ha ha ha ha ha
+</Turn>
+</Section>
+</Episode>
+</Trans>

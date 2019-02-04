@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5137" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="22.71" >
+<Turn speaker="S1" startTime="0.0" endTime="3.75">
+<Sync time="0.0"/>
+well
+</Turn>
+<Turn speaker="S2" startTime="3.75" endTime="11.16">
+<Sync time="3.75"/>
+trying to bring home girls the car three towns gone from what i took it is i
+</Turn>
+<Turn speaker="S3" startTime="11.16" endTime="15.54">
+<Sync time="11.16"/>
+this little everybody in l._a.
+</Turn>
+<Turn speaker="S4" startTime="15.54" endTime="22.71">
+<Sync time="15.54"/>
+the cars three ten so they couldn't have done much cash right you know
+</Turn>
+</Section>
+<Section type="report" startTime="25.79" endTime="60.24" >
+<Turn speaker="S5" startTime="25.79" endTime="32.57">
+<Sync time="25.79"/>
+never know the you're once you're going through with a lot of you know i mean cats
+</Turn>
+<Turn speaker="S6" startTime="32.57" endTime="39.12">
+<Sync time="32.57"/>
+seconds set your change a light yeah take your hands on
+</Turn>
+<Turn speaker="S7" startTime="39.12" endTime="47.77">
+<Sync time="39.12"/>
+you know its punch line that cup run yeah granted hiring yeah oh yeah
+</Turn>
+<Turn speaker="S8" startTime="47.77" endTime="51.59">
+<Sync time="47.77"/>
+hiring firing offices
+</Turn>
+<Turn speaker="S9" startTime="51.59" endTime="56.95">
+<Sync time="51.59"/>
+here
+</Turn>
+<Turn speaker="S10" startTime="56.95" endTime="60.24">
+<Sync time="56.95"/>
+wait
+</Turn>
+</Section>
+</Episode>
+</Trans>

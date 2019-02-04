@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6035" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="33.86" >
+<Turn speaker="S1" startTime="0.0" endTime="22.39">
+<Sync time="0.0"/>
+this is a simple instruction video on how to replace the part of your t._v. so first of all we happen to schools here screwdriver so decided to we need to replace okay first of all used a screwdriver
+</Turn>
+<Turn speaker="S2" startTime="22.39" endTime="33.86">
+<Sync time="22.39"/>
+to the edge alliance medical keep a screwdriver to adopt
+</Turn>
+</Section>
+<Section type="report" startTime="43.53" endTime="53.07" >
+<Turn speaker="S2" startTime="43.53" endTime="53.07">
+<Sync time="43.53"/>
+yeah the richard takes a little bit of work to remove the patient
+</Turn>
+</Section>
+<Section type="report" startTime="66.91" endTime="79.15" >
+<Turn speaker="S2" startTime="66.91" endTime="79.15">
+<Sync time="66.91"/>
+right now they're opening you can use another side screwdriver to white powder
+</Turn>
+</Section>
+<Section type="report" startTime="93.73" endTime="199.8" >
+<Turn speaker="S2" startTime="93.73" endTime="120.85">
+<Sync time="93.73"/>
+okay the glue them or know every place to move to the original ones okay now we're ready to
+</Turn>
+<Turn speaker="S3" startTime="120.85" endTime="159.07">
+<Sync time="120.85"/>
+okay and they put 'em in a in a um
+</Turn>
+<Turn speaker="S2" startTime="159.07" endTime="163.01">
+<Sync time="159.07"/>
+alright no position the tapes
+</Turn>
+<Turn speaker="S3" startTime="163.01" endTime="199.8">
+<Sync time="163.01"/>
+um the um some um i'm from them
+</Turn>
+</Section>
+<Section type="report" startTime="199.92" endTime="227.79" >
+<Turn speaker="S2" startTime="199.92" endTime="227.79">
+<Sync time="199.92"/>
+alright so now we have that already and make sure the opening their cameras opening the president gives some pressure cameras back on track ready to go right
+</Turn>
+</Section>
+</Episode>
+</Trans>

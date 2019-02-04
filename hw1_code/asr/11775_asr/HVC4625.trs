@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4625" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="51.39" >
+<Turn speaker="S1" startTime="0.04" endTime="3.08">
+<Sync time="0.04"/>
+place that
+</Turn>
+<Turn speaker="S2" startTime="3.08" endTime="8.6">
+<Sync time="3.08"/>
+oh oh oh oh oh oh
+</Turn>
+<Turn speaker="S3" startTime="8.6" endTime="14.44">
+<Sync time="8.6"/>
+when the game this changes that during the day was though
+</Turn>
+<Turn speaker="S4" startTime="14.44" endTime="22.34">
+<Sync time="14.44"/>
+for i'm not from dog play why did he say non own though ads gay
+</Turn>
+<Turn speaker="S5" startTime="22.34" endTime="27.92">
+<Sync time="22.34"/>
+oh that's sad
+</Turn>
+<Turn speaker="S6" startTime="27.92" endTime="36.54">
+<Sync time="27.92"/>
+um based on hobbies like reviving show yeah in my bag have to go back up porn
+</Turn>
+<Turn speaker="S7" startTime="36.54" endTime="42.22">
+<Sync time="36.54"/>
+maintain all pretty high um i'm going to show that on a second
+</Turn>
+<Turn speaker="S8" startTime="42.22" endTime="51.39">
+<Sync time="42.22"/>
+state lottery but i'm not not on state album more mostly nah i got all kinds of monkey like material now i got um
+</Turn>
+</Section>
+</Episode>
+</Trans>

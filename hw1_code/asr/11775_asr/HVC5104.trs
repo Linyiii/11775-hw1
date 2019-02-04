@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5104" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="18.63" endTime="52.83" >
+<Turn speaker="S1" startTime="18.63" endTime="42.6">
+<Sync time="18.63"/>
+i do too much they got to think about that i got
+</Turn>
+<Turn speaker="S2" startTime="42.6" endTime="49.47">
+<Sync time="42.6"/>
+do all the time
+</Turn>
+<Turn speaker="S3" startTime="49.47" endTime="52.83">
+<Sync time="49.47"/>
+many times
+</Turn>
+</Section>
+</Episode>
+</Trans>

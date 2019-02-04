@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5656" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S15" name="K15" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S16" name="K16" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S17" name="K17" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S18" name="K18" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S19" name="K19" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S20" name="K20" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="9.55" endTime="58.91" >
+<Turn speaker="S1" startTime="9.55" endTime="16.51">
+<Sync time="9.55"/>
+you make it on your students yeah borders a promotional real from uh
+</Turn>
+<Turn speaker="S2" startTime="16.51" endTime="21.55">
+<Sync time="16.51"/>
+yeah can't break from the professors were hunting in high school so it's um uh-huh yeah
+</Turn>
+<Turn speaker="S3" startTime="21.55" endTime="25.61">
+<Sync time="21.55"/>
+then you weren't like making or
+</Turn>
+<Turn speaker="S4" startTime="25.61" endTime="30.39">
+<Sync time="25.61"/>
+what before you before they got the collar three not right
+</Turn>
+<Turn speaker="S5" startTime="30.39" endTime="37.88">
+<Sync time="30.39"/>
+good and other coleman we've that could be on and putting out a cliff cliff lotus loaning it'd be the fourth
+</Turn>
+<Turn speaker="S6" startTime="37.88" endTime="49.05">
+<Sync time="37.88"/>
+wow
+</Turn>
+<Turn speaker="S7" startTime="49.05" endTime="58.91">
+<Sync time="49.05"/>
+mhm so noisy yeah yeah wow
+</Turn>
+</Section>
+<Section type="report" startTime="64.5" endTime="75.91" >
+<Turn speaker="S8" startTime="64.5" endTime="75.91">
+<Sync time="64.5"/>
+you don't even i'm and um and those and grandfathers on we don't really know job
+</Turn>
+</Section>
+<Section type="report" startTime="80.88" endTime="103.79" >
+<Turn speaker="S9" startTime="80.88" endTime="90.42">
+<Sync time="80.88"/>
+mhm yeah she's in i what do you work you yeah you're no
+</Turn>
+<Turn speaker="S10" startTime="90.42" endTime="94.33">
+<Sync time="90.42"/>
+oh mhm
+</Turn>
+<Turn speaker="S11" startTime="94.33" endTime="100.51">
+<Sync time="94.33"/>
+oh my god
+</Turn>
+<Turn speaker="S12" startTime="100.51" endTime="103.79">
+<Sync time="100.51"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="110.93" endTime="120.7" >
+<Turn speaker="S13" startTime="110.93" endTime="115.42">
+<Sync time="110.93"/>
+not living not on ago was close to the bomb
+</Turn>
+<Turn speaker="S14" startTime="115.42" endTime="120.7">
+<Sync time="115.42"/>
+the grease make you um
+</Turn>
+</Section>
+<Section type="report" startTime="124.79" endTime="128.24" >
+<Turn speaker="S15" startTime="124.79" endTime="128.24">
+<Sync time="124.79"/>
+mm mm
+</Turn>
+</Section>
+<Section type="report" startTime="136.91" endTime="140.8" >
+<Turn speaker="S16" startTime="136.91" endTime="140.8">
+<Sync time="136.91"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="147.08" endTime="168.49" >
+<Turn speaker="S17" startTime="147.08" endTime="153.97">
+<Sync time="147.08"/>
+no not real quick you know it was
+</Turn>
+<Turn speaker="S18" startTime="153.97" endTime="160.88">
+<Sync time="153.97"/>
+wow
+</Turn>
+<Turn speaker="S19" startTime="160.88" endTime="168.49">
+<Sync time="160.88"/>
+too
+</Turn>
+</Section>
+<Section type="report" startTime="179.07" endTime="188.52" >
+<Turn speaker="S20" startTime="179.07" endTime="188.52">
+<Sync time="179.07"/>
+yeah yeah well that's good though yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

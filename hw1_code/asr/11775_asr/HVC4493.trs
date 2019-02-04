@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4493" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="75.86" endTime="252.7" >
+<Turn speaker="S1" startTime="75.86" endTime="107.68">
+<Sync time="75.86"/>
+and and
+</Turn>
+<Turn speaker="S2" startTime="107.68" endTime="140.01">
+<Sync time="107.68"/>
+maybe the best thing for me and then we can do things you can be for me
+</Turn>
+<Turn speaker="S3" startTime="140.01" endTime="204.43">
+<Sync time="140.01"/>
+they haven't been in the last time you know and they don't they they don't
+</Turn>
+<Turn speaker="S4" startTime="204.43" endTime="252.7">
+<Sync time="204.43"/>
+and and and
+</Turn>
+</Section>
+<Section type="report" startTime="252.46" endTime="262.28" >
+<Turn speaker="S5" startTime="252.46" endTime="262.28">
+<Sync time="252.46"/>
+and then
+</Turn>
+</Section>
+</Episode>
+</Trans>

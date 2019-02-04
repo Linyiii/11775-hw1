@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5875" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.05" endTime="152.15" >
+<Turn speaker="S1" startTime="0.05" endTime="38.58">
+<Sync time="0.05"/>
+why why why you know so i think so okay i couldn't kinda her money and not any longer
+</Turn>
+<Turn speaker="S2" startTime="38.58" endTime="47.09">
+<Sync time="38.58"/>
+no
+</Turn>
+<Turn speaker="S1" startTime="47.09" endTime="64.87">
+<Sync time="47.09"/>
+they were going on i we didn't want me to
+</Turn>
+<Turn speaker="S3" startTime="64.87" endTime="97.32">
+<Sync time="64.87"/>
+yeah when i had a nickel she has all over the country i don't know i don't know how you doing okay going on that
+</Turn>
+<Turn speaker="S1" startTime="97.32" endTime="152.15">
+<Sync time="97.32"/>
+how do i think it's a whole lot you don't old on your that's your window like right i can't believe that and finding out they should i think i i i yeah that's on them or like they are based on the show i mean it depends on how terrible
+</Turn>
+</Section>
+<Section type="report" startTime="159.96" endTime="199.95" >
+<Turn speaker="S1" startTime="159.96" endTime="199.95">
+<Sync time="159.96"/>
+thank god i know they don't somebody was trying to take them all the time they were going i don't eat out actually working
+</Turn>
+</Section>
+</Episode>
+</Trans>

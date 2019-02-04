@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4343" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="20.3" endTime="115.48" >
+<Turn speaker="S1" startTime="20.3" endTime="25.9">
+<Sync time="20.3"/>
+stop
+</Turn>
+<Turn speaker="S2" startTime="25.9" endTime="37.87">
+<Sync time="25.9"/>
+i can go
+</Turn>
+<Turn speaker="S1" startTime="37.87" endTime="45.29">
+<Sync time="37.87"/>
+now has
+</Turn>
+<Turn speaker="S2" startTime="45.29" endTime="56.88">
+<Sync time="45.29"/>
+okay alright
+</Turn>
+<Turn speaker="S1" startTime="56.88" endTime="62.98">
+<Sync time="56.88"/>
+i can imagine
+</Turn>
+<Turn speaker="S2" startTime="62.98" endTime="72.77">
+<Sync time="62.98"/>
+okay do you think we should save now you know survive sure is
+</Turn>
+<Turn speaker="S1" startTime="72.77" endTime="85.9">
+<Sync time="72.77"/>
+it's like a you know
+</Turn>
+<Turn speaker="S2" startTime="85.9" endTime="97.22">
+<Sync time="85.9"/>
+you're brave
+</Turn>
+<Turn speaker="S3" startTime="97.22" endTime="115.48">
+<Sync time="97.22"/>
+it's a short distance away three three three
+</Turn>
+</Section>
+<Section type="report" startTime="123.89" endTime="157.51" >
+<Turn speaker="S3" startTime="123.89" endTime="143.52">
+<Sync time="123.89"/>
+it's hard to live
+</Turn>
+<Turn speaker="S4" startTime="143.52" endTime="157.51">
+<Sync time="143.52"/>
+it's totally crushes island oh that must be the final sending out junk
+</Turn>
+</Section>
+<Section type="report" startTime="199.28" endTime="232.56" >
+<Turn speaker="S5" startTime="199.28" endTime="210.56">
+<Sync time="199.28"/>
+probably get them
+</Turn>
+<Turn speaker="S4" startTime="210.56" endTime="232.56">
+<Sync time="210.56"/>
+i can get your dreams nightmarish really
+</Turn>
+</Section>
+<Section type="report" startTime="245.41" endTime="302.07" >
+<Turn speaker="S4" startTime="245.41" endTime="260.93">
+<Sync time="245.41"/>
+yeah yeah like screwed up and stuff in one way we could have changed that not off
+</Turn>
+<Turn speaker="S3" startTime="260.93" endTime="290.84">
+<Sync time="260.93"/>
+oh that's what i hear you
+</Turn>
+<Turn speaker="S4" startTime="290.84" endTime="302.07">
+<Sync time="290.84"/>
+that remain i know that there's other people
+</Turn>
+</Section>
+<Section type="report" startTime="322.29" endTime="328.29" >
+<Turn speaker="S6" startTime="322.29" endTime="328.29">
+<Sync time="322.29"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

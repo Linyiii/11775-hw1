@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3010" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="31.95" >
+<Turn speaker="S1" startTime="0.0" endTime="31.95">
+<Sync time="0.0"/>
+oh the skillings mom shovel the driveway you won't be able to tell him like half an hour but to go to work at three thirty not for because when people and i'm realizing me oh they do without me would you do without me um so you in a minute because we have like three hours to go to work by
+</Turn>
+</Section>
+</Episode>
+</Trans>

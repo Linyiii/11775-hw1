@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2822" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S15" name="K15" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S16" name="K16" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S17" name="K17" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S18" name="K18" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S19" name="K19" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S20" name="K20" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S21" name="K21" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S22" name="K22" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="98.99" >
+<Turn speaker="S1" startTime="0.0" endTime="4.52">
+<Sync time="0.0"/>
+well your email i'm all for good
+</Turn>
+<Turn speaker="S2" startTime="4.52" endTime="7.69">
+<Sync time="4.52"/>
+making cooking harris hey you're making them
+</Turn>
+<Turn speaker="S3" startTime="7.69" endTime="13.62">
+<Sync time="7.69"/>
+um saint yes or no
+</Turn>
+<Turn speaker="S4" startTime="13.62" endTime="16.94">
+<Sync time="13.62"/>
+you'd licking fingers
+</Turn>
+<Turn speaker="S5" startTime="16.94" endTime="20.7">
+<Sync time="16.94"/>
+now what do you do is just so she where are you doing right now
+</Turn>
+<Turn speaker="S6" startTime="20.7" endTime="30.45">
+<Sync time="20.7"/>
+oh okay what kind of look kinda cookies are they
+</Turn>
+<Turn speaker="S7" startTime="30.45" endTime="33.42">
+<Sync time="30.45"/>
+we ended up being on the back of your insurance
+</Turn>
+<Turn speaker="S8" startTime="33.42" endTime="36.79">
+<Sync time="33.42"/>
+absolutely
+</Turn>
+<Turn speaker="S9" startTime="36.79" endTime="47.62">
+<Sync time="36.79"/>
+christmas cooking inclined christmas sprinkle a cookie oh okay
+</Turn>
+<Turn speaker="S10" startTime="47.62" endTime="57.59">
+<Sync time="47.62"/>
+yeah i've even cook them yet there's already on me you do put lots of good sprinkles on your cookies
+</Turn>
+<Turn speaker="S11" startTime="57.59" endTime="63.56">
+<Sync time="57.59"/>
+yeah it's a good
+</Turn>
+<Turn speaker="S12" startTime="63.56" endTime="75.44">
+<Sync time="63.56"/>
+oh okay okay me reagan wanted to do it hurts now you really
+</Turn>
+<Turn speaker="S13" startTime="75.44" endTime="84.99">
+<Sync time="75.44"/>
+how the cookies
+</Turn>
+<Turn speaker="S14" startTime="84.99" endTime="91.77">
+<Sync time="84.99"/>
+who are you making the cookies for um plenty ends meet
+</Turn>
+<Turn speaker="S15" startTime="91.77" endTime="98.99">
+<Sync time="91.77"/>
+oh it is eddie kidding okay i met they're going to be really good cookies
+</Turn>
+</Section>
+<Section type="report" startTime="101.73" endTime="118.82" >
+<Turn speaker="S16" startTime="101.73" endTime="110.15">
+<Sync time="101.73"/>
+yeah that's a good job
+</Turn>
+<Turn speaker="S17" startTime="110.15" endTime="118.82">
+<Sync time="110.15"/>
+yeah on um they know the guy putting now what do we do with him
+</Turn>
+</Section>
+<Section type="report" startTime="121.54" endTime="157.16" >
+<Turn speaker="S18" startTime="121.54" endTime="125.88">
+<Sync time="121.54"/>
+oh and that's on that will sit on that p._i._n. what do we worst we put the pin
+</Turn>
+<Turn speaker="S19" startTime="125.88" endTime="135.6">
+<Sync time="125.88"/>
+i hate cooking day and and the cooking thing okay we'll do that and then when they're done we're gonna take
+</Turn>
+<Turn speaker="S20" startTime="135.6" endTime="146.75">
+<Sync time="135.6"/>
+what is what does it circle around
+</Turn>
+<Turn speaker="S21" startTime="146.75" endTime="153.97">
+<Sync time="146.75"/>
+good okay so he cook a cookie okay well get picture on there all day
+</Turn>
+<Turn speaker="S22" startTime="153.97" endTime="157.16">
+<Sync time="153.97"/>
+hi
+</Turn>
+</Section>
+</Episode>
+</Trans>

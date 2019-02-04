@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2739" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.8" endTime="53.28" >
+<Turn speaker="S1" startTime="0.8" endTime="53.28">
+<Sync time="0.8"/>
+and then and then you betty crocker free this was actually a recommended to me by reader website mess around with me and i really do know i didn't get and they made the case you your very first and you know
+</Turn>
+</Section>
+<Section type="report" startTime="96.59" endTime="108.99" >
+<Turn speaker="S2" startTime="96.59" endTime="108.99">
+<Sync time="96.59"/>
+well
+</Turn>
+</Section>
+<Section type="report" startTime="122.21" endTime="124.67" >
+<Turn speaker="S2" startTime="122.21" endTime="124.67">
+<Sync time="122.21"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="162.38" endTime="171.38" >
+<Turn speaker="S2" startTime="162.38" endTime="171.38">
+<Sync time="162.38"/>
+six and a half no definitely not bad
+</Turn>
+</Section>
+<Section type="report" startTime="205.79" endTime="212.7" >
+<Turn speaker="S2" startTime="205.79" endTime="212.7">
+<Sync time="205.79"/>
+and
+</Turn>
+</Section>
+</Episode>
+</Trans>

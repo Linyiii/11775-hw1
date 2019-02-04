@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4052" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="114.95" >
+<Turn speaker="S1" startTime="0.04" endTime="28.13">
+<Sync time="0.04"/>
+that's a pretty pretty yeah my jacket on what am i doing here in electronics my phone camera ready i just bought one on camera picture and then i'm good
+</Turn>
+<Turn speaker="S2" startTime="28.13" endTime="86.68">
+<Sync time="28.13"/>
+do the same place to go to saint fish unless it's retarded back then or beat up probably about fourteen hang on my shoulder all format measure that's pretty good they're wild lightning twenty two wow twenty huge twenty two and a half or you know fell retarded then
+</Turn>
+<Turn speaker="S1" startTime="86.68" endTime="102.26">
+<Sync time="86.68"/>
+they just jump right on the sorry i shouldn't be laughing script uh no
+</Turn>
+<Turn speaker="S3" startTime="102.26" endTime="103.89">
+<Sync time="102.26"/>
+yeah
+</Turn>
+<Turn speaker="S1" startTime="103.89" endTime="114.95">
+<Sync time="103.89"/>
+i've got a huge mouth that's another big one holy crap
+</Turn>
+</Section>
+<Section type="report" startTime="118.61" endTime="135.46" >
+<Turn speaker="S3" startTime="118.61" endTime="135.46">
+<Sync time="118.61"/>
+not sure if it didn't focus all that little holy crap don't let it in the boat it'll i think we gotta measure that one
+</Turn>
+</Section>
+<Section type="report" startTime="138.66" endTime="149.9" >
+<Turn speaker="S3" startTime="138.66" endTime="149.9">
+<Sync time="138.66"/>
+she popped right out nice nice nice
+</Turn>
+</Section>
+</Episode>
+</Trans>

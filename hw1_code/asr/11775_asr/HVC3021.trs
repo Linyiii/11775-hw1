@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3021" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="6.51" endTime="33.54" >
+<Turn speaker="S1" startTime="6.51" endTime="15.6">
+<Sync time="6.51"/>
+everyone parents are you doing
+</Turn>
+<Turn speaker="S2" startTime="15.6" endTime="33.54">
+<Sync time="15.6"/>
+always take time to
+</Turn>
+</Section>
+<Section type="report" startTime="37.04" endTime="63.38" >
+<Turn speaker="S2" startTime="37.04" endTime="45.54">
+<Sync time="37.04"/>
+do you do that that's good that's nice
+</Turn>
+<Turn speaker="S1" startTime="45.54" endTime="63.38">
+<Sync time="45.54"/>
+many of these little ones
+</Turn>
+</Section>
+<Section type="report" startTime="63.62" endTime="84.06" >
+<Turn speaker="S2" startTime="63.62" endTime="84.06">
+<Sync time="63.62"/>
+jewish should knock on the door anyone a given some almost
+</Turn>
+</Section>
+</Episode>
+</Trans>

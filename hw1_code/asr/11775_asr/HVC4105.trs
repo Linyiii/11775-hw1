@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4105" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.28" endTime="31.3" >
+<Turn speaker="S1" startTime="0.28" endTime="4.92">
+<Sync time="0.28"/>
+i mean
+</Turn>
+<Turn speaker="S2" startTime="4.92" endTime="31.3">
+<Sync time="4.92"/>
+the the ninety yeah how'd find now that are just fascinating
+</Turn>
+</Section>
+<Section type="report" startTime="66.5" endTime="84.64" >
+<Turn speaker="S3" startTime="66.5" endTime="84.64">
+<Sync time="66.5"/>
+that is an ashtray
+</Turn>
+</Section>
+<Section type="report" startTime="101.76" endTime="118.74" >
+<Turn speaker="S4" startTime="101.76" endTime="118.74">
+<Sync time="101.76"/>
+the for cash cash cash
+</Turn>
+</Section>
+<Section type="report" startTime="134.27" endTime="159.54" >
+<Turn speaker="S5" startTime="134.27" endTime="159.54">
+<Sync time="134.27"/>
+and all kinds all not at all
+</Turn>
+</Section>
+<Section type="report" startTime="206.7" endTime="237.59" >
+<Turn speaker="S4" startTime="206.7" endTime="234.89">
+<Sync time="206.7"/>
+yeah
+</Turn>
+<Turn speaker="S3" startTime="234.89" endTime="237.59">
+<Sync time="234.89"/>
+and
+</Turn>
+</Section>
+<Section type="report" startTime="239.87" endTime="270.11" >
+<Turn speaker="S6" startTime="239.87" endTime="270.11">
+<Sync time="239.87"/>
+and actually after you know
+</Turn>
+</Section>
+</Episode>
+</Trans>

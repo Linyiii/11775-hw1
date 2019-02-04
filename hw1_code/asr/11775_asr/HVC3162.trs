@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3162" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="135.64" >
+<Turn speaker="S1" startTime="0.0" endTime="67.38">
+<Sync time="0.0"/>
+yeah it's the only gone
+</Turn>
+<Turn speaker="S2" startTime="67.38" endTime="72.07">
+<Sync time="67.38"/>
+there you go we should be teaching her that
+</Turn>
+<Turn speaker="S1" startTime="72.07" endTime="135.64">
+<Sync time="72.07"/>
+yeah that was pretty smooth good
+</Turn>
+</Section>
+<Section type="report" startTime="135.53" endTime="179.68" >
+<Turn speaker="S2" startTime="135.53" endTime="179.68">
+<Sync time="135.53"/>
+yeah now don't shoot the camera
+</Turn>
+</Section>
+</Episode>
+</Trans>

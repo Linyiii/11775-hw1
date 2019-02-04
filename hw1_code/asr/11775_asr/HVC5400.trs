@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5400" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.11" endTime="29.93" >
+<Turn speaker="S1" startTime="0.11" endTime="7.79">
+<Sync time="0.11"/>
+i remember when i look i rented one thing that no no no not at home
+</Turn>
+<Turn speaker="S2" startTime="7.79" endTime="15.41">
+<Sync time="7.79"/>
+diverse one time um
+</Turn>
+<Turn speaker="S3" startTime="15.41" endTime="27.04">
+<Sync time="15.41"/>
+or make our own boat or how are you working helping you know
+</Turn>
+<Turn speaker="S4" startTime="27.04" endTime="29.93">
+<Sync time="27.04"/>
+hi my name is alan
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4896" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="7.61" endTime="85.41" >
+<Turn speaker="S1" startTime="7.61" endTime="23.97">
+<Sync time="7.61"/>
+man ride round and round down down down here around around when we go down
+</Turn>
+<Turn speaker="S2" startTime="23.97" endTime="53.79">
+<Sync time="23.97"/>
+my hobbies now what about my my my mom and dad loaded on the market you telling me the the one with me
+</Turn>
+<Turn speaker="S1" startTime="53.79" endTime="85.41">
+<Sync time="53.79"/>
+man and ride around around and you're down down down down down down down the money all over the window
+</Turn>
+</Section>
+<Section type="report" startTime="85.17" endTime="105.17" >
+<Turn speaker="S2" startTime="85.17" endTime="105.17">
+<Sync time="85.17"/>
+the money but one of my my my get thirty dollars you'll get paid
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4147" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="10.68" endTime="129.21" >
+<Turn speaker="S1" startTime="10.68" endTime="39.81">
+<Sync time="10.68"/>
+family or or a history of on their own conflicts over all kinds of dogs and the shows type short on time
+</Turn>
+<Turn speaker="S2" startTime="39.81" endTime="80.06">
+<Sync time="39.81"/>
+but people out of town for a while to own skills say to myself well last versus nolan ryan
+</Turn>
+<Turn speaker="S3" startTime="80.06" endTime="129.21">
+<Sync time="80.06"/>
+it back down down down down down down down down down down down down down down down
+</Turn>
+</Section>
+</Episode>
+</Trans>

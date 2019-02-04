@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3354" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.16" endTime="151.76" >
+<Turn speaker="S1" startTime="0.16" endTime="151.76">
+<Sync time="0.16"/>
+me about three the the for you know we could ruin going to sit down and i'll come back in the mail man around during the get go call i'm chinese style charge i could just make me which brings up the the or you know which one you don't have much but i remember when i got one band parents around during the you know talk about god god bless me
+</Turn>
+</Section>
+<Section type="report" startTime="156.48" endTime="212.78" >
+<Turn speaker="S2" startTime="156.48" endTime="212.78">
+<Sync time="156.48"/>
+the books from last summer to in order to go feed the just just so much for the kids do civil law and the oil for your body is going to go to the three stooges jump the book them think on was hoping to pay your most of the amount of interest on the list i'm not going to get paid ten dollars for the children
+</Turn>
+</Section>
+<Section type="report" startTime="213.06" endTime="343.42" >
+<Turn speaker="S3" startTime="213.06" endTime="223.23">
+<Sync time="213.06"/>
+you know
+</Turn>
+<Turn speaker="S4" startTime="223.23" endTime="243.96">
+<Sync time="223.23"/>
+i think you're gonna get away from me then
+</Turn>
+<Turn speaker="S3" startTime="243.96" endTime="261.81">
+<Sync time="243.96"/>
+you know
+</Turn>
+<Turn speaker="S4" startTime="261.81" endTime="289.69">
+<Sync time="261.81"/>
+they got the best thing
+</Turn>
+<Turn speaker="S3" startTime="289.69" endTime="315.11">
+<Sync time="289.69"/>
+you tell me that then then then then then
+</Turn>
+<Turn speaker="S4" startTime="315.11" endTime="343.42">
+<Sync time="315.11"/>
+on the question then you're gonna get away you change your mind going
+</Turn>
+</Section>
+<Section type="report" startTime="343.58" endTime="362.12" >
+<Turn speaker="S3" startTime="343.58" endTime="362.12">
+<Sync time="343.58"/>
+i don't think so
+</Turn>
+</Section>
+</Episode>
+</Trans>

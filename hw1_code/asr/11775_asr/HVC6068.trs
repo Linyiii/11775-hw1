@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6068" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="25.74" >
+<Turn speaker="S1" startTime="0.04" endTime="25.74">
+<Sync time="0.04"/>
+hi this is um how you fix the sequel machine now normally it's worth by putting putting the staples but sometimes it gets jammed and it needs to be fixed a little bit you gotta put one in the slot right here and then you gotta put um the whole package staple in
+</Turn>
+</Section>
+<Section type="report" startTime="29.41" endTime="48.19" >
+<Turn speaker="S1" startTime="29.41" endTime="44.55">
+<Sync time="29.41"/>
+like so close this like so moving forward and russia like that and then just it
+</Turn>
+<Turn speaker="S2" startTime="44.55" endTime="48.19">
+<Sync time="44.55"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="48.42" endTime="52.64" >
+<Turn speaker="S1" startTime="48.42" endTime="52.64">
+<Sync time="48.42"/>
+it should work
+</Turn>
+</Section>
+</Episode>
+</Trans>

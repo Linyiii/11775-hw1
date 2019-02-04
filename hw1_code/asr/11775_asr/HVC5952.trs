@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5952" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="2.17" endTime="43.98" >
+<Turn speaker="S1" startTime="2.17" endTime="43.98">
+<Sync time="2.17"/>
+yeah i i guess all the time great
+</Turn>
+</Section>
+<Section type="report" startTime="55.39" endTime="76.98" >
+<Turn speaker="S2" startTime="55.39" endTime="76.98">
+<Sync time="55.39"/>
+say no to iowa and
+</Turn>
+</Section>
+<Section type="report" startTime="125.74" endTime="128.6" >
+<Turn speaker="S1" startTime="125.74" endTime="128.6">
+<Sync time="125.74"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="166.17" endTime="181.28" >
+<Turn speaker="S1" startTime="166.17" endTime="174.5">
+<Sync time="166.17"/>
+right
+</Turn>
+<Turn speaker="S3" startTime="174.5" endTime="181.28">
+<Sync time="174.5"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="189.98" endTime="192.1" >
+<Turn speaker="S1" startTime="189.98" endTime="192.1">
+<Sync time="189.98"/>
+yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

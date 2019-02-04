@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5782" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.08" endTime="194.8" >
+<Turn speaker="S1" startTime="0.08" endTime="36.04">
+<Sync time="0.08"/>
+i i went to the music
+</Turn>
+<Turn speaker="S2" startTime="36.04" endTime="42.58">
+<Sync time="36.04"/>
+i'm a i'm an uncle dan
+</Turn>
+<Turn speaker="S1" startTime="42.58" endTime="48.11">
+<Sync time="42.58"/>
+yeah nice meeting you
+</Turn>
+<Turn speaker="S2" startTime="48.11" endTime="114.23">
+<Sync time="48.11"/>
+i'm just a little recording my wife to go back down in charlotte kind patient she catches di di di di di di charlotte hardly hear that
+</Turn>
+<Turn speaker="S1" startTime="114.23" endTime="116.7">
+<Sync time="114.23"/>
+yeah
+</Turn>
+<Turn speaker="S2" startTime="116.7" endTime="166.95">
+<Sync time="116.7"/>
+pretty good pretty good they're not trying to get everybody
+</Turn>
+<Turn speaker="S1" startTime="166.95" endTime="169.52">
+<Sync time="166.95"/>
+okay
+</Turn>
+<Turn speaker="S2" startTime="169.52" endTime="194.8">
+<Sync time="169.52"/>
+i am alright i'm going to get out here like celebration
+</Turn>
+</Section>
+<Section type="report" startTime="194.61" endTime="220.27" >
+<Turn speaker="S1" startTime="194.61" endTime="220.27">
+<Sync time="194.61"/>
+my baby
+</Turn>
+</Section>
+</Episode>
+</Trans>

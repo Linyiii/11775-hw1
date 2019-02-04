@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5840" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="33.13" >
+<Turn speaker="S1" startTime="0.04" endTime="12.05">
+<Sync time="0.04"/>
+everybody is christopher christopher over there and and ah christopher just chilling with us now he's helping us and so many ways
+</Turn>
+<Turn speaker="S2" startTime="12.05" endTime="33.13">
+<Sync time="12.05"/>
+going to put him down intense holding a listening to you know i mean this is home for now we're not gonna keep them very long because that means he's a wild feature black can i blame didn't better it looks great
+</Turn>
+</Section>
+<Section type="report" startTime="33.5" endTime="127.29" >
+<Turn speaker="S1" startTime="33.5" endTime="41.56">
+<Sync time="33.5"/>
+are we we got a friend christopher now we're going to let him go
+</Turn>
+<Turn speaker="S3" startTime="41.56" endTime="52.11">
+<Sync time="41.56"/>
+i'm going to happen
+</Turn>
+<Turn speaker="S2" startTime="52.11" endTime="60.46">
+<Sync time="52.11"/>
+i go you go on
+</Turn>
+<Turn speaker="S1" startTime="60.46" endTime="77.64">
+<Sync time="60.46"/>
+put them on a skateboard a hold of them don't get the skateboard up here we're not and then put them up there send him down there he's gonna stick to it you're right it's not like a bad yeah totally bad thing
+</Turn>
+<Turn speaker="S2" startTime="77.64" endTime="92.9">
+<Sync time="77.64"/>
+yeah yeah okay okay
+</Turn>
+<Turn speaker="S1" startTime="92.9" endTime="99.18">
+<Sync time="92.9"/>
+oh whoa you know even weirder vomited
+</Turn>
+<Turn speaker="S3" startTime="99.18" endTime="120.82">
+<Sync time="99.18"/>
+cricket alright we are going to kill them
+</Turn>
+<Turn speaker="S4" startTime="120.82" endTime="127.29">
+<Sync time="120.82"/>
+mm mm
+</Turn>
+</Section>
+<Section type="report" startTime="129.7" endTime="152.64" >
+<Turn speaker="S3" startTime="129.7" endTime="152.64">
+<Sync time="129.7"/>
+why did you okay i can't believe better where he's gone to a better place
+</Turn>
+</Section>
+<Section type="report" startTime="156.56" endTime="167.28" >
+<Turn speaker="S1" startTime="156.56" endTime="167.28">
+<Sync time="156.56"/>
+maybe he's just playing that i don't think we can show anybody that the boys will be boys right boy really bad
+</Turn>
+</Section>
+<Section type="report" startTime="173.56" endTime="227.71" >
+<Turn speaker="S1" startTime="173.56" endTime="210.49">
+<Sync time="173.56"/>
+uh we're really sorry that was really really bad i really do like a cool i promise you that i'll do something really good for like a hundred lizards or more some day because of right yeah that's true you i i kinda wish that could have been more of your choice um and we hadn't just forced into it but at the same time i i i'm really proud of you for doing that and it was really cool
+</Turn>
+<Turn speaker="S2" startTime="210.49" endTime="227.71">
+<Sync time="210.49"/>
+pretty bad
+</Turn>
+</Section>
+</Episode>
+</Trans>

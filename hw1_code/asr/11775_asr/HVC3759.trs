@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3759" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.07" endTime="5.11" >
+<Turn speaker="S1" startTime="0.07" endTime="5.11">
+<Sync time="0.07"/>
+uh-huh
+</Turn>
+</Section>
+<Section type="report" startTime="9.97" endTime="25.43" >
+<Turn speaker="S2" startTime="9.97" endTime="19.05">
+<Sync time="9.97"/>
+what do you think about this
+</Turn>
+<Turn speaker="S3" startTime="19.05" endTime="25.43">
+<Sync time="19.05"/>
+so i don't think you can i say somewhere and just or pays me 'cause it's so heavy i was
+</Turn>
+</Section>
+</Episode>
+</Trans>

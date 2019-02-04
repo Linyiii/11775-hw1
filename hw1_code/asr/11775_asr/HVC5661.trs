@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5661" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="7.46" endTime="10.06" >
+<Turn speaker="S1" startTime="7.46" endTime="10.06">
+<Sync time="7.46"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="13.94" endTime="51.19" >
+<Turn speaker="S2" startTime="13.94" endTime="21.83">
+<Sync time="13.94"/>
+i suppose um home interiors
+</Turn>
+<Turn speaker="S3" startTime="21.83" endTime="26.05">
+<Sync time="21.83"/>
+she wants to
+</Turn>
+<Turn speaker="S4" startTime="26.05" endTime="33.39">
+<Sync time="26.05"/>
+um you know yeah i don't want to believe it you know
+</Turn>
+<Turn speaker="S5" startTime="33.39" endTime="46.6">
+<Sync time="33.39"/>
+yeah man or no sometimes you're going have that here and now he's
+</Turn>
+<Turn speaker="S6" startTime="46.6" endTime="51.19">
+<Sync time="46.6"/>
+wow
+</Turn>
+</Section>
+</Episode>
+</Trans>

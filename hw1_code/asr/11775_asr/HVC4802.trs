@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4802" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.12" endTime="68.31" >
+<Turn speaker="S1" startTime="0.12" endTime="15.92">
+<Sync time="0.12"/>
+do you any where
+</Turn>
+<Turn speaker="S2" startTime="15.92" endTime="31.84">
+<Sync time="15.92"/>
+the the you
+</Turn>
+<Turn speaker="S3" startTime="31.84" endTime="68.31">
+<Sync time="31.84"/>
+many many many man and they they may or may not be the same way
+</Turn>
+</Section>
+<Section type="report" startTime="79.12" endTime="129.11" >
+<Turn speaker="S3" startTime="79.12" endTime="129.11">
+<Sync time="79.12"/>
+many many men and women and men and women they may day on the internet and the thing that they can be a game show than the men and women and they and they nothing the
+</Turn>
+</Section>
+</Episode>
+</Trans>

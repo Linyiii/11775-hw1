@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3519" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="30.09" endTime="178.41" >
+<Turn speaker="S1" startTime="30.09" endTime="178.41">
+<Sync time="30.09"/>
+and then they do during the day they said they they all this money that there's going to go to the project that they don't they don't go in and day in the family moved down to a doctor and they never
+</Turn>
+</Section>
+</Episode>
+</Trans>

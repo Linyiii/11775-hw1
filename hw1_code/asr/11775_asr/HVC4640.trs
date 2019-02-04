@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4640" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="2.11" endTime="17.37" >
+<Turn speaker="S1" startTime="2.11" endTime="17.37">
+<Sync time="2.11"/>
+job
+</Turn>
+</Section>
+<Section type="report" startTime="17.45" endTime="50.97" >
+<Turn speaker="S2" startTime="17.45" endTime="50.97">
+<Sync time="17.45"/>
+oh what are you doing alison what are you doing yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

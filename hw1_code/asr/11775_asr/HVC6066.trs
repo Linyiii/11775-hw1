@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6066" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="44.75" >
+<Turn speaker="S1" startTime="0.03" endTime="9.33">
+<Sync time="0.03"/>
+first thing when they lose lose the d._v._d. to get out away just need to pride also
+</Turn>
+<Turn speaker="S2" startTime="9.33" endTime="41.03">
+<Sync time="9.33"/>
+that whole side let's carefully remove the top cover
+</Turn>
+<Turn speaker="S1" startTime="41.03" endTime="44.75">
+<Sync time="41.03"/>
+next step is to remove the conductors from dry
+</Turn>
+</Section>
+<Section type="report" startTime="53.65" endTime="57.19" >
+<Turn speaker="S1" startTime="53.65" endTime="57.19">
+<Sync time="53.65"/>
+and let's see dr it is
+</Turn>
+</Section>
+</Episode>
+</Trans>

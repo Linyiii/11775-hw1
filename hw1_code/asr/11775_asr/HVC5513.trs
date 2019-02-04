@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5513" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="28.49" >
+<Turn speaker="S1" startTime="0.03" endTime="18.34">
+<Sync time="0.03"/>
+um and you know a big mess that day
+</Turn>
+<Turn speaker="S2" startTime="18.34" endTime="28.49">
+<Sync time="18.34"/>
+no that's not good
+</Turn>
+</Section>
+<Section type="report" startTime="51.87" endTime="89.23" >
+<Turn speaker="S3" startTime="51.87" endTime="63.71">
+<Sync time="51.87"/>
+or in
+</Turn>
+<Turn speaker="S4" startTime="63.71" endTime="72.97">
+<Sync time="63.71"/>
+my friend of mine on both sides
+</Turn>
+<Turn speaker="S5" startTime="72.97" endTime="82.36">
+<Sync time="72.97"/>
+yeah
+</Turn>
+<Turn speaker="S4" startTime="82.36" endTime="89.23">
+<Sync time="82.36"/>
+i
+</Turn>
+</Section>
+<Section type="report" startTime="108.33" endTime="127.92" >
+<Turn speaker="S3" startTime="108.33" endTime="127.92">
+<Sync time="108.33"/>
+extraordinary
+</Turn>
+</Section>
+<Section type="report" startTime="141.03" endTime="199.2" >
+<Turn speaker="S6" startTime="141.03" endTime="150.98">
+<Sync time="141.03"/>
+from both sides
+</Turn>
+<Turn speaker="S7" startTime="150.98" endTime="157.77">
+<Sync time="150.98"/>
+gosh
+</Turn>
+<Turn speaker="S6" startTime="157.77" endTime="186.13">
+<Sync time="157.77"/>
+yeah gosh voice nobody's been and maybe that's my i i should say bye to us i guess in the same do
+</Turn>
+<Turn speaker="S8" startTime="186.13" endTime="199.2">
+<Sync time="186.13"/>
+brings want to be done
+</Turn>
+</Section>
+<Section type="report" startTime="217.76" endTime="315.32" >
+<Turn speaker="S9" startTime="217.76" endTime="228.66">
+<Sync time="217.76"/>
+i don't know
+</Turn>
+<Turn speaker="S6" startTime="228.66" endTime="241.77">
+<Sync time="228.66"/>
+for for here nice to meet you
+</Turn>
+<Turn speaker="S3" startTime="241.77" endTime="274.39">
+<Sync time="241.77"/>
+um about what kind of fun it's a a
+</Turn>
+<Turn speaker="S9" startTime="274.39" endTime="293.11">
+<Sync time="274.39"/>
+yeah men men in our place i don't think i i'm i'm bad at am i signed on they get them
+</Turn>
+<Turn speaker="S2" startTime="293.11" endTime="295.87">
+<Sync time="293.11"/>
+oh
+</Turn>
+<Turn speaker="S1" startTime="295.87" endTime="298.97">
+<Sync time="295.87"/>
+yeah they
+</Turn>
+<Turn speaker="S2" startTime="298.97" endTime="303.38">
+<Sync time="298.97"/>
+no
+</Turn>
+<Turn speaker="S1" startTime="303.38" endTime="315.32">
+<Sync time="303.38"/>
+uh no i'm i'm a
+</Turn>
+</Section>
+</Episode>
+</Trans>

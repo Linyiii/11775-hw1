@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5539" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="25.07" >
+<Turn speaker="S1" startTime="0.0" endTime="25.07">
+<Sync time="0.0"/>
+when you're playing in the sand what color copier holding what color orange good what's the other color no that's probably what color is good good good girl
+</Turn>
+</Section>
+<Section type="report" startTime="28.73" endTime="40.02" >
+<Turn speaker="S1" startTime="28.73" endTime="40.02">
+<Sync time="28.73"/>
+oh boy girl
+</Turn>
+</Section>
+<Section type="report" startTime="45.23" endTime="50.38" >
+<Turn speaker="S1" startTime="45.23" endTime="50.38">
+<Sync time="45.23"/>
+can you wave to mommy sweet
+</Turn>
+</Section>
+<Section type="report" startTime="56.96" endTime="108.23" >
+<Turn speaker="S1" startTime="56.96" endTime="108.23">
+<Sync time="56.96"/>
+what is the cats and dogs he was good foresee alliances with what does a frog say that's right that's right what does a um good can you buy by that's right
+</Turn>
+</Section>
+</Episode>
+</Trans>

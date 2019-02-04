@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3812" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="37.67" >
+<Turn speaker="S1" startTime="0.04" endTime="20.84">
+<Sync time="0.04"/>
+and uh a on on the atlantic around and i
+</Turn>
+<Turn speaker="S2" startTime="20.84" endTime="37.67">
+<Sync time="20.84"/>
+i our our lives around
+</Turn>
+</Section>
+<Section type="report" startTime="38.54" endTime="59.3" >
+<Turn speaker="S2" startTime="38.54" endTime="59.3">
+<Sync time="38.54"/>
+well i mean we don't know what we're gonna tell you the truth is that
+</Turn>
+</Section>
+<Section type="report" startTime="59.19" endTime="148.59" >
+<Turn speaker="S3" startTime="59.19" endTime="148.59">
+<Sync time="59.19"/>
+a lot of times we never have the money but i don't know what why why did they say
+</Turn>
+</Section>
+</Episode>
+</Trans>

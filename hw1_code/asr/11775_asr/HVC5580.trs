@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5580" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="82.79" >
+<Turn speaker="S1" startTime="0.0" endTime="9.17">
+<Sync time="0.0"/>
+okay
+</Turn>
+<Turn speaker="S2" startTime="9.17" endTime="12.71">
+<Sync time="9.17"/>
+uh the
+</Turn>
+<Turn speaker="S3" startTime="12.71" endTime="23.51">
+<Sync time="12.71"/>
+nah me about it i'm i'm sure
+</Turn>
+<Turn speaker="S1" startTime="23.51" endTime="32.74">
+<Sync time="23.51"/>
+oh my
+</Turn>
+<Turn speaker="S3" startTime="32.74" endTime="59.42">
+<Sync time="32.74"/>
+in the house or you know well i'm on a basketball man and are stuck soccer and um and uh
+</Turn>
+<Turn speaker="S1" startTime="59.42" endTime="82.79">
+<Sync time="59.42"/>
+oh i love it and i feel like i don't know what's outside i will tell me something
+</Turn>
+</Section>
+<Section type="report" startTime="82.74" endTime="87.4" >
+<Turn speaker="S2" startTime="82.74" endTime="87.4">
+<Sync time="82.74"/>
+the that um
+</Turn>
+</Section>
+</Episode>
+</Trans>

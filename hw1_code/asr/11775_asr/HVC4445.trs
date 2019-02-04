@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4445" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="103.07" >
+<Turn speaker="S1" startTime="0.0" endTime="6.77">
+<Sync time="0.0"/>
+and what are you making making a castle
+</Turn>
+<Turn speaker="S2" startTime="6.77" endTime="15.19">
+<Sync time="6.77"/>
+and the the million
+</Turn>
+<Turn speaker="S1" startTime="15.19" endTime="18.3">
+<Sync time="15.19"/>
+i noticed your cats a lot of elements of the country
+</Turn>
+<Turn speaker="S2" startTime="18.3" endTime="38.83">
+<Sync time="18.3"/>
+right there at one point to and years and when you have to be not to take off and you kind of thing and
+</Turn>
+<Turn speaker="S1" startTime="38.83" endTime="62.02">
+<Sync time="38.83"/>
+for the shock on their take it you're doing a good job building
+</Turn>
+<Turn speaker="S2" startTime="62.02" endTime="92.32">
+<Sync time="62.02"/>
+you're going to be moving around a lot for a year before he was little breaking of every bulgaria tonight when you're eating or the best way
+</Turn>
+<Turn speaker="S1" startTime="92.32" endTime="99.12">
+<Sync time="92.32"/>
+who's that guy he they
+</Turn>
+<Turn speaker="S2" startTime="99.12" endTime="103.07">
+<Sync time="99.12"/>
+um
+</Turn>
+</Section>
+<Section type="report" startTime="103.31" endTime="111.2" >
+<Turn speaker="S1" startTime="103.31" endTime="111.2">
+<Sync time="103.31"/>
+saying hi hi daddy does
+</Turn>
+</Section>
+</Episode>
+</Trans>

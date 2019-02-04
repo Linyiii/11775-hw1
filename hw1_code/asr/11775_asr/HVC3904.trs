@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3904" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="58.92" endTime="88.29" >
+<Turn speaker="S1" startTime="58.92" endTime="88.29">
+<Sync time="58.92"/>
+or
+</Turn>
+</Section>
+<Section type="report" startTime="110.33" endTime="177.36" >
+<Turn speaker="S2" startTime="110.33" endTime="132.83">
+<Sync time="110.33"/>
+you know what i'm saying the management and then the next thing i mean maybe
+</Turn>
+<Turn speaker="S3" startTime="132.83" endTime="162.44">
+<Sync time="132.83"/>
+it was going to do anything they just need to do anything he was living in the beginning eliminate coming into the speech and freedom of speech
+</Turn>
+<Turn speaker="S4" startTime="162.44" endTime="171.84">
+<Sync time="162.44"/>
+mm mm
+</Turn>
+<Turn speaker="S3" startTime="171.84" endTime="177.36">
+<Sync time="171.84"/>
+teach the students
+</Turn>
+</Section>
+<Section type="report" startTime="192.05" endTime="201.37" >
+<Turn speaker="S4" startTime="192.05" endTime="201.37">
+<Sync time="192.05"/>
+in a minute or two i think come covered the women are becoming
+</Turn>
+</Section>
+<Section type="report" startTime="206.4" endTime="250.43" >
+<Turn speaker="S4" startTime="206.4" endTime="216.03">
+<Sync time="206.4"/>
+any new
+</Turn>
+<Turn speaker="S1" startTime="216.03" endTime="220.45">
+<Sync time="216.03"/>
+um
+</Turn>
+<Turn speaker="S5" startTime="220.45" endTime="250.43">
+<Sync time="220.45"/>
+and uh
+</Turn>
+</Section>
+<Section type="report" startTime="337.96" endTime="376.33" >
+<Turn speaker="S6" startTime="337.96" endTime="376.33">
+<Sync time="337.96"/>
+every day to day to day
+</Turn>
+</Section>
+<Section type="report" startTime="411.99" endTime="467.61" >
+<Turn speaker="S7" startTime="411.99" endTime="438.95">
+<Sync time="411.99"/>
+mm a man or woman or man
+</Turn>
+<Turn speaker="S8" startTime="438.95" endTime="467.61">
+<Sync time="438.95"/>
+i didn't even think about
+</Turn>
+</Section>
+<Section type="report" startTime="527.48" endTime="599.2" >
+<Turn speaker="S8" startTime="527.48" endTime="568.81">
+<Sync time="527.48"/>
+i'm thinking about the time 'cause you know any exercise
+</Turn>
+<Turn speaker="S9" startTime="568.81" endTime="599.2">
+<Sync time="568.81"/>
+maybe maybe even to me
+</Turn>
+</Section>
+<Section type="report" startTime="599.11" endTime="602.46" >
+<Turn speaker="S8" startTime="599.11" endTime="602.46">
+<Sync time="599.11"/>
+and
+</Turn>
+</Section>
+</Episode>
+</Trans>

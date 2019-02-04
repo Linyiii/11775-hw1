@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4905" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="1.87" >
+<Turn speaker="S1" startTime="0.0" endTime="1.87">
+<Sync time="0.0"/>
+they do
+</Turn>
+</Section>
+<Section type="report" startTime="9.56" endTime="14.35" >
+<Turn speaker="S1" startTime="9.56" endTime="14.35">
+<Sync time="9.56"/>
+i mean
+</Turn>
+</Section>
+<Section type="report" startTime="21.92" endTime="82.09" >
+<Turn speaker="S2" startTime="21.92" endTime="27.86">
+<Sync time="21.92"/>
+um
+</Turn>
+<Turn speaker="S1" startTime="27.86" endTime="44.47">
+<Sync time="27.86"/>
+watch what you want to be why do you say the
+</Turn>
+<Turn speaker="S3" startTime="44.47" endTime="53.23">
+<Sync time="44.47"/>
+i don't know maybe some
+</Turn>
+<Turn speaker="S1" startTime="53.23" endTime="61.11">
+<Sync time="53.23"/>
+maybe maybe some them and they get the
+</Turn>
+<Turn speaker="S3" startTime="61.11" endTime="70.2">
+<Sync time="61.11"/>
+you know he told me i'm nan n. d.
+</Turn>
+<Turn speaker="S1" startTime="70.2" endTime="74.5">
+<Sync time="70.2"/>
+indeed
+</Turn>
+<Turn speaker="S3" startTime="74.5" endTime="82.09">
+<Sync time="74.5"/>
+it'll be i'm a big
+</Turn>
+</Section>
+<Section type="report" startTime="81.91" endTime="88.75" >
+<Turn speaker="S2" startTime="81.91" endTime="88.75">
+<Sync time="81.91"/>
+my
+</Turn>
+</Section>
+</Episode>
+</Trans>

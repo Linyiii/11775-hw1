@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4270" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="114.18" >
+<Turn speaker="S1" startTime="0.04" endTime="40.77">
+<Sync time="0.04"/>
+everybody welcome to uh my new math book silver addition uh on boxing here i am driving up to a productions which is where my son works they were able to buy my book and uh since i'm a non profit church he takes his boss willing to have it for a in a very kind to let us or to get the apple slight discount we can't say that
+</Turn>
+<Turn speaker="S2" startTime="40.77" endTime="45.72">
+<Sync time="40.77"/>
+do that for anybody else but he here at the productions which is
+</Turn>
+<Turn speaker="S3" startTime="45.72" endTime="66.32">
+<Sync time="45.72"/>
+i got my uh and i'm i'm in johnson's office now opening up a favorite alright go ahead and i said i said a
+</Turn>
+<Turn speaker="S2" startTime="66.32" endTime="82.72">
+<Sync time="66.32"/>
+the are really very very light only weighs about four and a half a pound or is made of a solid block of aluminum has a keys which takes a little bit of getting used to
+</Turn>
+<Turn speaker="S3" startTime="82.72" endTime="92.66">
+<Sync time="82.72"/>
+and from watching so many of these on boxing i know this is a cab
+</Turn>
+<Turn speaker="S4" startTime="92.66" endTime="96.7">
+<Sync time="92.66"/>
+pull up the computer comes out
+</Turn>
+<Turn speaker="S2" startTime="96.7" endTime="105.59">
+<Sync time="96.7"/>
+very nice i did have to wait for uh probably three weeks or so in order to able to get the computers
+</Turn>
+<Turn speaker="S4" startTime="105.59" endTime="107.76">
+<Sync time="105.59"/>
+but this is pretty cool
+</Turn>
+<Turn speaker="S2" startTime="107.76" endTime="114.18">
+<Sync time="107.76"/>
+spend a lot of my time watching other people open books on you
+</Turn>
+</Section>
+<Section type="report" startTime="119.97" endTime="159.85" >
+<Turn speaker="S2" startTime="119.97" endTime="128.21">
+<Sync time="119.97"/>
+it's really quite a bit to get all that wrapping off but at least you knew that were going to be any friends on it
+</Turn>
+<Turn speaker="S4" startTime="128.21" endTime="133.84">
+<Sync time="128.21"/>
+everything is amazingly san diego
+</Turn>
+<Turn speaker="S5" startTime="133.84" endTime="138.98">
+<Sync time="133.84"/>
+ooh
+</Turn>
+<Turn speaker="S4" startTime="138.98" endTime="146.3">
+<Sync time="138.98"/>
+a shiny three
+</Turn>
+<Turn speaker="S2" startTime="146.3" endTime="159.85">
+<Sync time="146.3"/>
+really looking forward to being able to use the ministry as you can see we we do a lot of video bible studies and it just is pretty tough to do my five year old pc hopefully this'll save me some time
+</Turn>
+</Section>
+<Section type="report" startTime="159.61" endTime="169.53" >
+<Turn speaker="S4" startTime="159.61" endTime="169.53">
+<Sync time="159.61"/>
+so now i'm on the uh bible videos we do every day will be done right on here
+</Turn>
+</Section>
+</Episode>
+</Trans>

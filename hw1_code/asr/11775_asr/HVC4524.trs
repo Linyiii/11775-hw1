@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4524" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="33.61" >
+<Turn speaker="S1" startTime="0.03" endTime="7.86">
+<Sync time="0.03"/>
+in the building
+</Turn>
+<Turn speaker="S2" startTime="7.86" endTime="33.61">
+<Sync time="7.86"/>
+hi i'm she put too much pressure on the washing machine tool it's quite easily damaged the most commonly damaged parts of the the on the internet now to trim i'm going to show you how to replace them so i'm going to stop by removing the from the machine by screwing the screws on the hinge
+</Turn>
+</Section>
+<Section type="report" startTime="37.19" endTime="45.83" >
+<Turn speaker="S2" startTime="37.19" endTime="45.83">
+<Sync time="37.19"/>
+now i'm from from the machine to separate the to do that i need to screw the screws
+</Turn>
+</Section>
+<Section type="report" startTime="50.23" endTime="132.03" >
+<Turn speaker="S2" startTime="50.23" endTime="55.43">
+<Sync time="50.23"/>
+now i moved to i can on clinton trends from each other
+</Turn>
+<Turn speaker="S3" startTime="55.43" endTime="63.2">
+<Sync time="55.43"/>
+no i
+</Turn>
+<Turn speaker="S2" startTime="63.2" endTime="97.43">
+<Sync time="63.2"/>
+with the now the trim is available his and hey have the most commonly broken parts bearings the hinge they simply list out and replaceable and simply a case is that um in another video you can see me replace still release mechanism and now i'm just going to replace the
+</Turn>
+<Turn speaker="S3" startTime="97.43" endTime="132.03">
+<Sync time="97.43"/>
+no i just need to she replace anything that was it's ready to go back on the machine
+</Turn>
+</Section>
+<Section type="report" startTime="131.82" endTime="137.01" >
+<Turn speaker="S1" startTime="131.82" endTime="137.01">
+<Sync time="131.82"/>
+and
+</Turn>
+</Section>
+</Episode>
+</Trans>

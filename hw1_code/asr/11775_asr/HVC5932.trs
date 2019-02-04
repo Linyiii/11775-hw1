@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5932" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="39.36" endTime="70.62" >
+<Turn speaker="S1" startTime="39.36" endTime="57.34">
+<Sync time="39.36"/>
+it is going to go down
+</Turn>
+<Turn speaker="S2" startTime="57.34" endTime="65.12">
+<Sync time="57.34"/>
+do you
+</Turn>
+<Turn speaker="S1" startTime="65.12" endTime="70.62">
+<Sync time="65.12"/>
+and
+</Turn>
+</Section>
+<Section type="report" startTime="90.23" endTime="97.87" >
+<Turn speaker="S3" startTime="90.23" endTime="97.87">
+<Sync time="90.23"/>
+okay
+</Turn>
+</Section>
+</Episode>
+</Trans>

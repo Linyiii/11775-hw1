@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3572" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.22" endTime="88.4" >
+<Turn speaker="S1" startTime="0.22" endTime="66.77">
+<Sync time="0.22"/>
+they get to see if you can you see the problem that we will get you get paid for
+</Turn>
+<Turn speaker="S2" startTime="66.77" endTime="69.94">
+<Sync time="66.77"/>
+oh
+</Turn>
+<Turn speaker="S1" startTime="69.94" endTime="88.4">
+<Sync time="69.94"/>
+well you you
+</Turn>
+</Section>
+<Section type="report" startTime="91.95" endTime="245.63" >
+<Turn speaker="S1" startTime="91.95" endTime="245.63">
+<Sync time="91.95"/>
+you pay you get the question and just want to get to you can't you can't get them to the and she came to your heart and lungs we will see your mother but when he would jump on the benches and he'll be back in time and you don't smoke and now they can't show on some of them and to do with it
+</Turn>
+</Section>
+</Episode>
+</Trans>

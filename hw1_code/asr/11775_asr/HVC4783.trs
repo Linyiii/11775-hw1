@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4783" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="7.85" >
+<Turn speaker="S1" startTime="0.0" endTime="7.85">
+<Sync time="0.0"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="28.33" endTime="40.54" >
+<Turn speaker="S2" startTime="28.33" endTime="33.24">
+<Sync time="28.33"/>
+mhm
+</Turn>
+<Turn speaker="S3" startTime="33.24" endTime="37.81">
+<Sync time="33.24"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="37.81" endTime="40.54">
+<Sync time="37.81"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="45.17" endTime="62.2" >
+<Turn speaker="S2" startTime="45.17" endTime="51.69">
+<Sync time="45.17"/>
+mhm
+</Turn>
+<Turn speaker="S4" startTime="51.69" endTime="55.82">
+<Sync time="51.69"/>
+mhm
+</Turn>
+<Turn speaker="S3" startTime="55.82" endTime="62.2">
+<Sync time="55.82"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="73.75" endTime="78.25" >
+<Turn speaker="S3" startTime="73.75" endTime="78.25">
+<Sync time="73.75"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="85.48" endTime="91.26" >
+<Turn speaker="S3" startTime="85.48" endTime="91.26">
+<Sync time="85.48"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="98.23" endTime="100.57" >
+<Turn speaker="S3" startTime="98.23" endTime="100.57">
+<Sync time="98.23"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="109.91" endTime="136.97" >
+<Turn speaker="S3" startTime="109.91" endTime="113.34">
+<Sync time="109.91"/>
+mhm
+</Turn>
+<Turn speaker="S4" startTime="113.34" endTime="136.97">
+<Sync time="113.34"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="140.54" endTime="145.87" >
+<Turn speaker="S2" startTime="140.54" endTime="145.87">
+<Sync time="140.54"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="154.72" endTime="182.21" >
+<Turn speaker="S5" startTime="154.72" endTime="157.86">
+<Sync time="154.72"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="157.86" endTime="164.23">
+<Sync time="157.86"/>
+mhm
+</Turn>
+<Turn speaker="S1" startTime="164.23" endTime="176.34">
+<Sync time="164.23"/>
+you just
+</Turn>
+<Turn speaker="S2" startTime="176.34" endTime="182.21">
+<Sync time="176.34"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="204.9" endTime="230.48" >
+<Turn speaker="S5" startTime="204.9" endTime="207.6">
+<Sync time="204.9"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="207.6" endTime="227.15">
+<Sync time="207.6"/>
+no
+</Turn>
+<Turn speaker="S5" startTime="227.15" endTime="230.48">
+<Sync time="227.15"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="230.24" endTime="234.58" >
+<Turn speaker="S2" startTime="230.24" endTime="234.58">
+<Sync time="230.24"/>
+mhm
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3342" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="312.58" endTime="323.74" >
+<Turn speaker="S1" startTime="312.58" endTime="323.74">
+<Sync time="312.58"/>
+so
+</Turn>
+</Section>
+<Section type="report" startTime="326.25" endTime="332.34" >
+<Turn speaker="S2" startTime="326.25" endTime="332.34">
+<Sync time="326.25"/>
+uh and do i love to sixty four i love going to
+</Turn>
+</Section>
+<Section type="report" startTime="350.12" endTime="356.94" >
+<Turn speaker="S2" startTime="350.12" endTime="356.94">
+<Sync time="350.12"/>
+sixty sixty
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3022" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="6.32" >
+<Turn speaker="S1" startTime="0.0" endTime="2.5">
+<Sync time="0.0"/>
+what about you
+</Turn>
+<Turn speaker="S2" startTime="2.5" endTime="6.32">
+<Sync time="2.5"/>
+yeah no that's my video camera cameras
+</Turn>
+</Section>
+<Section type="report" startTime="9.61" endTime="38.73" >
+<Turn speaker="S3" startTime="9.61" endTime="18.01">
+<Sync time="9.61"/>
+and the son lower do it randomly there
+</Turn>
+<Turn speaker="S4" startTime="18.01" endTime="20.97">
+<Sync time="18.01"/>
+gee
+</Turn>
+<Turn speaker="S5" startTime="20.97" endTime="25.37">
+<Sync time="20.97"/>
+well
+</Turn>
+<Turn speaker="S6" startTime="25.37" endTime="30.87">
+<Sync time="25.37"/>
+lewis all the way the sun belt to get those
+</Turn>
+<Turn speaker="S7" startTime="30.87" endTime="38.73">
+<Sync time="30.87"/>
+mom hello
+</Turn>
+</Section>
+</Episode>
+</Trans>

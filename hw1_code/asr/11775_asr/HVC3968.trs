@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3968" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="16.63" >
+<Turn speaker="S1" startTime="0.0" endTime="16.63">
+<Sync time="0.0"/>
+oh my god i don't know what i what's your your son the my totally never be playing this game especially hung over in word word was right on
+</Turn>
+</Section>
+</Episode>
+</Trans>

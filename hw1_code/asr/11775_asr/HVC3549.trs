@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3549" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.21" endTime="26.36" >
+<Turn speaker="S1" startTime="3.21" endTime="19.9">
+<Sync time="3.21"/>
+oh
+</Turn>
+<Turn speaker="S2" startTime="19.9" endTime="26.36">
+<Sync time="19.9"/>
+i don't think they're going to bed at all or no probably not
+</Turn>
+</Section>
+<Section type="report" startTime="29.39" endTime="77.93" >
+<Turn speaker="S2" startTime="29.39" endTime="77.93">
+<Sync time="29.39"/>
+i figure out how to do that now that wasn't even
+</Turn>
+</Section>
+<Section type="report" startTime="97.32" endTime="106.27" >
+<Turn speaker="S3" startTime="97.32" endTime="106.27">
+<Sync time="97.32"/>
+yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

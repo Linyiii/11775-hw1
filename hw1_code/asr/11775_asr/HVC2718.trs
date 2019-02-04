@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2718" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.41" endTime="4.6" >
+<Turn speaker="S1" startTime="4.41" endTime="4.6">
+<Sync time="4.41"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="4.65" endTime="4.94" >
+<Turn speaker="S2" startTime="4.65" endTime="4.94">
+<Sync time="4.65"/>
+yes
+</Turn>
+</Section>
+<Section type="report" startTime="4.98" endTime="6.71" >
+<Turn speaker="S2" startTime="4.98" endTime="6.71">
+<Sync time="4.98"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="7.51" endTime="20.82" >
+<Turn speaker="S3" startTime="7.51" endTime="20.82">
+<Sync time="7.51"/>
+man
+</Turn>
+</Section>
+<Section type="report" startTime="21.93" endTime="66.02" >
+<Turn speaker="S1" startTime="21.93" endTime="28.81">
+<Sync time="21.93"/>
+standing on the border checking the border
+</Turn>
+<Turn speaker="S4" startTime="28.81" endTime="37.04">
+<Sync time="28.81"/>
+died down down by the door county sign up but you know
+</Turn>
+<Turn speaker="S5" startTime="37.04" endTime="49.04">
+<Sync time="37.04"/>
+you know new york new york and new york
+</Turn>
+<Turn speaker="S6" startTime="49.04" endTime="66.02">
+<Sync time="49.04"/>
+down here down in miami anywhere anymore you know what i'm looking for that down and you have anything and they have a every time you are fine
+</Turn>
+</Section>
+<Section type="report" startTime="71.43" endTime="114.38" >
+<Turn speaker="S1" startTime="71.43" endTime="78.57">
+<Sync time="71.43"/>
+being to be out in the in long beach
+</Turn>
+<Turn speaker="S4" startTime="78.57" endTime="86.79">
+<Sync time="78.57"/>
+you know when you eat them up and do the mountain
+</Turn>
+<Turn speaker="S5" startTime="86.79" endTime="98.82">
+<Sync time="86.79"/>
+new jersey and you know i know new york or new
+</Turn>
+<Turn speaker="S6" startTime="98.82" endTime="114.38">
+<Sync time="98.82"/>
+they're down here to do that anymore you know what i'm looking for now they they found every time
+</Turn>
+</Section>
+<Section type="report" startTime="128.79" endTime="143.21" >
+<Turn speaker="S5" startTime="128.79" endTime="143.21">
+<Sync time="128.79"/>
+you know new new
+</Turn>
+</Section>
+<Section type="report" startTime="149.75" endTime="156.82" >
+<Turn speaker="S1" startTime="149.75" endTime="156.82">
+<Sync time="149.75"/>
+touch down around on see you around
+</Turn>
+</Section>
+<Section type="report" startTime="156.87" endTime="182.07" >
+<Turn speaker="S1" startTime="156.87" endTime="159.28">
+<Sync time="156.87"/>
+you are
+</Turn>
+<Turn speaker="S6" startTime="159.28" endTime="182.07">
+<Sync time="159.28"/>
+i'm looking for chinatown thing down here we have by the time down care about any new walking down everything
+</Turn>
+</Section>
+<Section type="report" startTime="181.83" endTime="183.07" >
+<Turn speaker="S5" startTime="181.83" endTime="183.07">
+<Sync time="181.83"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

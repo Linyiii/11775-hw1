@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5577" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="14.21" endTime="21.04" >
+<Turn speaker="S1" startTime="14.21" endTime="21.04">
+<Sync time="14.21"/>
+i'm not i'm not i'm not i'm not gonna
+</Turn>
+</Section>
+<Section type="report" startTime="204.09" endTime="219.06" >
+<Turn speaker="S2" startTime="204.09" endTime="208.99">
+<Sync time="204.09"/>
+i like the warm out
+</Turn>
+<Turn speaker="S3" startTime="208.99" endTime="219.06">
+<Sync time="208.99"/>
+that would really just not real sure down
+</Turn>
+</Section>
+<Section type="report" startTime="231.06" endTime="308.52" >
+<Turn speaker="S2" startTime="231.06" endTime="248.69">
+<Sync time="231.06"/>
+we want people to apparently it's not just going to get the the perfect time to go into your little wallets i'm just getting people it's not about the money
+</Turn>
+<Turn speaker="S4" startTime="248.69" endTime="305.18">
+<Sync time="248.69"/>
+i mean i'm i'm sorry but i got no money for a in that way a little bit
+</Turn>
+<Turn speaker="S3" startTime="305.18" endTime="308.52">
+<Sync time="305.18"/>
+oh
+</Turn>
+</Section>
+<Section type="report" startTime="320.32" endTime="362.64" >
+<Turn speaker="S4" startTime="320.32" endTime="339.76">
+<Sync time="320.32"/>
+i i'm on the job
+</Turn>
+<Turn speaker="S2" startTime="339.76" endTime="362.64">
+<Sync time="339.76"/>
+getting alright i'm going to do this a but this time so that we paid in the next tracked into you guys make sounds really going to get started on the second half of their stuff and how we're going like you guys are in
+</Turn>
+</Section>
+<Section type="report" startTime="371.63" endTime="386.94" >
+<Turn speaker="S2" startTime="371.63" endTime="386.94">
+<Sync time="371.63"/>
+straight tax powerful has made millions for me right now
+</Turn>
+</Section>
+<Section type="report" startTime="514.71" endTime="520.51" >
+<Turn speaker="S5" startTime="514.71" endTime="520.51">
+<Sync time="514.71"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="565.26" endTime="589.2" >
+<Turn speaker="S5" startTime="565.26" endTime="568.65">
+<Sync time="565.26"/>
+oh
+</Turn>
+<Turn speaker="S6" startTime="568.65" endTime="589.2">
+<Sync time="568.65"/>
+i live in a while
+</Turn>
+</Section>
+<Section type="report" startTime="607.64" endTime="618.43" >
+<Turn speaker="S6" startTime="607.64" endTime="618.43">
+<Sync time="607.64"/>
+god
+</Turn>
+</Section>
+<Section type="report" startTime="672.05" endTime="703.55" >
+<Turn speaker="S2" startTime="672.05" endTime="703.55">
+<Sync time="672.05"/>
+you guys have joined it something you could do dropping a dollar dollar okay five hundred credit card my email about number the hotter the better the smarter the better i've got people get very much
+</Turn>
+</Section>
+</Episode>
+</Trans>

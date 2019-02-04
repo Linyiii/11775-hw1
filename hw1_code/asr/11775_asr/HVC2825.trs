@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2825" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="80.6" >
+<Turn speaker="S1" startTime="0.0" endTime="2.5">
+<Sync time="0.0"/>
+bush that is push
+</Turn>
+<Turn speaker="S2" startTime="2.5" endTime="6.65">
+<Sync time="2.5"/>
+right
+</Turn>
+<Turn speaker="S3" startTime="6.65" endTime="11.15">
+<Sync time="6.65"/>
+yeah jewish something huh
+</Turn>
+<Turn speaker="S4" startTime="11.15" endTime="18.29">
+<Sync time="11.15"/>
+well yeah yeah timothy would
+</Turn>
+<Turn speaker="S5" startTime="18.29" endTime="25.06">
+<Sync time="18.29"/>
+mhm
+</Turn>
+<Turn speaker="S6" startTime="25.06" endTime="34.36">
+<Sync time="25.06"/>
+mhm 'cause she leaves
+</Turn>
+<Turn speaker="S7" startTime="34.36" endTime="40.79">
+<Sync time="34.36"/>
+i'm on the block mhm
+</Turn>
+<Turn speaker="S8" startTime="40.79" endTime="43.58">
+<Sync time="40.79"/>
+oh good yeah
+</Turn>
+<Turn speaker="S9" startTime="43.58" endTime="52.07">
+<Sync time="43.58"/>
+yeah go we do it
+</Turn>
+<Turn speaker="S10" startTime="52.07" endTime="60.17">
+<Sync time="52.07"/>
+jumps and then if you can do to i
+</Turn>
+<Turn speaker="S11" startTime="60.17" endTime="67.63">
+<Sync time="60.17"/>
+i know so
+</Turn>
+<Turn speaker="S12" startTime="67.63" endTime="76.24">
+<Sync time="67.63"/>
+mhm she's got it
+</Turn>
+<Turn speaker="S13" startTime="76.24" endTime="80.6">
+<Sync time="76.24"/>
+you like living yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

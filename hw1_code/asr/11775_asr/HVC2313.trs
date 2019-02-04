@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2313" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.01" endTime="42.92" >
+<Turn speaker="S1" startTime="0.01" endTime="8.66">
+<Sync time="0.01"/>
+mhm mhm mhm
+</Turn>
+<Turn speaker="S2" startTime="8.66" endTime="15.04">
+<Sync time="8.66"/>
+mm yeah
+</Turn>
+<Turn speaker="S3" startTime="15.04" endTime="21.25">
+<Sync time="15.04"/>
+mm mm
+</Turn>
+<Turn speaker="S4" startTime="21.25" endTime="25.83">
+<Sync time="21.25"/>
+mm mm
+</Turn>
+<Turn speaker="S5" startTime="25.83" endTime="30.1">
+<Sync time="25.83"/>
+mm mm
+</Turn>
+<Turn speaker="S6" startTime="30.1" endTime="42.92">
+<Sync time="30.1"/>
+mm
+</Turn>
+</Section>
+<Section type="report" startTime="51.48" endTime="74.52" >
+<Turn speaker="S7" startTime="51.48" endTime="59.07">
+<Sync time="51.48"/>
+and people to
+</Turn>
+<Turn speaker="S8" startTime="59.07" endTime="64.84">
+<Sync time="59.07"/>
+and
+</Turn>
+<Turn speaker="S9" startTime="64.84" endTime="67.9">
+<Sync time="64.84"/>
+mhm
+</Turn>
+<Turn speaker="S10" startTime="67.9" endTime="74.52">
+<Sync time="67.9"/>
+mhm mhm
+</Turn>
+</Section>
+<Section type="report" startTime="78.25" endTime="95.71" >
+<Turn speaker="S11" startTime="78.25" endTime="82.74">
+<Sync time="78.25"/>
+mhm
+</Turn>
+<Turn speaker="S12" startTime="82.74" endTime="95.71">
+<Sync time="82.74"/>
+mhm mhm
+</Turn>
+</Section>
+</Episode>
+</Trans>

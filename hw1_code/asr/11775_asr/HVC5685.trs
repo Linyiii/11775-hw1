@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5685" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="7.06" >
+<Turn speaker="S1" startTime="0.03" endTime="7.06">
+<Sync time="0.03"/>
+and and
+</Turn>
+</Section>
+<Section type="report" startTime="25.75" endTime="90.1" >
+<Turn speaker="S2" startTime="25.75" endTime="47.57">
+<Sync time="25.75"/>
+a whole bunch of day
+</Turn>
+<Turn speaker="S3" startTime="47.57" endTime="71.17">
+<Sync time="47.57"/>
+and then i'm thinking the phone so
+</Turn>
+<Turn speaker="S2" startTime="71.17" endTime="75.78">
+<Sync time="71.17"/>
+and and and and
+</Turn>
+<Turn speaker="S3" startTime="75.78" endTime="90.1">
+<Sync time="75.78"/>
+uh no and and
+</Turn>
+</Section>
+</Episode>
+</Trans>

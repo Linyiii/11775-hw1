@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2295" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="97.59" >
+<Turn speaker="S1" startTime="0.04" endTime="91.5">
+<Sync time="0.04"/>
+oh i thought i was taking a picture but i wasn't i was making humidity right smell i mean she's green yellow she looks like a lemon but not rounded like unlimited rather skinny like a limit to they see so you know yeah and they say they're what we would say yeah membrane gay and i watched it so it's like doing the marine gambling that's good yeah i know great um we don't do this all the time the enemy was into baking mood this morning yeah yeah you're getting ready to go to pretty soon or an hour two hours so making the cake was good so so i'm going to take part in uh consumption of cake and ah yeah i just showing some more life i've made a lot of videos i know i live so when we go and see for a long time but anyways is great
+</Turn>
+<Turn speaker="S2" startTime="91.5" endTime="97.59">
+<Sync time="91.5"/>
+you he
+</Turn>
+</Section>
+<Section type="report" startTime="97.46" endTime="124.64" >
+<Turn speaker="S1" startTime="97.46" endTime="124.64">
+<Sync time="97.46"/>
+i was like when it went out and have a drink okay can i can do it was really funny so yeah like the like no you know it was so
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3141" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="54.69" >
+<Turn speaker="S1" startTime="0.0" endTime="42.93">
+<Sync time="0.0"/>
+and she will think about the driving range some
+</Turn>
+<Turn speaker="S2" startTime="42.93" endTime="54.69">
+<Sync time="42.93"/>
+well i'm i'm
+</Turn>
+</Section>
+<Section type="report" startTime="62.36" endTime="93.69" >
+<Turn speaker="S3" startTime="62.36" endTime="76.47">
+<Sync time="62.36"/>
+no
+</Turn>
+<Turn speaker="S4" startTime="76.47" endTime="81.98">
+<Sync time="76.47"/>
+and made them
+</Turn>
+<Turn speaker="S3" startTime="81.98" endTime="93.69">
+<Sync time="81.98"/>
+so
+</Turn>
+</Section>
+<Section type="report" startTime="134.65" endTime="139.59" >
+<Turn speaker="S4" startTime="134.65" endTime="139.59">
+<Sync time="134.65"/>
+uh
+</Turn>
+</Section>
+</Episode>
+</Trans>

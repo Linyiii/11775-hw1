@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5102" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="49.96" endTime="67.97" >
+<Turn speaker="S1" startTime="49.96" endTime="67.97">
+<Sync time="49.96"/>
+do something over here it's lined up right yeah it's the edge of the spine up there is that good
+</Turn>
+</Section>
+<Section type="report" startTime="83.44" endTime="110.19" >
+<Turn speaker="S1" startTime="83.44" endTime="110.19">
+<Sync time="83.44"/>
+we need to be a little bit there for
+</Turn>
+</Section>
+<Section type="report" startTime="114.19" endTime="143.16" >
+<Turn speaker="S2" startTime="114.19" endTime="143.16">
+<Sync time="114.19"/>
+first big yeah go ahead
+</Turn>
+</Section>
+<Section type="report" startTime="167.76" endTime="174.53" >
+<Turn speaker="S1" startTime="167.76" endTime="174.53">
+<Sync time="167.76"/>
+really like fast pace
+</Turn>
+</Section>
+</Episode>
+</Trans>

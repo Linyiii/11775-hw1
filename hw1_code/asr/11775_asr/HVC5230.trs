@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5230" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="71.25" endTime="92.05" >
+<Turn speaker="S1" startTime="71.25" endTime="92.05">
+<Sync time="71.25"/>
+mm
+</Turn>
+</Section>
+<Section type="report" startTime="119.01" endTime="129.3" >
+<Turn speaker="S2" startTime="119.01" endTime="129.3">
+<Sync time="119.01"/>
+know
+</Turn>
+</Section>
+<Section type="report" startTime="141.08" endTime="153.23" >
+<Turn speaker="S3" startTime="141.08" endTime="153.23">
+<Sync time="141.08"/>
+and um the dirty
+</Turn>
+</Section>
+<Section type="report" startTime="213.99" endTime="245.5" >
+<Turn speaker="S3" startTime="213.99" endTime="224.35">
+<Sync time="213.99"/>
+or
+</Turn>
+<Turn speaker="S4" startTime="224.35" endTime="245.5">
+<Sync time="224.35"/>
+um any
+</Turn>
+</Section>
+<Section type="report" startTime="295.68" endTime="303.53" >
+<Turn speaker="S5" startTime="295.68" endTime="303.53">
+<Sync time="295.68"/>
+um
+</Turn>
+</Section>
+<Section type="report" startTime="307.95" endTime="319.07" >
+<Turn speaker="S6" startTime="307.95" endTime="319.07">
+<Sync time="307.95"/>
+um
+</Turn>
+</Section>
+</Episode>
+</Trans>

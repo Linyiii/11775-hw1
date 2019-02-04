@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4520" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="59.58" >
+<Turn speaker="S1" startTime="0.0" endTime="5.42">
+<Sync time="0.0"/>
+we didn't i didn't
+</Turn>
+<Turn speaker="S2" startTime="5.42" endTime="18.91">
+<Sync time="5.42"/>
+you know to come with me
+</Turn>
+<Turn speaker="S3" startTime="18.91" endTime="25.77">
+<Sync time="18.91"/>
+no
+</Turn>
+<Turn speaker="S4" startTime="25.77" endTime="34.42">
+<Sync time="25.77"/>
+third one
+</Turn>
+<Turn speaker="S3" startTime="34.42" endTime="38.52">
+<Sync time="34.42"/>
+boy
+</Turn>
+<Turn speaker="S4" startTime="38.52" endTime="47.42">
+<Sync time="38.52"/>
+hi what's your diet all around
+</Turn>
+<Turn speaker="S5" startTime="47.42" endTime="55.51">
+<Sync time="47.42"/>
+are you in l._a. probably let me no one ever when you run
+</Turn>
+<Turn speaker="S4" startTime="55.51" endTime="59.58">
+<Sync time="55.51"/>
+any place
+</Turn>
+</Section>
+<Section type="report" startTime="62.41" endTime="93.81" >
+<Turn speaker="S2" startTime="62.41" endTime="69.26">
+<Sync time="62.41"/>
+and uh
+</Turn>
+<Turn speaker="S1" startTime="69.26" endTime="73.57">
+<Sync time="69.26"/>
+no
+</Turn>
+<Turn speaker="S4" startTime="73.57" endTime="87.2">
+<Sync time="73.57"/>
+let it go they go by with daddy
+</Turn>
+<Turn speaker="S5" startTime="87.2" endTime="93.81">
+<Sync time="87.2"/>
+there you go
+</Turn>
+</Section>
+<Section type="report" startTime="93.61" endTime="108.74" >
+<Turn speaker="S2" startTime="93.61" endTime="108.74">
+<Sync time="93.61"/>
+oh man
+</Turn>
+</Section>
+</Episode>
+</Trans>

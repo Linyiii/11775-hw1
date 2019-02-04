@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4062" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="2.92" endTime="192.66" >
+<Turn speaker="S1" startTime="2.92" endTime="17.64">
+<Sync time="2.92"/>
+and i was going on
+</Turn>
+<Turn speaker="S2" startTime="17.64" endTime="47.31">
+<Sync time="17.64"/>
+to the water camera already but we're from around now have a clue and they were going to get to the bottom the city are about a hundred yards
+</Turn>
+<Turn speaker="S3" startTime="47.31" endTime="60.39">
+<Sync time="47.31"/>
+we go again going on here that
+</Turn>
+<Turn speaker="S1" startTime="60.39" endTime="80.04">
+<Sync time="60.39"/>
+oh wow
+</Turn>
+<Turn speaker="S4" startTime="80.04" endTime="94.15">
+<Sync time="80.04"/>
+so we'll do a job down the road on
+</Turn>
+<Turn speaker="S3" startTime="94.15" endTime="161.68">
+<Sync time="94.15"/>
+the bottom of that we are offering like you never know the c._i._a. or the taking off yesterday cameras should be a law suit magazine you know all right for me to do some things that i knew the cameras down again they they have no up you know yeah
+</Turn>
+<Turn speaker="S2" startTime="161.68" endTime="164.25">
+<Sync time="161.68"/>
+oh my gosh
+</Turn>
+<Turn speaker="S3" startTime="164.25" endTime="192.66">
+<Sync time="164.25"/>
+you know while while they don't even know where to get closed up on that
+</Turn>
+</Section>
+<Section type="report" startTime="192.47" endTime="197.98" >
+<Turn speaker="S2" startTime="192.47" endTime="197.98">
+<Sync time="192.47"/>
+oh man
+</Turn>
+</Section>
+</Episode>
+</Trans>

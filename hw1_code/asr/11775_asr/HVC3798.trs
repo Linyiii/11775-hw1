@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3798" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S15" name="K15" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S16" name="K16" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S17" name="K17" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S18" name="K18" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S19" name="K19" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S20" name="K20" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S21" name="K21" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S22" name="K22" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S23" name="K23" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S24" name="K24" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.01" endTime="76.43" >
+<Turn speaker="S1" startTime="0.01" endTime="10.45">
+<Sync time="0.01"/>
+and then then then but then
+</Turn>
+<Turn speaker="S2" startTime="10.45" endTime="19.11">
+<Sync time="10.45"/>
+and then
+</Turn>
+<Turn speaker="S3" startTime="19.11" endTime="29.52">
+<Sync time="19.11"/>
+and and and other times where she knows exposure herbs exposure to understand
+</Turn>
+<Turn speaker="S4" startTime="29.52" endTime="38.01">
+<Sync time="29.52"/>
+and there's times where he knows the times this just don't
+</Turn>
+<Turn speaker="S5" startTime="38.01" endTime="48.59">
+<Sync time="38.01"/>
+pretend special times she knows the times and the times change the explosion the times
+</Turn>
+<Turn speaker="S6" startTime="48.59" endTime="54.9">
+<Sync time="48.59"/>
+special and then there's the times national person
+</Turn>
+<Turn speaker="S7" startTime="54.9" endTime="58.57">
+<Sync time="54.9"/>
+deneen bowling depends actions
+</Turn>
+<Turn speaker="S8" startTime="58.57" endTime="65.67">
+<Sync time="58.57"/>
+but then as she as she started studying just depends oceans
+</Turn>
+<Turn speaker="S9" startTime="65.67" endTime="68.62">
+<Sync time="65.67"/>
+especially in the ocean
+</Turn>
+<Turn speaker="S10" startTime="68.62" endTime="76.43">
+<Sync time="68.62"/>
+depends depends depends actions the penn study and then as you can just studying
+</Turn>
+</Section>
+<Section type="report" startTime="82.43" endTime="144.54" >
+<Turn speaker="S11" startTime="82.43" endTime="96.69">
+<Sync time="82.43"/>
+oh she just she just she just she just
+</Turn>
+<Turn speaker="S12" startTime="96.69" endTime="102.02">
+<Sync time="96.69"/>
+special dependence independence stations depend depend
+</Turn>
+<Turn speaker="S13" startTime="102.02" endTime="104.84">
+<Sync time="102.02"/>
+special
+</Turn>
+<Turn speaker="S14" startTime="104.84" endTime="108.82">
+<Sync time="104.84"/>
+studying independence
+</Turn>
+<Turn speaker="S15" startTime="108.82" endTime="113.81">
+<Sync time="108.82"/>
+special depend depend specialist
+</Turn>
+<Turn speaker="S16" startTime="113.81" endTime="123.95">
+<Sync time="113.81"/>
+well especially in this depends depends depends depends oceans interest thing especially and
+</Turn>
+<Turn speaker="S17" startTime="123.95" endTime="128.58">
+<Sync time="123.95"/>
+studying the things that she
+</Turn>
+<Turn speaker="S18" startTime="128.58" endTime="133.71">
+<Sync time="128.58"/>
+special special special interest
+</Turn>
+<Turn speaker="S19" startTime="133.71" endTime="144.54">
+<Sync time="133.71"/>
+yeah mhm
+</Turn>
+</Section>
+<Section type="report" startTime="150.29" endTime="182.83" >
+<Turn speaker="S20" startTime="150.29" endTime="158.03">
+<Sync time="150.29"/>
+and ah she knows better and uh
+</Turn>
+<Turn speaker="S21" startTime="158.03" endTime="160.73">
+<Sync time="158.03"/>
+and uh
+</Turn>
+<Turn speaker="S22" startTime="160.73" endTime="165.06">
+<Sync time="160.73"/>
+and uh
+</Turn>
+<Turn speaker="S23" startTime="165.06" endTime="171.12">
+<Sync time="165.06"/>
+and er and er
+</Turn>
+<Turn speaker="S24" startTime="171.12" endTime="182.83">
+<Sync time="171.12"/>
+and then and times times that
+</Turn>
+</Section>
+</Episode>
+</Trans>

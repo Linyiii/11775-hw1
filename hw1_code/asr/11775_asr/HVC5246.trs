@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5246" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.07" endTime="39.28" >
+<Turn speaker="S1" startTime="0.07" endTime="12.12">
+<Sync time="0.07"/>
+uh uh
+</Turn>
+<Turn speaker="S2" startTime="12.12" endTime="39.28">
+<Sync time="12.12"/>
+christmas and say hey look we just but more importantly up and things like subway rebellious
+</Turn>
+</Section>
+<Section type="report" startTime="63.38" endTime="104.69" >
+<Turn speaker="S3" startTime="63.38" endTime="81.59">
+<Sync time="63.38"/>
+hello hello hello where are you okay fine
+</Turn>
+<Turn speaker="S4" startTime="81.59" endTime="104.69">
+<Sync time="81.59"/>
+they find out what did you run away you say you're born charlie over there i don't like christmas among the survey
+</Turn>
+</Section>
+<Section type="report" startTime="120.92" endTime="210.38" >
+<Turn speaker="S5" startTime="120.92" endTime="133.9">
+<Sync time="120.92"/>
+oh
+</Turn>
+<Turn speaker="S4" startTime="133.9" endTime="144.96">
+<Sync time="133.9"/>
+my when and when i get mine
+</Turn>
+<Turn speaker="S6" startTime="144.96" endTime="150.13">
+<Sync time="144.96"/>
+uh um
+</Turn>
+<Turn speaker="S7" startTime="150.13" endTime="192.45">
+<Sync time="150.13"/>
+a lot of time in such a one of the money i don't really have no money you know i felt like somebody i really saw that they are my stars and stuff they're going to you know not that i know
+</Turn>
+<Turn speaker="S8" startTime="192.45" endTime="200.36">
+<Sync time="192.45"/>
+you know like
+</Turn>
+<Turn speaker="S9" startTime="200.36" endTime="210.38">
+<Sync time="200.36"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="210.63" endTime="238.73" >
+<Turn speaker="S10" startTime="210.63" endTime="238.73">
+<Sync time="210.63"/>
+and um and then we are going on and they i go
+</Turn>
+</Section>
+</Episode>
+</Trans>

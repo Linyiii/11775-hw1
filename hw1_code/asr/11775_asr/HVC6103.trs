@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6103" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="55.39" >
+<Turn speaker="S1" startTime="0.0" endTime="55.39">
+<Sync time="0.0"/>
+alright well here in texas somewhere in the middle of nowhere and the gas station called town and country and i'm i'm a bit of a problem here in the uh the on the air busted off which means i don't have any breaks should be right here and broken off and then the tanks trains and then there was no more breaks so i gotta find a way to really attached to this to their children next time see what happens
+</Turn>
+</Section>
+</Episode>
+</Trans>

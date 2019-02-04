@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4110" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="12.62" >
+<Turn speaker="S1" startTime="0.0" endTime="12.62">
+<Sync time="0.0"/>
+all of their phone hold on one income it yeah and then there's also
+</Turn>
+</Section>
+<Section type="report" startTime="32.97" endTime="88.77" >
+<Turn speaker="S1" startTime="32.97" endTime="88.77">
+<Sync time="32.97"/>
+like if you want up his power's comes up to to get his coat so if you find in the problems you know do the show and then i'm pretty much all the soldiers are still want to try to try when you give me
+</Turn>
+</Section>
+</Episode>
+</Trans>

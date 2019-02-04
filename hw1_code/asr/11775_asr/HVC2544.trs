@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2544" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="61.4" >
+<Turn speaker="S1" startTime="0.0" endTime="61.4">
+<Sync time="0.0"/>
+this is done in my goodness you lost your friends my gym again you should have her in the morning marry your coffee is drink ever oh always so nice i know and but he's got some complain about my coffee i i just can't seem to make good coffee coffee is no problem if you use a coffee with the flavor boulders coffee for just a different they blended suspicious and seafood just this mountain that's the richest kind you try it i will tonight honey this is the greatest you been taking copy making lessons the lesson i learned it filters the coffee mountain room for better flavor
+</Turn>
+</Section>
+</Episode>
+</Trans>

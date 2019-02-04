@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4039" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.11" endTime="44.83" >
+<Turn speaker="S1" startTime="0.11" endTime="3.98">
+<Sync time="0.11"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="3.98" endTime="10.0">
+<Sync time="3.98"/>
+okay here's a quick example on the street so it's just like
+</Turn>
+<Turn speaker="S1" startTime="10.0" endTime="21.27">
+<Sync time="10.0"/>
+i'm trying to school and so this is
+</Turn>
+<Turn speaker="S2" startTime="21.27" endTime="44.83">
+<Sync time="21.27"/>
+if you're driving down the house for fun or control then again you have which and getting some you can actually which is pretty funny controlled similar to down here but that's pretty much
+</Turn>
+</Section>
+</Episode>
+</Trans>

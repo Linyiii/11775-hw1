@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4588" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="11.99" >
+<Turn speaker="S1" startTime="0.04" endTime="6.77">
+<Sync time="0.04"/>
+yeah
+</Turn>
+<Turn speaker="S2" startTime="6.77" endTime="11.99">
+<Sync time="6.77"/>
+uh
+</Turn>
+</Section>
+<Section type="report" startTime="18.88" endTime="57.69" >
+<Turn speaker="S3" startTime="18.88" endTime="26.5">
+<Sync time="18.88"/>
+oh
+</Turn>
+<Turn speaker="S1" startTime="26.5" endTime="29.71">
+<Sync time="26.5"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="29.71" endTime="34.86">
+<Sync time="29.71"/>
+no
+</Turn>
+<Turn speaker="S4" startTime="34.86" endTime="41.72">
+<Sync time="34.86"/>
+and uh
+</Turn>
+<Turn speaker="S3" startTime="41.72" endTime="48.48">
+<Sync time="41.72"/>
+no
+</Turn>
+<Turn speaker="S5" startTime="48.48" endTime="57.69">
+<Sync time="48.48"/>
+for a murder on our on our
+</Turn>
+</Section>
+<Section type="report" startTime="60.25" endTime="116.34" >
+<Turn speaker="S1" startTime="60.25" endTime="65.58">
+<Sync time="60.25"/>
+yeah
+</Turn>
+<Turn speaker="S2" startTime="65.58" endTime="70.8">
+<Sync time="65.58"/>
+no
+</Turn>
+<Turn speaker="S4" startTime="70.8" endTime="77.66">
+<Sync time="70.8"/>
+new
+</Turn>
+<Turn speaker="S3" startTime="77.66" endTime="85.31">
+<Sync time="77.66"/>
+no
+</Turn>
+<Turn speaker="S1" startTime="85.31" endTime="88.66">
+<Sync time="85.31"/>
+nah ha
+</Turn>
+<Turn speaker="S2" startTime="88.66" endTime="93.66">
+<Sync time="88.66"/>
+no
+</Turn>
+<Turn speaker="S4" startTime="93.66" endTime="100.5">
+<Sync time="93.66"/>
+and
+</Turn>
+<Turn speaker="S3" startTime="100.5" endTime="107.3">
+<Sync time="100.5"/>
+no
+</Turn>
+<Turn speaker="S5" startTime="107.3" endTime="116.34">
+<Sync time="107.3"/>
+there are on our on our
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4744" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="43.13" endTime="46.61" >
+<Turn speaker="S1" startTime="43.13" endTime="46.61">
+<Sync time="43.13"/>
+oh okay well he messed up and stopped all together
+</Turn>
+</Section>
+<Section type="report" startTime="58.91" endTime="76.01" >
+<Turn speaker="S2" startTime="58.91" endTime="72.87">
+<Sync time="58.91"/>
+i know so how do you like bike riding
+</Turn>
+<Turn speaker="S1" startTime="72.87" endTime="76.01">
+<Sync time="72.87"/>
+what are you picking up all the time
+</Turn>
+</Section>
+<Section type="report" startTime="92.11" endTime="96.38" >
+<Turn speaker="S1" startTime="92.11" endTime="96.38">
+<Sync time="92.11"/>
+where are you going up here
+</Turn>
+</Section>
+<Section type="report" startTime="144.31" endTime="145.23" >
+<Turn speaker="S1" startTime="144.31" endTime="145.23">
+<Sync time="144.31"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="149.71" endTime="152.77" >
+<Turn speaker="S1" startTime="149.71" endTime="152.77">
+<Sync time="149.71"/>
+backwards
+</Turn>
+</Section>
+<Section type="report" startTime="157.49" endTime="163.82" >
+<Turn speaker="S1" startTime="157.49" endTime="163.82">
+<Sync time="157.49"/>
+i know all we all completely upside down
+</Turn>
+</Section>
+</Episode>
+</Trans>

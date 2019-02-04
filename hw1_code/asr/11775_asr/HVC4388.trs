@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4388" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="42.17" >
+<Turn speaker="S1" startTime="0.0" endTime="42.17">
+<Sync time="0.0"/>
+well you know they might it's almost like in the military in the like on
+</Turn>
+</Section>
+<Section type="report" startTime="59.29" endTime="66.83" >
+<Turn speaker="S1" startTime="59.29" endTime="66.83">
+<Sync time="59.29"/>
+it's not
+</Turn>
+</Section>
+<Section type="report" startTime="110.91" endTime="123.59" >
+<Turn speaker="S2" startTime="110.91" endTime="123.59">
+<Sync time="110.91"/>
+set up
+</Turn>
+</Section>
+<Section type="report" startTime="140.76" endTime="167.56" >
+<Turn speaker="S3" startTime="140.76" endTime="157.65">
+<Sync time="140.76"/>
+the time ah
+</Turn>
+<Turn speaker="S4" startTime="157.65" endTime="167.56">
+<Sync time="157.65"/>
+so you know
+</Turn>
+</Section>
+<Section type="report" startTime="177.69" endTime="180.9" >
+<Turn speaker="S4" startTime="177.69" endTime="180.9">
+<Sync time="177.69"/>
+yes
+</Turn>
+</Section>
+<Section type="report" startTime="196.09" endTime="222.39" >
+<Turn speaker="S4" startTime="196.09" endTime="222.39">
+<Sync time="196.09"/>
+what i had someone
+</Turn>
+</Section>
+<Section type="report" startTime="226.59" endTime="283.63" >
+<Turn speaker="S2" startTime="226.59" endTime="248.98">
+<Sync time="226.59"/>
+yeah
+</Turn>
+<Turn speaker="S4" startTime="248.98" endTime="258.47">
+<Sync time="248.98"/>
+and the one i'm i'm going to get the muscle read
+</Turn>
+<Turn speaker="S5" startTime="258.47" endTime="283.63">
+<Sync time="258.47"/>
+i know
+</Turn>
+</Section>
+<Section type="report" startTime="346.14" endTime="364.16" >
+<Turn speaker="S4" startTime="346.14" endTime="364.16">
+<Sync time="346.14"/>
+well when i got an
+</Turn>
+</Section>
+</Episode>
+</Trans>

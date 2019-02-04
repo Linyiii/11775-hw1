@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3911" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.07" endTime="108.35" >
+<Turn speaker="S1" startTime="0.07" endTime="36.27">
+<Sync time="0.07"/>
+i um and and and uh as far as the mayor my one of the day and and
+</Turn>
+<Turn speaker="S2" startTime="36.27" endTime="39.73">
+<Sync time="36.27"/>
+man
+</Turn>
+<Turn speaker="S1" startTime="39.73" endTime="101.19">
+<Sync time="39.73"/>
+so now i'm a a lot and my my uh i live in um a daughter and a little over a long time and i don't
+</Turn>
+<Turn speaker="S3" startTime="101.19" endTime="108.35">
+<Sync time="101.19"/>
+nah nah know my
+</Turn>
+</Section>
+<Section type="report" startTime="108.58" endTime="134.1" >
+<Turn speaker="S2" startTime="108.58" endTime="134.1">
+<Sync time="108.58"/>
+the one to raise your hand now be cars lions stand tall um
+</Turn>
+</Section>
+</Episode>
+</Trans>

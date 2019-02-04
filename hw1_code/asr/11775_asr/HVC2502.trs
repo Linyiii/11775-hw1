@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2502" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="16.94" >
+<Turn speaker="S1" startTime="0.03" endTime="2.85">
+<Sync time="0.03"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="2.85" endTime="16.94">
+<Sync time="2.85"/>
+the chocolate chip cookies i lost a nice forty minutes because yesterday to the was they couldn't type to do a lot of fixing a lot of thinking oh my god
+</Turn>
+</Section>
+<Section type="report" startTime="20.52" endTime="46.66" >
+<Turn speaker="S2" startTime="20.52" endTime="33.88">
+<Sync time="20.52"/>
+very chocolate candy you had to be so once you get in there if you have to one second longer would stick to the
+</Turn>
+<Turn speaker="S3" startTime="33.88" endTime="46.66">
+<Sync time="33.88"/>
+do
+</Turn>
+</Section>
+<Section type="report" startTime="53.96" endTime="61.16" >
+<Turn speaker="S3" startTime="53.96" endTime="61.16">
+<Sync time="53.96"/>
+new jersey
+</Turn>
+</Section>
+<Section type="report" startTime="84.45" endTime="88.68" >
+<Turn speaker="S3" startTime="84.45" endTime="88.68">
+<Sync time="84.45"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="92.82" endTime="102.07" >
+<Turn speaker="S3" startTime="92.82" endTime="102.07">
+<Sync time="92.82"/>
+they need to do
+</Turn>
+</Section>
+<Section type="report" startTime="109.65" endTime="118.33" >
+<Turn speaker="S3" startTime="109.65" endTime="118.33">
+<Sync time="109.65"/>
+that
+</Turn>
+</Section>
+</Episode>
+</Trans>

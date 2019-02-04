@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4426" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.13" endTime="98.87" >
+<Turn speaker="S1" startTime="0.13" endTime="55.68">
+<Sync time="0.13"/>
+uh and i'm getting a little book begin beautiful women and then if i i also but all those ones my my
+</Turn>
+<Turn speaker="S2" startTime="55.68" endTime="80.27">
+<Sync time="55.68"/>
+oh i love i think too i mean
+</Turn>
+<Turn speaker="S1" startTime="80.27" endTime="98.87">
+<Sync time="80.27"/>
+each policy and
+</Turn>
+</Section>
+</Episode>
+</Trans>

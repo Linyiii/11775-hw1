@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6079" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="5.19" endTime="10.52" >
+<Turn speaker="S1" startTime="5.19" endTime="10.52">
+<Sync time="5.19"/>
+to to
+</Turn>
+</Section>
+<Section type="report" startTime="32.06" endTime="51.7" >
+<Turn speaker="S2" startTime="32.06" endTime="51.7">
+<Sync time="32.06"/>
+and and
+</Turn>
+</Section>
+<Section type="report" startTime="58.77" endTime="135.64" >
+<Turn speaker="S2" startTime="58.77" endTime="71.15">
+<Sync time="58.77"/>
+the other night
+</Turn>
+<Turn speaker="S3" startTime="71.15" endTime="107.16">
+<Sync time="71.15"/>
+and you know and all that
+</Turn>
+<Turn speaker="S4" startTime="107.16" endTime="135.64">
+<Sync time="107.16"/>
+well they can get an appetizer and then went from that perspective i'm going to
+</Turn>
+</Section>
+<Section type="report" startTime="148.04" endTime="182.43" >
+<Turn speaker="S4" startTime="148.04" endTime="182.43">
+<Sync time="148.04"/>
+take or you know
+</Turn>
+</Section>
+<Section type="report" startTime="192.88" endTime="222.91" >
+<Turn speaker="S2" startTime="192.88" endTime="196.87">
+<Sync time="192.88"/>
+no
+</Turn>
+<Turn speaker="S3" startTime="196.87" endTime="211.75">
+<Sync time="196.87"/>
+and
+</Turn>
+<Turn speaker="S2" startTime="211.75" endTime="222.91">
+<Sync time="211.75"/>
+the women and then then
+</Turn>
+</Section>
+<Section type="report" startTime="228.72" endTime="297.43" >
+<Turn speaker="S2" startTime="228.72" endTime="235.91">
+<Sync time="228.72"/>
+bad
+</Turn>
+<Turn speaker="S4" startTime="235.91" endTime="297.43">
+<Sync time="235.91"/>
+the i know that when going to go
+</Turn>
+</Section>
+</Episode>
+</Trans>

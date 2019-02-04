@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4225" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.09" endTime="112.33" >
+<Turn speaker="S1" startTime="0.09" endTime="10.25">
+<Sync time="0.09"/>
+mm mm
+</Turn>
+<Turn speaker="S2" startTime="10.25" endTime="24.76">
+<Sync time="10.25"/>
+uh
+</Turn>
+<Turn speaker="S3" startTime="24.76" endTime="27.88">
+<Sync time="24.76"/>
+and
+</Turn>
+<Turn speaker="S2" startTime="27.88" endTime="42.87">
+<Sync time="27.88"/>
+no the bra um the the thing a greet you never know my
+</Turn>
+<Turn speaker="S3" startTime="42.87" endTime="67.8">
+<Sync time="42.87"/>
+they just give me some i you know just give me some man
+</Turn>
+<Turn speaker="S4" startTime="67.8" endTime="112.33">
+<Sync time="67.8"/>
+no they have a uh the the the other the uh the um the one i was in the war and uh
+</Turn>
+</Section>
+<Section type="report" startTime="112.38" endTime="115.15" >
+<Turn speaker="S1" startTime="112.38" endTime="115.15">
+<Sync time="112.38"/>
+mhm
+</Turn>
+</Section>
+</Episode>
+</Trans>

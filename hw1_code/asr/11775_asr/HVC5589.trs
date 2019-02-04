@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5589" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="1.03" endTime="8.03" >
+<Turn speaker="S1" startTime="1.03" endTime="8.03">
+<Sync time="1.03"/>
+the main mainly mainly but i know
+</Turn>
+</Section>
+<Section type="report" startTime="26.23" endTime="58.69" >
+<Turn speaker="S1" startTime="26.23" endTime="58.69">
+<Sync time="26.23"/>
+everybody in my mind yeah well i don't know get around it but they don't it up that way on down to say that they gave me a job
+</Turn>
+</Section>
+<Section type="report" startTime="75.85" endTime="110.32" >
+<Turn speaker="S1" startTime="75.85" endTime="110.32">
+<Sync time="75.85"/>
+oh my gosh i thought the that last name again give me an easy but i might not designed by now the dogs and
+</Turn>
+</Section>
+</Episode>
+</Trans>

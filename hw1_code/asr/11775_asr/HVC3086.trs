@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3086" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="11.51" >
+<Turn speaker="S1" startTime="0.04" endTime="11.51">
+<Sync time="0.04"/>
+i to
+</Turn>
+</Section>
+<Section type="report" startTime="29.83" endTime="133.94" >
+<Turn speaker="S2" startTime="29.83" endTime="46.24">
+<Sync time="29.83"/>
+or or um or so
+</Turn>
+<Turn speaker="S3" startTime="46.24" endTime="90.6">
+<Sync time="46.24"/>
+no no no uh i don't know about the only down down down i don't know no no no no no no my
+</Turn>
+<Turn speaker="S2" startTime="90.6" endTime="99.11">
+<Sync time="90.6"/>
+whoa whoa whoa whoa or
+</Turn>
+<Turn speaker="S4" startTime="99.11" endTime="127.11">
+<Sync time="99.11"/>
+now how about
+</Turn>
+<Turn speaker="S3" startTime="127.11" endTime="133.94">
+<Sync time="127.11"/>
+and so on line that game show
+</Turn>
+</Section>
+<Section type="report" startTime="140.52" endTime="253.44" >
+<Turn speaker="S3" startTime="140.52" endTime="147.18">
+<Sync time="140.52"/>
+the job on line and also
+</Turn>
+<Turn speaker="S2" startTime="147.18" endTime="155.23">
+<Sync time="147.18"/>
+or or or or
+</Turn>
+<Turn speaker="S5" startTime="155.23" endTime="179.29">
+<Sync time="155.23"/>
+uh and uh
+</Turn>
+<Turn speaker="S3" startTime="179.29" endTime="237.58">
+<Sync time="179.29"/>
+the do you know people want a no my what do you know you know
+</Turn>
+<Turn speaker="S2" startTime="237.58" endTime="244.8">
+<Sync time="237.58"/>
+no no no no no
+</Turn>
+<Turn speaker="S6" startTime="244.8" endTime="253.44">
+<Sync time="244.8"/>
+and and
+</Turn>
+</Section>
+</Episode>
+</Trans>

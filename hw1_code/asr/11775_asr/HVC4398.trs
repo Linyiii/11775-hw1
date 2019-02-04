@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4398" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.71" endTime="38.98" >
+<Turn speaker="S1" startTime="3.71" endTime="27.73">
+<Sync time="3.71"/>
+mm mm mm mm
+</Turn>
+<Turn speaker="S2" startTime="27.73" endTime="38.98">
+<Sync time="27.73"/>
+mm mm
+</Turn>
+</Section>
+<Section type="report" startTime="41.27" endTime="51.92" >
+<Turn speaker="S2" startTime="41.27" endTime="51.92">
+<Sync time="41.27"/>
+mm mm
+</Turn>
+</Section>
+<Section type="report" startTime="60.32" endTime="66.45" >
+<Turn speaker="S2" startTime="60.32" endTime="66.45">
+<Sync time="60.32"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="71.91" endTime="301.76" >
+<Turn speaker="S2" startTime="71.91" endTime="101.25">
+<Sync time="71.91"/>
+ooh
+</Turn>
+<Turn speaker="S3" startTime="101.25" endTime="144.4">
+<Sync time="101.25"/>
+and and we live in
+</Turn>
+<Turn speaker="S4" startTime="144.4" endTime="177.7">
+<Sync time="144.4"/>
+mm mm the oil out on long island the uh
+</Turn>
+<Turn speaker="S5" startTime="177.7" endTime="224.47">
+<Sync time="177.7"/>
+and uh um uh or or whatever and and and or or
+</Turn>
+<Turn speaker="S6" startTime="224.47" endTime="301.76">
+<Sync time="224.47"/>
+mm i'm a i'm a i'm a in uh
+</Turn>
+</Section>
+<Section type="report" startTime="312.7" endTime="320.14" >
+<Turn speaker="S7" startTime="312.7" endTime="320.14">
+<Sync time="312.7"/>
+you do do do do it now they say say i i know
+</Turn>
+</Section>
+<Section type="report" startTime="334.92" endTime="347.12" >
+<Turn speaker="S7" startTime="334.92" endTime="347.12">
+<Sync time="334.92"/>
+i i do
+</Turn>
+</Section>
+<Section type="report" startTime="350.15" endTime="710.35" >
+<Turn speaker="S8" startTime="350.15" endTime="365.51">
+<Sync time="350.15"/>
+yes they do they do
+</Turn>
+<Turn speaker="S9" startTime="365.51" endTime="394.81">
+<Sync time="365.51"/>
+i don't know it's awful and i already ready to go because i know the whole we read i read a little more
+</Turn>
+<Turn speaker="S10" startTime="394.81" endTime="421.95">
+<Sync time="394.81"/>
+so i mean i
+</Turn>
+<Turn speaker="S9" startTime="421.95" endTime="454.36">
+<Sync time="421.95"/>
+you know i'm ready i'm ready for the rent and ready go
+</Turn>
+<Turn speaker="S10" startTime="454.36" endTime="466.56">
+<Sync time="454.36"/>
+i do that you use it i thing
+</Turn>
+<Turn speaker="S9" startTime="466.56" endTime="536.23">
+<Sync time="466.56"/>
+how old are you ready for going on and tell me anything you know i'm ready to go now tell me your name
+</Turn>
+<Turn speaker="S8" startTime="536.23" endTime="545.14">
+<Sync time="536.23"/>
+you too
+</Turn>
+<Turn speaker="S11" startTime="545.14" endTime="566.84">
+<Sync time="545.14"/>
+it has to be for the day it
+</Turn>
+<Turn speaker="S12" startTime="566.84" endTime="651.67">
+<Sync time="566.84"/>
+in in in the news and then when you're in the long way one and it should be a good time but they wanted us to the time and um they wanted to do during the day is a great while do you guys you say
+</Turn>
+<Turn speaker="S13" startTime="651.67" endTime="710.35">
+<Sync time="651.67"/>
+yeah sometimes the rain you know the the children my lifestyle and your wife has a lot of the same kind of a a a general well uh why my mother and a lot of the the way
+</Turn>
+</Section>
+<Section type="report" startTime="710.31" endTime="712.39" >
+<Turn speaker="S12" startTime="710.31" endTime="712.39">
+<Sync time="710.31"/>
+know
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5544" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="87.61" endTime="306.46" >
+<Turn speaker="S1" startTime="87.61" endTime="306.46">
+<Sync time="87.61"/>
+you know down down down down down there you know there's nothing there's nothing to do certain things
+</Turn>
+</Section>
+<Section type="report" startTime="318.57" endTime="659.27" >
+<Turn speaker="S1" startTime="318.57" endTime="339.99">
+<Sync time="318.57"/>
+hum
+</Turn>
+<Turn speaker="S2" startTime="339.99" endTime="493.02">
+<Sync time="339.99"/>
+uh some of our new mayor or the mother in law and was and so now now now they're saying that they're there for about
+</Turn>
+<Turn speaker="S3" startTime="493.02" endTime="612.31">
+<Sync time="493.02"/>
+but you know
+</Turn>
+<Turn speaker="S4" startTime="612.31" endTime="645.27">
+<Sync time="612.31"/>
+or um
+</Turn>
+<Turn speaker="S1" startTime="645.27" endTime="659.27">
+<Sync time="645.27"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

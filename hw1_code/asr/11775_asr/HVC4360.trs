@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4360" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.78" endTime="34.73" >
+<Turn speaker="S1" startTime="0.78" endTime="34.73">
+<Sync time="0.78"/>
+mm yeah we drove how we sang a casserole king and three years now just gone but we live near lab drink the memory you are the jews in my head
+</Turn>
+</Section>
+<Section type="report" startTime="35.13" endTime="76.97" >
+<Turn speaker="S1" startTime="35.13" endTime="44.55">
+<Sync time="35.13"/>
+uh the boys in my passion every day
+</Turn>
+<Turn speaker="S2" startTime="44.55" endTime="58.39">
+<Sync time="44.55"/>
+uh
+</Turn>
+<Turn speaker="S1" startTime="58.39" endTime="76.97">
+<Sync time="58.39"/>
+she is well we that we've been lucky lose that blow the oil try to roll my bag
+</Turn>
+</Section>
+<Section type="report" startTime="77.36" endTime="100.11" >
+<Turn speaker="S1" startTime="77.36" endTime="100.11">
+<Sync time="77.36"/>
+we had by by uh when i can actually that'd be bad
+</Turn>
+</Section>
+<Section type="report" startTime="123.93" endTime="138.26" >
+<Turn speaker="S1" startTime="123.93" endTime="138.26">
+<Sync time="123.93"/>
+boy
+</Turn>
+</Section>
+</Episode>
+</Trans>

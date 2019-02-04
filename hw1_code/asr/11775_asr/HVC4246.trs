@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4246" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.66" endTime="206.86" >
+<Turn speaker="S1" startTime="3.66" endTime="22.09">
+<Sync time="3.66"/>
+i worry more than one five hundred a neutral hotel
+</Turn>
+<Turn speaker="S2" startTime="22.09" endTime="35.78">
+<Sync time="22.09"/>
+and you want to bring me
+</Turn>
+<Turn speaker="S3" startTime="35.78" endTime="206.86">
+<Sync time="35.78"/>
+yeah i what were you know the way we're gonna do nothing at all or anything but you know what i'm saying so he does some some of the to illnesses such a you nice thing about it but we are going on because of the fact that they're they're the ones that are more aware of things do you live on the phone on the movie you went home number and there was some you know i'm i say that it is a long time and then know but all all day all day long ah so but i buy a new job to do something to for those of us he he he he just decides to study something as simple as that
+</Turn>
+</Section>
+<Section type="report" startTime="212.59" endTime="244.9" >
+<Turn speaker="S1" startTime="212.59" endTime="244.9">
+<Sync time="212.59"/>
+you're like whoa man
+</Turn>
+</Section>
+</Episode>
+</Trans>

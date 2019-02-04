@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3126" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="4.0" >
+<Turn speaker="S1" startTime="0.0" endTime="4.0">
+<Sync time="0.0"/>
+fine
+</Turn>
+</Section>
+<Section type="report" startTime="16.42" endTime="20.68" >
+<Turn speaker="S2" startTime="16.42" endTime="20.68">
+<Sync time="16.42"/>
+in the house
+</Turn>
+</Section>
+<Section type="report" startTime="41.49" endTime="58.78" >
+<Turn speaker="S2" startTime="41.49" endTime="51.27">
+<Sync time="41.49"/>
+i think lawyers a lot of work
+</Turn>
+<Turn speaker="S1" startTime="51.27" endTime="58.78">
+<Sync time="51.27"/>
+someone i guess
+</Turn>
+</Section>
+<Section type="report" startTime="82.53" endTime="111.95" >
+<Turn speaker="S2" startTime="82.53" endTime="111.95">
+<Sync time="82.53"/>
+wow what a shock
+</Turn>
+</Section>
+</Episode>
+</Trans>

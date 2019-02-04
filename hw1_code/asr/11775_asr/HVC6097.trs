@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6097" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.12" endTime="69.43" >
+<Turn speaker="S1" startTime="0.12" endTime="13.29">
+<Sync time="0.12"/>
+oh yeah oh yeah
+</Turn>
+<Turn speaker="S2" startTime="13.29" endTime="46.26">
+<Sync time="13.29"/>
+are you from originally when watch again okay i'm going to be any just when you are not going to waste them just a few places that you want thing you can be and i know you can ask them um but i could visualize you
+</Turn>
+<Turn speaker="S1" startTime="46.26" endTime="47.08">
+<Sync time="46.26"/>
+thank you
+</Turn>
+<Turn speaker="S2" startTime="47.08" endTime="51.84">
+<Sync time="47.08"/>
+makes you want to lose your job
+</Turn>
+<Turn speaker="S3" startTime="51.84" endTime="69.43">
+<Sync time="51.84"/>
+you know
+</Turn>
+</Section>
+</Episode>
+</Trans>

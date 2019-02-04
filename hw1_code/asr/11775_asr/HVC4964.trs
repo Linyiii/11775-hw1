@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4964" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="38.92" >
+<Turn speaker="S1" startTime="0.0" endTime="38.92">
+<Sync time="0.0"/>
+do you see well fish is dead weight you know fish right now you can only go on their minds sometimes when we go fishing for me like you said we're invited people church about jesus sometimes we get to kill you sometimes come on guys really being fishermen people don't even know if people don't how do you do incisions so next time good day
+</Turn>
+</Section>
+</Episode>
+</Trans>

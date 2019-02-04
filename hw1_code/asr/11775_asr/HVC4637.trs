@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4637" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="24.01" >
+<Turn speaker="S1" startTime="0.0" endTime="24.01">
+<Sync time="0.0"/>
+where it's your turn try to now again that's okay close enough
+</Turn>
+</Section>
+<Section type="report" startTime="49.28" endTime="53.38" >
+<Turn speaker="S1" startTime="49.28" endTime="53.38">
+<Sync time="49.28"/>
+nice job
+</Turn>
+</Section>
+<Section type="report" startTime="69.05" endTime="123.48" >
+<Turn speaker="S1" startTime="69.05" endTime="83.97">
+<Sync time="69.05"/>
+good job good job buddy
+</Turn>
+<Turn speaker="S2" startTime="83.97" endTime="123.48">
+<Sync time="83.97"/>
+okay yeah i think jump on a mac
+</Turn>
+</Section>
+<Section type="report" startTime="123.38" endTime="135.79" >
+<Turn speaker="S1" startTime="123.38" endTime="135.79">
+<Sync time="123.38"/>
+got a buddy yes that's okay
+</Turn>
+</Section>
+</Episode>
+</Trans>

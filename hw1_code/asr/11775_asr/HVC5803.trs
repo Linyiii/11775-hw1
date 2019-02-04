@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5803" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="16.0" >
+<Turn speaker="S1" startTime="0.0" endTime="2.95">
+<Sync time="0.0"/>
+i mean there he had them pretty regularly but
+</Turn>
+<Turn speaker="S2" startTime="2.95" endTime="6.04">
+<Sync time="2.95"/>
+you to get like a marker so she can remember which ones are religious
+</Turn>
+<Turn speaker="S3" startTime="6.04" endTime="11.09">
+<Sync time="6.04"/>
+yeah now you're going out yeah pretty down low dolls let's go back home
+</Turn>
+<Turn speaker="S4" startTime="11.09" endTime="16.0">
+<Sync time="11.09"/>
+washington
+</Turn>
+</Section>
+</Episode>
+</Trans>

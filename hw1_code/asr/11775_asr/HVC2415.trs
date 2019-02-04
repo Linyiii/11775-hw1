@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2415" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="3.51" >
+<Turn speaker="S1" startTime="0.04" endTime="3.51">
+<Sync time="0.04"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="11.2" endTime="103.37" >
+<Turn speaker="S2" startTime="11.2" endTime="18.34">
+<Sync time="11.2"/>
+show guys are doing a
+</Turn>
+<Turn speaker="S3" startTime="18.34" endTime="27.53">
+<Sync time="18.34"/>
+i can then you got the news
+</Turn>
+<Turn speaker="S2" startTime="27.53" endTime="33.86">
+<Sync time="27.53"/>
+a show that show
+</Turn>
+<Turn speaker="S3" startTime="33.86" endTime="58.42">
+<Sync time="33.86"/>
+i can you know that he can still do but they live this will be a guy
+</Turn>
+<Turn speaker="S2" startTime="58.42" endTime="64.52">
+<Sync time="58.42"/>
+uh a and
+</Turn>
+<Turn speaker="S3" startTime="64.52" endTime="77.07">
+<Sync time="64.52"/>
+i can do get one
+</Turn>
+<Turn speaker="S2" startTime="77.07" endTime="87.81">
+<Sync time="77.07"/>
+no i'm not much
+</Turn>
+<Turn speaker="S3" startTime="87.81" endTime="92.42">
+<Sync time="87.81"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="92.42" endTime="103.37">
+<Sync time="92.42"/>
+di di di di di di di di di di
+</Turn>
+</Section>
+<Section type="report" startTime="103.44" endTime="107.94" >
+<Turn speaker="S3" startTime="103.44" endTime="107.94">
+<Sync time="103.44"/>
+bye bye
+</Turn>
+</Section>
+</Episode>
+</Trans>

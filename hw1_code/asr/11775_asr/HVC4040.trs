@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4040" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="266.98" >
+<Turn speaker="S1" startTime="0.03" endTime="35.01">
+<Sync time="0.03"/>
+but you know you're you're thing i've never done that no no no no i'm thirty eight you know
+</Turn>
+<Turn speaker="S2" startTime="35.01" endTime="177.52">
+<Sync time="35.01"/>
+the way they don't want to talk to my children was bothering you and your not i'm not i'm not worried about you know on your own around you know now and but then like every you the weather there is no way i are going to be a wild man i'm i'm i'm not too much for me i'm not ready to go um no i'm not making them both your mom and the goes down
+</Turn>
+<Turn speaker="S3" startTime="177.52" endTime="199.69">
+<Sync time="177.52"/>
+and and um
+</Turn>
+<Turn speaker="S2" startTime="199.69" endTime="266.98">
+<Sync time="199.69"/>
+they go to you know the average joe blow up on some of those around them i and i i try to or you know a job so i'm hoping to um i'm not above average probably doesn't matter you know that live around while you're alive and uh
+</Turn>
+</Section>
+<Section type="report" startTime="266.74" endTime="270.03" >
+<Turn speaker="S4" startTime="266.74" endTime="270.03">
+<Sync time="266.74"/>
+the
+</Turn>
+</Section>
+</Episode>
+</Trans>

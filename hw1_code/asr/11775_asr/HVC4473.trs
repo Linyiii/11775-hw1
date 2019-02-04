@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4473" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.16" endTime="21.95" >
+<Turn speaker="S1" startTime="4.16" endTime="10.56">
+<Sync time="4.16"/>
+and
+</Turn>
+<Turn speaker="S2" startTime="10.56" endTime="21.95">
+<Sync time="10.56"/>
+mm
+</Turn>
+</Section>
+<Section type="report" startTime="102.97" endTime="149.15" >
+<Turn speaker="S3" startTime="102.97" endTime="149.15">
+<Sync time="102.97"/>
+not the only way
+</Turn>
+</Section>
+<Section type="report" startTime="157.76" endTime="218.76" >
+<Turn speaker="S4" startTime="157.76" endTime="185.86">
+<Sync time="157.76"/>
+mm
+</Turn>
+<Turn speaker="S3" startTime="185.86" endTime="218.76">
+<Sync time="185.86"/>
+oh or or
+</Turn>
+</Section>
+<Section type="report" startTime="256.18" endTime="269.71" >
+<Turn speaker="S3" startTime="256.18" endTime="269.71">
+<Sync time="256.18"/>
+i'm like whoa
+</Turn>
+</Section>
+<Section type="report" startTime="269.9" endTime="286.2" >
+<Turn speaker="S5" startTime="269.9" endTime="286.2">
+<Sync time="269.9"/>
+and uh
+</Turn>
+</Section>
+</Episode>
+</Trans>

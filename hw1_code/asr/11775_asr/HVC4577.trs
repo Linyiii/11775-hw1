@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4577" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="4.12" >
+<Turn speaker="S1" startTime="0.03" endTime="4.12">
+<Sync time="0.03"/>
+oh my goodness
+</Turn>
+</Section>
+<Section type="report" startTime="16.45" endTime="49.98" >
+<Turn speaker="S1" startTime="16.45" endTime="19.98">
+<Sync time="16.45"/>
+yeah
+</Turn>
+<Turn speaker="S2" startTime="19.98" endTime="34.07">
+<Sync time="19.98"/>
+oh should i go to there
+</Turn>
+<Turn speaker="S1" startTime="34.07" endTime="49.98">
+<Sync time="34.07"/>
+you have said board where are you going to slide down here for two of us don't mind me
+</Turn>
+</Section>
+<Section type="report" startTime="59.07" endTime="85.61" >
+<Turn speaker="S3" startTime="59.07" endTime="62.6">
+<Sync time="59.07"/>
+right
+</Turn>
+<Turn speaker="S2" startTime="62.6" endTime="85.61">
+<Sync time="62.6"/>
+the truck support horse to help you
+</Turn>
+</Section>
+<Section type="report" startTime="89.56" endTime="146.89" >
+<Turn speaker="S3" startTime="89.56" endTime="103.62">
+<Sync time="89.56"/>
+okay why don't you know you want me to rain
+</Turn>
+<Turn speaker="S2" startTime="103.62" endTime="120.16">
+<Sync time="103.62"/>
+so
+</Turn>
+<Turn speaker="S1" startTime="120.16" endTime="123.74">
+<Sync time="120.16"/>
+oh boy
+</Turn>
+<Turn speaker="S3" startTime="123.74" endTime="146.89">
+<Sync time="123.74"/>
+right that sounds like a race car well different varieties or i see everything sounds like a race car with daddy huh oh
+</Turn>
+</Section>
+<Section type="report" startTime="160.66" endTime="164.59" >
+<Turn speaker="S1" startTime="160.66" endTime="164.59">
+<Sync time="160.66"/>
+you
+</Turn>
+</Section>
+<Section type="report" startTime="169.09" endTime="251.15" >
+<Turn speaker="S1" startTime="169.09" endTime="188.18">
+<Sync time="169.09"/>
+yeah it's beautiful i know from
+</Turn>
+<Turn speaker="S3" startTime="188.18" endTime="192.95">
+<Sync time="188.18"/>
+my first
+</Turn>
+<Turn speaker="S2" startTime="192.95" endTime="231.43">
+<Sync time="192.95"/>
+going are you going to go first you can go down this life
+</Turn>
+<Turn speaker="S3" startTime="231.43" endTime="251.15">
+<Sync time="231.43"/>
+yeah about the slide
+</Turn>
+</Section>
+<Section type="report" startTime="273.19" endTime="288.92" >
+<Turn speaker="S2" startTime="273.19" endTime="281.75">
+<Sync time="273.19"/>
+yeah yeah
+</Turn>
+<Turn speaker="S1" startTime="281.75" endTime="288.92">
+<Sync time="281.75"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="298.56" endTime="311.13" >
+<Turn speaker="S3" startTime="298.56" endTime="311.13">
+<Sync time="298.56"/>
+really
+</Turn>
+</Section>
+<Section type="report" startTime="332.94" endTime="340.01" >
+<Turn speaker="S1" startTime="332.94" endTime="340.01">
+<Sync time="332.94"/>
+do steps to oh yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3702" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="82.26" >
+<Turn speaker="S1" startTime="0.03" endTime="9.27">
+<Sync time="0.03"/>
+so what's going on but it's only like since that time
+</Turn>
+<Turn speaker="S2" startTime="9.27" endTime="33.96">
+<Sync time="9.27"/>
+thirty dollars in gas good old seventy six can't get the card and then i don't know anything we almost thirty seven dollars c'mon i keep clicking
+</Turn>
+<Turn speaker="S1" startTime="33.96" endTime="42.55">
+<Sync time="33.96"/>
+if you like to
+</Turn>
+<Turn speaker="S2" startTime="42.55" endTime="82.26">
+<Sync time="42.55"/>
+that's a gallon tank can get like thirty eight miles down like twenty six anyone coming up to the lack of control and video maybe it doesn't look too shady seventy more look at the number on the thing isn't even a number to question mark
+</Turn>
+</Section>
+<Section type="report" startTime="82.14" endTime="106.65" >
+<Turn speaker="S1" startTime="82.14" endTime="106.65">
+<Sync time="82.14"/>
+ten minutes only or something he and they're mad that were filming they buy
+</Turn>
+</Section>
+</Episode>
+</Trans>

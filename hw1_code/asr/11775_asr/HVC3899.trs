@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3899" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S15" name="K15" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="5.48" >
+<Turn speaker="S1" startTime="0.0" endTime="5.48">
+<Sync time="0.0"/>
+so
+</Turn>
+</Section>
+<Section type="report" startTime="10.02" endTime="61.47" >
+<Turn speaker="S2" startTime="10.02" endTime="14.04">
+<Sync time="10.02"/>
+uh-huh
+</Turn>
+<Turn speaker="S3" startTime="14.04" endTime="17.89">
+<Sync time="14.04"/>
+right
+</Turn>
+<Turn speaker="S4" startTime="17.89" endTime="21.53">
+<Sync time="17.89"/>
+they don't make the bad i'm only brenda
+</Turn>
+<Turn speaker="S5" startTime="21.53" endTime="29.77">
+<Sync time="21.53"/>
+and i think
+</Turn>
+<Turn speaker="S6" startTime="29.77" endTime="36.68">
+<Sync time="29.77"/>
+oh you got to easily done w. e. tell you about it or what i got that
+</Turn>
+<Turn speaker="S7" startTime="36.68" endTime="41.88">
+<Sync time="36.68"/>
+hi sean out and to my
+</Turn>
+<Turn speaker="S8" startTime="41.88" endTime="47.92">
+<Sync time="41.88"/>
+hi heather using their own little the show edited hit man
+</Turn>
+<Turn speaker="S9" startTime="47.92" endTime="61.47">
+<Sync time="47.92"/>
+oh my so and um i know that review me
+</Turn>
+</Section>
+<Section type="report" startTime="65.8" endTime="70.46" >
+<Turn speaker="S10" startTime="65.8" endTime="70.46">
+<Sync time="65.8"/>
+tony the minds we get along
+</Turn>
+</Section>
+<Section type="report" startTime="75.51" endTime="82.2" >
+<Turn speaker="S11" startTime="75.51" endTime="82.2">
+<Sync time="75.51"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="89.76" endTime="114.39" >
+<Turn speaker="S12" startTime="89.76" endTime="93.19">
+<Sync time="89.76"/>
+oh my
+</Turn>
+<Turn speaker="S13" startTime="93.19" endTime="106.2">
+<Sync time="93.19"/>
+hobbies i ended up my three i hadn't not out talk on my bed poodles better for him they wanted to be on the line at well i got 'em they were
+</Turn>
+<Turn speaker="S14" startTime="106.2" endTime="111.59">
+<Sync time="106.2"/>
+yeah
+</Turn>
+<Turn speaker="S15" startTime="111.59" endTime="114.39">
+<Sync time="111.59"/>
+oh
+</Turn>
+</Section>
+</Episode>
+</Trans>

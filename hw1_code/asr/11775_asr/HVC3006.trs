@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3006" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.09" endTime="10.05" >
+<Turn speaker="S1" startTime="0.09" endTime="10.05">
+<Sync time="0.09"/>
+hi margaret oh go go with our friends she
+</Turn>
+</Section>
+<Section type="report" startTime="10.02" endTime="37.85" >
+<Turn speaker="S2" startTime="10.02" endTime="37.85">
+<Sync time="10.02"/>
+they they go in and then
+</Turn>
+</Section>
+</Episode>
+</Trans>

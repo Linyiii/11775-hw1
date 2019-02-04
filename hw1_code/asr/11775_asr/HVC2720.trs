@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2720" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.08" endTime="42.61" >
+<Turn speaker="S1" startTime="0.08" endTime="10.43">
+<Sync time="0.08"/>
+yeah
+</Turn>
+<Turn speaker="S2" startTime="10.43" endTime="30.41">
+<Sync time="10.43"/>
+hi how do you like uh i think so we have indian bench and all kinds of stuff you know 'cause look nice
+</Turn>
+<Turn speaker="S3" startTime="30.41" endTime="42.61">
+<Sync time="30.41"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="47.2" endTime="84.09" >
+<Turn speaker="S4" startTime="47.2" endTime="73.37">
+<Sync time="47.2"/>
+so how long they say gosh i haven't a clue about fan not bad for the better but we got there first cope use nearly a gallon they said that we do two coats easy peasy lives so uh we'll see what this looks like when i'm driving to get a second code on it
+</Turn>
+<Turn speaker="S2" startTime="73.37" endTime="84.09">
+<Sync time="73.37"/>
+see so much people made our standards not very high
+</Turn>
+</Section>
+<Section type="report" startTime="111.52" endTime="155.78" >
+<Turn speaker="S5" startTime="111.52" endTime="116.59">
+<Sync time="111.52"/>
+and it is the day after our initial paint session
+</Turn>
+<Turn speaker="S1" startTime="116.59" endTime="127.39">
+<Sync time="116.59"/>
+yeah down here and
+</Turn>
+<Turn speaker="S5" startTime="127.39" endTime="132.08">
+<Sync time="127.39"/>
+we're trying to terminate if we actually need a second there hopefully we don't
+</Turn>
+<Turn speaker="S1" startTime="132.08" endTime="141.04">
+<Sync time="132.08"/>
+and
+</Turn>
+<Turn speaker="S5" startTime="141.04" endTime="144.2">
+<Sync time="141.04"/>
+for me that we probably do need to
+</Turn>
+<Turn speaker="S2" startTime="144.2" endTime="155.78">
+<Sync time="144.2"/>
+a lot of white spots and put another coat on which i think it's more accurate
+</Turn>
+</Section>
+<Section type="report" startTime="155.87" endTime="211.43" >
+<Turn speaker="S5" startTime="155.87" endTime="211.43">
+<Sync time="155.87"/>
+very good sounds good health or and we did actually picked out a couple of other colors uh yesterday we picked so the green don't delete and we pick out some paint today actually for the bathroom so here's the uh the bathroom here christmas bringing you know it's kind of just a color we originally doing that for the master christian in there so she does like however and the other so thinking about doing that and that plus eat some painting on 'cause we got fireworks go through life
+</Turn>
+</Section>
+</Episode>
+</Trans>

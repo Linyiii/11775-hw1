@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5106" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.08" endTime="3.33" >
+<Turn speaker="S1" startTime="0.08" endTime="3.33">
+<Sync time="0.08"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="8.94" endTime="31.62" >
+<Turn speaker="S2" startTime="8.94" endTime="9.42">
+<Sync time="8.94"/>
+mhm
+</Turn>
+<Turn speaker="S3" startTime="9.42" endTime="18.33">
+<Sync time="9.42"/>
+and and and and
+</Turn>
+<Turn speaker="S4" startTime="18.33" endTime="20.43">
+<Sync time="18.33"/>
+i guess
+</Turn>
+<Turn speaker="S3" startTime="20.43" endTime="31.62">
+<Sync time="20.43"/>
+yeah and
+</Turn>
+</Section>
+<Section type="report" startTime="53.97" endTime="112.84" >
+<Turn speaker="S3" startTime="53.97" endTime="65.19">
+<Sync time="53.97"/>
+i grew up in the waiting room
+</Turn>
+<Turn speaker="S5" startTime="65.19" endTime="88.32">
+<Sync time="65.19"/>
+and then and then in the beginning and then and then and then when it came down to
+</Turn>
+<Turn speaker="S3" startTime="88.32" endTime="100.4">
+<Sync time="88.32"/>
+they gave me
+</Turn>
+<Turn speaker="S4" startTime="100.4" endTime="112.84">
+<Sync time="100.4"/>
+there would be get
+</Turn>
+</Section>
+</Episode>
+</Trans>

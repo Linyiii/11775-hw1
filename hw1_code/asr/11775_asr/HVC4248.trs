@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4248" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S15" name="K15" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S16" name="K16" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S17" name="K17" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S18" name="K18" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S19" name="K19" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S20" name="K20" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S21" name="K21" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S22" name="K22" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S23" name="K23" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S24" name="K24" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S25" name="K25" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S26" name="K26" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S27" name="K27" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S28" name="K28" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S29" name="K29" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S30" name="K30" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S31" name="K31" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S32" name="K32" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S33" name="K33" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S34" name="K34" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S35" name="K35" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S36" name="K36" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S37" name="K37" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S38" name="K38" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S39" name="K39" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S40" name="K40" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S41" name="K41" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.11" endTime="5.21" >
+<Turn speaker="S1" startTime="0.11" endTime="5.21">
+<Sync time="0.11"/>
+oh
+</Turn>
+</Section>
+<Section type="report" startTime="72.49" endTime="104.0" >
+<Turn speaker="S2" startTime="72.49" endTime="87.74">
+<Sync time="72.49"/>
+really
+</Turn>
+<Turn speaker="S3" startTime="87.74" endTime="104.0">
+<Sync time="87.74"/>
+a saturday and sunday
+</Turn>
+</Section>
+<Section type="report" startTime="135.32" endTime="150.68" >
+<Turn speaker="S2" startTime="135.32" endTime="137.22">
+<Sync time="135.32"/>
+yes
+</Turn>
+<Turn speaker="S4" startTime="137.22" endTime="150.68">
+<Sync time="137.22"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="193.57" endTime="244.44" >
+<Turn speaker="S4" startTime="193.57" endTime="208.93">
+<Sync time="193.57"/>
+oh oh mom
+</Turn>
+<Turn speaker="S5" startTime="208.93" endTime="215.6">
+<Sync time="208.93"/>
+no
+</Turn>
+<Turn speaker="S4" startTime="215.6" endTime="238.97">
+<Sync time="215.6"/>
+whoa whoa whoa whoa whoa
+</Turn>
+<Turn speaker="S3" startTime="238.97" endTime="244.44">
+<Sync time="238.97"/>
+whoa
+</Turn>
+</Section>
+<Section type="report" startTime="245.44" endTime="288.28" >
+<Turn speaker="S3" startTime="245.44" endTime="265.73">
+<Sync time="245.44"/>
+new i'm like oh man
+</Turn>
+<Turn speaker="S6" startTime="265.73" endTime="283.25">
+<Sync time="265.73"/>
+and in the world and
+</Turn>
+<Turn speaker="S7" startTime="283.25" endTime="288.28">
+<Sync time="283.25"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="306.95" endTime="321.3" >
+<Turn speaker="S8" startTime="306.95" endTime="321.3">
+<Sync time="306.95"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="337.08" endTime="348.69" >
+<Turn speaker="S9" startTime="337.08" endTime="348.69">
+<Sync time="337.08"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="385.35" endTime="389.89" >
+<Turn speaker="S1" startTime="385.35" endTime="389.89">
+<Sync time="385.35"/>
+oh
+</Turn>
+</Section>
+<Section type="report" startTime="399.55" endTime="403.6" >
+<Turn speaker="S10" startTime="399.55" endTime="403.6">
+<Sync time="399.55"/>
+uh i
+</Turn>
+</Section>
+<Section type="report" startTime="424.64" endTime="444.36" >
+<Turn speaker="S11" startTime="424.64" endTime="444.36">
+<Sync time="424.64"/>
+or
+</Turn>
+</Section>
+<Section type="report" startTime="453.61" endTime="506.9" >
+<Turn speaker="S6" startTime="453.61" endTime="470.51">
+<Sync time="453.61"/>
+or or or
+</Turn>
+<Turn speaker="S12" startTime="470.51" endTime="500.09">
+<Sync time="470.51"/>
+i know and i'm like man i don't know
+</Turn>
+<Turn speaker="S13" startTime="500.09" endTime="506.9">
+<Sync time="500.09"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="508.4" endTime="519.98" >
+<Turn speaker="S14" startTime="508.4" endTime="519.98">
+<Sync time="508.4"/>
+you know they say that
+</Turn>
+</Section>
+<Section type="report" startTime="546.7" endTime="651.87" >
+<Turn speaker="S12" startTime="546.7" endTime="580.69">
+<Sync time="546.7"/>
+ah that one day
+</Turn>
+<Turn speaker="S15" startTime="580.69" endTime="586.12">
+<Sync time="580.69"/>
+yes
+</Turn>
+<Turn speaker="S3" startTime="586.12" endTime="593.26">
+<Sync time="586.12"/>
+okay
+</Turn>
+<Turn speaker="S16" startTime="593.26" endTime="617.15">
+<Sync time="593.26"/>
+no
+</Turn>
+<Turn speaker="S3" startTime="617.15" endTime="622.44">
+<Sync time="617.15"/>
+every day
+</Turn>
+<Turn speaker="S16" startTime="622.44" endTime="646.92">
+<Sync time="622.44"/>
+i know all over well no no
+</Turn>
+<Turn speaker="S17" startTime="646.92" endTime="651.87">
+<Sync time="646.92"/>
+then
+</Turn>
+</Section>
+<Section type="report" startTime="652.58" endTime="732.73" >
+<Turn speaker="S18" startTime="652.58" endTime="662.55">
+<Sync time="652.58"/>
+okay
+</Turn>
+<Turn speaker="S11" startTime="662.55" endTime="670.58">
+<Sync time="662.55"/>
+whoa whoa whoa whoa whoa
+</Turn>
+<Turn speaker="S19" startTime="670.58" endTime="696.37">
+<Sync time="670.58"/>
+whoa whoa whoa whoa whoa whoa whoa
+</Turn>
+<Turn speaker="S6" startTime="696.37" endTime="711.44">
+<Sync time="696.37"/>
+whoa whoa whoa whoa whoa whoa
+</Turn>
+<Turn speaker="S11" startTime="711.44" endTime="723.69">
+<Sync time="711.44"/>
+or or you know
+</Turn>
+<Turn speaker="S18" startTime="723.69" endTime="732.73">
+<Sync time="723.69"/>
+well
+</Turn>
+</Section>
+<Section type="report" startTime="740.14" endTime="743.19" >
+<Turn speaker="S20" startTime="740.14" endTime="741.34">
+<Sync time="740.14"/>
+wow
+</Turn>
+<Turn speaker="S10" startTime="741.34" endTime="743.19">
+<Sync time="741.34"/>
+what
+</Turn>
+</Section>
+<Section type="report" startTime="746.21" endTime="780.33" >
+<Turn speaker="S21" startTime="746.21" endTime="780.33">
+<Sync time="746.21"/>
+um i only watch the the average wage carry a bar or otherwise
+</Turn>
+</Section>
+<Section type="report" startTime="791.74" endTime="829.67" >
+<Turn speaker="S9" startTime="791.74" endTime="805.41">
+<Sync time="791.74"/>
+no
+</Turn>
+<Turn speaker="S14" startTime="805.41" endTime="829.67">
+<Sync time="805.41"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="855.0" endTime="893.19" >
+<Turn speaker="S5" startTime="855.0" endTime="877.24">
+<Sync time="855.0"/>
+no
+</Turn>
+<Turn speaker="S8" startTime="877.24" endTime="891.45">
+<Sync time="877.24"/>
+you know i'm older or or
+</Turn>
+<Turn speaker="S22" startTime="891.45" endTime="893.19">
+<Sync time="891.45"/>
+sure
+</Turn>
+</Section>
+<Section type="report" startTime="895.06" endTime="988.65" >
+<Turn speaker="S8" startTime="895.06" endTime="900.16">
+<Sync time="895.06"/>
+a day
+</Turn>
+<Turn speaker="S23" startTime="900.16" endTime="904.53">
+<Sync time="900.16"/>
+um
+</Turn>
+<Turn speaker="S8" startTime="904.53" endTime="917.37">
+<Sync time="904.53"/>
+no no no oh okay oh the the
+</Turn>
+<Turn speaker="S4" startTime="917.37" endTime="937.14">
+<Sync time="917.37"/>
+so
+</Turn>
+<Turn speaker="S14" startTime="937.14" endTime="954.27">
+<Sync time="937.14"/>
+you know
+</Turn>
+<Turn speaker="S4" startTime="954.27" endTime="972.61">
+<Sync time="954.27"/>
+why why why what
+</Turn>
+<Turn speaker="S5" startTime="972.61" endTime="988.65">
+<Sync time="972.61"/>
+whoa whoa whoa
+</Turn>
+</Section>
+<Section type="report" startTime="1057.19" endTime="1070.2" >
+<Turn speaker="S12" startTime="1057.19" endTime="1059.81">
+<Sync time="1057.19"/>
+no
+</Turn>
+<Turn speaker="S23" startTime="1059.81" endTime="1070.2">
+<Sync time="1059.81"/>
+oh
+</Turn>
+</Section>
+<Section type="report" startTime="1072.17" endTime="1078.51" >
+<Turn speaker="S24" startTime="1072.17" endTime="1078.51">
+<Sync time="1072.17"/>
+and
+</Turn>
+</Section>
+<Section type="report" startTime="1081.83" endTime="1168.36" >
+<Turn speaker="S14" startTime="1081.83" endTime="1116.73">
+<Sync time="1081.83"/>
+no no
+</Turn>
+<Turn speaker="S4" startTime="1116.73" endTime="1149.05">
+<Sync time="1116.73"/>
+i mean no no oh
+</Turn>
+<Turn speaker="S14" startTime="1149.05" endTime="1168.36">
+<Sync time="1149.05"/>
+you know
+</Turn>
+</Section>
+<Section type="report" startTime="1194.97" endTime="1234.07" >
+<Turn speaker="S9" startTime="1194.97" endTime="1224.89">
+<Sync time="1194.97"/>
+whoa whoa whoa whoa whoa whoa
+</Turn>
+<Turn speaker="S4" startTime="1224.89" endTime="1234.07">
+<Sync time="1224.89"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="1256.18" endTime="1269.8" >
+<Turn speaker="S25" startTime="1256.18" endTime="1262.83">
+<Sync time="1256.18"/>
+oh man
+</Turn>
+<Turn speaker="S26" startTime="1262.83" endTime="1269.8">
+<Sync time="1262.83"/>
+oh really
+</Turn>
+</Section>
+<Section type="report" startTime="1284.32" endTime="1320.54" >
+<Turn speaker="S21" startTime="1284.32" endTime="1315.69">
+<Sync time="1284.32"/>
+well i don't like it why are they doing well in band and uh
+</Turn>
+<Turn speaker="S24" startTime="1315.69" endTime="1320.54">
+<Sync time="1315.69"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="1330.12" endTime="1332.96" >
+<Turn speaker="S3" startTime="1330.12" endTime="1331.95">
+<Sync time="1330.12"/>
+healthy
+</Turn>
+<Turn speaker="S4" startTime="1331.95" endTime="1332.96">
+<Sync time="1331.95"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="1395.99" endTime="1419.46" >
+<Turn speaker="S19" startTime="1395.99" endTime="1419.46">
+<Sync time="1395.99"/>
+or
+</Turn>
+</Section>
+<Section type="report" startTime="1438.16" endTime="1478.66" >
+<Turn speaker="S23" startTime="1438.16" endTime="1449.81">
+<Sync time="1438.16"/>
+oh ho oh
+</Turn>
+<Turn speaker="S10" startTime="1449.81" endTime="1459.43">
+<Sync time="1449.81"/>
+no
+</Turn>
+<Turn speaker="S13" startTime="1459.43" endTime="1475.41">
+<Sync time="1459.43"/>
+oh no no no no no
+</Turn>
+<Turn speaker="S23" startTime="1475.41" endTime="1478.66">
+<Sync time="1475.41"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="1498.55" endTime="1499.79" >
+<Turn speaker="S27" startTime="1498.55" endTime="1499.79">
+<Sync time="1498.55"/>
+yea
+</Turn>
+</Section>
+<Section type="report" startTime="1515.31" endTime="1532.5" >
+<Turn speaker="S28" startTime="1515.31" endTime="1525.96">
+<Sync time="1515.31"/>
+why
+</Turn>
+<Turn speaker="S3" startTime="1525.96" endTime="1532.5">
+<Sync time="1525.96"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="1560.34" endTime="1642.22" >
+<Turn speaker="S13" startTime="1560.34" endTime="1620.8">
+<Sync time="1560.34"/>
+mom's mom or the world why am i am day
+</Turn>
+<Turn speaker="S9" startTime="1620.8" endTime="1632.94">
+<Sync time="1620.8"/>
+no
+</Turn>
+<Turn speaker="S25" startTime="1632.94" endTime="1642.22">
+<Sync time="1632.94"/>
+ah
+</Turn>
+</Section>
+<Section type="report" startTime="1645.47" endTime="1675.88" >
+<Turn speaker="S29" startTime="1645.47" endTime="1651.36">
+<Sync time="1645.47"/>
+oh
+</Turn>
+<Turn speaker="S20" startTime="1651.36" endTime="1654.58">
+<Sync time="1651.36"/>
+um
+</Turn>
+<Turn speaker="S21" startTime="1654.58" endTime="1659.12">
+<Sync time="1654.58"/>
+no
+</Turn>
+<Turn speaker="S20" startTime="1659.12" endTime="1662.7">
+<Sync time="1659.12"/>
+my
+</Turn>
+<Turn speaker="S21" startTime="1662.7" endTime="1667.58">
+<Sync time="1662.7"/>
+what
+</Turn>
+<Turn speaker="S26" startTime="1667.58" endTime="1673.13">
+<Sync time="1667.58"/>
+and they are
+</Turn>
+<Turn speaker="S21" startTime="1673.13" endTime="1675.88">
+<Sync time="1673.13"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="1676.89" endTime="1688.17" >
+<Turn speaker="S30" startTime="1676.89" endTime="1688.17">
+<Sync time="1676.89"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="1707.3" endTime="1715.53" >
+<Turn speaker="S30" startTime="1707.3" endTime="1715.53">
+<Sync time="1707.3"/>
+we're we're we're
+</Turn>
+</Section>
+<Section type="report" startTime="1721.06" endTime="1826.17" >
+<Turn speaker="S17" startTime="1721.06" endTime="1751.42">
+<Sync time="1721.06"/>
+so we will see me in the whole new
+</Turn>
+<Turn speaker="S3" startTime="1751.42" endTime="1775.83">
+<Sync time="1751.42"/>
+going to do
+</Turn>
+<Turn speaker="S27" startTime="1775.83" endTime="1786.62">
+<Sync time="1775.83"/>
+and
+</Turn>
+<Turn speaker="S22" startTime="1786.62" endTime="1816.54">
+<Sync time="1786.62"/>
+no no you know some people who are running
+</Turn>
+<Turn speaker="S30" startTime="1816.54" endTime="1826.17">
+<Sync time="1816.54"/>
+so uh where you're are longer longer
+</Turn>
+</Section>
+<Section type="report" startTime="1835.17" endTime="1836.58" >
+<Turn speaker="S13" startTime="1835.17" endTime="1836.58">
+<Sync time="1835.17"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="1843.2" endTime="1859.65" >
+<Turn speaker="S17" startTime="1843.2" endTime="1859.65">
+<Sync time="1843.2"/>
+the way it is a lot of
+</Turn>
+</Section>
+<Section type="report" startTime="1880.19" endTime="1895.73" >
+<Turn speaker="S15" startTime="1880.19" endTime="1895.73">
+<Sync time="1880.19"/>
+yea i am a you know
+</Turn>
+</Section>
+<Section type="report" startTime="1903.15" endTime="1913.81" >
+<Turn speaker="S24" startTime="1903.15" endTime="1908.34">
+<Sync time="1903.15"/>
+no
+</Turn>
+<Turn speaker="S21" startTime="1908.34" endTime="1913.81">
+<Sync time="1908.34"/>
+anyway
+</Turn>
+</Section>
+<Section type="report" startTime="1919.75" endTime="1922.44" >
+<Turn speaker="S28" startTime="1919.75" endTime="1922.44">
+<Sync time="1919.75"/>
+man
+</Turn>
+</Section>
+<Section type="report" startTime="1945.07" endTime="1989.99" >
+<Turn speaker="S31" startTime="1945.07" endTime="1953.88">
+<Sync time="1945.07"/>
+no
+</Turn>
+<Turn speaker="S28" startTime="1953.88" endTime="1956.08">
+<Sync time="1953.88"/>
+are you
+</Turn>
+<Turn speaker="S32" startTime="1956.08" endTime="1973.27">
+<Sync time="1956.08"/>
+no
+</Turn>
+<Turn speaker="S8" startTime="1973.27" endTime="1976.77">
+<Sync time="1973.27"/>
+ooh
+</Turn>
+<Turn speaker="S4" startTime="1976.77" endTime="1989.99">
+<Sync time="1976.77"/>
+right but you know
+</Turn>
+</Section>
+<Section type="report" startTime="1994.34" endTime="1998.11" >
+<Turn speaker="S32" startTime="1994.34" endTime="1998.11">
+<Sync time="1994.34"/>
+whoa
+</Turn>
+</Section>
+<Section type="report" startTime="2001.68" endTime="2005.85" >
+<Turn speaker="S27" startTime="2001.68" endTime="2003.57">
+<Sync time="2001.68"/>
+no
+</Turn>
+<Turn speaker="S32" startTime="2003.57" endTime="2005.85">
+<Sync time="2003.57"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="2033.51" endTime="2066.6" >
+<Turn speaker="S22" startTime="2033.51" endTime="2037.12">
+<Sync time="2033.51"/>
+some day
+</Turn>
+<Turn speaker="S32" startTime="2037.12" endTime="2054.7">
+<Sync time="2037.12"/>
+whoa whoa whoa
+</Turn>
+<Turn speaker="S5" startTime="2054.7" endTime="2057.82">
+<Sync time="2054.7"/>
+ooh
+</Turn>
+<Turn speaker="S4" startTime="2057.82" endTime="2066.6">
+<Sync time="2057.82"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="2083.71" endTime="2088.02" >
+<Turn speaker="S33" startTime="2083.71" endTime="2088.02">
+<Sync time="2083.71"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="2113.96" endTime="2121.86" >
+<Turn speaker="S21" startTime="2113.96" endTime="2121.86">
+<Sync time="2113.96"/>
+you can just shit
+</Turn>
+</Section>
+<Section type="report" startTime="2141.48" endTime="2150.65" >
+<Turn speaker="S25" startTime="2141.48" endTime="2143.09">
+<Sync time="2141.48"/>
+no
+</Turn>
+<Turn speaker="S19" startTime="2143.09" endTime="2150.65">
+<Sync time="2143.09"/>
+where are you
+</Turn>
+</Section>
+<Section type="report" startTime="2155.61" endTime="2216.69" >
+<Turn speaker="S14" startTime="2155.61" endTime="2180.82">
+<Sync time="2155.61"/>
+oh no
+</Turn>
+<Turn speaker="S4" startTime="2180.82" endTime="2216.69">
+<Sync time="2180.82"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="2226.96" endTime="2284.73" >
+<Turn speaker="S22" startTime="2226.96" endTime="2239.32">
+<Sync time="2226.96"/>
+then
+</Turn>
+<Turn speaker="S4" startTime="2239.32" endTime="2254.76">
+<Sync time="2239.32"/>
+when was
+</Turn>
+<Turn speaker="S5" startTime="2254.76" endTime="2267.22">
+<Sync time="2254.76"/>
+yeah
+</Turn>
+<Turn speaker="S4" startTime="2267.22" endTime="2284.73">
+<Sync time="2267.22"/>
+why
+</Turn>
+</Section>
+<Section type="report" startTime="2327.73" endTime="2352.0" >
+<Turn speaker="S8" startTime="2327.73" endTime="2352.0">
+<Sync time="2327.73"/>
+all the other phone
+</Turn>
+</Section>
+<Section type="report" startTime="2360.43" endTime="2417.69" >
+<Turn speaker="S22" startTime="2360.43" endTime="2372.81">
+<Sync time="2360.43"/>
+and do it
+</Turn>
+<Turn speaker="S4" startTime="2372.81" endTime="2389.38">
+<Sync time="2372.81"/>
+man
+</Turn>
+<Turn speaker="S5" startTime="2389.38" endTime="2400.51">
+<Sync time="2389.38"/>
+yeah
+</Turn>
+<Turn speaker="S4" startTime="2400.51" endTime="2417.69">
+<Sync time="2400.51"/>
+why why
+</Turn>
+</Section>
+<Section type="report" startTime="2420.1" endTime="2435.74" >
+<Turn speaker="S4" startTime="2420.1" endTime="2432.8">
+<Sync time="2420.1"/>
+yeah
+</Turn>
+<Turn speaker="S5" startTime="2432.8" endTime="2435.74">
+<Sync time="2432.8"/>
+the thing
+</Turn>
+</Section>
+<Section type="report" startTime="2476.2" endTime="2517.61" >
+<Turn speaker="S24" startTime="2476.2" endTime="2487.05">
+<Sync time="2476.2"/>
+okay
+</Turn>
+<Turn speaker="S3" startTime="2487.05" endTime="2491.25">
+<Sync time="2487.05"/>
+no
+</Turn>
+<Turn speaker="S28" startTime="2491.25" endTime="2499.47">
+<Sync time="2491.25"/>
+you know
+</Turn>
+<Turn speaker="S25" startTime="2499.47" endTime="2502.51">
+<Sync time="2499.47"/>
+yeah
+</Turn>
+<Turn speaker="S10" startTime="2502.51" endTime="2503.71">
+<Sync time="2502.51"/>
+okay
+</Turn>
+<Turn speaker="S24" startTime="2503.71" endTime="2507.34">
+<Sync time="2503.71"/>
+okay
+</Turn>
+<Turn speaker="S28" startTime="2507.34" endTime="2517.61">
+<Sync time="2507.34"/>
+alright
+</Turn>
+</Section>
+<Section type="report" startTime="2544.38" endTime="2666.8" >
+<Turn speaker="S34" startTime="2544.38" endTime="2609.76">
+<Sync time="2544.38"/>
+whoa
+</Turn>
+<Turn speaker="S22" startTime="2609.76" endTime="2611.56">
+<Sync time="2609.76"/>
+no
+</Turn>
+<Turn speaker="S34" startTime="2611.56" endTime="2665.34">
+<Sync time="2611.56"/>
+i no no i don't know
+</Turn>
+<Turn speaker="S17" startTime="2665.34" endTime="2666.8">
+<Sync time="2665.34"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="2670.86" endTime="2677.79" >
+<Turn speaker="S25" startTime="2670.86" endTime="2677.79">
+<Sync time="2670.86"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="2692.26" endTime="2741.36" >
+<Turn speaker="S3" startTime="2692.26" endTime="2703.06">
+<Sync time="2692.26"/>
+you know i'm home alone
+</Turn>
+<Turn speaker="S34" startTime="2703.06" endTime="2735.07">
+<Sync time="2703.06"/>
+no no no no
+</Turn>
+<Turn speaker="S10" startTime="2735.07" endTime="2741.36">
+<Sync time="2735.07"/>
+know
+</Turn>
+</Section>
+<Section type="report" startTime="2743.57" endTime="2777.55" >
+<Turn speaker="S4" startTime="2743.57" endTime="2769.38">
+<Sync time="2743.57"/>
+well i don't know
+</Turn>
+<Turn speaker="S3" startTime="2769.38" endTime="2777.55">
+<Sync time="2769.38"/>
+yeah he told me about it
+</Turn>
+</Section>
+<Section type="report" startTime="2832.39" endTime="2876.07" >
+<Turn speaker="S10" startTime="2832.39" endTime="2841.61">
+<Sync time="2832.39"/>
+okay
+</Turn>
+<Turn speaker="S22" startTime="2841.61" endTime="2876.07">
+<Sync time="2841.61"/>
+we're in the last game that we got so much
+</Turn>
+</Section>
+<Section type="report" startTime="2897.22" endTime="2937.78" >
+<Turn speaker="S4" startTime="2897.22" endTime="2937.78">
+<Sync time="2897.22"/>
+that's why
+</Turn>
+</Section>
+<Section type="report" startTime="2973.56" endTime="3004.53" >
+<Turn speaker="S3" startTime="2973.56" endTime="3004.53">
+<Sync time="2973.56"/>
+on all day while i was on a day
+</Turn>
+</Section>
+<Section type="report" startTime="3011.56" endTime="3078.6" >
+<Turn speaker="S25" startTime="3011.56" endTime="3018.52">
+<Sync time="3011.56"/>
+whoa
+</Turn>
+<Turn speaker="S35" startTime="3018.52" endTime="3040.48">
+<Sync time="3018.52"/>
+oh
+</Turn>
+<Turn speaker="S1" startTime="3040.48" endTime="3054.56">
+<Sync time="3040.48"/>
+oh
+</Turn>
+<Turn speaker="S36" startTime="3054.56" endTime="3061.71">
+<Sync time="3054.56"/>
+whoa
+</Turn>
+<Turn speaker="S1" startTime="3061.71" endTime="3071.0">
+<Sync time="3061.71"/>
+oh
+</Turn>
+<Turn speaker="S35" startTime="3071.0" endTime="3078.6">
+<Sync time="3071.0"/>
+whoa
+</Turn>
+</Section>
+<Section type="report" startTime="3106.0" endTime="3119.62" >
+<Turn speaker="S20" startTime="3106.0" endTime="3114.13">
+<Sync time="3106.0"/>
+yeah
+</Turn>
+<Turn speaker="S24" startTime="3114.13" endTime="3119.62">
+<Sync time="3114.13"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="3124.36" endTime="3296.37" >
+<Turn speaker="S10" startTime="3124.36" endTime="3130.49">
+<Sync time="3124.36"/>
+that way
+</Turn>
+<Turn speaker="S37" startTime="3130.49" endTime="3197.16">
+<Sync time="3130.49"/>
+so i don't know
+</Turn>
+<Turn speaker="S30" startTime="3197.16" endTime="3205.66">
+<Sync time="3197.16"/>
+okay it's a long way away
+</Turn>
+<Turn speaker="S37" startTime="3205.66" endTime="3226.98">
+<Sync time="3205.66"/>
+oh cool
+</Turn>
+<Turn speaker="S17" startTime="3226.98" endTime="3247.63">
+<Sync time="3226.98"/>
+hey hey hey hey a a a a
+</Turn>
+<Turn speaker="S37" startTime="3247.63" endTime="3296.37">
+<Sync time="3247.63"/>
+i don't know anything
+</Turn>
+</Section>
+<Section type="report" startTime="3309.75" endTime="3323.38" >
+<Turn speaker="S34" startTime="3309.75" endTime="3312.55">
+<Sync time="3309.75"/>
+no
+</Turn>
+<Turn speaker="S7" startTime="3312.55" endTime="3323.38">
+<Sync time="3312.55"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="3333.02" endTime="3340.94" >
+<Turn speaker="S29" startTime="3333.02" endTime="3340.94">
+<Sync time="3333.02"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="3343.13" endTime="3369.62" >
+<Turn speaker="S29" startTime="3343.13" endTime="3363.13">
+<Sync time="3343.13"/>
+i'm in boston for outdoor or indoor
+</Turn>
+<Turn speaker="S24" startTime="3363.13" endTime="3369.62">
+<Sync time="3363.13"/>
+oh okay
+</Turn>
+</Section>
+<Section type="report" startTime="3375.45" endTime="3378.61" >
+<Turn speaker="S28" startTime="3375.45" endTime="3378.61">
+<Sync time="3375.45"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="3382.5" endTime="3407.09" >
+<Turn speaker="S29" startTime="3382.5" endTime="3397.64">
+<Sync time="3382.5"/>
+oh i'm you're like actively
+</Turn>
+<Turn speaker="S20" startTime="3397.64" endTime="3399.38">
+<Sync time="3397.64"/>
+no
+</Turn>
+<Turn speaker="S10" startTime="3399.38" endTime="3406.09">
+<Sync time="3399.38"/>
+who
+</Turn>
+<Turn speaker="S28" startTime="3406.09" endTime="3407.09">
+<Sync time="3406.09"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="3444.37" endTime="3530.34" >
+<Turn speaker="S38" startTime="3444.37" endTime="3468.58">
+<Sync time="3444.37"/>
+i don't know why why why don't from there
+</Turn>
+<Turn speaker="S4" startTime="3468.58" endTime="3473.74">
+<Sync time="3468.58"/>
+oh
+</Turn>
+<Turn speaker="S17" startTime="3473.74" endTime="3475.56">
+<Sync time="3473.74"/>
+am
+</Turn>
+<Turn speaker="S4" startTime="3475.56" endTime="3484.44">
+<Sync time="3475.56"/>
+okay
+</Turn>
+<Turn speaker="S8" startTime="3484.44" endTime="3513.81">
+<Sync time="3484.44"/>
+taste you know or oh whoa whoa whoa whoa whoa whoa
+</Turn>
+<Turn speaker="S38" startTime="3513.81" endTime="3530.34">
+<Sync time="3513.81"/>
+no no no no
+</Turn>
+</Section>
+<Section type="report" startTime="3567.77" endTime="3678.72" >
+<Turn speaker="S38" startTime="3567.77" endTime="3604.72">
+<Sync time="3567.77"/>
+no no no no no no no i don't know why why
+</Turn>
+<Turn speaker="S8" startTime="3604.72" endTime="3634.34">
+<Sync time="3604.72"/>
+mom or oh
+</Turn>
+<Turn speaker="S38" startTime="3634.34" endTime="3652.14">
+<Sync time="3634.34"/>
+well i was going on one last night
+</Turn>
+<Turn speaker="S17" startTime="3652.14" endTime="3654.72">
+<Sync time="3652.14"/>
+new
+</Turn>
+<Turn speaker="S3" startTime="3654.72" endTime="3657.03">
+<Sync time="3654.72"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="3657.03" endTime="3660.17">
+<Sync time="3657.03"/>
+whoa
+</Turn>
+<Turn speaker="S27" startTime="3660.17" endTime="3678.72">
+<Sync time="3660.17"/>
+it's a little too away
+</Turn>
+</Section>
+<Section type="report" startTime="3701.37" endTime="3715.19" >
+<Turn speaker="S38" startTime="3701.37" endTime="3715.19">
+<Sync time="3701.37"/>
+no me neither
+</Turn>
+</Section>
+<Section type="report" startTime="3718.09" endTime="3757.69" >
+<Turn speaker="S13" startTime="3718.09" endTime="3719.61">
+<Sync time="3718.09"/>
+okay
+</Turn>
+<Turn speaker="S8" startTime="3719.61" endTime="3725.92">
+<Sync time="3719.61"/>
+hey
+</Turn>
+<Turn speaker="S27" startTime="3725.92" endTime="3757.69">
+<Sync time="3725.92"/>
+no no no no
+</Turn>
+</Section>
+<Section type="report" startTime="3765.86" endTime="3787.95" >
+<Turn speaker="S1" startTime="3765.86" endTime="3774.48">
+<Sync time="3765.86"/>
+oh
+</Turn>
+<Turn speaker="S39" startTime="3774.48" endTime="3783.22">
+<Sync time="3774.48"/>
+oh
+</Turn>
+<Turn speaker="S40" startTime="3783.22" endTime="3787.95">
+<Sync time="3783.22"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="3787.71" endTime="3853.22" >
+<Turn speaker="S41" startTime="3787.71" endTime="3853.22">
+<Sync time="3787.71"/>
+mhm
+</Turn>
+</Section>
+</Episode>
+</Trans>

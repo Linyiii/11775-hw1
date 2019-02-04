@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5242" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="28.8" >
+<Turn speaker="S1" startTime="0.0" endTime="6.81">
+<Sync time="0.0"/>
+tell the computer cheaper you call the like that tree
+</Turn>
+<Turn speaker="S2" startTime="6.81" endTime="11.72">
+<Sync time="6.81"/>
+yeah is it big
+</Turn>
+<Turn speaker="S3" startTime="11.72" endTime="18.23">
+<Sync time="11.72"/>
+it's not big it's taller than you it's taller
+</Turn>
+<Turn speaker="S4" startTime="18.23" endTime="23.49">
+<Sync time="18.23"/>
+say make christmas happy hanukkah
+</Turn>
+<Turn speaker="S5" startTime="23.49" endTime="28.8">
+<Sync time="23.49"/>
+huh yeah
+</Turn>
+</Section>
+<Section type="report" startTime="32.31" endTime="36.25" >
+<Turn speaker="S6" startTime="32.31" endTime="36.25">
+<Sync time="32.31"/>
+my hamburger
+</Turn>
+</Section>
+</Episode>
+</Trans>

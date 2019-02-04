@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3927" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="7.31" endTime="217.78" >
+<Turn speaker="S1" startTime="7.31" endTime="13.26">
+<Sync time="7.31"/>
+when they're yeah
+</Turn>
+<Turn speaker="S2" startTime="13.26" endTime="27.97">
+<Sync time="13.26"/>
+um
+</Turn>
+<Turn speaker="S3" startTime="27.97" endTime="44.77">
+<Sync time="27.97"/>
+like he's handling he's obviously doing
+</Turn>
+<Turn speaker="S4" startTime="44.77" endTime="54.69">
+<Sync time="44.77"/>
+unacceptable spontaneous against you
+</Turn>
+<Turn speaker="S1" startTime="54.69" endTime="82.44">
+<Sync time="54.69"/>
+i didn't a little more begin to to pay pay i pay for patients and i turned out
+</Turn>
+<Turn speaker="S3" startTime="82.44" endTime="114.5">
+<Sync time="82.44"/>
+last time he learned today a beautiful thing is your favorite christmas carol right now well uh i can okay you have any
+</Turn>
+<Turn speaker="S5" startTime="114.5" endTime="125.68">
+<Sync time="114.5"/>
+it's like come on hold on let me take a picture
+</Turn>
+<Turn speaker="S6" startTime="125.68" endTime="162.2">
+<Sync time="125.68"/>
+she got she got her word like working out oh yeah there you know look at her mom and dad and my aunt now i'm sure you've broken policy right by the way oh oh yeah
+</Turn>
+<Turn speaker="S5" startTime="162.2" endTime="176.7">
+<Sync time="162.2"/>
+i don't know um
+</Turn>
+<Turn speaker="S6" startTime="176.7" endTime="181.27">
+<Sync time="176.7"/>
+color okay
+</Turn>
+<Turn speaker="S5" startTime="181.27" endTime="210.54">
+<Sync time="181.27"/>
+time with a paintbrush depending on how many more than what a great way to wait a minute hold on
+</Turn>
+<Turn speaker="S3" startTime="210.54" endTime="217.78">
+<Sync time="210.54"/>
+the real deal for me working as well but look
+</Turn>
+</Section>
+<Section type="report" startTime="217.91" endTime="233.94" >
+<Turn speaker="S5" startTime="217.91" endTime="233.94">
+<Sync time="217.91"/>
+labor look at the the people in my hand and starts getting maintaining all day
+</Turn>
+</Section>
+</Episode>
+</Trans>

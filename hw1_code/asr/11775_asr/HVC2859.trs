@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2859" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="2.97" >
+<Turn speaker="S1" startTime="0.0" endTime="2.97">
+<Sync time="0.0"/>
+turn the other way this way
+</Turn>
+</Section>
+<Section type="report" startTime="10.18" endTime="22.44" >
+<Turn speaker="S1" startTime="10.18" endTime="22.44">
+<Sync time="10.18"/>
+just like keep going but somebody you fix in the car going and doing a good job
+</Turn>
+</Section>
+<Section type="report" startTime="26.72" endTime="54.14" >
+<Turn speaker="S1" startTime="26.72" endTime="54.14">
+<Sync time="26.72"/>
+i used to other way go this way keep going this way all the way around to do it together here you go when you have he'd go and you got it
+</Turn>
+</Section>
+<Section type="report" startTime="58.36" endTime="72.94" >
+<Turn speaker="S1" startTime="58.36" endTime="72.94">
+<Sync time="58.36"/>
+okay you do it you know leave it on did you give me a thumbs up after them
+</Turn>
+</Section>
+</Episode>
+</Trans>

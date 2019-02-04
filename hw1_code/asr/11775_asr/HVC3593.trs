@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3593" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="66.24" endTime="87.83" >
+<Turn speaker="S1" startTime="66.24" endTime="87.83">
+<Sync time="66.24"/>
+and then
+</Turn>
+</Section>
+<Section type="report" startTime="308.54" endTime="367.44" >
+<Turn speaker="S2" startTime="308.54" endTime="362.13">
+<Sync time="308.54"/>
+na na na na na na na na na na na na na na na na na na na no nnn
+</Turn>
+<Turn speaker="S3" startTime="362.13" endTime="367.44">
+<Sync time="362.13"/>
+and uh
+</Turn>
+</Section>
+<Section type="report" startTime="367.48" endTime="434.01" >
+<Turn speaker="S4" startTime="367.48" endTime="434.01">
+<Sync time="367.48"/>
+yeah they're they're both live their lives
+</Turn>
+</Section>
+<Section type="report" startTime="463.33" endTime="492.85" >
+<Turn speaker="S4" startTime="463.33" endTime="492.85">
+<Sync time="463.33"/>
+where where where they
+</Turn>
+</Section>
+<Section type="report" startTime="507.42" endTime="552.56" >
+<Turn speaker="S5" startTime="507.42" endTime="551.41">
+<Sync time="507.42"/>
+mm mm mm
+</Turn>
+<Turn speaker="S3" startTime="551.41" endTime="552.56">
+<Sync time="551.41"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

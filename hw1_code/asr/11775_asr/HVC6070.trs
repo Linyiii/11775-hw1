@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6070" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.09" endTime="11.61" >
+<Turn speaker="S1" startTime="4.09" endTime="11.61">
+<Sync time="4.09"/>
+feel that you know
+</Turn>
+</Section>
+<Section type="report" startTime="12.86" endTime="38.17" >
+<Turn speaker="S1" startTime="12.86" endTime="38.17">
+<Sync time="12.86"/>
+um for a long time but
+</Turn>
+</Section>
+<Section type="report" startTime="50.23" endTime="67.27" >
+<Turn speaker="S1" startTime="50.23" endTime="67.27">
+<Sync time="50.23"/>
+i was so good for the most
+</Turn>
+</Section>
+<Section type="report" startTime="68.02" endTime="90.82" >
+<Turn speaker="S1" startTime="68.02" endTime="90.82">
+<Sync time="68.02"/>
+i mean how many okay i knew
+</Turn>
+</Section>
+</Episode>
+</Trans>

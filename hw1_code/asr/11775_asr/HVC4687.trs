@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4687" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.61" endTime="22.99" >
+<Turn speaker="S1" startTime="0.61" endTime="7.52">
+<Sync time="0.61"/>
+yeah
+</Turn>
+<Turn speaker="S2" startTime="7.52" endTime="20.46">
+<Sync time="7.52"/>
+yeah we're actually got hooked on your door in the background i don't know you're not kidding me
+</Turn>
+<Turn speaker="S3" startTime="20.46" endTime="22.99">
+<Sync time="20.46"/>
+yeah i knew that call
+</Turn>
+</Section>
+</Episode>
+</Trans>

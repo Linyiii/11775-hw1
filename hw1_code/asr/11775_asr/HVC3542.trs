@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3542" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="96.2" endTime="154.97" >
+<Turn speaker="S1" startTime="96.2" endTime="134.19">
+<Sync time="96.2"/>
+to settle down and even new who
+</Turn>
+<Turn speaker="S2" startTime="134.19" endTime="154.97">
+<Sync time="134.19"/>
+mm
+</Turn>
+</Section>
+<Section type="report" startTime="257.95" endTime="450.8" >
+<Turn speaker="S3" startTime="257.95" endTime="290.09">
+<Sync time="257.95"/>
+in order to be a little bit of the world
+</Turn>
+<Turn speaker="S4" startTime="290.09" endTime="312.52">
+<Sync time="290.09"/>
+who who who who who will
+</Turn>
+<Turn speaker="S3" startTime="312.52" endTime="429.03">
+<Sync time="312.52"/>
+really struggling to pay anything today you know under the table to the whole thing and they can go to school in in in the middle and the they don't do anything to to to to do that in usually in the news now you know and
+</Turn>
+<Turn speaker="S5" startTime="429.03" endTime="450.8">
+<Sync time="429.03"/>
+uh
+</Turn>
+</Section>
+</Episode>
+</Trans>

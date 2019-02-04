@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4366" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="5.15" >
+<Turn speaker="S1" startTime="0.0" endTime="5.15">
+<Sync time="0.0"/>
+they and and and i
+</Turn>
+</Section>
+<Section type="report" startTime="12.61" endTime="97.34" >
+<Turn speaker="S2" startTime="12.61" endTime="23.99">
+<Sync time="12.61"/>
+oh no no he's too
+</Turn>
+<Turn speaker="S3" startTime="23.99" endTime="27.98">
+<Sync time="23.99"/>
+so uh i had a little money i know
+</Turn>
+<Turn speaker="S4" startTime="27.98" endTime="31.45">
+<Sync time="27.98"/>
+mhm
+</Turn>
+<Turn speaker="S5" startTime="31.45" endTime="39.36">
+<Sync time="31.45"/>
+she was telling me that
+</Turn>
+<Turn speaker="S6" startTime="39.36" endTime="46.75">
+<Sync time="39.36"/>
+around and she just
+</Turn>
+<Turn speaker="S7" startTime="46.75" endTime="58.46">
+<Sync time="46.75"/>
+um well um
+</Turn>
+<Turn speaker="S8" startTime="58.46" endTime="61.99">
+<Sync time="58.46"/>
+uh uh
+</Turn>
+<Turn speaker="S9" startTime="61.99" endTime="68.08">
+<Sync time="61.99"/>
+and very alive
+</Turn>
+<Turn speaker="S10" startTime="68.08" endTime="74.69">
+<Sync time="68.08"/>
+yeah and um
+</Turn>
+<Turn speaker="S11" startTime="74.69" endTime="78.31">
+<Sync time="74.69"/>
+mhm
+</Turn>
+<Turn speaker="S12" startTime="78.31" endTime="84.75">
+<Sync time="78.31"/>
+right
+</Turn>
+<Turn speaker="S13" startTime="84.75" endTime="92.43">
+<Sync time="84.75"/>
+and um you know the guy i know
+</Turn>
+<Turn speaker="S14" startTime="92.43" endTime="97.34">
+<Sync time="92.43"/>
+and
+</Turn>
+</Section>
+</Episode>
+</Trans>

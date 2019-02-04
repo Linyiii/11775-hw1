@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5851" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="17.16" >
+<Turn speaker="S1" startTime="0.0" endTime="6.05">
+<Sync time="0.0"/>
+to go back through the metal henry
+</Turn>
+<Turn speaker="S2" startTime="6.05" endTime="11.97">
+<Sync time="6.05"/>
+like laser surgery is too expensive that call like the my other line i'll just tell them
+</Turn>
+<Turn speaker="S3" startTime="11.97" endTime="17.16">
+<Sync time="11.97"/>
+yes indeed yes variety any oh
+</Turn>
+</Section>
+</Episode>
+</Trans>

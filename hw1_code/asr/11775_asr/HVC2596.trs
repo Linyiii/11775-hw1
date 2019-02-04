@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2596" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="2.73" endTime="259.18" >
+<Turn speaker="S1" startTime="2.73" endTime="29.39">
+<Sync time="2.73"/>
+mm mm mm mm mm the main thing and uh
+</Turn>
+<Turn speaker="S2" startTime="29.39" endTime="54.98">
+<Sync time="29.39"/>
+um time by and they know that they uh to uh they they know that they have um
+</Turn>
+<Turn speaker="S3" startTime="54.98" endTime="56.55">
+<Sync time="54.98"/>
+believe me
+</Turn>
+<Turn speaker="S4" startTime="56.55" endTime="78.74">
+<Sync time="56.55"/>
+yeah when i'm now that you know ball
+</Turn>
+<Turn speaker="S5" startTime="78.74" endTime="83.88">
+<Sync time="78.74"/>
+the um
+</Turn>
+<Turn speaker="S4" startTime="83.88" endTime="107.87">
+<Sync time="83.88"/>
+a the tough row ball they'll they'll show the show
+</Turn>
+<Turn speaker="S3" startTime="107.87" endTime="130.17">
+<Sync time="107.87"/>
+the town where we are the some of the you i just have to stay in the um
+</Turn>
+<Turn speaker="S5" startTime="130.17" endTime="135.36">
+<Sync time="130.17"/>
+they know me me too
+</Turn>
+<Turn speaker="S4" startTime="135.36" endTime="155.8">
+<Sync time="135.36"/>
+um and that you know for ten well no that
+</Turn>
+<Turn speaker="S3" startTime="155.8" endTime="181.18">
+<Sync time="155.8"/>
+saying oh you know when we um some of you know just from the same way um
+</Turn>
+<Turn speaker="S5" startTime="181.18" endTime="184.67">
+<Sync time="181.18"/>
+saying um
+</Turn>
+<Turn speaker="S4" startTime="184.67" endTime="206.65">
+<Sync time="184.67"/>
+you them to live down there right now
+</Turn>
+<Turn speaker="S5" startTime="206.65" endTime="214.59">
+<Sync time="206.65"/>
+um the
+</Turn>
+<Turn speaker="S6" startTime="214.59" endTime="241.55">
+<Sync time="214.59"/>
+um i'm a i'm a i'm a i'm a
+</Turn>
+<Turn speaker="S7" startTime="241.55" endTime="259.18">
+<Sync time="241.55"/>
+the uh the uh the um
+</Turn>
+</Section>
+</Episode>
+</Trans>

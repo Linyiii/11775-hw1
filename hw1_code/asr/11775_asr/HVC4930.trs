@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4930" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.16" endTime="16.62" >
+<Turn speaker="S1" startTime="0.16" endTime="16.62">
+<Sync time="0.16"/>
+um you know
+</Turn>
+</Section>
+<Section type="report" startTime="27.41" endTime="30.69" >
+<Turn speaker="S2" startTime="27.41" endTime="30.69">
+<Sync time="27.41"/>
+right
+</Turn>
+</Section>
+<Section type="report" startTime="39.72" endTime="59.86" >
+<Turn speaker="S2" startTime="39.72" endTime="43.21">
+<Sync time="39.72"/>
+um i'm on my m._b._a.
+</Turn>
+<Turn speaker="S1" startTime="43.21" endTime="59.86">
+<Sync time="43.21"/>
+oh
+</Turn>
+</Section>
+<Section type="report" startTime="81.62" endTime="88.08" >
+<Turn speaker="S2" startTime="81.62" endTime="88.08">
+<Sync time="81.62"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="93.16" endTime="95.96" >
+<Turn speaker="S3" startTime="93.16" endTime="95.96">
+<Sync time="93.16"/>
+but i
+</Turn>
+</Section>
+<Section type="report" startTime="126.5" endTime="127.94" >
+<Turn speaker="S2" startTime="126.5" endTime="127.94">
+<Sync time="126.5"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="133.14" endTime="156.36" >
+<Turn speaker="S3" startTime="133.14" endTime="156.36">
+<Sync time="133.14"/>
+a lot of fun
+</Turn>
+</Section>
+<Section type="report" startTime="161.17" endTime="166.05" >
+<Turn speaker="S2" startTime="161.17" endTime="166.05">
+<Sync time="161.17"/>
+nah nah
+</Turn>
+</Section>
+<Section type="report" startTime="186.38" endTime="204.74" >
+<Turn speaker="S2" startTime="186.38" endTime="204.74">
+<Sync time="186.38"/>
+and then um must get a hold of the dog
+</Turn>
+</Section>
+<Section type="report" startTime="215.93" endTime="226.68" >
+<Turn speaker="S2" startTime="215.93" endTime="226.68">
+<Sync time="215.93"/>
+oh really
+</Turn>
+</Section>
+<Section type="report" startTime="250.32" endTime="251.87" >
+<Turn speaker="S2" startTime="250.32" endTime="251.87">
+<Sync time="250.32"/>
+really
+</Turn>
+</Section>
+<Section type="report" startTime="271.9" endTime="311.01" >
+<Turn speaker="S2" startTime="271.9" endTime="288.71">
+<Sync time="271.9"/>
+well i don't know
+</Turn>
+<Turn speaker="S1" startTime="288.71" endTime="311.01">
+<Sync time="288.71"/>
+yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

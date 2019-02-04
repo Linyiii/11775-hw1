@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3548" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="1.11" endTime="83.75" >
+<Turn speaker="S1" startTime="1.11" endTime="73.94">
+<Sync time="1.11"/>
+11 and can you go maybe three rows while 'cause i'm a novice and she wants to i'm trying to get this uh i'm trying to get to turn me right now without breaking it she said there's a knack for turning it so that having her look on the other side she mixture she'll see to recognize what she's doing and then you had your first one the other side with the same people
+</Turn>
+<Turn speaker="S2" startTime="73.94" endTime="83.75">
+<Sync time="73.94"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="83.87" endTime="104.84" >
+<Turn speaker="S1" startTime="83.87" endTime="104.84">
+<Sync time="83.87"/>
+she doesn't know what it's like you
+</Turn>
+</Section>
+</Episode>
+</Trans>

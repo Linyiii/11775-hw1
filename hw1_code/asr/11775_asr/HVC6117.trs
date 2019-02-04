@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6117" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="36.45" endTime="44.09" >
+<Turn speaker="S1" startTime="36.45" endTime="44.09">
+<Sync time="36.45"/>
+mm mm
+</Turn>
+</Section>
+<Section type="report" startTime="137.94" endTime="183.81" >
+<Turn speaker="S2" startTime="137.94" endTime="183.81">
+<Sync time="137.94"/>
+but you know so i don't know why why not you every time every in the case that we have and that was that was made that that the isn't that the money in the in the production of the way
+</Turn>
+</Section>
+</Episode>
+</Trans>

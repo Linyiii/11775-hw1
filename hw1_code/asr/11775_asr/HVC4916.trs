@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4916" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.1" endTime="63.29" >
+<Turn speaker="S1" startTime="4.1" endTime="27.23">
+<Sync time="4.1"/>
+you know what you went to i know when we are looking at them then you know like
+</Turn>
+<Turn speaker="S2" startTime="27.23" endTime="63.29">
+<Sync time="27.23"/>
+do you how does that we haven't really you know three hundred and you're going to have your own you know why but we are going to be a
+</Turn>
+</Section>
+</Episode>
+</Trans>

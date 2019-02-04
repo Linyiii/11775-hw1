@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4642" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.92" endTime="66.1" >
+<Turn speaker="S1" startTime="4.92" endTime="12.16">
+<Sync time="4.92"/>
+but
+</Turn>
+<Turn speaker="S2" startTime="12.16" endTime="32.86">
+<Sync time="12.16"/>
+there you go good job i do try it again back up i try one more time with that same rock please don't push pusher
+</Turn>
+<Turn speaker="S1" startTime="32.86" endTime="49.18">
+<Sync time="32.86"/>
+perfect site
+</Turn>
+<Turn speaker="S2" startTime="49.18" endTime="55.31">
+<Sync time="49.18"/>
+good job and
+</Turn>
+<Turn speaker="S1" startTime="55.31" endTime="66.1">
+<Sync time="55.31"/>
+and get it
+</Turn>
+</Section>
+<Section type="report" startTime="66.32" endTime="80.5" >
+<Turn speaker="S2" startTime="66.32" endTime="80.5">
+<Sync time="66.32"/>
+yeah that was great i don't go in the street okay
+</Turn>
+</Section>
+</Episode>
+</Trans>

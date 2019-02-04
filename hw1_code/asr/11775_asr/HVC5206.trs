@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5206" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S15" name="K15" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S16" name="K16" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S17" name="K17" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S18" name="K18" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.06" endTime="14.16" >
+<Turn speaker="S1" startTime="0.06" endTime="5.5">
+<Sync time="0.06"/>
+mm no problem like when i one
+</Turn>
+<Turn speaker="S2" startTime="5.5" endTime="14.16">
+<Sync time="5.5"/>
+no no no no not not not muslim
+</Turn>
+</Section>
+<Section type="report" startTime="19.47" endTime="141.84" >
+<Turn speaker="S3" startTime="19.47" endTime="29.75">
+<Sync time="19.47"/>
+right
+</Turn>
+<Turn speaker="S4" startTime="29.75" endTime="36.52">
+<Sync time="29.75"/>
+yeah language
+</Turn>
+<Turn speaker="S5" startTime="36.52" endTime="40.46">
+<Sync time="36.52"/>
+oh you download um you know when
+</Turn>
+<Turn speaker="S6" startTime="40.46" endTime="48.22">
+<Sync time="40.46"/>
+and i am and man almost mm mm
+</Turn>
+<Turn speaker="S7" startTime="48.22" endTime="51.97">
+<Sync time="48.22"/>
+eh
+</Turn>
+<Turn speaker="S8" startTime="51.97" endTime="61.55">
+<Sync time="51.97"/>
+no no no do
+</Turn>
+<Turn speaker="S9" startTime="61.55" endTime="67.99">
+<Sync time="61.55"/>
+and uh in running i no nothing i'm around another i'm uh you know
+</Turn>
+<Turn speaker="S10" startTime="67.99" endTime="72.05">
+<Sync time="67.99"/>
+mhm
+</Turn>
+<Turn speaker="S11" startTime="72.05" endTime="87.25">
+<Sync time="72.05"/>
+oh no no
+</Turn>
+<Turn speaker="S12" startTime="87.25" endTime="91.91">
+<Sync time="87.25"/>
+and then uh
+</Turn>
+<Turn speaker="S13" startTime="91.91" endTime="94.7">
+<Sync time="91.91"/>
+real good then
+</Turn>
+<Turn speaker="S14" startTime="94.7" endTime="103.97">
+<Sync time="94.7"/>
+they are in illinois and and they are you
+</Turn>
+<Turn speaker="S15" startTime="103.97" endTime="112.53">
+<Sync time="103.97"/>
+uh and i haven't i've not not that i love them
+</Turn>
+<Turn speaker="S16" startTime="112.53" endTime="117.47">
+<Sync time="112.53"/>
+no no not really like that
+</Turn>
+<Turn speaker="S17" startTime="117.47" endTime="128.87">
+<Sync time="117.47"/>
+have to cut them on on know nine eleven i haven't done that one i know well not not eating any non smoking um
+</Turn>
+<Turn speaker="S18" startTime="128.87" endTime="141.84">
+<Sync time="128.87"/>
+no i'm like what i'm saying i mean like
+</Turn>
+</Section>
+</Episode>
+</Trans>

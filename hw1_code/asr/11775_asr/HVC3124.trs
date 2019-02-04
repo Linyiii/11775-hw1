@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3124" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.29" endTime="31.15" >
+<Turn speaker="S1" startTime="3.29" endTime="19.31">
+<Sync time="3.29"/>
+there's this whole nine san francisco golden gate park i like this whole because i'm really enjoying things i was thinking of going out there nice sweet somehow it sounds like and finally man
+</Turn>
+<Turn speaker="S2" startTime="19.31" endTime="31.15">
+<Sync time="19.31"/>
+well that's good
+</Turn>
+</Section>
+<Section type="report" startTime="43.16" endTime="64.24" >
+<Turn speaker="S3" startTime="43.16" endTime="64.24">
+<Sync time="43.16"/>
+like my friends in the middle of twenty seven acres is christmas tree farm which is sixty acre of land and my my flower
+</Turn>
+</Section>
+<Section type="report" startTime="79.03" endTime="129.22" >
+<Turn speaker="S1" startTime="79.03" endTime="122.36">
+<Sync time="79.03"/>
+when you were at least you can hear jumped one that was illegal i don't get a warning warning thank you again and i really and you can you can you can really hurt you or you can actually like one
+</Turn>
+<Turn speaker="S4" startTime="122.36" endTime="129.22">
+<Sync time="122.36"/>
+oh nice
+</Turn>
+</Section>
+<Section type="report" startTime="150.15" endTime="175.42" >
+<Turn speaker="S4" startTime="150.15" endTime="160.09">
+<Sync time="150.15"/>
+last for a death row work down the middle there huh
+</Turn>
+<Turn speaker="S1" startTime="160.09" endTime="175.42">
+<Sync time="160.09"/>
+and actually they have no problem i saw that yeah you're right i would say from another o._b. which i had a whole number three
+</Turn>
+</Section>
+<Section type="report" startTime="183.38" endTime="212.41" >
+<Turn speaker="S4" startTime="183.38" endTime="212.41">
+<Sync time="183.38"/>
+oh you play golf or lucille i'm not anywhere near as long as i say like your whole yeah like that's why
+</Turn>
+</Section>
+</Episode>
+</Trans>

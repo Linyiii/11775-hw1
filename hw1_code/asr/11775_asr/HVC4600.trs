@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4600" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="3.88" >
+<Turn speaker="S1" startTime="0.03" endTime="3.88">
+<Sync time="0.03"/>
+what made you joined the marine corps the free documentary
+</Turn>
+</Section>
+<Section type="report" startTime="4.32" endTime="35.6" >
+<Turn speaker="S1" startTime="4.32" endTime="35.6">
+<Sync time="4.32"/>
+no family my family okay and then my said that is why the hell are you going to do that 'cause he was in mhm talking about but now i realize now i realize that you're and i should listen to people who've been there done that so like in a home doing absolutely nothing right now if my life and it'd be fucking awesome
+</Turn>
+</Section>
+</Episode>
+</Trans>

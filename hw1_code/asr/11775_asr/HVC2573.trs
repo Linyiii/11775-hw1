@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2573" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="14.24" endTime="20.12" >
+<Turn speaker="S1" startTime="14.24" endTime="20.12">
+<Sync time="14.24"/>
+mm mm
+</Turn>
+</Section>
+<Section type="report" startTime="40.95" endTime="57.6" >
+<Turn speaker="S1" startTime="40.95" endTime="44.7">
+<Sync time="40.95"/>
+and
+</Turn>
+<Turn speaker="S2" startTime="44.7" endTime="57.6">
+<Sync time="44.7"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="140.1" endTime="152.4" >
+<Turn speaker="S3" startTime="140.1" endTime="152.4">
+<Sync time="140.1"/>
+they do
+</Turn>
+</Section>
+<Section type="report" startTime="249.02" endTime="266.96" >
+<Turn speaker="S4" startTime="249.02" endTime="266.96">
+<Sync time="249.02"/>
+the i love the game taking a lung disease
+</Turn>
+</Section>
+<Section type="report" startTime="287.36" endTime="294.56" >
+<Turn speaker="S5" startTime="287.36" endTime="294.56">
+<Sync time="287.36"/>
+a game a day
+</Turn>
+</Section>
+<Section type="report" startTime="350.58" endTime="356.46" >
+<Turn speaker="S1" startTime="350.58" endTime="356.46">
+<Sync time="350.58"/>
+in order to do that
+</Turn>
+</Section>
+</Episode>
+</Trans>

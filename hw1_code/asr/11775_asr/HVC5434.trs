@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5434" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.11" endTime="180.65" >
+<Turn speaker="S1" startTime="0.11" endTime="16.25">
+<Sync time="0.11"/>
+ready ready burnt burning reading jeremy where shall we say yes or no
+</Turn>
+<Turn speaker="S2" startTime="16.25" endTime="25.44">
+<Sync time="16.25"/>
+mm mm mm
+</Turn>
+<Turn speaker="S3" startTime="25.44" endTime="58.31">
+<Sync time="25.44"/>
+right the we just moved out when they go okay you are going to go to orange or regular um you will go the road rules
+</Turn>
+<Turn speaker="S2" startTime="58.31" endTime="65.75">
+<Sync time="58.31"/>
+well
+</Turn>
+<Turn speaker="S4" startTime="65.75" endTime="81.72">
+<Sync time="65.75"/>
+oh my god
+</Turn>
+<Turn speaker="S2" startTime="81.72" endTime="99.4">
+<Sync time="81.72"/>
+be ready for a jazzercise he was just because you're part of the environment
+</Turn>
+<Turn speaker="S5" startTime="99.4" endTime="127.93">
+<Sync time="99.4"/>
+charge for hikes getting the age range
+</Turn>
+<Turn speaker="S4" startTime="127.93" endTime="134.37">
+<Sync time="127.93"/>
+a big building
+</Turn>
+<Turn speaker="S5" startTime="134.37" endTime="143.37">
+<Sync time="134.37"/>
+best thing
+</Turn>
+<Turn speaker="S4" startTime="143.37" endTime="171.44">
+<Sync time="143.37"/>
+well you not in the
+</Turn>
+<Turn speaker="S3" startTime="171.44" endTime="180.65">
+<Sync time="171.44"/>
+how about you
+</Turn>
+</Section>
+<Section type="report" startTime="193.81" endTime="235.82" >
+<Turn speaker="S4" startTime="193.81" endTime="206.48">
+<Sync time="193.81"/>
+i'm not i'm not
+</Turn>
+<Turn speaker="S6" startTime="206.48" endTime="235.82">
+<Sync time="206.48"/>
+you know work was another i mean usually call whether it be crying laughing and and the guy was another every day and the longer i just
+</Turn>
+</Section>
+<Section type="report" startTime="243.89" endTime="286.82" >
+<Turn speaker="S1" startTime="243.89" endTime="286.82">
+<Sync time="243.89"/>
+i'm not not on it what am i did that what what if i actually did did you feel bad you know the last down here what happened by my wife discharge any other story no
+</Turn>
+</Section>
+</Episode>
+</Trans>

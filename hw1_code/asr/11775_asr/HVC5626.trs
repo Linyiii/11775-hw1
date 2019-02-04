@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5626" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="24.63" endTime="51.1" >
+<Turn speaker="S1" startTime="24.63" endTime="51.1">
+<Sync time="24.63"/>
+no one told me
+</Turn>
+</Section>
+<Section type="report" startTime="63.63" endTime="117.38" >
+<Turn speaker="S1" startTime="63.63" endTime="117.38">
+<Sync time="63.63"/>
+i think that that bond with your parents your mom
+</Turn>
+</Section>
+<Section type="report" startTime="133.04" endTime="155.42" >
+<Turn speaker="S1" startTime="133.04" endTime="155.42">
+<Sync time="133.04"/>
+oh how old are you
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3802" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="8.27" endTime="72.76" >
+<Turn speaker="S1" startTime="8.27" endTime="72.76">
+<Sync time="8.27"/>
+so that may be on my oh man no no that was a model and i don't get it
+</Turn>
+</Section>
+<Section type="report" startTime="73.0" endTime="90.0" >
+<Turn speaker="S2" startTime="73.0" endTime="90.0">
+<Sync time="73.0"/>
+really
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2707" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="5.98" endTime="194.87" >
+<Turn speaker="S1" startTime="5.98" endTime="137.66">
+<Sync time="5.98"/>
+no you know my mind and they got dog also or does that mean you know and then they can prevent that from your blood that we should pay more for all phone call them and um i know i'm trying to um and i can't remember when they were and ah i don't know what those are know that whole thing
+</Turn>
+<Turn speaker="S2" startTime="137.66" endTime="143.57">
+<Sync time="137.66"/>
+no
+</Turn>
+<Turn speaker="S3" startTime="143.57" endTime="164.85">
+<Sync time="143.57"/>
+i mean confidence oh yeah
+</Turn>
+<Turn speaker="S2" startTime="164.85" endTime="179.81">
+<Sync time="164.85"/>
+okay
+</Turn>
+<Turn speaker="S3" startTime="179.81" endTime="194.87">
+<Sync time="179.81"/>
+oh okay i have the you know and then they do
+</Turn>
+</Section>
+<Section type="report" startTime="198.2" endTime="207.35" >
+<Turn speaker="S3" startTime="198.2" endTime="207.35">
+<Sync time="198.2"/>
+i agree yeah
+</Turn>
+</Section>
+<Section type="report" startTime="215.29" endTime="238.0" >
+<Turn speaker="S4" startTime="215.29" endTime="227.94">
+<Sync time="215.29"/>
+and the cool
+</Turn>
+<Turn speaker="S5" startTime="227.94" endTime="238.0">
+<Sync time="227.94"/>
+and
+</Turn>
+</Section>
+<Section type="report" startTime="253.51" endTime="263.23" >
+<Turn speaker="S4" startTime="253.51" endTime="263.23">
+<Sync time="253.51"/>
+and then
+</Turn>
+</Section>
+<Section type="report" startTime="271.3" endTime="307.09" >
+<Turn speaker="S3" startTime="271.3" endTime="286.32">
+<Sync time="271.3"/>
+she in the but people in the ocean
+</Turn>
+<Turn speaker="S2" startTime="286.32" endTime="293.84">
+<Sync time="286.32"/>
+yeah
+</Turn>
+<Turn speaker="S3" startTime="293.84" endTime="307.09">
+<Sync time="293.84"/>
+oh really now there's some 'cause i'm an actor then or
+</Turn>
+</Section>
+<Section type="report" startTime="321.72" endTime="335.58" >
+<Turn speaker="S5" startTime="321.72" endTime="335.58">
+<Sync time="321.72"/>
+no they called me i'm i'm
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3768" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.67" endTime="15.86" >
+<Turn speaker="S1" startTime="3.67" endTime="11.14">
+<Sync time="3.67"/>
+i'm on this survey
+</Turn>
+<Turn speaker="S2" startTime="11.14" endTime="15.86">
+<Sync time="11.14"/>
+mm mm
+</Turn>
+</Section>
+<Section type="report" startTime="27.17" endTime="36.04" >
+<Turn speaker="S1" startTime="27.17" endTime="36.04">
+<Sync time="27.17"/>
+i i can't imagine
+</Turn>
+</Section>
+<Section type="report" startTime="40.1" endTime="66.56" >
+<Turn speaker="S1" startTime="40.1" endTime="48.24">
+<Sync time="40.1"/>
+i usually get out of i got doing
+</Turn>
+<Turn speaker="S2" startTime="48.24" endTime="51.38">
+<Sync time="48.24"/>
+no
+</Turn>
+<Turn speaker="S1" startTime="51.38" endTime="54.97">
+<Sync time="51.38"/>
+people
+</Turn>
+<Turn speaker="S2" startTime="54.97" endTime="66.56">
+<Sync time="54.97"/>
+mm mm mm mm
+</Turn>
+</Section>
+<Section type="report" startTime="66.7" endTime="74.99" >
+<Turn speaker="S1" startTime="66.7" endTime="74.99">
+<Sync time="66.7"/>
+i mean
+</Turn>
+</Section>
+</Episode>
+</Trans>

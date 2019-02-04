@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5593" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.06" endTime="47.86" >
+<Turn speaker="S1" startTime="0.06" endTime="47.86">
+<Sync time="0.06"/>
+have you ever seriously felt like yes i am not okay let me get on camera doing some people know it's true yeah i'll probably oh i work at it from me let me move holy shit i'm going around i your at gory freak show
+</Turn>
+</Section>
+</Episode>
+</Trans>

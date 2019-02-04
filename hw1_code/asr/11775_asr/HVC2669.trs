@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2669" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="2.34" endTime="11.85" >
+<Turn speaker="S1" startTime="2.34" endTime="11.85">
+<Sync time="2.34"/>
+and uh
+</Turn>
+</Section>
+<Section type="report" startTime="33.0" endTime="50.14" >
+<Turn speaker="S2" startTime="33.0" endTime="37.5">
+<Sync time="33.0"/>
+oh
+</Turn>
+<Turn speaker="S1" startTime="37.5" endTime="45.64">
+<Sync time="37.5"/>
+accounting welcome to my brother's car we really really would like to to blow the car and a couple of reasons why
+</Turn>
+<Turn speaker="S3" startTime="45.64" endTime="50.14">
+<Sync time="45.64"/>
+burning fire
+</Turn>
+</Section>
+<Section type="report" startTime="50.53" endTime="55.41" >
+<Turn speaker="S3" startTime="50.53" endTime="55.41">
+<Sync time="50.53"/>
+there's also a huge difference
+</Turn>
+</Section>
+<Section type="report" startTime="55.53" endTime="56.18" >
+<Turn speaker="S3" startTime="55.53" endTime="56.18">
+<Sync time="55.53"/>
+oh
+</Turn>
+</Section>
+<Section type="report" startTime="56.23" endTime="58.15" >
+<Turn speaker="S3" startTime="56.23" endTime="58.15">
+<Sync time="56.23"/>
+oh wow
+</Turn>
+</Section>
+<Section type="report" startTime="58.24" endTime="61.47" >
+<Turn speaker="S3" startTime="58.24" endTime="61.47">
+<Sync time="58.24"/>
+beer x-rays
+</Turn>
+</Section>
+<Section type="report" startTime="61.55" endTime="74.11" >
+<Turn speaker="S3" startTime="61.55" endTime="74.11">
+<Sync time="61.55"/>
+they're christening ship racing strike
+</Turn>
+</Section>
+<Section type="report" startTime="77.07" endTime="83.87" >
+<Turn speaker="S3" startTime="77.07" endTime="83.87">
+<Sync time="77.07"/>
+well the starches all bad it's perfect for yoga
+</Turn>
+</Section>
+<Section type="report" startTime="90.18" endTime="93.56" >
+<Turn speaker="S3" startTime="90.18" endTime="93.56">
+<Sync time="90.18"/>
+they're
+</Turn>
+</Section>
+<Section type="report" startTime="93.67" endTime="116.47" >
+<Turn speaker="S1" startTime="93.67" endTime="116.47">
+<Sync time="93.67"/>
+my brother chevy astro van this car is one big piece of garbage um it does drive by a couple of things have happened yesterday i think to be honest with you he could really use a new car frustrated please just blow this vehicle so he can get a new car because the poor guy he's car based upon all the stuff that he's gone through
+</Turn>
+</Section>
+<Section type="report" startTime="116.35" endTime="123.81" >
+<Turn speaker="S3" startTime="116.35" endTime="123.81">
+<Sync time="116.35"/>
+blow up i stuck up here
+</Turn>
+</Section>
+</Episode>
+</Trans>

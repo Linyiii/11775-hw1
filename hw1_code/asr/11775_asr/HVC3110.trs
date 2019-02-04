@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3110" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="8.87" endTime="37.78" >
+<Turn speaker="S1" startTime="8.87" endTime="37.78">
+<Sync time="8.87"/>
+strange man i buy a in a long time and
+</Turn>
+</Section>
+<Section type="report" startTime="53.01" endTime="79.85" >
+<Turn speaker="S2" startTime="53.01" endTime="79.85">
+<Sync time="53.01"/>
+and you can read in the so much other than like a new to this country is a
+</Turn>
+</Section>
+<Section type="report" startTime="91.77" endTime="123.21" >
+<Turn speaker="S1" startTime="91.77" endTime="113.77">
+<Sync time="91.77"/>
+rely on each side come on and they live show and ah
+</Turn>
+<Turn speaker="S3" startTime="113.77" endTime="123.21">
+<Sync time="113.77"/>
+um
+</Turn>
+</Section>
+<Section type="report" startTime="305.5" endTime="364.77" >
+<Turn speaker="S4" startTime="305.5" endTime="335.75">
+<Sync time="305.5"/>
+and you just gross collection and i usually you one to to to go there
+</Turn>
+<Turn speaker="S5" startTime="335.75" endTime="364.77">
+<Sync time="335.75"/>
+i'm sure
+</Turn>
+</Section>
+<Section type="report" startTime="373.7" endTime="404.44" >
+<Turn speaker="S6" startTime="373.7" endTime="404.44">
+<Sync time="373.7"/>
+hey really
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2093" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="25.47" endTime="39.0" >
+<Turn speaker="S1" startTime="25.47" endTime="39.0">
+<Sync time="25.47"/>
+and then
+</Turn>
+</Section>
+<Section type="report" startTime="45.69" endTime="60.87" >
+<Turn speaker="S1" startTime="45.69" endTime="60.87">
+<Sync time="45.69"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="64.47" endTime="77.02" >
+<Turn speaker="S1" startTime="64.47" endTime="77.02">
+<Sync time="64.47"/>
+i can and
+</Turn>
+</Section>
+</Episode>
+</Trans>

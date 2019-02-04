@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5150" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="1.99" endTime="24.82" >
+<Turn speaker="S1" startTime="1.99" endTime="15.4">
+<Sync time="1.99"/>
+mm mm mm
+</Turn>
+<Turn speaker="S2" startTime="15.4" endTime="24.82">
+<Sync time="15.4"/>
+and uh uh
+</Turn>
+</Section>
+<Section type="report" startTime="41.75" endTime="66.1" >
+<Turn speaker="S3" startTime="41.75" endTime="66.1">
+<Sync time="41.75"/>
+you know they're they're going to
+</Turn>
+</Section>
+<Section type="report" startTime="85.39" endTime="105.18" >
+<Turn speaker="S4" startTime="85.39" endTime="93.08">
+<Sync time="85.39"/>
+and uh
+</Turn>
+<Turn speaker="S3" startTime="93.08" endTime="105.18">
+<Sync time="93.08"/>
+raining
+</Turn>
+</Section>
+<Section type="report" startTime="108.47" endTime="166.72" >
+<Turn speaker="S3" startTime="108.47" endTime="119.59">
+<Sync time="108.47"/>
+maybe
+</Turn>
+<Turn speaker="S5" startTime="119.59" endTime="166.72">
+<Sync time="119.59"/>
+oh man a man and then oh yeah oh whoa whoa man and then they don't mind
+</Turn>
+</Section>
+<Section type="report" startTime="176.23" endTime="188.24" >
+<Turn speaker="S2" startTime="176.23" endTime="188.24">
+<Sync time="176.23"/>
+nah nah nah nah nah
+</Turn>
+</Section>
+</Episode>
+</Trans>

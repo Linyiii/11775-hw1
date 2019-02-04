@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4941" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="5.1" endTime="82.76" >
+<Turn speaker="S1" startTime="5.1" endTime="24.79">
+<Sync time="5.1"/>
+and i used to be making a making
+</Turn>
+<Turn speaker="S2" startTime="24.79" endTime="64.13">
+<Sync time="24.79"/>
+la la la like there's gotta be by the way i see you in a minute this letter it finally decided and still live with your heart lungs guts go because of your kids not like they have you know why i i wanted to make you have to have him
+</Turn>
+<Turn speaker="S1" startTime="64.13" endTime="82.76">
+<Sync time="64.13"/>
+spanish and
+</Turn>
+</Section>
+<Section type="report" startTime="82.78" endTime="124.44" >
+<Turn speaker="S2" startTime="82.78" endTime="124.44">
+<Sync time="82.78"/>
+yeah we communicate so i don't like pets because there's just so much entertainment so much more you you know woman man you wouldn't like like if had to repeat the topic you must be saying that we better you you pray every day more than anything else like they had be anything
+</Turn>
+</Section>
+</Episode>
+</Trans>

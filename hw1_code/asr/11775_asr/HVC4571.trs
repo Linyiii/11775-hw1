@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4571" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="6.61" >
+<Turn speaker="S1" startTime="0.0" endTime="6.61">
+<Sync time="0.0"/>
+mm yeah
+</Turn>
+</Section>
+<Section type="report" startTime="15.34" endTime="27.06" >
+<Turn speaker="S2" startTime="15.34" endTime="18.89">
+<Sync time="15.34"/>
+okay this union or something oh too it
+</Turn>
+<Turn speaker="S3" startTime="18.89" endTime="27.06">
+<Sync time="18.89"/>
+excuse me so maybe you don't
+</Turn>
+</Section>
+<Section type="report" startTime="32.5" endTime="38.52" >
+<Turn speaker="S4" startTime="32.5" endTime="38.52">
+<Sync time="32.5"/>
+too much
+</Turn>
+</Section>
+<Section type="report" startTime="49.53" endTime="53.29" >
+<Turn speaker="S5" startTime="49.53" endTime="53.29">
+<Sync time="49.53"/>
+yeah so she listen
+</Turn>
+</Section>
+<Section type="report" startTime="55.84" endTime="60.82" >
+<Turn speaker="S6" startTime="55.84" endTime="60.82">
+<Sync time="55.84"/>
+missing so good
+</Turn>
+</Section>
+</Episode>
+</Trans>

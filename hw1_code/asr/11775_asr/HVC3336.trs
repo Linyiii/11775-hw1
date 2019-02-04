@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3336" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S15" name="K15" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S16" name="K16" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S17" name="K17" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S18" name="K18" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S19" name="K19" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.07" endTime="103.09" >
+<Turn speaker="S1" startTime="0.07" endTime="3.98">
+<Sync time="0.07"/>
+that's really uh
+</Turn>
+<Turn speaker="S2" startTime="3.98" endTime="9.67">
+<Sync time="3.98"/>
+um all right and you're spending ma'am
+</Turn>
+<Turn speaker="S3" startTime="9.67" endTime="15.81">
+<Sync time="9.67"/>
+yeah we
+</Turn>
+<Turn speaker="S4" startTime="15.81" endTime="23.79">
+<Sync time="15.81"/>
+oh i i know dear how did you get the other way i think
+</Turn>
+<Turn speaker="S5" startTime="23.79" endTime="28.86">
+<Sync time="23.79"/>
+great
+</Turn>
+<Turn speaker="S6" startTime="28.86" endTime="38.43">
+<Sync time="28.86"/>
+hit the cook the paper and you get paid i think they will cook out in wild
+</Turn>
+<Turn speaker="S7" startTime="38.43" endTime="45.8">
+<Sync time="38.43"/>
+agree he one may petty fleet to things in um
+</Turn>
+<Turn speaker="S8" startTime="45.8" endTime="50.09">
+<Sync time="45.8"/>
+how long do these have to cook
+</Turn>
+<Turn speaker="S9" startTime="50.09" endTime="58.02">
+<Sync time="50.09"/>
+hi matt hi through some making videos
+</Turn>
+<Turn speaker="S10" startTime="58.02" endTime="62.44">
+<Sync time="58.02"/>
+amen i mean there haven't been making kept cakes
+</Turn>
+<Turn speaker="S11" startTime="62.44" endTime="68.4">
+<Sync time="62.44"/>
+yes yes putting their lives and put them in the other freebie excited
+</Turn>
+<Turn speaker="S12" startTime="68.4" endTime="75.08">
+<Sync time="68.4"/>
+because they are you going to be free hotel you're i
+</Turn>
+<Turn speaker="S13" startTime="75.08" endTime="78.82">
+<Sync time="75.08"/>
+no kidding okay on in banking
+</Turn>
+<Turn speaker="S14" startTime="78.82" endTime="85.02">
+<Sync time="78.82"/>
+okay you can make you don't have thousands position i'm taking a video and me
+</Turn>
+<Turn speaker="S15" startTime="85.02" endTime="90.58">
+<Sync time="85.02"/>
+chinese christmas and new though to high but
+</Turn>
+<Turn speaker="S16" startTime="90.58" endTime="93.67">
+<Sync time="90.58"/>
+self maddie
+</Turn>
+<Turn speaker="S17" startTime="93.67" endTime="103.09">
+<Sync time="93.67"/>
+let's put 'em in here yeah they're
+</Turn>
+</Section>
+<Section type="report" startTime="110.29" endTime="126.02" >
+<Turn speaker="S18" startTime="110.29" endTime="120.75">
+<Sync time="110.29"/>
+very rough here the sweetness
+</Turn>
+<Turn speaker="S19" startTime="120.75" endTime="126.02">
+<Sync time="120.75"/>
+alright you know
+</Turn>
+</Section>
+</Episode>
+</Trans>

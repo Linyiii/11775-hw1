@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5332" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.01" endTime="90.0" >
+<Turn speaker="S1" startTime="0.01" endTime="9.44">
+<Sync time="0.01"/>
+well see that's my daughter or i was like a like a little cold i don't know probably walk was hot how it's like
+</Turn>
+<Turn speaker="S2" startTime="9.44" endTime="19.69">
+<Sync time="9.44"/>
+hi um this book or like when you try to put that and that
+</Turn>
+<Turn speaker="S3" startTime="19.69" endTime="27.68">
+<Sync time="19.69"/>
+right right off really redding california
+</Turn>
+<Turn speaker="S4" startTime="27.68" endTime="33.08">
+<Sync time="27.68"/>
+right and they can't really make the hell i don't
+</Turn>
+<Turn speaker="S5" startTime="33.08" endTime="36.91">
+<Sync time="33.08"/>
+every other day i'm gonna tell you a hundred and twenty years ago
+</Turn>
+<Turn speaker="S6" startTime="36.91" endTime="41.67">
+<Sync time="36.91"/>
+oh my goodness i cannot change that free lawyer how you know
+</Turn>
+<Turn speaker="S7" startTime="41.67" endTime="47.33">
+<Sync time="41.67"/>
+yeah are you are you're nervous yeah
+</Turn>
+<Turn speaker="S8" startTime="47.33" endTime="57.22">
+<Sync time="47.33"/>
+honestly i make those for boring not i mean work and work from uh no i need to build that no
+</Turn>
+<Turn speaker="S9" startTime="57.22" endTime="61.69">
+<Sync time="57.22"/>
+um no not you know
+</Turn>
+<Turn speaker="S10" startTime="61.69" endTime="69.57">
+<Sync time="61.69"/>
+food no uh no
+</Turn>
+<Turn speaker="S11" startTime="69.57" endTime="75.46">
+<Sync time="69.57"/>
+you know everything every job that was in office one day he was from
+</Turn>
+<Turn speaker="S12" startTime="75.46" endTime="80.57">
+<Sync time="75.46"/>
+that's a good enough to not have to account for that
+</Turn>
+<Turn speaker="S13" startTime="80.57" endTime="86.47">
+<Sync time="80.57"/>
+eh yahoo my quite a few times and i'm like no no no yeah uh-huh
+</Turn>
+<Turn speaker="S14" startTime="86.47" endTime="90.0">
+<Sync time="86.47"/>
+it can be an invasion of enough and sitting down you know you know so
+</Turn>
+</Section>
+</Episode>
+</Trans>

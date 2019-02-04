@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2525" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.05" endTime="80.75" >
+<Turn speaker="S1" startTime="0.05" endTime="1.64">
+<Sync time="0.05"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="1.64" endTime="11.01">
+<Sync time="1.64"/>
+oh is that your bone is that your
+</Turn>
+<Turn speaker="S1" startTime="11.01" endTime="14.27">
+<Sync time="11.01"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="14.27" endTime="33.69">
+<Sync time="14.27"/>
+oh boy they say they're gonna get a biscuit going to get a oh yeah oh yeah sounds tasty
+</Turn>
+<Turn speaker="S1" startTime="33.69" endTime="55.99">
+<Sync time="33.69"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="55.99" endTime="59.8">
+<Sync time="55.99"/>
+where to go where you go
+</Turn>
+<Turn speaker="S1" startTime="59.8" endTime="75.6">
+<Sync time="59.8"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="75.6" endTime="80.75">
+<Sync time="75.6"/>
+oh that's good bone isn't it
+</Turn>
+</Section>
+<Section type="report" startTime="80.51" endTime="90.1" >
+<Turn speaker="S1" startTime="80.51" endTime="90.1">
+<Sync time="80.51"/>
+mhm
+</Turn>
+</Section>
+</Episode>
+</Trans>

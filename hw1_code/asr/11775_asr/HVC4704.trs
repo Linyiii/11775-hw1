@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4704" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="15.38" >
+<Turn speaker="S1" startTime="0.03" endTime="15.38">
+<Sync time="0.03"/>
+hi my name's charlie i'm going to be showing you how to make the oregon me boats so we've began without piece of paper with the honesty candles facing up the first step is going to be like
+</Turn>
+</Section>
+<Section type="report" startTime="20.34" endTime="147.29" >
+<Turn speaker="S1" startTime="20.34" endTime="23.66">
+<Sync time="20.34"/>
+and then we again
+</Turn>
+<Turn speaker="S2" startTime="23.66" endTime="28.65">
+<Sync time="23.66"/>
+mhm
+</Turn>
+<Turn speaker="S1" startTime="28.65" endTime="37.58">
+<Sync time="28.65"/>
+no me unfold and we bring down the like this
+</Turn>
+<Turn speaker="S2" startTime="37.58" endTime="41.56">
+<Sync time="37.58"/>
+mhm
+</Turn>
+<Turn speaker="S1" startTime="41.56" endTime="45.37">
+<Sync time="41.56"/>
+and then we do the same with left corner
+</Turn>
+<Turn speaker="S2" startTime="45.37" endTime="51.75">
+<Sync time="45.37"/>
+mhm
+</Turn>
+<Turn speaker="S1" startTime="51.75" endTime="68.23">
+<Sync time="51.75"/>
+and then we can take the top of the was type
+</Turn>
+<Turn speaker="S2" startTime="68.23" endTime="70.5">
+<Sync time="68.23"/>
+mhm
+</Turn>
+<Turn speaker="S1" startTime="70.5" endTime="143.29">
+<Sync time="70.5"/>
+now inside um with like that and then underneath minnesota increase it finally now we bring the top down and this and we we'll take the top the top floor up to the you can see the writing once again i saw forms inside increase family like we take the outside coolness it begins to play family
+</Turn>
+<Turn speaker="S2" startTime="143.29" endTime="147.29">
+<Sync time="143.29"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="147.49" endTime="154.82" >
+<Turn speaker="S1" startTime="147.49" endTime="154.82">
+<Sync time="147.49"/>
+from the so you will be able to stand up and they have finished by
+</Turn>
+</Section>
+</Episode>
+</Trans>

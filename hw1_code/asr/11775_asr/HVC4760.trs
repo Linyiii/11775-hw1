@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4760" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="5.38" endTime="15.45" >
+<Turn speaker="S1" startTime="5.38" endTime="15.45">
+<Sync time="5.38"/>
+things tend to to cook
+</Turn>
+</Section>
+<Section type="report" startTime="27.8" endTime="50.48" >
+<Turn speaker="S2" startTime="27.8" endTime="34.15">
+<Sync time="27.8"/>
+to see where these looser walking join us on saturday to november for keeping influx field for back from iraq
+</Turn>
+<Turn speaker="S3" startTime="34.15" endTime="41.53">
+<Sync time="34.15"/>
+celebration soldiers are our means national guard split i'm studying chow bleak i two or three for more information
+</Turn>
+<Turn speaker="S4" startTime="41.53" endTime="47.66">
+<Sync time="41.53"/>
+yeah two seventy three two nine nine one one or two
+</Turn>
+<Turn speaker="S5" startTime="47.66" endTime="50.48">
+<Sync time="47.66"/>
+check out our flier
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3358" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.12" endTime="15.76" >
+<Turn speaker="S1" startTime="0.12" endTime="15.76">
+<Sync time="0.12"/>
+know you know i you know don't don't plane
+</Turn>
+</Section>
+<Section type="report" startTime="15.82" endTime="207.25" >
+<Turn speaker="S1" startTime="15.82" endTime="105.58">
+<Sync time="15.82"/>
+right on the go ahead and talk to somebody in the middle of nowhere for not probably not going to get why don't you try to you my my dad bonding he might be why why don't you don't most guys talking about going to you're going to try and get your heart you know to put one foot on pets
+</Turn>
+<Turn speaker="S2" startTime="105.58" endTime="207.25">
+<Sync time="105.58"/>
+hey john plan di di di di di di di shall we start agree on di di di di di di di di di di di di di boat just ruin something might not know knoxville but now i guess my my my my mom just be like why middle of something to be restricted to promote the expense knocked down toward our while they're not they're not bad
+</Turn>
+</Section>
+<Section type="report" startTime="207.29" endTime="292.6" >
+<Turn speaker="S1" startTime="207.29" endTime="292.6">
+<Sync time="207.29"/>
+you know depending on the next to this you know the marketing they brought back alright are you know to was on the phone calls can we know the all the the only thing that's been getting emails from then on the of what you got plenty plenty of all the time why why why don't you
+</Turn>
+</Section>
+</Episode>
+</Trans>

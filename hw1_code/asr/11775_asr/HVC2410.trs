@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2410" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="5.87" endTime="42.25" >
+<Turn speaker="S1" startTime="5.87" endTime="16.16">
+<Sync time="5.87"/>
+one day i asked if i knew how to make you buy a camp and i told him i know
+</Turn>
+<Turn speaker="S2" startTime="16.16" endTime="30.35">
+<Sync time="16.16"/>
+i make do uh lewis inner circle so when i put a block in there i'll be able to make the grades
+</Turn>
+<Turn speaker="S3" startTime="30.35" endTime="42.25">
+<Sync time="30.35"/>
+do you kind of a hard snow but not too hard you don't want it to solve because it's gonna
+</Turn>
+</Section>
+<Section type="report" startTime="93.06" endTime="160.87" >
+<Turn speaker="S3" startTime="93.06" endTime="105.14">
+<Sync time="93.06"/>
+it's gonna come up come up like this because if you only make them laugh at way you can make
+</Turn>
+<Turn speaker="S4" startTime="105.14" endTime="120.49">
+<Sync time="105.14"/>
+basically it's gonna be going up so you put your top peace they
+</Turn>
+<Turn speaker="S3" startTime="120.49" endTime="138.66">
+<Sync time="120.49"/>
+once you finish your dealing you instead of the the other you know so you can have a very good one too
+</Turn>
+<Turn speaker="S1" startTime="138.66" endTime="160.87">
+<Sync time="138.66"/>
+uh the blocks the perfectly light he's gotta hit so hard that is going to stick to it from the side and the top so it's gonna stay there permanently hard to believe
+</Turn>
+</Section>
+<Section type="report" startTime="184.38" endTime="211.88" >
+<Turn speaker="S5" startTime="184.38" endTime="211.88">
+<Sync time="184.38"/>
+well we're kind of astounded by creativity lightly or something like this to live peacefully anyway he's getting and the spring you'll get something
+</Turn>
+</Section>
+<Section type="report" startTime="212.13" endTime="219.71" >
+<Turn speaker="S1" startTime="212.13" endTime="219.71">
+<Sync time="212.13"/>
+and just building and teaching the guys make it but then again i like my
+</Turn>
+</Section>
+</Episode>
+</Trans>

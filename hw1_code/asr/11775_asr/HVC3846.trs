@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3846" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="35.49" >
+<Turn speaker="S1" startTime="0.0" endTime="11.79">
+<Sync time="0.0"/>
+one two three four
+</Turn>
+<Turn speaker="S2" startTime="11.79" endTime="35.49">
+<Sync time="11.79"/>
+so for a walk with one hotel two thousand dollars um eighty dollars now it's two thousand dollars well basically the over i mean you're bankrupt i still have time well what is that you wouldn't miss congeniality for a hundred dollars
+</Turn>
+</Section>
+<Section type="report" startTime="46.62" endTime="66.23" >
+<Turn speaker="S3" startTime="46.62" endTime="66.23">
+<Sync time="46.62"/>
+excuse me
+</Turn>
+</Section>
+</Episode>
+</Trans>

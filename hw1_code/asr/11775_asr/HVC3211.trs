@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3211" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="89.83" endTime="99.41" >
+<Turn speaker="S1" startTime="89.83" endTime="99.41">
+<Sync time="89.83"/>
+and when they did a victory
+</Turn>
+</Section>
+<Section type="report" startTime="102.86" endTime="130.09" >
+<Turn speaker="S2" startTime="102.86" endTime="130.09">
+<Sync time="102.86"/>
+no more money
+</Turn>
+</Section>
+<Section type="report" startTime="136.64" endTime="154.87" >
+<Turn speaker="S1" startTime="136.64" endTime="154.87">
+<Sync time="136.64"/>
+the or hurt our leader maryland rock climbing a regular during your pregnancy
+</Turn>
+</Section>
+<Section type="report" startTime="187.58" endTime="206.41" >
+<Turn speaker="S3" startTime="187.58" endTime="200.18">
+<Sync time="187.58"/>
+you know
+</Turn>
+<Turn speaker="S1" startTime="200.18" endTime="206.41">
+<Sync time="200.18"/>
+my own agenda
+</Turn>
+</Section>
+</Episode>
+</Trans>

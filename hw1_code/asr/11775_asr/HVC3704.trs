@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3704" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="1.16" endTime="27.48" >
+<Turn speaker="S1" startTime="1.16" endTime="16.05">
+<Sync time="1.16"/>
+wait submarines
+</Turn>
+<Turn speaker="S2" startTime="16.05" endTime="27.48">
+<Sync time="16.05"/>
+personality c._b._s. full size five or three two
+</Turn>
+</Section>
+<Section type="report" startTime="27.55" endTime="63.74" >
+<Turn speaker="S3" startTime="27.55" endTime="63.74">
+<Sync time="27.55"/>
+but
+</Turn>
+</Section>
+</Episode>
+</Trans>

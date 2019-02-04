@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5903" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="76.94" >
+<Turn speaker="S1" startTime="0.04" endTime="7.53">
+<Sync time="0.04"/>
+and i never
+</Turn>
+<Turn speaker="S2" startTime="7.53" endTime="41.62">
+<Sync time="7.53"/>
+hello i'm uh i'm not so much news or any movie at all
+</Turn>
+<Turn speaker="S1" startTime="41.62" endTime="76.94">
+<Sync time="41.62"/>
+i know a a man and a girl or a a a in
+</Turn>
+</Section>
+<Section type="report" startTime="77.07" endTime="161.45" >
+<Turn speaker="S2" startTime="77.07" endTime="161.45">
+<Sync time="77.07"/>
+a little house or anyone in the middle east i can do and i love i'm a i'm a mom or or uh or and a lot going on and on a i'm a i'm a i'm not i'm i'm not a
+</Turn>
+</Section>
+</Episode>
+</Trans>

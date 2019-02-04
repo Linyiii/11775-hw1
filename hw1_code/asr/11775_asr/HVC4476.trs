@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4476" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="24.19" endTime="36.5" >
+<Turn speaker="S1" startTime="24.19" endTime="36.5">
+<Sync time="24.19"/>
+so got paid fading some of the dogs oh
+</Turn>
+</Section>
+<Section type="report" startTime="43.1" endTime="107.91" >
+<Turn speaker="S2" startTime="43.1" endTime="80.51">
+<Sync time="43.1"/>
+and and and and and uh day to day over and over and over and over
+</Turn>
+<Turn speaker="S3" startTime="80.51" endTime="107.91">
+<Sync time="80.51"/>
+and um
+</Turn>
+</Section>
+<Section type="report" startTime="132.12" endTime="172.34" >
+<Turn speaker="S3" startTime="132.12" endTime="149.83">
+<Sync time="132.12"/>
+okay
+</Turn>
+<Turn speaker="S2" startTime="149.83" endTime="172.34">
+<Sync time="149.83"/>
+in order to do
+</Turn>
+</Section>
+</Episode>
+</Trans>

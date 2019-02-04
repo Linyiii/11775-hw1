@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5718" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="75.17" >
+<Turn speaker="S1" startTime="0.0" endTime="24.71">
+<Sync time="0.0"/>
+right here we got we got so mobile now here we are uh it has been thirty days of november and uh the moustache is about to come off most of the happiness of all the girls here is comes off and putting up with and my nasty lick it off
+</Turn>
+<Turn speaker="S2" startTime="24.71" endTime="38.06">
+<Sync time="24.71"/>
+hello hello
+</Turn>
+<Turn speaker="S1" startTime="38.06" endTime="42.03">
+<Sync time="38.06"/>
+like it
+</Turn>
+<Turn speaker="S2" startTime="42.03" endTime="61.7">
+<Sync time="42.03"/>
+oh my son
+</Turn>
+<Turn speaker="S1" startTime="61.7" endTime="75.17">
+<Sync time="61.7"/>
+but they call the okay yeah
+</Turn>
+</Section>
+<Section type="report" startTime="96.77" endTime="125.62" >
+<Turn speaker="S1" startTime="96.77" endTime="125.62">
+<Sync time="96.77"/>
+for the race or where you punch at the end of the most for one month thank you for your donations over one thousand dollars for profit injuries so thank you again everyone hope you enjoy
+</Turn>
+</Section>
+</Episode>
+</Trans>

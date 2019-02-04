@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4981" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.04" endTime="29.59" >
+<Turn speaker="S1" startTime="4.04" endTime="8.47">
+<Sync time="4.04"/>
+i need to eat thin
+</Turn>
+<Turn speaker="S2" startTime="8.47" endTime="12.35">
+<Sync time="8.47"/>
+do do do they need to really
+</Turn>
+<Turn speaker="S3" startTime="12.35" endTime="19.69">
+<Sync time="12.35"/>
+oh i i certainly when i look at it
+</Turn>
+<Turn speaker="S4" startTime="19.69" endTime="22.32">
+<Sync time="19.69"/>
+oh the
+</Turn>
+<Turn speaker="S5" startTime="22.32" endTime="29.59">
+<Sync time="22.32"/>
+he's my drinking are so fast you got me i got hit
+</Turn>
+</Section>
+<Section type="report" startTime="33.1" endTime="39.09" >
+<Turn speaker="S6" startTime="33.1" endTime="39.09">
+<Sync time="33.1"/>
+oh no no
+</Turn>
+</Section>
+</Episode>
+</Trans>

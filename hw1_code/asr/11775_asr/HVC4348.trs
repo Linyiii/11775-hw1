@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4348" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="145.3" >
+<Turn speaker="S1" startTime="0.0" endTime="13.28">
+<Sync time="0.0"/>
+thing yeah
+</Turn>
+<Turn speaker="S2" startTime="13.28" endTime="21.33">
+<Sync time="13.28"/>
+yeah um
+</Turn>
+<Turn speaker="S1" startTime="21.33" endTime="74.41">
+<Sync time="21.33"/>
+all that was a kid comes out on that and get you on but they do do you like to do it during the day to do do i took by the time treated us off yeah
+</Turn>
+<Turn speaker="S2" startTime="74.41" endTime="145.3">
+<Sync time="74.41"/>
+is it contribute journal know it just really minor drug that saddam hussein john a um well i went to jumping on the same the to you owe to time i mean there's how horrible problems
+</Turn>
+</Section>
+</Episode>
+</Trans>

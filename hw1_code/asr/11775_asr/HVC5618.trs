@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5618" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="1.41" endTime="3.9" >
+<Turn speaker="S1" startTime="1.41" endTime="3.9">
+<Sync time="1.41"/>
+one two three
+</Turn>
+</Section>
+<Section type="report" startTime="19.98" endTime="86.35" >
+<Turn speaker="S1" startTime="19.98" endTime="28.78">
+<Sync time="19.98"/>
+done a well one to get one
+</Turn>
+<Turn speaker="S2" startTime="28.78" endTime="30.93">
+<Sync time="28.78"/>
+no
+</Turn>
+<Turn speaker="S1" startTime="30.93" endTime="31.84">
+<Sync time="30.93"/>
+oh well
+</Turn>
+<Turn speaker="S2" startTime="31.84" endTime="44.04">
+<Sync time="31.84"/>
+no
+</Turn>
+<Turn speaker="S1" startTime="44.04" endTime="86.35">
+<Sync time="44.04"/>
+straight like i told you stay in the morning and you didn't say oh oh my god this is how much up to their legal yeah oh yeah right wow how down alright you are ready go three two one done doing
+</Turn>
+</Section>
+<Section type="report" startTime="87.0" endTime="151.93" >
+<Turn speaker="S1" startTime="87.0" endTime="151.93">
+<Sync time="87.0"/>
+i think good let me say that did really good yeah already you know how old are your with any of those shows are are okay but you you throw up you can't you can't you can't go and oh you've got to be the bigger the boroughs
+</Turn>
+</Section>
+<Section type="report" startTime="152.0" endTime="193.49" >
+<Turn speaker="S1" startTime="152.0" endTime="168.44">
+<Sync time="152.0"/>
+yeah i like things why would you do you're right do you like one two or three
+</Turn>
+<Turn speaker="S3" startTime="168.44" endTime="187.18">
+<Sync time="168.44"/>
+oh
+</Turn>
+<Turn speaker="S1" startTime="187.18" endTime="193.49">
+<Sync time="187.18"/>
+that was an enjoyable that was not taking is back there
+</Turn>
+</Section>
+<Section type="report" startTime="193.4" endTime="206.77" >
+<Turn speaker="S4" startTime="193.4" endTime="206.77">
+<Sync time="193.4"/>
+mhm mhm mhm they mm
+</Turn>
+</Section>
+</Episode>
+</Trans>

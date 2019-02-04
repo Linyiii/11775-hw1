@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6095" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.11" endTime="17.92" >
+<Turn speaker="S1" startTime="3.11" endTime="17.92">
+<Sync time="3.11"/>
+i mean
+</Turn>
+</Section>
+<Section type="report" startTime="22.55" endTime="59.97" >
+<Turn speaker="S1" startTime="22.55" endTime="44.12">
+<Sync time="22.55"/>
+by being single
+</Turn>
+<Turn speaker="S2" startTime="44.12" endTime="59.97">
+<Sync time="44.12"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="73.54" endTime="268.71" >
+<Turn speaker="S2" startTime="73.54" endTime="164.02">
+<Sync time="73.54"/>
+it's a long long there is no doubt even good side of the big and this is all we know what they say that you know a guy tyrone down there i mean i don't know about it a shot ten bucks for a long later you hear me okay let me
+</Turn>
+<Turn speaker="S3" startTime="164.02" endTime="172.72">
+<Sync time="164.02"/>
+okay
+</Turn>
+<Turn speaker="S2" startTime="172.72" endTime="268.71">
+<Sync time="172.72"/>
+where i didn't think that they're not going to wait around me out to be learning for me oh my lord alright you can get a chance to really really really sure
+</Turn>
+</Section>
+<Section type="report" startTime="273.41" endTime="370.98" >
+<Turn speaker="S2" startTime="273.41" endTime="329.05">
+<Sync time="273.41"/>
+well not really sure i only reason remember you know i really don't i did it
+</Turn>
+<Turn speaker="S1" startTime="329.05" endTime="370.98">
+<Sync time="329.05"/>
+yeah i know my hung out you you can train orange everytime i try to hide brand now my husband
+</Turn>
+</Section>
+<Section type="report" startTime="373.18" endTime="443.45" >
+<Turn speaker="S4" startTime="373.18" endTime="416.63">
+<Sync time="373.18"/>
+so now on a nice little styrofoam so small this way do about it i so you go it's really disgusting don't worry a lot of bleach eighty twenty they turn
+</Turn>
+<Turn speaker="S5" startTime="416.63" endTime="443.45">
+<Sync time="416.63"/>
+yeah we get closer work man
+</Turn>
+</Section>
+<Section type="report" startTime="443.48" endTime="447.95" >
+<Turn speaker="S4" startTime="443.48" endTime="447.95">
+<Sync time="443.48"/>
+right there you go
+</Turn>
+</Section>
+</Episode>
+</Trans>

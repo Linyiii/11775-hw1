@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2443" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="7.25" endTime="17.9" >
+<Turn speaker="S1" startTime="7.25" endTime="10.78">
+<Sync time="7.25"/>
+what's he doing roman
+</Turn>
+<Turn speaker="S2" startTime="10.78" endTime="17.9">
+<Sync time="10.78"/>
+eventually
+</Turn>
+</Section>
+<Section type="report" startTime="53.2" endTime="61.06" >
+<Turn speaker="S1" startTime="53.2" endTime="61.06">
+<Sync time="53.2"/>
+you want to go to that room
+</Turn>
+</Section>
+<Section type="report" startTime="105.41" endTime="117.2" >
+<Turn speaker="S1" startTime="105.41" endTime="117.2">
+<Sync time="105.41"/>
+what do you want to go surfing oh it'll get your nose
+</Turn>
+</Section>
+</Episode>
+</Trans>

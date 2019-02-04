@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5038" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="2.74" endTime="11.77" >
+<Turn speaker="S1" startTime="2.74" endTime="11.77">
+<Sync time="2.74"/>
+and i moved to to blow she's not sure
+</Turn>
+</Section>
+<Section type="report" startTime="38.97" endTime="70.32" >
+<Turn speaker="S1" startTime="38.97" endTime="54.16">
+<Sync time="38.97"/>
+but um
+</Turn>
+<Turn speaker="S2" startTime="54.16" endTime="70.32">
+<Sync time="54.16"/>
+yeah and
+</Turn>
+</Section>
+<Section type="report" startTime="74.41" endTime="82.15" >
+<Turn speaker="S1" startTime="74.41" endTime="82.15">
+<Sync time="74.41"/>
+dumpster gas
+</Turn>
+</Section>
+<Section type="report" startTime="93.27" endTime="121.08" >
+<Turn speaker="S2" startTime="93.27" endTime="121.08">
+<Sync time="93.27"/>
+see our mom machine that i think no
+</Turn>
+</Section>
+<Section type="report" startTime="129.63" endTime="142.45" >
+<Turn speaker="S1" startTime="129.63" endTime="142.45">
+<Sync time="129.63"/>
+no we generally can
+</Turn>
+</Section>
+<Section type="report" startTime="147.8" endTime="152.85" >
+<Turn speaker="S1" startTime="147.8" endTime="152.85">
+<Sync time="147.8"/>
+on line
+</Turn>
+</Section>
+<Section type="report" startTime="155.63" endTime="183.83" >
+<Turn speaker="S2" startTime="155.63" endTime="160.83">
+<Sync time="155.63"/>
+it's unreal
+</Turn>
+<Turn speaker="S3" startTime="160.83" endTime="172.55">
+<Sync time="160.83"/>
+i live
+</Turn>
+<Turn speaker="S2" startTime="172.55" endTime="183.83">
+<Sync time="172.55"/>
+let's see dr just to get involved
+</Turn>
+</Section>
+<Section type="report" startTime="200.43" endTime="211.53" >
+<Turn speaker="S2" startTime="200.43" endTime="211.53">
+<Sync time="200.43"/>
+show they show on the show cat show
+</Turn>
+</Section>
+<Section type="report" startTime="217.12" endTime="227.12" >
+<Turn speaker="S2" startTime="217.12" endTime="227.12">
+<Sync time="217.12"/>
+you know
+</Turn>
+</Section>
+<Section type="report" startTime="257.84" endTime="264.77" >
+<Turn speaker="S1" startTime="257.84" endTime="264.77">
+<Sync time="257.84"/>
+they like and
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2678" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="158.95" >
+<Turn speaker="S1" startTime="0.04" endTime="29.66">
+<Sync time="0.04"/>
+than than than than than than than than than than the things you know around and things i do when you start seeing you go to the news on the one against you
+</Turn>
+<Turn speaker="S2" startTime="29.66" endTime="44.4">
+<Sync time="29.66"/>
+no
+</Turn>
+<Turn speaker="S3" startTime="44.4" endTime="47.33">
+<Sync time="44.4"/>
+happy birthday
+</Turn>
+<Turn speaker="S4" startTime="47.33" endTime="64.83">
+<Sync time="47.33"/>
+oh yeah yeah i know
+</Turn>
+<Turn speaker="S1" startTime="64.83" endTime="88.3">
+<Sync time="64.83"/>
+and the show when you're there and they do the loans
+</Turn>
+<Turn speaker="S2" startTime="88.3" endTime="106.37">
+<Sync time="88.3"/>
+and you know they are happy birthday
+</Turn>
+<Turn speaker="S4" startTime="106.37" endTime="141.73">
+<Sync time="106.37"/>
+no no no no no no no no i'm going to worry about a man
+</Turn>
+<Turn speaker="S3" startTime="141.73" endTime="147.65">
+<Sync time="141.73"/>
+oh
+</Turn>
+<Turn speaker="S4" startTime="147.65" endTime="158.95">
+<Sync time="147.65"/>
+and so on them you know oh
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5778" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="19.86" >
+<Turn speaker="S1" startTime="0.03" endTime="10.85">
+<Sync time="0.03"/>
+yeah yeah that is so
+</Turn>
+<Turn speaker="S2" startTime="10.85" endTime="19.86">
+<Sync time="10.85"/>
+on the the
+</Turn>
+</Section>
+<Section type="report" startTime="54.71" endTime="59.46" >
+<Turn speaker="S3" startTime="54.71" endTime="59.46">
+<Sync time="54.71"/>
+because they do this and so much focus on line and
+</Turn>
+</Section>
+<Section type="report" startTime="87.67" endTime="110.8" >
+<Turn speaker="S4" startTime="87.67" endTime="96.6">
+<Sync time="87.67"/>
+i'm not a
+</Turn>
+<Turn speaker="S5" startTime="96.6" endTime="110.8">
+<Sync time="96.6"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="110.56" endTime="135.7" >
+<Turn speaker="S6" startTime="110.56" endTime="135.7">
+<Sync time="110.56"/>
+and has a specific view view you the truth interdependent would not be the only so everything's interdependent that no more important than you
+</Turn>
+</Section>
+</Episode>
+</Trans>

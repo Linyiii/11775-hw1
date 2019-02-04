@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6167" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="2.97" endTime="99.62" >
+<Turn speaker="S1" startTime="2.97" endTime="18.5">
+<Sync time="2.97"/>
+and uh
+</Turn>
+<Turn speaker="S2" startTime="18.5" endTime="35.92">
+<Sync time="18.5"/>
+and when they announced tony llama around
+</Turn>
+<Turn speaker="S3" startTime="35.92" endTime="57.59">
+<Sync time="35.92"/>
+ah no way i try to i guess
+</Turn>
+<Turn speaker="S4" startTime="57.59" endTime="66.22">
+<Sync time="57.59"/>
+uh i guess
+</Turn>
+<Turn speaker="S5" startTime="66.22" endTime="99.62">
+<Sync time="66.22"/>
+no my mom my mom was a man and da da da da da da da
+</Turn>
+</Section>
+<Section type="report" startTime="104.2" endTime="157.82" >
+<Turn speaker="S2" startTime="104.2" endTime="109.22">
+<Sync time="104.2"/>
+really
+</Turn>
+<Turn speaker="S6" startTime="109.22" endTime="131.87">
+<Sync time="109.22"/>
+um but no one to buy 'em as much ground gang can change every day
+</Turn>
+<Turn speaker="S4" startTime="131.87" endTime="139.69">
+<Sync time="131.87"/>
+job by that i can
+</Turn>
+<Turn speaker="S5" startTime="139.69" endTime="157.82">
+<Sync time="139.69"/>
+you know like when you're going i'm going to do that
+</Turn>
+</Section>
+<Section type="report" startTime="164.96" endTime="385.18" >
+<Turn speaker="S7" startTime="164.96" endTime="172.0">
+<Sync time="164.96"/>
+yeah
+</Turn>
+<Turn speaker="S5" startTime="172.0" endTime="198.03">
+<Sync time="172.0"/>
+on i'm not a bad but i i think you're right i'm trying to live in a bar or go but i other and
+</Turn>
+<Turn speaker="S8" startTime="198.03" endTime="213.94">
+<Sync time="198.03"/>
+your mom why is that i'm like god
+</Turn>
+<Turn speaker="S5" startTime="213.94" endTime="229.72">
+<Sync time="213.94"/>
+no no no no but i'm on sorry
+</Turn>
+<Turn speaker="S9" startTime="229.72" endTime="248.08">
+<Sync time="229.72"/>
+ah no i'm uh
+</Turn>
+<Turn speaker="S2" startTime="248.08" endTime="263.22">
+<Sync time="248.08"/>
+and and and i'm around and around
+</Turn>
+<Turn speaker="S3" startTime="263.22" endTime="284.89">
+<Sync time="263.22"/>
+no no no no i remember trying the next day
+</Turn>
+<Turn speaker="S4" startTime="284.89" endTime="293.57">
+<Sync time="284.89"/>
+uh i guess i do
+</Turn>
+<Turn speaker="S5" startTime="293.57" endTime="327.09">
+<Sync time="293.57"/>
+mom and mom so worried about 'em so long as to to go on the line
+</Turn>
+<Turn speaker="S9" startTime="327.09" endTime="331.5">
+<Sync time="327.09"/>
+um
+</Turn>
+<Turn speaker="S2" startTime="331.5" endTime="336.52">
+<Sync time="331.5"/>
+they
+</Turn>
+<Turn speaker="S6" startTime="336.52" endTime="359.16">
+<Sync time="336.52"/>
+um no i live by a round gangs and training every day
+</Turn>
+<Turn speaker="S4" startTime="359.16" endTime="366.98">
+<Sync time="359.16"/>
+i'm fine
+</Turn>
+<Turn speaker="S5" startTime="366.98" endTime="385.18">
+<Sync time="366.98"/>
+you are on for a while you know whatever i'm going to going to that
+</Turn>
+</Section>
+<Section type="report" startTime="392.25" endTime="486.46" >
+<Turn speaker="S7" startTime="392.25" endTime="399.57">
+<Sync time="392.25"/>
+no
+</Turn>
+<Turn speaker="S5" startTime="399.57" endTime="425.29">
+<Sync time="399.57"/>
+um i i think it's very and and know what i'm going to live in a bar or go through with it either
+</Turn>
+<Turn speaker="S8" startTime="425.29" endTime="441.23">
+<Sync time="425.29"/>
+well you know why i'm going to put the
+</Turn>
+<Turn speaker="S5" startTime="441.23" endTime="457.25">
+<Sync time="441.23"/>
+well i know i'm gonna i'm on
+</Turn>
+<Turn speaker="S9" startTime="457.25" endTime="475.39">
+<Sync time="457.25"/>
+um i'm a guy a uh
+</Turn>
+<Turn speaker="S1" startTime="475.39" endTime="486.46">
+<Sync time="475.39"/>
+ah on or a
+</Turn>
+</Section>
+<Section type="report" startTime="486.59" endTime="491.45" >
+<Turn speaker="S10" startTime="486.59" endTime="491.45">
+<Sync time="486.59"/>
+mm mm
+</Turn>
+</Section>
+</Episode>
+</Trans>

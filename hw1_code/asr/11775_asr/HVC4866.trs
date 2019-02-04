@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4866" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="13.73" endTime="17.2" >
+<Turn speaker="S1" startTime="13.73" endTime="17.2">
+<Sync time="13.73"/>
+uh easy shoulder
+</Turn>
+</Section>
+<Section type="report" startTime="31.22" endTime="51.33" >
+<Turn speaker="S1" startTime="31.22" endTime="40.2">
+<Sync time="31.22"/>
+good good hold it hold it hold it good shelters town god god take uh
+</Turn>
+<Turn speaker="S2" startTime="40.2" endTime="48.46">
+<Sync time="40.2"/>
+mhm
+</Turn>
+<Turn speaker="S1" startTime="48.46" endTime="51.33">
+<Sync time="48.46"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="51.19" endTime="64.32" >
+<Turn speaker="S2" startTime="51.19" endTime="64.32">
+<Sync time="51.19"/>
+mhm
+</Turn>
+</Section>
+</Episode>
+</Trans>

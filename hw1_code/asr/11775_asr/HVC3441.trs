@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3441" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S15" name="K15" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S16" name="K16" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="52.34" >
+<Turn speaker="S1" startTime="0.0" endTime="3.61">
+<Sync time="0.0"/>
+really
+</Turn>
+<Turn speaker="S2" startTime="3.61" endTime="11.69">
+<Sync time="3.61"/>
+uh do some even twain's given by rules worst experience only come through
+</Turn>
+<Turn speaker="S3" startTime="11.69" endTime="18.41">
+<Sync time="11.69"/>
+and uh t._v. everything on like
+</Turn>
+<Turn speaker="S4" startTime="18.41" endTime="22.85">
+<Sync time="18.41"/>
+man
+</Turn>
+<Turn speaker="S5" startTime="22.85" endTime="28.54">
+<Sync time="22.85"/>
+yes i sure let's go
+</Turn>
+<Turn speaker="S6" startTime="28.54" endTime="35.43">
+<Sync time="28.54"/>
+me
+</Turn>
+<Turn speaker="S7" startTime="35.43" endTime="39.68">
+<Sync time="35.43"/>
+he's gonna be be on the game um drink bloomington
+</Turn>
+<Turn speaker="S8" startTime="39.68" endTime="44.94">
+<Sync time="39.68"/>
+um how's that
+</Turn>
+<Turn speaker="S9" startTime="44.94" endTime="52.34">
+<Sync time="44.94"/>
+yeah oh your enemies therefore i was
+</Turn>
+</Section>
+<Section type="report" startTime="58.61" endTime="84.22" >
+<Turn speaker="S10" startTime="58.61" endTime="62.68">
+<Sync time="58.61"/>
+you can't do that no no well actually no
+</Turn>
+<Turn speaker="S11" startTime="62.68" endTime="66.31">
+<Sync time="62.68"/>
+like
+</Turn>
+<Turn speaker="S12" startTime="66.31" endTime="69.13">
+<Sync time="66.31"/>
+wonder if they were you in
+</Turn>
+<Turn speaker="S13" startTime="69.13" endTime="73.7">
+<Sync time="69.13"/>
+going to start over
+</Turn>
+<Turn speaker="S14" startTime="73.7" endTime="80.45">
+<Sync time="73.7"/>
+it was late and didn't see who is better than i do i feel
+</Turn>
+<Turn speaker="S15" startTime="80.45" endTime="84.22">
+<Sync time="80.45"/>
+congratulations you're better it's okay
+</Turn>
+</Section>
+<Section type="report" startTime="88.01" endTime="95.83" >
+<Turn speaker="S16" startTime="88.01" endTime="95.83">
+<Sync time="88.01"/>
+mhm
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2392" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.34" endTime="71.53" >
+<Turn speaker="S1" startTime="4.34" endTime="19.84">
+<Sync time="4.34"/>
+certain
+</Turn>
+<Turn speaker="S2" startTime="19.84" endTime="65.59">
+<Sync time="19.84"/>
+no no the where everybody knew then what does that and you know
+</Turn>
+<Turn speaker="S3" startTime="65.59" endTime="71.53">
+<Sync time="65.59"/>
+yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

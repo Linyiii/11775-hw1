@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4596" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="95.62" >
+<Turn speaker="S1" startTime="0.0" endTime="95.62">
+<Sync time="0.0"/>
+unless i thought well he's got all my mother and you know for me is i lot they already because they want to live in the movie neither one of the month that we were not on the diagnosed
+</Turn>
+</Section>
+</Episode>
+</Trans>

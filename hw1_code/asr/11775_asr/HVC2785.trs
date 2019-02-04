@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2785" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="139.62" >
+<Turn speaker="S1" startTime="0.0" endTime="70.49">
+<Sync time="0.0"/>
+what's name interested in somebody and right now is as they're starting to what you're doing now michael she's already made the crafts and stuff is just kind of interesting to me the feeling michael jordan was 38 pounds cream three quarters cup of sugar and cheese
+</Turn>
+<Turn speaker="S2" startTime="70.49" endTime="76.42">
+<Sync time="70.49"/>
+that is great um last year
+</Turn>
+<Turn speaker="S1" startTime="76.42" endTime="80.49">
+<Sync time="76.42"/>
+and she
+</Turn>
+<Turn speaker="S2" startTime="80.49" endTime="111.33">
+<Sync time="80.49"/>
+um um
+</Turn>
+<Turn speaker="S3" startTime="111.33" endTime="139.62">
+<Sync time="111.33"/>
+hi i'm what's the temperature in the open and what she look like when it comes out
+</Turn>
+</Section>
+</Episode>
+</Trans>

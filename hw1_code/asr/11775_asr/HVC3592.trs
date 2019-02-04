@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3592" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.05" endTime="91.86" >
+<Turn speaker="S1" startTime="0.05" endTime="13.7">
+<Sync time="0.05"/>
+then
+</Turn>
+<Turn speaker="S2" startTime="13.7" endTime="68.26">
+<Sync time="13.7"/>
+and then they're supposed to talk about
+</Turn>
+<Turn speaker="S3" startTime="68.26" endTime="91.86">
+<Sync time="68.26"/>
+when don't know
+</Turn>
+</Section>
+<Section type="report" startTime="91.95" endTime="127.55" >
+<Turn speaker="S4" startTime="91.95" endTime="127.55">
+<Sync time="91.95"/>
+pretty intense i i think my was just wild and when when when suddenly just just skydiving or this was different it wasn't like it was the same as know it just happened to control yourself exactly where are you can't just like this
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5166" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.89" endTime="88.14" >
+<Turn speaker="S1" startTime="3.89" endTime="27.09">
+<Sync time="3.89"/>
+and they would come in a while a and i never
+</Turn>
+<Turn speaker="S2" startTime="27.09" endTime="40.19">
+<Sync time="27.09"/>
+terribly
+</Turn>
+<Turn speaker="S3" startTime="40.19" endTime="72.29">
+<Sync time="40.19"/>
+uh no no no no no
+</Turn>
+<Turn speaker="S1" startTime="72.29" endTime="88.14">
+<Sync time="72.29"/>
+oh i'm sure what was the industry so me adam
+</Turn>
+</Section>
+<Section type="report" startTime="99.78" endTime="208.54" >
+<Turn speaker="S3" startTime="99.78" endTime="132.67">
+<Sync time="99.78"/>
+no
+</Turn>
+<Turn speaker="S1" startTime="132.67" endTime="162.69">
+<Sync time="132.67"/>
+what was your uh you know really you know everybody was saying that they don't know
+</Turn>
+<Turn speaker="S3" startTime="162.69" endTime="208.54">
+<Sync time="162.69"/>
+we're we're we're actually um
+</Turn>
+</Section>
+</Episode>
+</Trans>

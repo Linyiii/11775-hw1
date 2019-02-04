@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4831" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="35.29" endTime="46.2" >
+<Turn speaker="S1" startTime="35.29" endTime="46.2">
+<Sync time="35.29"/>
+um
+</Turn>
+</Section>
+<Section type="report" startTime="46.27" endTime="130.34" >
+<Turn speaker="S2" startTime="46.27" endTime="130.34">
+<Sync time="46.27"/>
+we're supposed to be a little bit and we both go boom boom boom boom boom boom boom boom boom boom boom boom boom bang bang bang bang bang boom boom boom boom boom boom boom
+</Turn>
+</Section>
+</Episode>
+</Trans>

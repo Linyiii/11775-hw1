@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2793" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S15" name="K15" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S16" name="K16" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S17" name="K17" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S18" name="K18" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S19" name="K19" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.53" endTime="29.0" >
+<Turn speaker="S1" startTime="0.53" endTime="5.93">
+<Sync time="0.53"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="5.93" endTime="9.21">
+<Sync time="5.93"/>
+wow
+</Turn>
+<Turn speaker="S3" startTime="9.21" endTime="15.72">
+<Sync time="9.21"/>
+yeah the primaries
+</Turn>
+<Turn speaker="S4" startTime="15.72" endTime="23.11">
+<Sync time="15.72"/>
+new now
+</Turn>
+<Turn speaker="S5" startTime="23.11" endTime="29.0">
+<Sync time="23.11"/>
+good
+</Turn>
+</Section>
+<Section type="report" startTime="34.21" endTime="55.94" >
+<Turn speaker="S6" startTime="34.21" endTime="37.09">
+<Sync time="34.21"/>
+you're a guy and three
+</Turn>
+<Turn speaker="S7" startTime="37.09" endTime="46.15">
+<Sync time="37.09"/>
+believe they didn't make any
+</Turn>
+<Turn speaker="S8" startTime="46.15" endTime="55.94">
+<Sync time="46.15"/>
+do what you
+</Turn>
+</Section>
+<Section type="report" startTime="59.59" endTime="81.38" >
+<Turn speaker="S9" startTime="59.59" endTime="68.04">
+<Sync time="59.59"/>
+no no no no i'm new york you know i realized you know
+</Turn>
+<Turn speaker="S10" startTime="68.04" endTime="74.78">
+<Sync time="68.04"/>
+the kids don't ya
+</Turn>
+<Turn speaker="S11" startTime="74.78" endTime="78.82">
+<Sync time="74.78"/>
+'cause you don't do any of the little people
+</Turn>
+<Turn speaker="S12" startTime="78.82" endTime="81.38">
+<Sync time="78.82"/>
+um here and have to read all kinds of it
+</Turn>
+</Section>
+<Section type="report" startTime="85.3" endTime="101.28" >
+<Turn speaker="S13" startTime="85.3" endTime="91.74">
+<Sync time="85.3"/>
+man
+</Turn>
+<Turn speaker="S14" startTime="91.74" endTime="95.22">
+<Sync time="91.74"/>
+i can get around
+</Turn>
+<Turn speaker="S15" startTime="95.22" endTime="98.24">
+<Sync time="95.22"/>
+they may
+</Turn>
+<Turn speaker="S16" startTime="98.24" endTime="101.28">
+<Sync time="98.24"/>
+oh
+</Turn>
+</Section>
+<Section type="report" startTime="122.92" endTime="142.43" >
+<Turn speaker="S17" startTime="122.92" endTime="129.47">
+<Sync time="122.92"/>
+mm cleveland
+</Turn>
+<Turn speaker="S18" startTime="129.47" endTime="136.13">
+<Sync time="129.47"/>
+uh uh
+</Turn>
+<Turn speaker="S19" startTime="136.13" endTime="142.43">
+<Sync time="136.13"/>
+uh such a button bugs lightly i knew who isn't
+</Turn>
+</Section>
+</Episode>
+</Trans>

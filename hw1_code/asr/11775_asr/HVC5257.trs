@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5257" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.06" endTime="44.32" >
+<Turn speaker="S1" startTime="0.06" endTime="13.49">
+<Sync time="0.06"/>
+you're not going to be annoying
+</Turn>
+<Turn speaker="S2" startTime="13.49" endTime="18.27">
+<Sync time="13.49"/>
+i think the main road
+</Turn>
+<Turn speaker="S1" startTime="18.27" endTime="22.81">
+<Sync time="18.27"/>
+you know
+</Turn>
+<Turn speaker="S2" startTime="22.81" endTime="44.32">
+<Sync time="22.81"/>
+you know you know i don't really know that
+</Turn>
+</Section>
+<Section type="report" startTime="44.19" endTime="61.74" >
+<Turn speaker="S1" startTime="44.19" endTime="61.74">
+<Sync time="44.19"/>
+although you know now when i was not one to
+</Turn>
+</Section>
+</Episode>
+</Trans>

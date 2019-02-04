@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4762" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S15" name="K15" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="45.27" >
+<Turn speaker="S1" startTime="0.04" endTime="2.97">
+<Sync time="0.04"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="2.97" endTime="15.68">
+<Sync time="2.97"/>
+that
+</Turn>
+<Turn speaker="S3" startTime="15.68" endTime="29.02">
+<Sync time="15.68"/>
+mhm dollars about anything else
+</Turn>
+<Turn speaker="S4" startTime="29.02" endTime="35.59">
+<Sync time="29.02"/>
+that's crazy yeah within i'm going yeah i know
+</Turn>
+<Turn speaker="S5" startTime="35.59" endTime="40.75">
+<Sync time="35.59"/>
+like has given them to make a content of the testing
+</Turn>
+<Turn speaker="S6" startTime="40.75" endTime="45.27">
+<Sync time="40.75"/>
+alright you transfer try this one
+</Turn>
+</Section>
+<Section type="report" startTime="48.03" endTime="96.46" >
+<Turn speaker="S7" startTime="48.03" endTime="52.22">
+<Sync time="48.03"/>
+no i'm not hard but
+</Turn>
+<Turn speaker="S8" startTime="52.22" endTime="57.26">
+<Sync time="52.22"/>
+let her dishes look old daughter
+</Turn>
+<Turn speaker="S9" startTime="57.26" endTime="62.95">
+<Sync time="57.26"/>
+good
+</Turn>
+<Turn speaker="S10" startTime="62.95" endTime="67.16">
+<Sync time="62.95"/>
+oh yeah i
+</Turn>
+<Turn speaker="S11" startTime="67.16" endTime="70.36">
+<Sync time="67.16"/>
+oh god yeah
+</Turn>
+<Turn speaker="S12" startTime="70.36" endTime="77.47">
+<Sync time="70.36"/>
+maine yeah ali i'm jerry mania are grown and i mean um
+</Turn>
+<Turn speaker="S13" startTime="77.47" endTime="82.85">
+<Sync time="77.47"/>
+college people we to a lot is shirley
+</Turn>
+<Turn speaker="S14" startTime="82.85" endTime="89.43">
+<Sync time="82.85"/>
+you should the humor in the radius
+</Turn>
+<Turn speaker="S15" startTime="89.43" endTime="96.46">
+<Sync time="89.43"/>
+oh no the car and then a console and plant
+</Turn>
+</Section>
+</Episode>
+</Trans>

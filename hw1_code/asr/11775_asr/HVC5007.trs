@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5007" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="26.28" endTime="66.56" >
+<Turn speaker="S1" startTime="26.28" endTime="56.01">
+<Sync time="26.28"/>
+a little harder than mustard everywhere complain
+</Turn>
+<Turn speaker="S2" startTime="56.01" endTime="66.56">
+<Sync time="56.01"/>
+that is temporary tomatoes onion garlic ginger and uh curry powder
+</Turn>
+</Section>
+<Section type="report" startTime="100.98" endTime="111.72" >
+<Turn speaker="S3" startTime="100.98" endTime="111.72">
+<Sync time="100.98"/>
+humor tomatoes
+</Turn>
+</Section>
+</Episode>
+</Trans>

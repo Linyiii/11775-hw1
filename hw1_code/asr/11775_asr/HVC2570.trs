@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2570" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="2.52" endTime="64.36" >
+<Turn speaker="S1" startTime="2.52" endTime="64.36">
+<Sync time="2.52"/>
+this is rochelle tanks kitty litter cake and other classics thirty real recipes you can make you know this is quite self explanatory here there's a lot of cake making recipes inside for things that are gross looking not tasting uh one of which is the kitty litter cake which i don't think that i could eat no matter how good it tasted however um the separate arm cake is one that i might try cooking or if i had a little gumption marriages gross but you know a lot of fun and uh there's some near the rates the growth of the cakes that you're making so this one of the reading of five out of five but some of the cakes like a like a buckets full of kind of fudge with gummy worms crawling in it which doesn't look that gross but has gross themes that one as a rating like one out of five so there's not
+</Turn>
+</Section>
+<Section type="report" startTime="64.34" endTime="73.17" >
+<Turn speaker="S2" startTime="64.34" endTime="73.17">
+<Sync time="64.34"/>
+very gross cakes and there's really gross looking cakes and maybe something for everybody
+</Turn>
+</Section>
+</Episode>
+</Trans>

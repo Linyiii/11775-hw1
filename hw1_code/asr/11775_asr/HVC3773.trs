@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3773" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.07" endTime="36.63" >
+<Turn speaker="S1" startTime="0.07" endTime="1.57">
+<Sync time="0.07"/>
+yeah
+</Turn>
+<Turn speaker="S2" startTime="1.57" endTime="36.63">
+<Sync time="1.57"/>
+ah the main things i think that'd be really
+</Turn>
+</Section>
+<Section type="report" startTime="42.21" endTime="62.18" >
+<Turn speaker="S3" startTime="42.21" endTime="62.18">
+<Sync time="42.21"/>
+right right under twenty
+</Turn>
+</Section>
+<Section type="report" startTime="64.63" endTime="73.16" >
+<Turn speaker="S4" startTime="64.63" endTime="73.16">
+<Sync time="64.63"/>
+well you know
+</Turn>
+</Section>
+<Section type="report" startTime="82.41" endTime="150.95" >
+<Turn speaker="S5" startTime="82.41" endTime="112.63">
+<Sync time="82.41"/>
+i was you know i'm not going to catch up
+</Turn>
+<Turn speaker="S1" startTime="112.63" endTime="119.09">
+<Sync time="112.63"/>
+good
+</Turn>
+<Turn speaker="S5" startTime="119.09" endTime="150.95">
+<Sync time="119.09"/>
+okay you know that one
+</Turn>
+</Section>
+<Section type="report" startTime="230.15" endTime="232.75" >
+<Turn speaker="S1" startTime="230.15" endTime="232.75">
+<Sync time="230.15"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="235.74" endTime="266.57" >
+<Turn speaker="S5" startTime="235.74" endTime="258.92">
+<Sync time="235.74"/>
+was going all the way to live all right all right
+</Turn>
+<Turn speaker="S1" startTime="258.92" endTime="262.93">
+<Sync time="258.92"/>
+mhm
+</Turn>
+<Turn speaker="S3" startTime="262.93" endTime="266.57">
+<Sync time="262.93"/>
+oh my
+</Turn>
+</Section>
+<Section type="report" startTime="291.35" endTime="294.12" >
+<Turn speaker="S3" startTime="291.35" endTime="294.12">
+<Sync time="291.35"/>
+oh
+</Turn>
+</Section>
+<Section type="report" startTime="315.41" endTime="318.32" >
+<Turn speaker="S1" startTime="315.41" endTime="318.32">
+<Sync time="315.41"/>
+mhm
+</Turn>
+</Section>
+</Episode>
+</Trans>

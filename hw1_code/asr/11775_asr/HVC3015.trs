@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3015" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="19.59" endTime="48.55" >
+<Turn speaker="S1" startTime="19.59" endTime="48.55">
+<Sync time="19.59"/>
+yeah i like to go all that
+</Turn>
+</Section>
+<Section type="report" startTime="51.69" endTime="194.74" >
+<Turn speaker="S2" startTime="51.69" endTime="194.74">
+<Sync time="51.69"/>
+and they were going to make things better grades and then there are no jobs for dr and what happened to play i mean i do and then in the yard i am around the world and in and around there were shut down to and and and have a long time and we will do one on i i really good you feel
+</Turn>
+</Section>
+</Episode>
+</Trans>

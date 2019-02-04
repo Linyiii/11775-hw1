@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4868" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="16.2" >
+<Turn speaker="S1" startTime="0.04" endTime="16.2">
+<Sync time="0.04"/>
+i don't know how we can record off
+</Turn>
+</Section>
+<Section type="report" startTime="20.03" endTime="25.78" >
+<Turn speaker="S1" startTime="20.03" endTime="25.78">
+<Sync time="20.03"/>
+yeah yeah most definitely
+</Turn>
+</Section>
+<Section type="report" startTime="37.28" endTime="73.29" >
+<Turn speaker="S2" startTime="37.28" endTime="43.25">
+<Sync time="37.28"/>
+right
+</Turn>
+<Turn speaker="S1" startTime="43.25" endTime="50.69">
+<Sync time="43.25"/>
+i want to go to work because i think it was
+</Turn>
+<Turn speaker="S2" startTime="50.69" endTime="65.45">
+<Sync time="50.69"/>
+totally
+</Turn>
+<Turn speaker="S1" startTime="65.45" endTime="73.29">
+<Sync time="65.45"/>
+you know invite the parties
+</Turn>
+</Section>
+<Section type="report" startTime="76.43" endTime="84.05" >
+<Turn speaker="S1" startTime="76.43" endTime="84.05">
+<Sync time="76.43"/>
+people don't even know they'll just the guardian
+</Turn>
+</Section>
+<Section type="report" startTime="92.34" endTime="114.74" >
+<Turn speaker="S1" startTime="92.34" endTime="114.74">
+<Sync time="92.34"/>
+oh that's cool you know even like i don't give me a fish
+</Turn>
+</Section>
+</Episode>
+</Trans>

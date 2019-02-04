@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5633" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.06" endTime="33.34" >
+<Turn speaker="S1" startTime="0.06" endTime="33.34">
+<Sync time="0.06"/>
+hey how you doing michael today we got a lesson on chainsaw safety very important that we're safe settled had chinese so that we got that the glasses here i like look here's over here nice safeguard guard on it and take that off we don't need it okay started here put some gas on i parents and the opposition here give it a little cranky and try it again maybe we need some work at okay
+</Turn>
+</Section>
+<Section type="report" startTime="37.34" endTime="50.89" >
+<Turn speaker="S1" startTime="37.34" endTime="50.89">
+<Sync time="37.34"/>
+okay so does that work here is our second spirituality okay pray for the chainsaw than work in jesus name amen okay
+</Turn>
+</Section>
+<Section type="report" startTime="57.38" endTime="65.65" >
+<Turn speaker="S1" startTime="57.38" endTime="65.65">
+<Sync time="57.38"/>
+okay second lessen the chance uh spirituality you followed the chainsaw god and jesus name
+</Turn>
+</Section>
+</Episode>
+</Trans>

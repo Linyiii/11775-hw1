@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3518" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="11.8" endTime="23.8" >
+<Turn speaker="S1" startTime="11.8" endTime="23.8">
+<Sync time="11.8"/>
+well
+</Turn>
+</Section>
+<Section type="report" startTime="35.8" endTime="55.8" >
+<Turn speaker="S1" startTime="35.8" endTime="47.8">
+<Sync time="35.8"/>
+well
+</Turn>
+<Turn speaker="S2" startTime="47.8" endTime="55.8">
+<Sync time="47.8"/>
+uh
+</Turn>
+</Section>
+<Section type="report" startTime="83.8" endTime="95.8" >
+<Turn speaker="S1" startTime="83.8" endTime="95.8">
+<Sync time="83.8"/>
+mm mm
+</Turn>
+</Section>
+<Section type="report" startTime="107.8" endTime="127.8" >
+<Turn speaker="S1" startTime="107.8" endTime="119.8">
+<Sync time="107.8"/>
+mm
+</Turn>
+<Turn speaker="S2" startTime="119.8" endTime="127.8">
+<Sync time="119.8"/>
+uh
+</Turn>
+</Section>
+<Section type="report" startTime="168.48" endTime="273.49" >
+<Turn speaker="S3" startTime="168.48" endTime="236.88">
+<Sync time="168.48"/>
+from the new greenhouse we sitting in the greenhouse we've japanese cars is chris and that's about the moment just see what happens very cloudy day today outside the temperatures nineteen degrees three which is uh not too bad yeah so i just a few to a a supply and things and helping with the work to for the the big screws and the tips i never today's lovely i never to the dog
+</Turn>
+<Turn speaker="S4" startTime="236.88" endTime="239.19">
+<Sync time="236.88"/>
+mhm
+</Turn>
+<Turn speaker="S3" startTime="239.19" endTime="242.74">
+<Sync time="239.19"/>
+let me think anyone knows
+</Turn>
+<Turn speaker="S4" startTime="242.74" endTime="243.66">
+<Sync time="242.74"/>
+mhm
+</Turn>
+<Turn speaker="S3" startTime="243.66" endTime="254.67">
+<Sync time="243.66"/>
+connie uh that was to for me to do alone designer thing
+</Turn>
+<Turn speaker="S4" startTime="254.67" endTime="256.17">
+<Sync time="254.67"/>
+mhm
+</Turn>
+<Turn speaker="S3" startTime="256.17" endTime="267.08">
+<Sync time="256.17"/>
+so everyone who watched it on youtube followed progressive the especially uh
+</Turn>
+<Turn speaker="S4" startTime="267.08" endTime="270.13">
+<Sync time="267.08"/>
+mhm
+</Turn>
+<Turn speaker="S3" startTime="270.13" endTime="273.49">
+<Sync time="270.13"/>
+i don't want to do i have to think of a new project
+</Turn>
+</Section>
+<Section type="report" startTime="280.42" endTime="291.24" >
+<Turn speaker="S3" startTime="280.42" endTime="284.41">
+<Sync time="280.42"/>
+well this is signing off from the greenhouse
+</Turn>
+<Turn speaker="S2" startTime="284.41" endTime="291.24">
+<Sync time="284.41"/>
+a good
+</Turn>
+</Section>
+</Episode>
+</Trans>

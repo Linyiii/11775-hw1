@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2412" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="42.25" >
+<Turn speaker="S1" startTime="0.0" endTime="3.5">
+<Sync time="0.0"/>
+okay well
+</Turn>
+<Turn speaker="S2" startTime="3.5" endTime="7.2">
+<Sync time="3.5"/>
+i uh like four o'clock
+</Turn>
+<Turn speaker="S1" startTime="7.2" endTime="28.45">
+<Sync time="7.2"/>
+school then i put together now get going so right now she can do a quick quick run through the songs together and ah yeah we're gonna get this there with me
+</Turn>
+<Turn speaker="S3" startTime="28.45" endTime="38.24">
+<Sync time="28.45"/>
+okay
+</Turn>
+<Turn speaker="S1" startTime="38.24" endTime="42.25">
+<Sync time="38.24"/>
+one thing um and let's do this
+</Turn>
+</Section>
+<Section type="report" startTime="49.75" endTime="193.53" >
+<Turn speaker="S4" startTime="49.75" endTime="67.9">
+<Sync time="49.75"/>
+not the yard and they're like it's just damn right it's better than just teach you have to something the the the uh they want yours
+</Turn>
+<Turn speaker="S5" startTime="67.9" endTime="89.86">
+<Sync time="67.9"/>
+i don't know
+</Turn>
+<Turn speaker="S4" startTime="89.86" endTime="149.25">
+<Sync time="89.86"/>
+where you know and so do a lot of commitments that i think you get from any other guy uh wanted you you gotta make you never gonna never gonna make you eat all that crap that just didn't they never going to let you cry never gonna last you die from salmonella infested that stuff alright never going to give that we're going to give you because you need that much to me they're gonna do you just because they don't do them we're better than them yeah next round three
+</Turn>
+<Turn speaker="S6" startTime="149.25" endTime="162.62">
+<Sync time="149.25"/>
+yeah oh yeah i'm back
+</Turn>
+<Turn speaker="S2" startTime="162.62" endTime="183.29">
+<Sync time="162.62"/>
+the chronic master bakers are equal and deserve respect just kidding they should start my cake what what i want to be due in baking once they what i wanna you baking cookies like airplanes
+</Turn>
+<Turn speaker="S6" startTime="183.29" endTime="187.4">
+<Sync time="183.29"/>
+they make people happy you know
+</Turn>
+<Turn speaker="S4" startTime="187.4" endTime="189.34">
+<Sync time="187.4"/>
+my like tea parties
+</Turn>
+<Turn speaker="S6" startTime="189.34" endTime="193.53">
+<Sync time="189.34"/>
+they make people happy
+</Turn>
+</Section>
+<Section type="report" startTime="193.71" endTime="254.76" >
+<Turn speaker="S2" startTime="193.71" endTime="254.76">
+<Sync time="193.71"/>
+wayne gretzky of baking stuff and the hulk hogan of slamming muffins i'm the indiana jones of exploring ovens and the shakespeare of enormous trees and helen keller of baking brownies away that's a terrible example why did my brownies cross the road to get to the master good what what i want you and your tasty treats big game what what e. equals m. c. baking scene you know what i'm saying good stuff and he knows how it almost slipped up with the baking almost but i caught myself yeah so basically all this stuff could go and just make sure those kind parts of this and uh yeah so
+</Turn>
+</Section>
+</Episode>
+</Trans>

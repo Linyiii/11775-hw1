@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3929" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="13.71" endTime="63.83" >
+<Turn speaker="S1" startTime="13.71" endTime="32.46">
+<Sync time="13.71"/>
+interesting many many many many things
+</Turn>
+<Turn speaker="S2" startTime="32.46" endTime="63.83">
+<Sync time="32.46"/>
+you know they don't do anything with
+</Turn>
+</Section>
+<Section type="report" startTime="84.01" endTime="88.93" >
+<Turn speaker="S2" startTime="84.01" endTime="88.93">
+<Sync time="84.01"/>
+they do
+</Turn>
+</Section>
+<Section type="report" startTime="95.71" endTime="315.26" >
+<Turn speaker="S3" startTime="95.71" endTime="98.43">
+<Sync time="95.71"/>
+ah no
+</Turn>
+<Turn speaker="S4" startTime="98.43" endTime="102.26">
+<Sync time="98.43"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="102.26" endTime="113.27">
+<Sync time="102.26"/>
+but
+</Turn>
+<Turn speaker="S4" startTime="113.27" endTime="120.35">
+<Sync time="113.27"/>
+a bombay
+</Turn>
+<Turn speaker="S5" startTime="120.35" endTime="123.62">
+<Sync time="120.35"/>
+um
+</Turn>
+<Turn speaker="S3" startTime="123.62" endTime="139.21">
+<Sync time="123.62"/>
+no
+</Turn>
+<Turn speaker="S5" startTime="139.21" endTime="164.03">
+<Sync time="139.21"/>
+and and and ah or or
+</Turn>
+<Turn speaker="S6" startTime="164.03" endTime="184.7">
+<Sync time="164.03"/>
+and they call
+</Turn>
+<Turn speaker="S5" startTime="184.7" endTime="191.51">
+<Sync time="184.7"/>
+well
+</Turn>
+<Turn speaker="S7" startTime="191.51" endTime="209.96">
+<Sync time="191.51"/>
+they should be by law
+</Turn>
+<Turn speaker="S8" startTime="209.96" endTime="227.15">
+<Sync time="209.96"/>
+okay when is she doing ah money you know something like that
+</Turn>
+<Turn speaker="S9" startTime="227.15" endTime="239.01">
+<Sync time="227.15"/>
+no
+</Turn>
+<Turn speaker="S10" startTime="239.01" endTime="249.31">
+<Sync time="239.01"/>
+and
+</Turn>
+<Turn speaker="S11" startTime="249.31" endTime="265.54">
+<Sync time="249.31"/>
+no no no
+</Turn>
+<Turn speaker="S12" startTime="265.54" endTime="315.26">
+<Sync time="265.54"/>
+and you know blah blah and animals and stuff on the phone and da da de and
+</Turn>
+</Section>
+</Episode>
+</Trans>

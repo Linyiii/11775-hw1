@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2079" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.27" endTime="152.76" >
+<Turn speaker="S1" startTime="0.27" endTime="6.36">
+<Sync time="0.27"/>
+uh um
+</Turn>
+<Turn speaker="S2" startTime="6.36" endTime="41.69">
+<Sync time="6.36"/>
+and then she's noticed or where you can't get them to be sent me to do to get dealing with other people
+</Turn>
+<Turn speaker="S1" startTime="41.69" endTime="44.62">
+<Sync time="41.69"/>
+and
+</Turn>
+<Turn speaker="S2" startTime="44.62" endTime="152.76">
+<Sync time="44.62"/>
+no no no no no no thank goodness he's gonna move phones and stuff and yeah yeah they they mean you know when they go to the mall to the the you know little shows on cedar point oh no no no we need to pick up on too long ago i ask you to on them and you know
+</Turn>
+</Section>
+</Episode>
+</Trans>

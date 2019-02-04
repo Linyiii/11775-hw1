@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2450" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.07" endTime="1.99" >
+<Turn speaker="S1" startTime="0.07" endTime="1.99">
+<Sync time="0.07"/>
+mm
+</Turn>
+</Section>
+<Section type="report" startTime="14.53" endTime="85.87" >
+<Turn speaker="S1" startTime="14.53" endTime="19.23">
+<Sync time="14.53"/>
+they should not
+</Turn>
+<Turn speaker="S2" startTime="19.23" endTime="24.55">
+<Sync time="19.23"/>
+she would have c._d.
+</Turn>
+<Turn speaker="S1" startTime="24.55" endTime="37.94">
+<Sync time="24.55"/>
+i i don't know if you
+</Turn>
+<Turn speaker="S3" startTime="37.94" endTime="51.41">
+<Sync time="37.94"/>
+we should be
+</Turn>
+<Turn speaker="S1" startTime="51.41" endTime="54.37">
+<Sync time="51.41"/>
+and one
+</Turn>
+<Turn speaker="S4" startTime="54.37" endTime="83.57">
+<Sync time="54.37"/>
+and you know everyone calls me and
+</Turn>
+<Turn speaker="S1" startTime="83.57" endTime="85.87">
+<Sync time="83.57"/>
+i just
+</Turn>
+</Section>
+<Section type="report" startTime="99.78" endTime="182.6" >
+<Turn speaker="S1" startTime="99.78" endTime="123.56">
+<Sync time="99.78"/>
+do just some some orders that that could be
+</Turn>
+<Turn speaker="S3" startTime="123.56" endTime="129.68">
+<Sync time="123.56"/>
+they are
+</Turn>
+<Turn speaker="S4" startTime="129.68" endTime="148.28">
+<Sync time="129.68"/>
+and he
+</Turn>
+<Turn speaker="S5" startTime="148.28" endTime="163.24">
+<Sync time="148.28"/>
+a long time
+</Turn>
+<Turn speaker="S6" startTime="163.24" endTime="166.69">
+<Sync time="163.24"/>
+and
+</Turn>
+<Turn speaker="S4" startTime="166.69" endTime="178.12">
+<Sync time="166.69"/>
+what not doing
+</Turn>
+<Turn speaker="S5" startTime="178.12" endTime="182.6">
+<Sync time="178.12"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="184.48" endTime="192.61" >
+<Turn speaker="S2" startTime="184.48" endTime="192.61">
+<Sync time="184.48"/>
+jeez you know
+</Turn>
+</Section>
+<Section type="report" startTime="233.33" endTime="240.2" >
+<Turn speaker="S7" startTime="233.33" endTime="240.2">
+<Sync time="233.33"/>
+mm
+</Turn>
+</Section>
+</Episode>
+</Trans>

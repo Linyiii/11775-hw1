@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4686" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="12.59" >
+<Turn speaker="S1" startTime="0.0" endTime="12.59">
+<Sync time="0.0"/>
+you can always harrisburg or anything on the president or the to someone else
+</Turn>
+</Section>
+<Section type="report" startTime="20.73" endTime="54.9" >
+<Turn speaker="S1" startTime="20.73" endTime="54.9">
+<Sync time="20.73"/>
+and i understand the the way they are let me just put your graduation when i was born in i don't know what i understand
+</Turn>
+</Section>
+</Episode>
+</Trans>

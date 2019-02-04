@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4781" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.73" endTime="256.77" >
+<Turn speaker="S1" startTime="4.73" endTime="44.05">
+<Sync time="4.73"/>
+and i stopped by job to job about stuff going on
+</Turn>
+<Turn speaker="S2" startTime="44.05" endTime="84.05">
+<Sync time="44.05"/>
+i mean to me by my timer rarely rarely by the time to talk to die from that but i don't know
+</Turn>
+<Turn speaker="S1" startTime="84.05" endTime="102.91">
+<Sync time="84.05"/>
+the dog down on the job
+</Turn>
+<Turn speaker="S2" startTime="102.91" endTime="123.17">
+<Sync time="102.91"/>
+you guys later on you i'm i don't know
+</Turn>
+<Turn speaker="S1" startTime="123.17" endTime="138.02">
+<Sync time="123.17"/>
+da da da da da
+</Turn>
+<Turn speaker="S3" startTime="138.02" endTime="147.15">
+<Sync time="138.02"/>
+ha ha ha ha ha ha
+</Turn>
+<Turn speaker="S4" startTime="147.15" endTime="157.02">
+<Sync time="147.15"/>
+our our oil
+</Turn>
+<Turn speaker="S2" startTime="157.02" endTime="195.98">
+<Sync time="157.02"/>
+our our our our job
+</Turn>
+<Turn speaker="S5" startTime="195.98" endTime="245.29">
+<Sync time="195.98"/>
+and i'm saying man i'm getting a little bit dilated da da da da da da da da da da da da da da da da da da da da da now in the in the um the
+</Turn>
+<Turn speaker="S6" startTime="245.29" endTime="256.77">
+<Sync time="245.29"/>
+yeah job job job job job
+</Turn>
+</Section>
+</Episode>
+</Trans>

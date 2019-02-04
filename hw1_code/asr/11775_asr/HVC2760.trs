@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2760" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="9.06" >
+<Turn speaker="S1" startTime="0.0" endTime="9.06">
+<Sync time="0.0"/>
+you're
+</Turn>
+</Section>
+<Section type="report" startTime="23.8" endTime="27.79" >
+<Turn speaker="S2" startTime="23.8" endTime="27.79">
+<Sync time="23.8"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="30.31" endTime="111.04" >
+<Turn speaker="S3" startTime="30.31" endTime="55.47">
+<Sync time="30.31"/>
+no no no no not me without me being
+</Turn>
+<Turn speaker="S4" startTime="55.47" endTime="67.55">
+<Sync time="55.47"/>
+um no no
+</Turn>
+<Turn speaker="S5" startTime="67.55" endTime="75.7">
+<Sync time="67.55"/>
+oh my gosh
+</Turn>
+<Turn speaker="S3" startTime="75.7" endTime="99.18">
+<Sync time="75.7"/>
+no there was a gay guy once you get is a god
+</Turn>
+<Turn speaker="S4" startTime="99.18" endTime="111.04">
+<Sync time="99.18"/>
+and um
+</Turn>
+</Section>
+<Section type="report" startTime="119.24" endTime="219.7" >
+<Turn speaker="S6" startTime="119.24" endTime="143.64">
+<Sync time="119.24"/>
+oh no
+</Turn>
+<Turn speaker="S3" startTime="143.64" endTime="154.52">
+<Sync time="143.64"/>
+oh know
+</Turn>
+<Turn speaker="S4" startTime="154.52" endTime="166.74">
+<Sync time="154.52"/>
+no
+</Turn>
+<Turn speaker="S5" startTime="166.74" endTime="176.54">
+<Sync time="166.74"/>
+and and
+</Turn>
+<Turn speaker="S6" startTime="176.54" endTime="188.2">
+<Sync time="176.54"/>
+oh a
+</Turn>
+<Turn speaker="S3" startTime="188.2" endTime="199.66">
+<Sync time="188.2"/>
+very shy
+</Turn>
+<Turn speaker="S4" startTime="199.66" endTime="211.88">
+<Sync time="199.66"/>
+you know and um
+</Turn>
+<Turn speaker="S5" startTime="211.88" endTime="219.7">
+<Sync time="211.88"/>
+and
+</Turn>
+</Section>
+<Section type="report" startTime="222.99" endTime="261.8" >
+<Turn speaker="S4" startTime="222.99" endTime="234.48">
+<Sync time="222.99"/>
+you know
+</Turn>
+<Turn speaker="S3" startTime="234.48" endTime="237.66">
+<Sync time="234.48"/>
+no
+</Turn>
+<Turn speaker="S4" startTime="237.66" endTime="250.51">
+<Sync time="237.66"/>
+any pain
+</Turn>
+<Turn speaker="S7" startTime="250.51" endTime="261.8">
+<Sync time="250.51"/>
+and then a week or so
+</Turn>
+</Section>
+</Episode>
+</Trans>

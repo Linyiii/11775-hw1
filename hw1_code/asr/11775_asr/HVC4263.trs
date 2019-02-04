@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4263" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="26.83" endTime="44.35" >
+<Turn speaker="S1" startTime="26.83" endTime="44.35">
+<Sync time="26.83"/>
+martin technology like pretty luxurious we couldn't be anytime anywhere on limits ladies and gentlemen interesting there's a time place communication
+</Turn>
+</Section>
+<Section type="report" startTime="50.51" endTime="100.38" >
+<Turn speaker="S1" startTime="50.51" endTime="56.75">
+<Sync time="50.51"/>
+keep it down this new boy
+</Turn>
+<Turn speaker="S2" startTime="56.75" endTime="59.68">
+<Sync time="56.75"/>
+mhm
+</Turn>
+<Turn speaker="S1" startTime="59.68" endTime="82.12">
+<Sync time="59.68"/>
+it's important to live in the movement and pay close attention to who you're with if you're outside so not to disturb other places should be quiet better yet the telephone away
+</Turn>
+<Turn speaker="S2" startTime="82.12" endTime="88.89">
+<Sync time="82.12"/>
+mhm
+</Turn>
+<Turn speaker="S1" startTime="88.89" endTime="100.38">
+<Sync time="88.89"/>
+there are situations when it is not appropriate to take rather let the arms to reply for you
+</Turn>
+</Section>
+<Section type="report" startTime="102.61" endTime="106.87" >
+<Turn speaker="S1" startTime="102.61" endTime="106.87">
+<Sync time="102.61"/>
+way to ruin a romantic movies
+</Turn>
+</Section>
+<Section type="report" startTime="109.84" endTime="156.79" >
+<Turn speaker="S1" startTime="109.84" endTime="139.39">
+<Sync time="109.84"/>
+and whatever happened to keeping priceless conversations just that right for vote use the the telephone in public places shameful multiple multiple technology just remember that time and place for everything
+</Turn>
+<Turn speaker="S3" startTime="139.39" endTime="156.79">
+<Sync time="139.39"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

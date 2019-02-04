@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4504" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.61" endTime="48.1" >
+<Turn speaker="S1" startTime="3.61" endTime="37.55">
+<Sync time="3.61"/>
+what's a a mixture of iron oxide which is rest and aluminium metal socially one example that this is a piece of magnesium metal if i put that in the flame intellectually actually burn in here so that's metal burning an air becoming magnesium outside so i'm going to do is put a piece of magnesium into the reaction mixture what we're going to do then is speeded up heating it up and you'll see that a lot of energy is released in a very short time
+</Turn>
+<Turn speaker="S2" startTime="37.55" endTime="48.1">
+<Sync time="37.55"/>
+so that's the the aluminum and the
+</Turn>
+</Section>
+<Section type="report" startTime="48.27" endTime="66.11" >
+<Turn speaker="S1" startTime="48.27" endTime="66.11">
+<Sync time="48.27"/>
+metal reaction gets so hot they actually used to use it the well railway reels together this up you can see that there's iron in the bottom of the combination of an iron and aluminum outside
+</Turn>
+</Section>
+</Episode>
+</Trans>

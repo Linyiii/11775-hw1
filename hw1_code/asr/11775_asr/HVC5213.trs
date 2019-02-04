@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5213" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="64.67" >
+<Turn speaker="S1" startTime="0.04" endTime="35.14">
+<Sync time="0.04"/>
+diana vampire slayer environment than last night on the on the line i'm looking at me and my mom
+</Turn>
+<Turn speaker="S2" startTime="35.14" endTime="64.67">
+<Sync time="35.14"/>
+and my mom my mom and then by then time and get bonus you know i mean they were to go and get our hands and i'm looking at they don't tell me
+</Turn>
+</Section>
+<Section type="report" startTime="64.64" endTime="70.99" >
+<Turn speaker="S3" startTime="64.64" endTime="70.99">
+<Sync time="64.64"/>
+know my mom now
+</Turn>
+</Section>
+</Episode>
+</Trans>

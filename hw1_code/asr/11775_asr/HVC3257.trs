@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3257" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="117.34" >
+<Turn speaker="S1" startTime="0.0" endTime="73.59">
+<Sync time="0.0"/>
+the stuff modified some severe weather you don't really get here so you can get into this down and say what you found your call whether it be taken well you got one side and the the opposite like if you are you was getting getting cold and goopy you want to get back to make your so let's say
+</Turn>
+<Turn speaker="S2" startTime="73.59" endTime="117.34">
+<Sync time="73.59"/>
+steaks and trying to get in the middle east coast locate somebody's take place
+</Turn>
+</Section>
+<Section type="report" startTime="117.46" endTime="125.76" >
+<Turn speaker="S1" startTime="117.46" endTime="125.76">
+<Sync time="117.46"/>
+got any questions easy simple
+</Turn>
+</Section>
+</Episode>
+</Trans>

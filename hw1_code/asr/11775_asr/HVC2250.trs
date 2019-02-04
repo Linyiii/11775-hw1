@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2250" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="5.51" endTime="37.63" >
+<Turn speaker="S1" startTime="5.51" endTime="37.63">
+<Sync time="5.51"/>
+hey regular show your shoulder exercise during the shoulder and the turtle go around but why don't you start to exercise in go for the rest of the cast away and the the shoulder from a different angle rotation had shoulders most of them
+</Turn>
+</Section>
+<Section type="report" startTime="40.33" endTime="47.89" >
+<Turn speaker="S1" startTime="40.33" endTime="47.89">
+<Sync time="40.33"/>
+start dumbbells growing up i rotate
+</Turn>
+</Section>
+<Section type="report" startTime="69.42" endTime="74.83" >
+<Turn speaker="S1" startTime="69.42" endTime="74.83">
+<Sync time="69.42"/>
+or your shoulder exercise
+</Turn>
+</Section>
+<Section type="report" startTime="74.59" endTime="94.97" >
+<Turn speaker="S2" startTime="74.59" endTime="94.97">
+<Sync time="74.59"/>
+for more workout programs in training to be sure to check up my website is w. w. w. dot dot com and while you're there sign up for free ten part body building to email course in this you'll get some killer that'll help you build lean muscle burn off stubborn body fat and get ripped athletic physique
+</Turn>
+</Section>
+</Episode>
+</Trans>

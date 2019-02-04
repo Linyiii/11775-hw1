@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4797" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="28.87" >
+<Turn speaker="S1" startTime="0.0" endTime="28.87">
+<Sync time="0.0"/>
+this is all dress for success with meat hats and gloves and a helmet and say hello are you gonna ride your bike for the first time today okay first we're gonna throw your leg over here you go alright and slide down on just go there you go
+</Turn>
+</Section>
+<Section type="report" startTime="34.93" endTime="94.62" >
+<Turn speaker="S2" startTime="34.93" endTime="78.61">
+<Sync time="34.93"/>
+keep going keep going just turn turn those handlebars a little oh oh you're doing great you gonna turn this way toward me because there you go nice and slow this is the first time you've ever been on a bike how does it feel how does it feel pretty good pretty good great we have your sister who needs to get away
+</Turn>
+<Turn speaker="S1" startTime="78.61" endTime="84.94">
+<Sync time="78.61"/>
+i asked her daddy i asked her how to spell
+</Turn>
+<Turn speaker="S2" startTime="84.94" endTime="94.62">
+<Sync time="84.94"/>
+and she was pretty good great as careful you're going to hit the street now
+</Turn>
+</Section>
+<Section type="report" startTime="103.17" endTime="107.81" >
+<Turn speaker="S2" startTime="103.17" endTime="107.81">
+<Sync time="103.17"/>
+keep keep keep keep record
+</Turn>
+</Section>
+<Section type="report" startTime="121.6" endTime="135.5" >
+<Turn speaker="S1" startTime="121.6" endTime="135.5">
+<Sync time="121.6"/>
+coming at me you can go faster you don't have to you don't have to go fast don't worry you can go slow as you want to worst faster you want to whatever
+</Turn>
+</Section>
+<Section type="report" startTime="141.57" endTime="157.91" >
+<Turn speaker="S1" startTime="141.57" endTime="154.59">
+<Sync time="141.57"/>
+alright i'm going to stop the video when you look in the camera and how do you do like a new bike alright are you going to love how long you been to love it for
+</Turn>
+<Turn speaker="S3" startTime="154.59" endTime="157.91">
+<Sync time="154.59"/>
+um
+</Turn>
+</Section>
+<Section type="report" startTime="157.96" endTime="191.82" >
+<Turn speaker="S1" startTime="157.96" endTime="191.82">
+<Sync time="157.96"/>
+is this your christmas present yeah do you like it would you think that other little boys and girls would like bikes like yours why so this is that everyone should get a glideride for christmas say bye bye for mommy blood reviews
+</Turn>
+</Section>
+</Episode>
+</Trans>

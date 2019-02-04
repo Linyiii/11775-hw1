@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5555" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="148.53" >
+<Turn speaker="S1" startTime="0.03" endTime="18.57">
+<Sync time="0.03"/>
+i don't like them and
+</Turn>
+<Turn speaker="S2" startTime="18.57" endTime="56.06">
+<Sync time="18.57"/>
+and now now i know now by law around by the way down alright and you i don't know why they are bad
+</Turn>
+<Turn speaker="S3" startTime="56.06" endTime="65.19">
+<Sync time="56.06"/>
+oh no
+</Turn>
+<Turn speaker="S1" startTime="65.19" endTime="75.4">
+<Sync time="65.19"/>
+and and
+</Turn>
+<Turn speaker="S2" startTime="75.4" endTime="113.27">
+<Sync time="75.4"/>
+no i'm going to lay on the map now they have a a dog down the road random you know
+</Turn>
+<Turn speaker="S3" startTime="113.27" endTime="133.31">
+<Sync time="113.27"/>
+um labor day
+</Turn>
+<Turn speaker="S1" startTime="133.31" endTime="148.53">
+<Sync time="133.31"/>
+they have some money know
+</Turn>
+</Section>
+<Section type="report" startTime="150.4" endTime="178.29" >
+<Turn speaker="S1" startTime="150.4" endTime="178.29">
+<Sync time="150.4"/>
+and then they might want to know people here are made by the way were there or are they going to name your your your not too bad
+</Turn>
+</Section>
+</Episode>
+</Trans>

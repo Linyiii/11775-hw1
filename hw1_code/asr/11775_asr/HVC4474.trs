@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4474" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.13" endTime="44.84" >
+<Turn speaker="S1" startTime="0.13" endTime="9.44">
+<Sync time="0.13"/>
+first thing when they lose lose the d._v._d. to get out away just need to provide off the small
+</Turn>
+<Turn speaker="S2" startTime="9.44" endTime="40.95">
+<Sync time="9.44"/>
+the whole set aside now let's carefully remove the top cover and that is that
+</Turn>
+<Turn speaker="S1" startTime="40.95" endTime="44.84">
+<Sync time="40.95"/>
+next step is to remove the connection from dry
+</Turn>
+</Section>
+<Section type="report" startTime="53.75" endTime="57.29" >
+<Turn speaker="S1" startTime="53.75" endTime="57.29">
+<Sync time="53.75"/>
+and during the drought it is
+</Turn>
+</Section>
+</Episode>
+</Trans>

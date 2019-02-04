@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4518" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.08" endTime="235.12" >
+<Turn speaker="S1" startTime="0.08" endTime="17.75">
+<Sync time="0.08"/>
+you know mom around there you go on starting off you
+</Turn>
+<Turn speaker="S2" startTime="17.75" endTime="67.36">
+<Sync time="17.75"/>
+yeah man you know i mean i don't mean to me you know i mean oh gosh
+</Turn>
+<Turn speaker="S1" startTime="67.36" endTime="78.6">
+<Sync time="67.36"/>
+i hope not against your heart
+</Turn>
+<Turn speaker="S2" startTime="78.6" endTime="109.4">
+<Sync time="78.6"/>
+no i mean now i'm go to sleep
+</Turn>
+<Turn speaker="S1" startTime="109.4" endTime="118.31">
+<Sync time="109.4"/>
+the bottom line
+</Turn>
+<Turn speaker="S2" startTime="118.31" endTime="140.44">
+<Sync time="118.31"/>
+well my daughter
+</Turn>
+<Turn speaker="S1" startTime="140.44" endTime="149.58">
+<Sync time="140.44"/>
+you can just do not get any walk in to protect them from
+</Turn>
+<Turn speaker="S3" startTime="149.58" endTime="169.06">
+<Sync time="149.58"/>
+i think it'd be turned on my mom on and then
+</Turn>
+<Turn speaker="S1" startTime="169.06" endTime="235.12">
+<Sync time="169.06"/>
+and then the last time on on the menu you on any minute all day and i'm always looking around and you know and then you got got a little you or not
+</Turn>
+</Section>
+<Section type="report" startTime="235.2" endTime="241.65" >
+<Turn speaker="S2" startTime="235.2" endTime="241.65">
+<Sync time="235.2"/>
+many shots
+</Turn>
+</Section>
+</Episode>
+</Trans>

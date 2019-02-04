@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4072" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="4.9" >
+<Turn speaker="S1" startTime="0.0" endTime="4.9">
+<Sync time="0.0"/>
+so what are you serious wouldn't you daughter
+</Turn>
+</Section>
+<Section type="report" startTime="28.72" endTime="51.17" >
+<Turn speaker="S2" startTime="28.72" endTime="39.33">
+<Sync time="28.72"/>
+you go to work anymore
+</Turn>
+<Turn speaker="S3" startTime="39.33" endTime="46.63">
+<Sync time="39.33"/>
+you wouldn't know
+</Turn>
+<Turn speaker="S4" startTime="46.63" endTime="51.17">
+<Sync time="46.63"/>
+oh okay
+</Turn>
+</Section>
+</Episode>
+</Trans>

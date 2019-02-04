@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6018" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.55" endTime="49.32" >
+<Turn speaker="S1" startTime="0.55" endTime="49.32">
+<Sync time="0.55"/>
+they linguistics is the scientific study of language linguist investigate the structure of language as well as the relationship to other citizens of communication linguist also studied the acquisition first and second languages language in a social context and universal or commonly shared properties all human language there are several of disciplined in the field of linguistics linguistics provided central background work in speech pathology translation language learning or even the investigation about dialects of language barrier from city to city or country to country base and was
+</Turn>
+</Section>
+</Episode>
+</Trans>

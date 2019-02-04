@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3701" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.12" endTime="60.29" >
+<Turn speaker="S1" startTime="0.12" endTime="14.34">
+<Sync time="0.12"/>
+iraqi many many times hey i'll just go put anybody in the whole oh yeah
+</Turn>
+<Turn speaker="S2" startTime="14.34" endTime="60.29">
+<Sync time="14.34"/>
+and then and then i didn't up and going in a you know you know to determine how much you're putting in not knowing how to to the bar make sure nothing behind me look at they're beautiful don't do that got to get
+</Turn>
+</Section>
+<Section type="report" startTime="60.05" endTime="106.54" >
+<Turn speaker="S1" startTime="60.05" endTime="106.54">
+<Sync time="60.05"/>
+already already slowing down no i like document and which we do things i know i like to document and which we do things like december thirtieth you probably can't do that to thirty or and it sounds like okay yeah it's gonna it's gonna be that that i wonder how far we want to go to we're done
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5290" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="79.32" >
+<Turn speaker="S1" startTime="0.0" endTime="32.1">
+<Sync time="0.0"/>
+i usually make multiple the um when making them because i don't wanna just have time i just want to do is i have a flyer shape and all my players so much that kind of have um uh wear and tear on exactly like the sizes i like two years so
+</Turn>
+<Turn speaker="S2" startTime="32.1" endTime="48.78">
+<Sync time="32.1"/>
+um i can look around and go back in here
+</Turn>
+<Turn speaker="S1" startTime="48.78" endTime="79.32">
+<Sync time="48.78"/>
+so there's my clients and open it up just a little bit so then i can hear it i'm going to uh you know a transition other than just a lot of history wire that's just kind of and then um with my my also like finish it off
+</Turn>
+</Section>
+<Section type="report" startTime="79.08" endTime="104.59" >
+<Turn speaker="S2" startTime="79.08" endTime="104.59">
+<Sync time="79.08"/>
+um already on it so
+</Turn>
+</Section>
+</Episode>
+</Trans>

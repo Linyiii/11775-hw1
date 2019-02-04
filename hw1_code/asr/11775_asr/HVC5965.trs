@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5965" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.37" endTime="226.99" >
+<Turn speaker="S1" startTime="0.37" endTime="16.71">
+<Sync time="0.37"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="16.71" endTime="23.72">
+<Sync time="16.71"/>
+mm mm
+</Turn>
+<Turn speaker="S3" startTime="23.72" endTime="30.94">
+<Sync time="23.72"/>
+uh
+</Turn>
+<Turn speaker="S2" startTime="30.94" endTime="54.09">
+<Sync time="30.94"/>
+my building german changes chicken or right when john john
+</Turn>
+<Turn speaker="S4" startTime="54.09" endTime="58.51">
+<Sync time="54.09"/>
+involved with you as you get anything
+</Turn>
+<Turn speaker="S2" startTime="58.51" endTime="61.51">
+<Sync time="58.51"/>
+and
+</Turn>
+<Turn speaker="S4" startTime="61.51" endTime="72.08">
+<Sync time="61.51"/>
+i know a long way to change tell me where the children
+</Turn>
+<Turn speaker="S5" startTime="72.08" endTime="76.68">
+<Sync time="72.08"/>
+being in the
+</Turn>
+<Turn speaker="S3" startTime="76.68" endTime="87.28">
+<Sync time="76.68"/>
+to me
+</Turn>
+<Turn speaker="S4" startTime="87.28" endTime="110.01">
+<Sync time="87.28"/>
+what are your really low for oh god and your mom or your
+</Turn>
+<Turn speaker="S6" startTime="110.01" endTime="128.32">
+<Sync time="110.01"/>
+they just go on and on the thing that you can get um i know a long way to change it they they found the the children
+</Turn>
+<Turn speaker="S5" startTime="128.32" endTime="133.11">
+<Sync time="128.32"/>
+they
+</Turn>
+<Turn speaker="S3" startTime="133.11" endTime="164.75">
+<Sync time="133.11"/>
+in the building and lounging around the
+</Turn>
+<Turn speaker="S6" startTime="164.75" endTime="194.92">
+<Sync time="164.75"/>
+this guy for the and i tell let alone you know the people were paying try ah
+</Turn>
+<Turn speaker="S5" startTime="194.92" endTime="209.32">
+<Sync time="194.92"/>
+i know one on one minute change and tell me why that show on saturday and uh
+</Turn>
+<Turn speaker="S3" startTime="209.32" endTime="226.99">
+<Sync time="209.32"/>
+now they you do
+</Turn>
+</Section>
+</Episode>
+</Trans>

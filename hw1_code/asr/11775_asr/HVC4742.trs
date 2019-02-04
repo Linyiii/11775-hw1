@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4742" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="6.21" endTime="6.97" >
+<Turn speaker="S1" startTime="6.21" endTime="6.97">
+<Sync time="6.21"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="16.1" endTime="25.93" >
+<Turn speaker="S2" startTime="16.1" endTime="25.93">
+<Sync time="16.1"/>
+people was like kind of fun
+</Turn>
+</Section>
+<Section type="report" startTime="63.91" endTime="119.49" >
+<Turn speaker="S3" startTime="63.91" endTime="105.41">
+<Sync time="63.91"/>
+that's not good and i used to the daddy
+</Turn>
+<Turn speaker="S2" startTime="105.41" endTime="112.54">
+<Sync time="105.41"/>
+do you find
+</Turn>
+<Turn speaker="S1" startTime="112.54" endTime="119.49">
+<Sync time="112.54"/>
+she's right there
+</Turn>
+</Section>
+<Section type="report" startTime="166.59" endTime="226.31" >
+<Turn speaker="S2" startTime="166.59" endTime="185.93">
+<Sync time="166.59"/>
+i mean you gotta be a long time man
+</Turn>
+<Turn speaker="S4" startTime="185.93" endTime="226.31">
+<Sync time="185.93"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="239.32" endTime="245.29" >
+<Turn speaker="S3" startTime="239.32" endTime="245.29">
+<Sync time="239.32"/>
+that's the one thing and it wasn't a ball that dog
+</Turn>
+</Section>
+<Section type="report" startTime="255.51" endTime="270.99" >
+<Turn speaker="S3" startTime="255.51" endTime="270.99">
+<Sync time="255.51"/>
+hello good um
+</Turn>
+</Section>
+</Episode>
+</Trans>

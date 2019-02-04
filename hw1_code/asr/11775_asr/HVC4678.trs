@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4678" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="43.39" >
+<Turn speaker="S1" startTime="0.0" endTime="14.28">
+<Sync time="0.0"/>
+yeah we're like to party shit going on now as soon as the cameras operator so crazy like i'm on a silver driving through
+</Turn>
+<Turn speaker="S2" startTime="14.28" endTime="43.39">
+<Sync time="14.28"/>
+party party yeah party now we're starting so hard right now the partying so or not oh my god so world front room so now they shouldn't have been for
+</Turn>
+</Section>
+<Section type="report" startTime="49.19" endTime="78.45" >
+<Turn speaker="S1" startTime="49.19" endTime="78.45">
+<Sync time="49.19"/>
+no i mean a super hard you know she's right here okay i'm going to okay what kind of hard time going to put our parents who are
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5178" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="14.05" endTime="22.16" >
+<Turn speaker="S1" startTime="14.05" endTime="22.16">
+<Sync time="14.05"/>
+yeah mhm
+</Turn>
+</Section>
+<Section type="report" startTime="27.52" endTime="53.49" >
+<Turn speaker="S1" startTime="27.52" endTime="53.49">
+<Sync time="27.52"/>
+you know black black that's right dr one two three
+</Turn>
+</Section>
+<Section type="report" startTime="67.08" endTime="84.78" >
+<Turn speaker="S1" startTime="67.08" endTime="84.78">
+<Sync time="67.08"/>
+black colored black so
+</Turn>
+</Section>
+</Episode>
+</Trans>

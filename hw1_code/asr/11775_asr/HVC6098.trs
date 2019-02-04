@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6098" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="7.54" endTime="82.22" >
+<Turn speaker="S1" startTime="7.54" endTime="82.22">
+<Sync time="7.54"/>
+well i'm a i'm on i'm way around oh my god oh whoa whoa whoa whoa whoa whoa salad or a time
+</Turn>
+</Section>
+<Section type="report" startTime="82.29" endTime="99.01" >
+<Turn speaker="S2" startTime="82.29" endTime="99.01">
+<Sync time="82.29"/>
+uh
+</Turn>
+</Section>
+</Episode>
+</Trans>

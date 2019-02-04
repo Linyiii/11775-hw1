@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3925" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="77.42" >
+<Turn speaker="S1" startTime="0.0" endTime="2.24">
+<Sync time="0.0"/>
+and uh
+</Turn>
+<Turn speaker="S2" startTime="2.24" endTime="9.61">
+<Sync time="2.24"/>
+coming on people are
+</Turn>
+<Turn speaker="S1" startTime="9.61" endTime="28.1">
+<Sync time="9.61"/>
+traveling because i'm not anywhere people here
+</Turn>
+<Turn speaker="S3" startTime="28.1" endTime="46.56">
+<Sync time="28.1"/>
+okay now
+</Turn>
+<Turn speaker="S1" startTime="46.56" endTime="77.42">
+<Sync time="46.56"/>
+i would have do you live
+</Turn>
+</Section>
+<Section type="report" startTime="88.12" endTime="126.28" >
+<Turn speaker="S4" startTime="88.12" endTime="117.04">
+<Sync time="88.12"/>
+that's why they why why are my
+</Turn>
+<Turn speaker="S5" startTime="117.04" endTime="126.28">
+<Sync time="117.04"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="192.16" endTime="206.81" >
+<Turn speaker="S6" startTime="192.16" endTime="206.81">
+<Sync time="192.16"/>
+that is
+</Turn>
+</Section>
+</Episode>
+</Trans>

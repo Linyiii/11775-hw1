@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4521" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="2.03" endTime="187.6" >
+<Turn speaker="S1" startTime="2.03" endTime="48.92">
+<Sync time="2.03"/>
+so you're doing forget come back to the library so you're you're in the water was holding underwater till you get thrown english can you do this any inspectors in iraq like i think that positive okay until it was alive now going okay
+</Turn>
+<Turn speaker="S2" startTime="48.92" endTime="96.24">
+<Sync time="48.92"/>
+the instructor just looks like it does not definitely not moving the paper towel and and then blow the way 'cause i really don't well
+</Turn>
+<Turn speaker="S3" startTime="96.24" endTime="109.8">
+<Sync time="96.24"/>
+up there
+</Turn>
+<Turn speaker="S2" startTime="109.8" endTime="126.83">
+<Sync time="109.8"/>
+hey i'm getting some catering i saw the why why why why
+</Turn>
+<Turn speaker="S1" startTime="126.83" endTime="152.71">
+<Sync time="126.83"/>
+he's just using stretch to try that many like wow i think that might have been with of
+</Turn>
+<Turn speaker="S2" startTime="152.71" endTime="155.52">
+<Sync time="152.71"/>
+nice
+</Turn>
+<Turn speaker="S1" startTime="155.52" endTime="187.6">
+<Sync time="155.52"/>
+alright definitely moving so why did you get in the why the fucking drought why the barges in what the spiritual temperature there after that
+</Turn>
+</Section>
+<Section type="report" startTime="187.57" endTime="209.97" >
+<Turn speaker="S2" startTime="187.57" endTime="209.97">
+<Sync time="187.57"/>
+once you open the greed closer than i do not like heavy great
+</Turn>
+</Section>
+</Episode>
+</Trans>

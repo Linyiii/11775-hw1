@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3361" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="6.48" >
+<Turn speaker="S1" startTime="0.0" endTime="6.48">
+<Sync time="0.0"/>
+what are we making cheesecake
+</Turn>
+</Section>
+<Section type="report" startTime="17.1" endTime="95.4" >
+<Turn speaker="S2" startTime="17.1" endTime="34.98">
+<Sync time="17.1"/>
+three day go with
+</Turn>
+<Turn speaker="S1" startTime="34.98" endTime="40.52">
+<Sync time="34.98"/>
+there's our safety for ten minutes
+</Turn>
+<Turn speaker="S2" startTime="40.52" endTime="45.62">
+<Sync time="40.52"/>
+every day
+</Turn>
+<Turn speaker="S3" startTime="45.62" endTime="79.73">
+<Sync time="45.62"/>
+oh no no no i'm not a carpenter
+</Turn>
+<Turn speaker="S4" startTime="79.73" endTime="84.85">
+<Sync time="79.73"/>
+all
+</Turn>
+<Turn speaker="S5" startTime="84.85" endTime="95.4">
+<Sync time="84.85"/>
+um
+</Turn>
+</Section>
+<Section type="report" startTime="99.95" endTime="130.69" >
+<Turn speaker="S5" startTime="99.95" endTime="122.27">
+<Sync time="99.95"/>
+well the land the marlborough man
+</Turn>
+<Turn speaker="S1" startTime="122.27" endTime="130.69">
+<Sync time="122.27"/>
+own swimming
+</Turn>
+</Section>
+<Section type="report" startTime="130.78" endTime="152.21" >
+<Turn speaker="S5" startTime="130.78" endTime="152.21">
+<Sync time="130.78"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

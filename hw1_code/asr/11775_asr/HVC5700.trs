@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5700" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S15" name="K15" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S16" name="K16" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S17" name="K17" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S18" name="K18" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S19" name="K19" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S20" name="K20" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S21" name="K21" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S22" name="K22" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="56.08" >
+<Turn speaker="S1" startTime="0.03" endTime="5.63">
+<Sync time="0.03"/>
+okay so like they're getting do a contest whatever fought trying to build honda
+</Turn>
+<Turn speaker="S2" startTime="5.63" endTime="16.05">
+<Sync time="5.63"/>
+yeah we just finished my lift lifting here hearty one minute and we murdered neither i'll say five
+</Turn>
+<Turn speaker="S3" startTime="16.05" endTime="20.26">
+<Sync time="16.05"/>
+hey red easily wing okay
+</Turn>
+<Turn speaker="S4" startTime="20.26" endTime="30.05">
+<Sync time="20.26"/>
+well how long and giving event young guy
+</Turn>
+<Turn speaker="S5" startTime="30.05" endTime="33.46">
+<Sync time="30.05"/>
+oh you know party town
+</Turn>
+<Turn speaker="S6" startTime="33.46" endTime="42.52">
+<Sync time="33.46"/>
+jane anne marie who mall
+</Turn>
+<Turn speaker="S7" startTime="42.52" endTime="49.6">
+<Sync time="42.52"/>
+no he hasn't that virus eating crass overboard garb behind the guy
+</Turn>
+<Turn speaker="S8" startTime="49.6" endTime="56.08">
+<Sync time="49.6"/>
+well let me do that
+</Turn>
+</Section>
+<Section type="report" startTime="64.39" endTime="168.51" >
+<Turn speaker="S9" startTime="64.39" endTime="74.06">
+<Sync time="64.39"/>
+somebody's got any of it all in your mouth right
+</Turn>
+<Turn speaker="S10" startTime="74.06" endTime="77.59">
+<Sync time="74.06"/>
+guy's ear on fridays
+</Turn>
+<Turn speaker="S11" startTime="77.59" endTime="85.13">
+<Sync time="77.59"/>
+on like yeah no way are you
+</Turn>
+<Turn speaker="S12" startTime="85.13" endTime="88.39">
+<Sync time="85.13"/>
+uh-huh do you think why lawyer so big
+</Turn>
+<Turn speaker="S13" startTime="88.39" endTime="94.41">
+<Sync time="88.39"/>
+oh yum yum
+</Turn>
+<Turn speaker="S14" startTime="94.41" endTime="102.16">
+<Sync time="94.41"/>
+i hadn't side and your friends um more and more cook my god
+</Turn>
+<Turn speaker="S15" startTime="102.16" endTime="108.69">
+<Sync time="102.16"/>
+mhm
+</Turn>
+<Turn speaker="S16" startTime="108.69" endTime="120.36">
+<Sync time="108.69"/>
+though
+</Turn>
+<Turn speaker="S17" startTime="120.36" endTime="128.9">
+<Sync time="120.36"/>
+warning why when you're young
+</Turn>
+<Turn speaker="S18" startTime="128.9" endTime="134.91">
+<Sync time="128.9"/>
+that you don't know
+</Turn>
+<Turn speaker="S19" startTime="134.91" endTime="140.25">
+<Sync time="134.91"/>
+good smiled wet
+</Turn>
+<Turn speaker="S20" startTime="140.25" endTime="151.1">
+<Sync time="140.25"/>
+i know so gung ho super shy
+</Turn>
+<Turn speaker="S21" startTime="151.1" endTime="161.8">
+<Sync time="151.1"/>
+hell around your thoughts about that i'm one job
+</Turn>
+<Turn speaker="S22" startTime="161.8" endTime="168.51">
+<Sync time="161.8"/>
+and on line and we don't want to live in a way i mean you went and we why don't they bye bye
+</Turn>
+</Section>
+</Episode>
+</Trans>

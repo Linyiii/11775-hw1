@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4171" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="2.68" endTime="39.83" >
+<Turn speaker="S1" startTime="2.68" endTime="6.33">
+<Sync time="2.68"/>
+where's daddy o. j.'s opening the door
+</Turn>
+<Turn speaker="S2" startTime="6.33" endTime="39.83">
+<Sync time="6.33"/>
+half of destruction she's gonna go round to check that out of her way distracted daddy we flip on that way by
+</Turn>
+</Section>
+<Section type="report" startTime="49.85" endTime="60.79" >
+<Turn speaker="S2" startTime="49.85" endTime="56.89">
+<Sync time="49.85"/>
+okay
+</Turn>
+<Turn speaker="S1" startTime="56.89" endTime="60.79">
+<Sync time="56.89"/>
+oh uh
+</Turn>
+</Section>
+<Section type="report" startTime="72.02" endTime="90.59" >
+<Turn speaker="S1" startTime="72.02" endTime="76.17">
+<Sync time="72.02"/>
+uh
+</Turn>
+<Turn speaker="S3" startTime="76.17" endTime="83.7">
+<Sync time="76.17"/>
+no
+</Turn>
+<Turn speaker="S1" startTime="83.7" endTime="90.59">
+<Sync time="83.7"/>
+oh oh
+</Turn>
+</Section>
+<Section type="report" startTime="90.8" endTime="106.98" >
+<Turn speaker="S2" startTime="90.8" endTime="106.98">
+<Sync time="90.8"/>
+where did you go on to
+</Turn>
+</Section>
+</Episode>
+</Trans>

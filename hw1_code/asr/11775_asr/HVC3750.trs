@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3750" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.04" endTime="110.3" >
+<Turn speaker="S1" startTime="3.04" endTime="77.99">
+<Sync time="3.04"/>
+sometimes that maybe we're a i was taking me out not but i know enough to know that was written by using do mine and most okay
+</Turn>
+<Turn speaker="S2" startTime="77.99" endTime="110.3">
+<Sync time="77.99"/>
+what did you have any do you do that also useful in the world
+</Turn>
+</Section>
+<Section type="report" startTime="121.04" endTime="143.59" >
+<Turn speaker="S2" startTime="121.04" endTime="143.59">
+<Sync time="121.04"/>
+you have but not god games
+</Turn>
+</Section>
+<Section type="report" startTime="143.63" endTime="151.76" >
+<Turn speaker="S1" startTime="143.63" endTime="151.76">
+<Sync time="143.63"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

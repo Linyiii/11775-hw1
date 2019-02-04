@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4269" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.08" endTime="36.76" >
+<Turn speaker="S1" startTime="0.08" endTime="24.16">
+<Sync time="0.08"/>
+hello interviewers i've i had an open much broke lots of things wrong with it or died and i i bought a new one sitting here playing around with anyone you know to batteries scores the the same as the veteran someone closet pulled up the too much stuff out and i find this
+</Turn>
+<Turn speaker="S2" startTime="24.16" endTime="31.8">
+<Sync time="24.16"/>
+mhm
+</Turn>
+<Turn speaker="S3" startTime="31.8" endTime="36.76">
+<Sync time="31.8"/>
+that ain't right
+</Turn>
+</Section>
+<Section type="report" startTime="37.18" endTime="51.43" >
+<Turn speaker="S1" startTime="37.18" endTime="51.43">
+<Sync time="37.18"/>
+hold the battery out of the one i'm gonna go see what's going on here i think what's going on and crying mechanism before i started going on
+</Turn>
+</Section>
+<Section type="report" startTime="54.01" endTime="115.15" >
+<Turn speaker="S3" startTime="54.01" endTime="90.57">
+<Sync time="54.01"/>
+so he's his mental when we finally got her pregnant trying to take a you know um okay that doesn't help us i still have no idea the batteries as blowing up
+</Turn>
+<Turn speaker="S2" startTime="90.57" endTime="91.6">
+<Sync time="90.57"/>
+mhm
+</Turn>
+<Turn speaker="S3" startTime="91.6" endTime="115.15">
+<Sync time="91.6"/>
+weird like myself that done better they're both stupid
+</Turn>
+</Section>
+<Section type="report" startTime="115.58" endTime="184.72" >
+<Turn speaker="S3" startTime="115.58" endTime="184.72">
+<Sync time="115.58"/>
+i don't think i worry about electricity myself since i've never been charged nibbling years but you know what i'm actually gonna put on a you know more about or chemical exposure um actually nothing wrong with that i have no idea what the actual cells are correct right they're not i have no idea what's happening i mean this this this just there's nothing um well i'm not using this better often recycle this summer thank you for your time i just wasted mind
+</Turn>
+</Section>
+</Episode>
+</Trans>

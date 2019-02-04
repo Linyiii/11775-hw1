@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2356" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.02" endTime="91.65" >
+<Turn speaker="S1" startTime="4.02" endTime="58.18">
+<Sync time="4.02"/>
+that one or you see all on the on the same thing i'm the one that i mean uh i'm you think about that if you don't see a you see me at all
+</Turn>
+<Turn speaker="S2" startTime="58.18" endTime="91.65">
+<Sync time="58.18"/>
+it's just something like this
+</Turn>
+</Section>
+<Section type="report" startTime="101.55" endTime="162.72" >
+<Turn speaker="S1" startTime="101.55" endTime="162.72">
+<Sync time="101.55"/>
+uh-huh it could then you i don't know what i that's when i see okay only or something that couldn't similar to that of which is a a woman and i don't it's the same as you don't well almost all and the
+</Turn>
+</Section>
+<Section type="report" startTime="166.95" endTime="173.63" >
+<Turn speaker="S1" startTime="166.95" endTime="173.63">
+<Sync time="166.95"/>
+if you wanted that thought the of tissue will say that uh
+</Turn>
+</Section>
+<Section type="report" startTime="175.63" endTime="292.31" >
+<Turn speaker="S2" startTime="175.63" endTime="194.65">
+<Sync time="175.63"/>
+yeah i do go to see what i suffer from uh you can get
+</Turn>
+<Turn speaker="S1" startTime="194.65" endTime="232.06">
+<Sync time="194.65"/>
+i feel a a fair well or don't go along with she wasn't
+</Turn>
+<Turn speaker="S2" startTime="232.06" endTime="292.31">
+<Sync time="232.06"/>
+that's a lovely it when i was a nice city do you have a
+</Turn>
+</Section>
+<Section type="report" startTime="322.83" endTime="339.0" >
+<Turn speaker="S1" startTime="322.83" endTime="339.0">
+<Sync time="322.83"/>
+yeah that that was when they say she had a show on t._v. too but genetic or what eight p._m. mentally frequency
+</Turn>
+</Section>
+<Section type="report" startTime="338.86" endTime="350.95" >
+<Turn speaker="S2" startTime="338.86" endTime="350.95">
+<Sync time="338.86"/>
+uh you know they don't go to the
+</Turn>
+</Section>
+</Episode>
+</Trans>

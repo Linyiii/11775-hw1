@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3907" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="19.71" endTime="36.51" >
+<Turn speaker="S1" startTime="19.71" endTime="24.01">
+<Sync time="19.71"/>
+being being banned
+</Turn>
+<Turn speaker="S2" startTime="24.01" endTime="32.85">
+<Sync time="24.01"/>
+do do they
+</Turn>
+<Turn speaker="S1" startTime="32.85" endTime="36.51">
+<Sync time="32.85"/>
+um
+</Turn>
+</Section>
+<Section type="report" startTime="40.77" endTime="62.32" >
+<Turn speaker="S3" startTime="40.77" endTime="45.97">
+<Sync time="40.77"/>
+yeah
+</Turn>
+<Turn speaker="S2" startTime="45.97" endTime="53.27">
+<Sync time="45.97"/>
+they
+</Turn>
+<Turn speaker="S1" startTime="53.27" endTime="62.32">
+<Sync time="53.27"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="133.24" endTime="143.57" >
+<Turn speaker="S4" startTime="133.24" endTime="143.57">
+<Sync time="133.24"/>
+yeah yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5949" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="11.97" >
+<Turn speaker="S1" startTime="0.0" endTime="11.97">
+<Sync time="0.0"/>
+you too often the cascade waterfalls season national park budgeting southwestern state
+</Turn>
+</Section>
+<Section type="report" startTime="20.09" endTime="32.19" >
+<Turn speaker="S2" startTime="20.09" endTime="29.47">
+<Sync time="20.09"/>
+racism one in way
+</Turn>
+<Turn speaker="S1" startTime="29.47" endTime="32.19">
+<Sync time="29.47"/>
+that is fine we already oriented sleeps
+</Turn>
+</Section>
+<Section type="report" startTime="35.47" endTime="67.17" >
+<Turn speaker="S1" startTime="35.47" endTime="41.38">
+<Sync time="35.47"/>
+when i usually read your answer allow them to the
+</Turn>
+<Turn speaker="S2" startTime="41.38" endTime="63.83">
+<Sync time="41.38"/>
+sarah shaded area michelle three i enter contests
+</Turn>
+<Turn speaker="S3" startTime="63.83" endTime="67.17">
+<Sync time="63.83"/>
+arizona
+</Turn>
+</Section>
+<Section type="report" startTime="72.46" endTime="78.6" >
+<Turn speaker="S1" startTime="72.46" endTime="78.6">
+<Sync time="72.46"/>
+mid western states have the longest average travel time too
+</Turn>
+</Section>
+<Section type="report" startTime="80.8" endTime="85.46" >
+<Turn speaker="S3" startTime="80.8" endTime="85.46">
+<Sync time="80.8"/>
+that is correct
+</Turn>
+</Section>
+<Section type="report" startTime="88.0" endTime="94.18" >
+<Turn speaker="S1" startTime="88.0" endTime="94.18">
+<Sync time="88.0"/>
+in which new england states residents shores average travel time to work
+</Turn>
+</Section>
+<Section type="report" startTime="96.94" endTime="111.1" >
+<Turn speaker="S3" startTime="96.94" endTime="99.91">
+<Sync time="96.94"/>
+that is correct
+</Turn>
+<Turn speaker="S1" startTime="99.91" endTime="111.1">
+<Sync time="99.91"/>
+which south dakota city which is the first to get women the right to vote in sixty nine that correct
+</Turn>
+</Section>
+<Section type="report" startTime="114.42" endTime="146.05" >
+<Turn speaker="S1" startTime="114.42" endTime="123.86">
+<Sync time="114.42"/>
+which mediterranean country located in the southern and ultimately it is
+</Turn>
+<Turn speaker="S4" startTime="123.86" endTime="141.02">
+<Sync time="123.86"/>
+yeah
+</Turn>
+<Turn speaker="S2" startTime="141.02" endTime="146.05">
+<Sync time="141.02"/>
+considering
+</Turn>
+</Section>
+</Episode>
+</Trans>

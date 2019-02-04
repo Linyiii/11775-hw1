@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5926" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="6.83" endTime="27.96" >
+<Turn speaker="S1" startTime="6.83" endTime="11.47">
+<Sync time="6.83"/>
+how old are a lot of canning ashes however in the car with a very fine how
+</Turn>
+<Turn speaker="S2" startTime="11.47" endTime="15.06">
+<Sync time="11.47"/>
+how
+</Turn>
+<Turn speaker="S3" startTime="15.06" endTime="22.08">
+<Sync time="15.06"/>
+p. um penny's the um pan that in france
+</Turn>
+<Turn speaker="S4" startTime="22.08" endTime="27.96">
+<Sync time="22.08"/>
+okay
+</Turn>
+</Section>
+</Episode>
+</Trans>

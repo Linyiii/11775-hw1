@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3597" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="53.71" >
+<Turn speaker="S1" startTime="0.0" endTime="53.71">
+<Sync time="0.0"/>
+you can go and i know about it but no i know i too low and they think oh they're not getting they're not in a black guy
+</Turn>
+</Section>
+<Section type="report" startTime="70.03" endTime="213.08" >
+<Turn speaker="S2" startTime="70.03" endTime="94.63">
+<Sync time="70.03"/>
+you are thinking about they try to to a uh
+</Turn>
+<Turn speaker="S3" startTime="94.63" endTime="213.08">
+<Sync time="94.63"/>
+yeah and they don't get a man you're a man and a yeah and then when i to a a camera man you know whatever and man a i'm not saying they know give up oh my my mom
+</Turn>
+</Section>
+<Section type="report" startTime="212.84" endTime="213.91" >
+<Turn speaker="S2" startTime="212.84" endTime="213.91">
+<Sync time="212.84"/>
+but
+</Turn>
+</Section>
+</Episode>
+</Trans>

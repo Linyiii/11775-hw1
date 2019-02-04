@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3920" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="22.93" endTime="121.76" >
+<Turn speaker="S1" startTime="22.93" endTime="47.41">
+<Sync time="22.93"/>
+they're not going to they put all the dog and i saw yesterday he probably started
+</Turn>
+<Turn speaker="S2" startTime="47.41" endTime="56.61">
+<Sync time="47.41"/>
+i'm telling the truth
+</Turn>
+<Turn speaker="S3" startTime="56.61" endTime="77.31">
+<Sync time="56.61"/>
+but i never did that for you know to me like the practice that beeping
+</Turn>
+<Turn speaker="S4" startTime="77.31" endTime="90.24">
+<Sync time="77.31"/>
+my middle one also don't think
+</Turn>
+<Turn speaker="S3" startTime="90.24" endTime="121.76">
+<Sync time="90.24"/>
+what good enough for the last movie that i think that's the one that i know that that that that he thought it was always thought that that one
+</Turn>
+</Section>
+<Section type="report" startTime="137.4" endTime="220.19" >
+<Turn speaker="S5" startTime="137.4" endTime="140.49">
+<Sync time="137.4"/>
+okay
+</Turn>
+<Turn speaker="S4" startTime="140.49" endTime="215.25">
+<Sync time="140.49"/>
+yeah cause them to watch it when i was just me i'm on the band and what you know why she found out that they made me go out to my diet was called
+</Turn>
+<Turn speaker="S3" startTime="215.25" endTime="220.19">
+<Sync time="215.25"/>
+that be the uh
+</Turn>
+</Section>
+<Section type="report" startTime="232.61" endTime="247.69" >
+<Turn speaker="S5" startTime="232.61" endTime="247.69">
+<Sync time="232.61"/>
+but like i said i did for me i did they
+</Turn>
+</Section>
+<Section type="report" startTime="263.75" endTime="303.3" >
+<Turn speaker="S5" startTime="263.75" endTime="291.63">
+<Sync time="263.75"/>
+and i stopped going to go to
+</Turn>
+<Turn speaker="S4" startTime="291.63" endTime="303.3">
+<Sync time="291.63"/>
+okay let me talk to people
+</Turn>
+</Section>
+<Section type="report" startTime="313.25" endTime="327.94" >
+<Turn speaker="S3" startTime="313.25" endTime="315.14">
+<Sync time="313.25"/>
+no
+</Turn>
+<Turn speaker="S6" startTime="315.14" endTime="327.94">
+<Sync time="315.14"/>
+chatty dying because if you need to be politically correct
+</Turn>
+</Section>
+</Episode>
+</Trans>

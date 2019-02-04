@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4631" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="86.11" >
+<Turn speaker="S1" startTime="0.04" endTime="12.53">
+<Sync time="0.04"/>
+you and tell me about the did you go or they saw you know really nice you know what what are their names or yeah
+</Turn>
+<Turn speaker="S2" startTime="12.53" endTime="20.04">
+<Sync time="12.53"/>
+yeah so we go to okay
+</Turn>
+<Turn speaker="S3" startTime="20.04" endTime="25.85">
+<Sync time="20.04"/>
+trying to stay warm in here
+</Turn>
+<Turn speaker="S1" startTime="25.85" endTime="33.26">
+<Sync time="25.85"/>
+look at that guy or they saw
+</Turn>
+<Turn speaker="S3" startTime="33.26" endTime="66.42">
+<Sync time="33.26"/>
+or your classmates and don't tell them um
+</Turn>
+<Turn speaker="S1" startTime="66.42" endTime="78.82">
+<Sync time="66.42"/>
+is that is nice shape we can go back and see them later after we after we see everything else
+</Turn>
+<Turn speaker="S3" startTime="78.82" endTime="86.11">
+<Sync time="78.82"/>
+so
+</Turn>
+</Section>
+<Section type="report" startTime="95.12" endTime="137.13" >
+<Turn speaker="S1" startTime="95.12" endTime="132.09">
+<Sync time="95.12"/>
+i guess some video what do you think do you know what their names are you know their names tomorrow molly they went to the east coast
+</Turn>
+<Turn speaker="S2" startTime="132.09" endTime="137.13">
+<Sync time="132.09"/>
+you guys
+</Turn>
+</Section>
+<Section type="report" startTime="242.53" endTime="273.17" >
+<Turn speaker="S1" startTime="242.53" endTime="273.17">
+<Sync time="242.53"/>
+hey do they do they like hey i'm here what do you that's what they're reading i think that one word
+</Turn>
+</Section>
+<Section type="report" startTime="281.8" endTime="302.79" >
+<Turn speaker="S1" startTime="281.8" endTime="302.79">
+<Sync time="281.8"/>
+so we can see all the
+</Turn>
+</Section>
+</Episode>
+</Trans>

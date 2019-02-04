@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4908" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="1.14" endTime="9.86" >
+<Turn speaker="S1" startTime="1.14" endTime="9.86">
+<Sync time="1.14"/>
+mm
+</Turn>
+</Section>
+<Section type="report" startTime="24.88" endTime="194.54" >
+<Turn speaker="S2" startTime="24.88" endTime="55.83">
+<Sync time="24.88"/>
+when i was gonna die i think they do pay you back in time and now they don't know the baby is that bad
+</Turn>
+<Turn speaker="S3" startTime="55.83" endTime="79.99">
+<Sync time="55.83"/>
+you know i was mad enough during the time we talk about
+</Turn>
+<Turn speaker="S2" startTime="79.99" endTime="103.99">
+<Sync time="79.99"/>
+oh my god do you want me to go out there but now my my in
+</Turn>
+<Turn speaker="S3" startTime="103.99" endTime="138.57">
+<Sync time="103.99"/>
+no no no no you know maybe by now you may may you know that they wanna know about
+</Turn>
+<Turn speaker="S4" startTime="138.57" endTime="152.83">
+<Sync time="138.57"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="152.83" endTime="161.86">
+<Sync time="152.83"/>
+m. a one
+</Turn>
+<Turn speaker="S3" startTime="161.86" endTime="194.54">
+<Sync time="161.86"/>
+you know be that bad the guy
+</Turn>
+</Section>
+</Episode>
+</Trans>

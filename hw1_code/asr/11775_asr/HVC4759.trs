@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4759" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="6.13" endTime="99.47" >
+<Turn speaker="S1" startTime="6.13" endTime="15.21">
+<Sync time="6.13"/>
+mm
+</Turn>
+<Turn speaker="S2" startTime="15.21" endTime="51.8">
+<Sync time="15.21"/>
+and and dirty doo doo doo doo doo doo doo doo doo doo doo doo doll and then the time and then you know the the
+</Turn>
+<Turn speaker="S3" startTime="51.8" endTime="68.48">
+<Sync time="51.8"/>
+and and and uh um
+</Turn>
+<Turn speaker="S2" startTime="68.48" endTime="99.47">
+<Sync time="68.48"/>
+do do their job down there and and they're they're
+</Turn>
+</Section>
+<Section type="report" startTime="99.23" endTime="118.98" >
+<Turn speaker="S3" startTime="99.23" endTime="118.98">
+<Sync time="99.23"/>
+and um and um and then
+</Turn>
+</Section>
+</Episode>
+</Trans>

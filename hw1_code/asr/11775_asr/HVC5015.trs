@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5015" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="9.84" >
+<Turn speaker="S1" startTime="0.0" endTime="4.08">
+<Sync time="0.0"/>
+yeah okay okay
+</Turn>
+<Turn speaker="S2" startTime="4.08" endTime="9.84">
+<Sync time="4.08"/>
+if you can bury rowing
+</Turn>
+</Section>
+<Section type="report" startTime="13.07" endTime="65.5" >
+<Turn speaker="S2" startTime="13.07" endTime="28.72">
+<Sync time="13.07"/>
+ready to go now are you okay deep deep alright
+</Turn>
+<Turn speaker="S3" startTime="28.72" endTime="32.52">
+<Sync time="28.72"/>
+hi
+</Turn>
+<Turn speaker="S1" startTime="32.52" endTime="48.75">
+<Sync time="32.52"/>
+okay we're going to the next level like you said this is the music like nintendo right
+</Turn>
+<Turn speaker="S2" startTime="48.75" endTime="54.54">
+<Sync time="48.75"/>
+that for
+</Turn>
+<Turn speaker="S1" startTime="54.54" endTime="59.89">
+<Sync time="54.54"/>
+go ahead
+</Turn>
+<Turn speaker="S2" startTime="59.89" endTime="65.5">
+<Sync time="59.89"/>
+just to catch it ready to come get your hand right right
+</Turn>
+</Section>
+<Section type="report" startTime="71.14" endTime="79.26" >
+<Turn speaker="S1" startTime="71.14" endTime="79.26">
+<Sync time="71.14"/>
+number 6
+</Turn>
+</Section>
+<Section type="report" startTime="85.66" endTime="91.47" >
+<Turn speaker="S2" startTime="85.66" endTime="91.47">
+<Sync time="85.66"/>
+we should be able to your fingers through though
+</Turn>
+</Section>
+</Episode>
+</Trans>

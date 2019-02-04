@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5292" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="1.12" endTime="61.97" >
+<Turn speaker="S1" startTime="1.12" endTime="22.25">
+<Sync time="1.12"/>
+last uh last year for sure
+</Turn>
+<Turn speaker="S2" startTime="22.25" endTime="61.97">
+<Sync time="22.25"/>
+ah and the news on on on the money going for her
+</Turn>
+</Section>
+<Section type="report" startTime="75.53" endTime="191.38" >
+<Turn speaker="S2" startTime="75.53" endTime="122.94">
+<Sync time="75.53"/>
+no matter how about you a lot of trust and uh uh just why so somebody you for doing so badly for
+</Turn>
+<Turn speaker="S1" startTime="122.94" endTime="148.15">
+<Sync time="122.94"/>
+and uh
+</Turn>
+<Turn speaker="S2" startTime="148.15" endTime="191.38">
+<Sync time="148.15"/>
+uh uh is there a a light breeze or or uh
+</Turn>
+</Section>
+<Section type="report" startTime="191.54" endTime="212.79" >
+<Turn speaker="S3" startTime="191.54" endTime="212.79">
+<Sync time="191.54"/>
+um
+</Turn>
+</Section>
+</Episode>
+</Trans>

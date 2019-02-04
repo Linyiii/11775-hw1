@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6169" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="8.27" endTime="291.99" >
+<Turn speaker="S1" startTime="8.27" endTime="11.45">
+<Sync time="8.27"/>
+and uh
+</Turn>
+<Turn speaker="S2" startTime="11.45" endTime="19.56">
+<Sync time="11.45"/>
+and and and and and
+</Turn>
+<Turn speaker="S1" startTime="19.56" endTime="52.91">
+<Sync time="19.56"/>
+no no no no no no no no no no they don't want to
+</Turn>
+<Turn speaker="S3" startTime="52.91" endTime="147.7">
+<Sync time="52.91"/>
+okay were you in our neighbors they were they just want the the wheels so and the fact that people don't think the thing about read all about reality making noise during the day without me knowing that we do watch them because they didn't even know why do maybe some people to buy her way to get the give them do feel the same thing that was going to name same game and dr in order to read now everybody getting i'm getting ten dollars an hour
+</Turn>
+<Turn speaker="S4" startTime="147.7" endTime="170.18">
+<Sync time="147.7"/>
+provider dialing parties tiny type wait till now they're they don't want to
+</Turn>
+<Turn speaker="S5" startTime="170.18" endTime="190.29">
+<Sync time="170.18"/>
+everything on the name people keep know more than just going to get you an
+</Turn>
+<Turn speaker="S3" startTime="190.29" endTime="249.4">
+<Sync time="190.29"/>
+you know like nobody really knows never right now we know where i live in maybe we're not like when i was on line and they're going to make dinner on the other thing out there and they were they were out there in the you know
+</Turn>
+<Turn speaker="S4" startTime="249.4" endTime="271.88">
+<Sync time="249.4"/>
+try to provide for my retirement trying to represent noticed they don't want to
+</Turn>
+<Turn speaker="S5" startTime="271.88" endTime="291.99">
+<Sync time="271.88"/>
+every day on the name numbers on that get you on the
+</Turn>
+</Section>
+<Section type="report" startTime="292.24" endTime="339.44" >
+<Turn speaker="S3" startTime="292.24" endTime="339.44">
+<Sync time="292.24"/>
+like nobody really knows how right right they live and i was thinking maybe we're not like on line it's like on on the news i try to learn how to enter and they were in our power
+</Turn>
+</Section>
+</Episode>
+</Trans>

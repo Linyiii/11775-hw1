@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4752" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="65.94" >
+<Turn speaker="S1" startTime="0.0" endTime="6.66">
+<Sync time="0.0"/>
+never did that a helmet are you sure
+</Turn>
+<Turn speaker="S2" startTime="6.66" endTime="22.38">
+<Sync time="6.66"/>
+so you'll damage your brain without with the first time starting all by herself should show when we go
+</Turn>
+<Turn speaker="S1" startTime="22.38" endTime="36.2">
+<Sync time="22.38"/>
+hard almost he almost had it though
+</Turn>
+<Turn speaker="S2" startTime="36.2" endTime="39.33">
+<Sync time="36.2"/>
+okay well on
+</Turn>
+<Turn speaker="S1" startTime="39.33" endTime="55.64">
+<Sync time="39.33"/>
+do you mud mud mud mud huh
+</Turn>
+<Turn speaker="S2" startTime="55.64" endTime="65.94">
+<Sync time="55.64"/>
+starting for the first time all by yourself
+</Turn>
+</Section>
+<Section type="report" startTime="66.08" endTime="83.12" >
+<Turn speaker="S1" startTime="66.08" endTime="83.12">
+<Sync time="66.08"/>
+go for walks nicely
+</Turn>
+</Section>
+</Episode>
+</Trans>

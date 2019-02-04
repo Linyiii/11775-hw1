@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6063" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="2.98" endTime="48.03" >
+<Turn speaker="S1" startTime="2.98" endTime="23.41">
+<Sync time="2.98"/>
+hi wendy maybe chicken for grandma and grandpa
+</Turn>
+<Turn speaker="S2" startTime="23.41" endTime="26.88">
+<Sync time="23.41"/>
+okay
+</Turn>
+<Turn speaker="S1" startTime="26.88" endTime="39.51">
+<Sync time="26.88"/>
+i don't watch
+</Turn>
+<Turn speaker="S2" startTime="39.51" endTime="48.03">
+<Sync time="39.51"/>
+sure
+</Turn>
+</Section>
+<Section type="report" startTime="55.42" endTime="115.58" >
+<Turn speaker="S2" startTime="55.42" endTime="59.12">
+<Sync time="55.42"/>
+uh
+</Turn>
+<Turn speaker="S1" startTime="59.12" endTime="111.23">
+<Sync time="59.12"/>
+oh god liberal down here we go to another you on that she was really go and grab dr price choice
+</Turn>
+<Turn speaker="S2" startTime="111.23" endTime="115.58">
+<Sync time="111.23"/>
+hi
+</Turn>
+</Section>
+<Section type="report" startTime="127.8" endTime="166.98" >
+<Turn speaker="S3" startTime="127.8" endTime="166.98">
+<Sync time="127.8"/>
+wow
+</Turn>
+</Section>
+</Episode>
+</Trans>

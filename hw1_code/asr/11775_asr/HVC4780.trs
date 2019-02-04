@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4780" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.11" endTime="39.55" >
+<Turn speaker="S1" startTime="0.11" endTime="19.04">
+<Sync time="0.11"/>
+i don't work
+</Turn>
+<Turn speaker="S2" startTime="19.04" endTime="39.55">
+<Sync time="19.04"/>
+why why go offshore
+</Turn>
+</Section>
+<Section type="report" startTime="58.54" endTime="94.4" >
+<Turn speaker="S3" startTime="58.54" endTime="78.19">
+<Sync time="58.54"/>
+you know
+</Turn>
+<Turn speaker="S2" startTime="78.19" endTime="94.4">
+<Sync time="78.19"/>
+they they
+</Turn>
+</Section>
+<Section type="report" startTime="109.3" endTime="179.18" >
+<Turn speaker="S4" startTime="109.3" endTime="118.89">
+<Sync time="109.3"/>
+wow
+</Turn>
+<Turn speaker="S2" startTime="118.89" endTime="179.18">
+<Sync time="118.89"/>
+right no know i run away you know going through
+</Turn>
+</Section>
+<Section type="report" startTime="200.27" endTime="203.38" >
+<Turn speaker="S4" startTime="200.27" endTime="203.38">
+<Sync time="200.27"/>
+oh cool
+</Turn>
+</Section>
+<Section type="report" startTime="203.5" endTime="209.88" >
+<Turn speaker="S1" startTime="203.5" endTime="209.88">
+<Sync time="203.5"/>
+and
+</Turn>
+</Section>
+</Episode>
+</Trans>

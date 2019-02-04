@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2584" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="56.12" endTime="75.66" >
+<Turn speaker="S1" startTime="56.12" endTime="59.11">
+<Sync time="56.12"/>
+yeah
+</Turn>
+<Turn speaker="S2" startTime="59.11" endTime="75.66">
+<Sync time="59.11"/>
+oh my god
+</Turn>
+</Section>
+<Section type="report" startTime="101.43" endTime="195.47" >
+<Turn speaker="S3" startTime="101.43" endTime="158.94">
+<Sync time="101.43"/>
+and i really that five dollars an hour i'm a i'm a when i when i was a female not bad at all around and you know and soon as it is
+</Turn>
+<Turn speaker="S4" startTime="158.94" endTime="162.04">
+<Sync time="158.94"/>
+uh
+</Turn>
+<Turn speaker="S3" startTime="162.04" endTime="188.74">
+<Sync time="162.04"/>
+i got married and whatever to and they claim to fame or whatever you know in and when you're going to
+</Turn>
+<Turn speaker="S4" startTime="188.74" endTime="195.47">
+<Sync time="188.74"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="195.57" endTime="198.53" >
+<Turn speaker="S1" startTime="195.57" endTime="198.53">
+<Sync time="195.57"/>
+shows
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3801" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.17" endTime="24.33" >
+<Turn speaker="S1" startTime="0.17" endTime="24.33">
+<Sync time="0.17"/>
+mhm right and
+</Turn>
+</Section>
+<Section type="report" startTime="47.08" endTime="49.04" >
+<Turn speaker="S2" startTime="47.08" endTime="49.04">
+<Sync time="47.08"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="68.11" endTime="72.81" >
+<Turn speaker="S2" startTime="68.11" endTime="72.81">
+<Sync time="68.11"/>
+right
+</Turn>
+</Section>
+<Section type="report" startTime="75.95" endTime="145.94" >
+<Turn speaker="S2" startTime="75.95" endTime="79.6">
+<Sync time="75.95"/>
+yeah take a break
+</Turn>
+<Turn speaker="S3" startTime="79.6" endTime="95.24">
+<Sync time="79.6"/>
+yes but
+</Turn>
+<Turn speaker="S2" startTime="95.24" endTime="120.27">
+<Sync time="95.24"/>
+wow what a little girl down scary there was the tree hire a golfer i forgot the wind is really shocked me right i like it would be nice but you start going here and there
+</Turn>
+<Turn speaker="S4" startTime="120.27" endTime="145.94">
+<Sync time="120.27"/>
+did you see though that went on to major and came back around you are having a little it was a little your swing a little bit but as soon as you came over here and major decision land and kind of got off the power things settled down i want to come back when well a lot of that was just the fact that the throttle wasn't causing any trouble anymore because you are on and off a little bit and that was getting into this power you know
+</Turn>
+</Section>
+<Section type="report" startTime="145.96" endTime="165.68" >
+<Turn speaker="S2" startTime="145.96" endTime="165.68">
+<Sync time="145.96"/>
+i really don't want to go into the higher manuals awesome i really felt good he thought i better take a note to self land on feed genius brilliant
+</Turn>
+</Section>
+</Episode>
+</Trans>

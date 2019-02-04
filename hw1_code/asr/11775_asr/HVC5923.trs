@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5923" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="10.55" >
+<Turn speaker="S1" startTime="0.03" endTime="6.9">
+<Sync time="0.03"/>
+she on her head way
+</Turn>
+<Turn speaker="S2" startTime="6.9" endTime="10.55">
+<Sync time="6.9"/>
+that is
+</Turn>
+</Section>
+<Section type="report" startTime="10.65" endTime="20.41" >
+<Turn speaker="S3" startTime="10.65" endTime="20.41">
+<Sync time="10.65"/>
+so
+</Turn>
+</Section>
+<Section type="report" startTime="23.92" endTime="33.48" >
+<Turn speaker="S1" startTime="23.92" endTime="33.48">
+<Sync time="23.92"/>
+bridge to the florida keys bridge
+</Turn>
+</Section>
+<Section type="report" startTime="43.45" endTime="65.82" >
+<Turn speaker="S1" startTime="43.45" endTime="53.69">
+<Sync time="43.45"/>
+amateur worded baby's smart enjoyed her job because she loves babies babies
+</Turn>
+<Turn speaker="S2" startTime="53.69" endTime="65.82">
+<Sync time="53.69"/>
+that is
+</Turn>
+</Section>
+<Section type="report" startTime="65.89" endTime="87.62" >
+<Turn speaker="S3" startTime="65.89" endTime="70.2">
+<Sync time="65.89"/>
+imagine
+</Turn>
+<Turn speaker="S1" startTime="70.2" endTime="75.96">
+<Sync time="70.2"/>
+laura their parents will allow them to go to the
+</Turn>
+<Turn speaker="S3" startTime="75.96" endTime="87.62">
+<Sync time="75.96"/>
+imagine that
+</Turn>
+</Section>
+<Section type="report" startTime="87.72" endTime="99.8" >
+<Turn speaker="S1" startTime="87.72" endTime="99.8">
+<Sync time="87.72"/>
+you were to suggest the students at my school we suggest that the school system purchase more computers suggest
+</Turn>
+</Section>
+<Section type="report" startTime="111.76" endTime="121.53" >
+<Turn speaker="S3" startTime="111.76" endTime="121.53">
+<Sync time="111.76"/>
+so
+</Turn>
+</Section>
+<Section type="report" startTime="121.62" endTime="133.56" >
+<Turn speaker="S1" startTime="121.62" endTime="133.56">
+<Sync time="121.62"/>
+your word is treasure the museums greatest trailer into recently honors ancient rome statue treasure
+</Turn>
+</Section>
+<Section type="report" startTime="142.56" endTime="152.62" >
+<Turn speaker="S3" startTime="142.56" endTime="152.62">
+<Sync time="142.56"/>
+you are to treasure
+</Turn>
+</Section>
+<Section type="report" startTime="152.72" endTime="167.5" >
+<Turn speaker="S4" startTime="152.72" endTime="167.5">
+<Sync time="152.72"/>
+at this point well was asked to leave the room when i went to lots more words including population and apology and some other ones i couldn't hear she got lots of compliments on her spelling and especially on her place congratulations
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2670" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.08" endTime="53.23" >
+<Turn speaker="S1" startTime="0.08" endTime="30.55">
+<Sync time="0.08"/>
+my only they author goes down the engine leagues like good are showing spray painted paying job what would you please uh all the driving down to you
+</Turn>
+<Turn speaker="S2" startTime="30.55" endTime="35.07">
+<Sync time="30.55"/>
+and uh
+</Turn>
+<Turn speaker="S1" startTime="35.07" endTime="43.9">
+<Sync time="35.07"/>
+know like a smells like dog dog
+</Turn>
+<Turn speaker="S2" startTime="43.9" endTime="53.23">
+<Sync time="43.9"/>
+ah saw no
+</Turn>
+</Section>
+<Section type="report" startTime="53.03" endTime="57.19" >
+<Turn speaker="S1" startTime="53.03" endTime="57.19">
+<Sync time="53.03"/>
+like
+</Turn>
+</Section>
+</Episode>
+</Trans>

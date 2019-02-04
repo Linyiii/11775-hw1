@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2769" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.78" endTime="84.46" >
+<Turn speaker="S1" startTime="4.78" endTime="38.7">
+<Sync time="4.78"/>
+must must the whole month
+</Turn>
+<Turn speaker="S2" startTime="38.7" endTime="84.46">
+<Sync time="38.7"/>
+and i think it's
+</Turn>
+</Section>
+<Section type="report" startTime="169.88" endTime="178.37" >
+<Turn speaker="S3" startTime="169.88" endTime="178.37">
+<Sync time="169.88"/>
+not
+</Turn>
+</Section>
+</Episode>
+</Trans>

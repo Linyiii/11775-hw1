@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5758" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="38.92" >
+<Turn speaker="S1" startTime="0.0" endTime="7.74">
+<Sync time="0.0"/>
+and there were so much room to run over by
+</Turn>
+<Turn speaker="S2" startTime="7.74" endTime="16.73">
+<Sync time="7.74"/>
+we'll be georgia you'll be all day and age
+</Turn>
+<Turn speaker="S3" startTime="16.73" endTime="20.18">
+<Sync time="16.73"/>
+you know what other holiday
+</Turn>
+<Turn speaker="S4" startTime="20.18" endTime="24.81">
+<Sync time="20.18"/>
+everything
+</Turn>
+<Turn speaker="S5" startTime="24.81" endTime="36.24">
+<Sync time="24.81"/>
+so as far as rewarding orange alert
+</Turn>
+<Turn speaker="S6" startTime="36.24" endTime="38.92">
+<Sync time="36.24"/>
+right
+</Turn>
+</Section>
+</Episode>
+</Trans>

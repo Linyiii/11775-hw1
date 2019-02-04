@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2288" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.88" endTime="95.91" >
+<Turn speaker="S1" startTime="0.88" endTime="8.35">
+<Sync time="0.88"/>
+they they and and the
+</Turn>
+<Turn speaker="S2" startTime="8.35" endTime="48.17">
+<Sync time="8.35"/>
+you know it can still live around me and the bottom line is and and well we know when when was your words whining family things with me
+</Turn>
+<Turn speaker="S3" startTime="48.17" endTime="65.62">
+<Sync time="48.17"/>
+and i and
+</Turn>
+<Turn speaker="S2" startTime="65.62" endTime="95.91">
+<Sync time="65.62"/>
+all that bird for say a day to day go by legs don't stop and you know
+</Turn>
+</Section>
+<Section type="report" startTime="95.97" endTime="109.95" >
+<Turn speaker="S3" startTime="95.97" endTime="109.95">
+<Sync time="95.97"/>
+they die chain and the brake job on in finding a british job on uh
+</Turn>
+</Section>
+</Episode>
+</Trans>

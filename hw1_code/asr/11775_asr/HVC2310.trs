@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2310" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="19.17" >
+<Turn speaker="S1" startTime="0.0" endTime="8.2">
+<Sync time="0.0"/>
+sorry
+</Turn>
+<Turn speaker="S2" startTime="8.2" endTime="19.17">
+<Sync time="8.2"/>
+okay so we're actually here you know very dangerous with a knife
+</Turn>
+</Section>
+<Section type="report" startTime="21.88" endTime="40.96" >
+<Turn speaker="S2" startTime="21.88" endTime="40.96">
+<Sync time="21.88"/>
+and it seems that we are cutting cutting cutting the cake just some new shape because we do not want to new york is i'm sorry
+</Turn>
+</Section>
+<Section type="report" startTime="43.49" endTime="92.37" >
+<Turn speaker="S2" startTime="43.49" endTime="59.85">
+<Sync time="43.49"/>
+and so okay i just grace has a particular
+</Turn>
+<Turn speaker="S3" startTime="59.85" endTime="75.51">
+<Sync time="59.85"/>
+we may guy for according to they're gonna do what are you gonna do nothing because you were living there
+</Turn>
+<Turn speaker="S2" startTime="75.51" endTime="82.9">
+<Sync time="75.51"/>
+that's true i don't know i just started
+</Turn>
+<Turn speaker="S3" startTime="82.9" endTime="86.94">
+<Sync time="82.9"/>
+okay
+</Turn>
+<Turn speaker="S2" startTime="86.94" endTime="92.37">
+<Sync time="86.94"/>
+could we do is do okay
+</Turn>
+</Section>
+<Section type="report" startTime="95.21" endTime="102.36" >
+<Turn speaker="S2" startTime="95.21" endTime="102.36">
+<Sync time="95.21"/>
+yes you could stop
+</Turn>
+</Section>
+</Episode>
+</Trans>

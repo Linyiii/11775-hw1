@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6048" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="38.46" >
+<Turn speaker="S1" startTime="0.0" endTime="15.09">
+<Sync time="0.0"/>
+okay oh
+</Turn>
+<Turn speaker="S2" startTime="15.09" endTime="22.36">
+<Sync time="15.09"/>
+i work at this
+</Turn>
+<Turn speaker="S1" startTime="22.36" endTime="35.0">
+<Sync time="22.36"/>
+the smell of it
+</Turn>
+<Turn speaker="S2" startTime="35.0" endTime="38.46">
+<Sync time="35.0"/>
+and you can do it
+</Turn>
+</Section>
+<Section type="report" startTime="60.52" endTime="74.48" >
+<Turn speaker="S2" startTime="60.52" endTime="74.48">
+<Sync time="60.52"/>
+women bikers you're right you know yeah that's true that's funny
+</Turn>
+</Section>
+<Section type="report" startTime="103.39" endTime="113.04" >
+<Turn speaker="S2" startTime="103.39" endTime="113.04">
+<Sync time="103.39"/>
+oh wow
+</Turn>
+</Section>
+<Section type="report" startTime="137.64" endTime="142.8" >
+<Turn speaker="S2" startTime="137.64" endTime="142.8">
+<Sync time="137.64"/>
+you're sweating my thing is really
+</Turn>
+</Section>
+<Section type="report" startTime="150.5" endTime="159.76" >
+<Turn speaker="S2" startTime="150.5" endTime="159.76">
+<Sync time="150.5"/>
+jump up and do it
+</Turn>
+</Section>
+<Section type="report" startTime="162.53" endTime="185.3" >
+<Turn speaker="S3" startTime="162.53" endTime="185.3">
+<Sync time="162.53"/>
+keep six
+</Turn>
+</Section>
+</Episode>
+</Trans>

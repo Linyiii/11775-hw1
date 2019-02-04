@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6084" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.06" endTime="25.27" >
+<Turn speaker="S1" startTime="0.06" endTime="4.53">
+<Sync time="0.06"/>
+mm mm
+</Turn>
+<Turn speaker="S2" startTime="4.53" endTime="11.45">
+<Sync time="4.53"/>
+oh man you just and uh
+</Turn>
+<Turn speaker="S3" startTime="11.45" endTime="16.23">
+<Sync time="11.45"/>
+main guy or otherwise you man
+</Turn>
+<Turn speaker="S4" startTime="16.23" endTime="21.16">
+<Sync time="16.23"/>
+mm well me watch you um
+</Turn>
+<Turn speaker="S5" startTime="21.16" endTime="25.27">
+<Sync time="21.16"/>
+yeah oh well me
+</Turn>
+</Section>
+</Episode>
+</Trans>

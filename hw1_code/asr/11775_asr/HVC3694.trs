@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3694" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="59.97" >
+<Turn speaker="S1" startTime="0.0" endTime="8.12">
+<Sync time="0.0"/>
+ah yeah
+</Turn>
+<Turn speaker="S2" startTime="8.12" endTime="59.97">
+<Sync time="8.12"/>
+yeah yeah a million dollars a year and a half a pack a day and i'm always on and on and i don't know why uh
+</Turn>
+</Section>
+<Section type="report" startTime="64.98" endTime="86.6" >
+<Turn speaker="S2" startTime="64.98" endTime="86.6">
+<Sync time="64.98"/>
+was here for a month and a long time on a on a i
+</Turn>
+</Section>
+</Episode>
+</Trans>

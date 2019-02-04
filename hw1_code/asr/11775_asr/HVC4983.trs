@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4983" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="8.63" endTime="15.74" >
+<Turn speaker="S1" startTime="8.63" endTime="15.74">
+<Sync time="8.63"/>
+and and uh
+</Turn>
+</Section>
+<Section type="report" startTime="15.84" endTime="34.78" >
+<Turn speaker="S2" startTime="15.84" endTime="34.78">
+<Sync time="15.84"/>
+when you're in new york every minute of that well
+</Turn>
+</Section>
+<Section type="report" startTime="34.84" endTime="48.36" >
+<Turn speaker="S2" startTime="34.84" endTime="48.36">
+<Sync time="34.84"/>
+i never met anybody else going on i mean one day
+</Turn>
+</Section>
+<Section type="report" startTime="48.44" endTime="55.7" >
+<Turn speaker="S2" startTime="48.44" endTime="55.7">
+<Sync time="48.44"/>
+the one i i mean you don't even know anything
+</Turn>
+</Section>
+<Section type="report" startTime="55.79" endTime="65.34" >
+<Turn speaker="S2" startTime="55.79" endTime="65.34">
+<Sync time="55.79"/>
+the only the second looked at little um you can always even when we can do
+</Turn>
+</Section>
+<Section type="report" startTime="76.04" endTime="80.62" >
+<Turn speaker="S2" startTime="76.04" endTime="80.62">
+<Sync time="76.04"/>
+and it reminded me
+</Turn>
+</Section>
+<Section type="report" startTime="80.68" endTime="108.92" >
+<Turn speaker="S2" startTime="80.68" endTime="108.92">
+<Sync time="80.68"/>
+to do that though you know like i don't wanna go swimming and all i mean
+</Turn>
+</Section>
+<Section type="report" startTime="108.99" endTime="121.74" >
+<Turn speaker="S2" startTime="108.99" endTime="121.74">
+<Sync time="108.99"/>
+if they to do i mean come on like a little bit of everything so you might wanna you
+</Turn>
+</Section>
+<Section type="report" startTime="121.8" endTime="128.94" >
+<Turn speaker="S1" startTime="121.8" endTime="128.94">
+<Sync time="121.8"/>
+hi
+</Turn>
+</Section>
+<Section type="report" startTime="129.0" endTime="133.84" >
+<Turn speaker="S1" startTime="129.0" endTime="133.84">
+<Sync time="129.0"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="133.92" endTime="154.46" >
+<Turn speaker="S1" startTime="133.92" endTime="154.46">
+<Sync time="133.92"/>
+i don't i don't
+<Sync time="144.94"/>
+how you doing
+</Turn>
+</Section>
+<Section type="report" startTime="154.56" endTime="178.3" >
+<Turn speaker="S1" startTime="154.56" endTime="178.3">
+<Sync time="154.56"/>
+that's yeah i i didn't really want to know more about it for granted like either when they get all these people who i mean that's are coming to me and my she was old enough to make
+</Turn>
+</Section>
+</Episode>
+</Trans>

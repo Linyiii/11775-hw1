@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5550" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.05" endTime="191.31" >
+<Turn speaker="S1" startTime="0.05" endTime="12.07">
+<Sync time="0.05"/>
+ship ship in response to the what she said that
+</Turn>
+<Turn speaker="S2" startTime="12.07" endTime="36.39">
+<Sync time="12.07"/>
+no no no no
+</Turn>
+<Turn speaker="S3" startTime="36.39" endTime="58.11">
+<Sync time="36.39"/>
+you know neither i'm going be the one that um
+</Turn>
+<Turn speaker="S2" startTime="58.11" endTime="93.15">
+<Sync time="58.11"/>
+the baby no no no no no no no no and then and then um
+</Turn>
+<Turn speaker="S3" startTime="93.15" endTime="102.45">
+<Sync time="93.15"/>
+they didn't you
+</Turn>
+<Turn speaker="S2" startTime="102.45" endTime="151.56">
+<Sync time="102.45"/>
+they will happen again and and and and i was a man and and then and then and you know and they don't and and they
+</Turn>
+<Turn speaker="S3" startTime="151.56" endTime="175.79">
+<Sync time="151.56"/>
+no no we go we go
+</Turn>
+<Turn speaker="S2" startTime="175.79" endTime="191.31">
+<Sync time="175.79"/>
+and that may or may not be do that and
+</Turn>
+</Section>
+<Section type="report" startTime="195.65" endTime="215.23" >
+<Turn speaker="S4" startTime="195.65" endTime="215.23">
+<Sync time="195.65"/>
+being a mom
+</Turn>
+</Section>
+</Episode>
+</Trans>

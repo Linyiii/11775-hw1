@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2768" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.23" endTime="61.3" >
+<Turn speaker="S1" startTime="0.23" endTime="9.95">
+<Sync time="0.23"/>
+being being being being being being
+</Turn>
+<Turn speaker="S2" startTime="9.95" endTime="34.82">
+<Sync time="9.95"/>
+not being in the
+</Turn>
+<Turn speaker="S3" startTime="34.82" endTime="38.16">
+<Sync time="34.82"/>
+the
+</Turn>
+<Turn speaker="S2" startTime="38.16" endTime="46.72">
+<Sync time="38.16"/>
+you be
+</Turn>
+<Turn speaker="S4" startTime="46.72" endTime="61.3">
+<Sync time="46.72"/>
+the the t._v.
+</Turn>
+</Section>
+<Section type="report" startTime="90.14" endTime="94.66" >
+<Turn speaker="S2" startTime="90.14" endTime="94.66">
+<Sync time="90.14"/>
+know
+</Turn>
+</Section>
+<Section type="report" startTime="176.75" endTime="186.36" >
+<Turn speaker="S1" startTime="176.75" endTime="186.36">
+<Sync time="176.75"/>
+big thing to do
+</Turn>
+</Section>
+<Section type="report" startTime="238.75" endTime="248.52" >
+<Turn speaker="S1" startTime="238.75" endTime="248.52">
+<Sync time="238.75"/>
+they they didn't take take
+</Turn>
+</Section>
+<Section type="report" startTime="306.95" endTime="328.74" >
+<Turn speaker="S5" startTime="306.95" endTime="328.74">
+<Sync time="306.95"/>
+and you may not
+</Turn>
+</Section>
+</Episode>
+</Trans>

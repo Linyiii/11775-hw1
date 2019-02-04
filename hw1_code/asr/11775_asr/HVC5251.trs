@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5251" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="12.59" endTime="112.69" >
+<Turn speaker="S1" startTime="12.59" endTime="40.65">
+<Sync time="12.59"/>
+i do a lot of people by not really
+</Turn>
+<Turn speaker="S2" startTime="40.65" endTime="52.92">
+<Sync time="40.65"/>
+the blame travolta double feature double feature things can bubble anything but they give us a gift
+</Turn>
+<Turn speaker="S1" startTime="52.92" endTime="61.83">
+<Sync time="52.92"/>
+frames a big huge
+</Turn>
+<Turn speaker="S2" startTime="61.83" endTime="70.76">
+<Sync time="61.83"/>
+so far having a little trouble
+</Turn>
+<Turn speaker="S1" startTime="70.76" endTime="80.94">
+<Sync time="70.76"/>
+documentary
+</Turn>
+<Turn speaker="S2" startTime="80.94" endTime="85.0">
+<Sync time="80.94"/>
+david and all this crap has created a line behind him
+</Turn>
+<Turn speaker="S1" startTime="85.0" endTime="91.71">
+<Sync time="85.0"/>
+everyone's waiting seriously
+</Turn>
+<Turn speaker="S2" startTime="91.71" endTime="112.69">
+<Sync time="91.71"/>
+twenty one probably you know you don't
+</Turn>
+</Section>
+<Section type="report" startTime="112.46" endTime="120.33" >
+<Turn speaker="S1" startTime="112.46" endTime="120.33">
+<Sync time="112.46"/>
+and get
+</Turn>
+</Section>
+</Episode>
+</Trans>

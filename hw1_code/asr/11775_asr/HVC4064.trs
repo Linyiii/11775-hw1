@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4064" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="122.83" >
+<Turn speaker="S1" startTime="0.04" endTime="74.86">
+<Sync time="0.04"/>
+awesome try to get a little bit it's
+</Turn>
+<Turn speaker="S2" startTime="74.86" endTime="109.02">
+<Sync time="74.86"/>
+yeah right now no way out to be honest you gotta crappy old about all the way it came up watch football
+</Turn>
+<Turn speaker="S3" startTime="109.02" endTime="122.83">
+<Sync time="109.02"/>
+what is hurting yourself this is called a calico bash washington
+</Turn>
+</Section>
+<Section type="report" startTime="130.04" endTime="151.54" >
+<Turn speaker="S3" startTime="130.04" endTime="151.54">
+<Sync time="130.04"/>
+i'm like i'm not going to feel like he's got hold on let me get a picture of you okay
+</Turn>
+</Section>
+</Episode>
+</Trans>

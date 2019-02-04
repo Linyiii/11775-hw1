@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4810" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.57" endTime="33.21" >
+<Turn speaker="S1" startTime="0.57" endTime="7.93">
+<Sync time="0.57"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="7.93" endTime="33.21">
+<Sync time="7.93"/>
+and then the operating room and they gonna do that anyway you know you may or may and and
+</Turn>
+</Section>
+<Section type="report" startTime="39.9" endTime="141.49" >
+<Turn speaker="S3" startTime="39.9" endTime="43.01">
+<Sync time="39.9"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="43.01" endTime="47.22">
+<Sync time="43.01"/>
+oh
+</Turn>
+<Turn speaker="S3" startTime="47.22" endTime="96.79">
+<Sync time="47.22"/>
+so when you are right now to try and it came down to the money and shopping
+</Turn>
+<Turn speaker="S4" startTime="96.79" endTime="113.06">
+<Sync time="96.79"/>
+no
+</Turn>
+<Turn speaker="S5" startTime="113.06" endTime="121.87">
+<Sync time="113.06"/>
+when uh
+</Turn>
+<Turn speaker="S3" startTime="121.87" endTime="141.49">
+<Sync time="121.87"/>
+do they let him law
+</Turn>
+</Section>
+</Episode>
+</Trans>

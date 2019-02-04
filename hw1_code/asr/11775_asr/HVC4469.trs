@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4469" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="20.19" >
+<Turn speaker="S1" startTime="0.03" endTime="20.19">
+<Sync time="0.03"/>
+what are we doing right now well right now we're going to move on to some training exercises with our dogs are really basic stuff that we're going to break into show us book you'll notice when the dog bite he doesn't fight fight fight fight he's not quite involved in one spot that way
+</Turn>
+</Section>
+<Section type="report" startTime="28.13" endTime="75.7" >
+<Turn speaker="S1" startTime="28.13" endTime="50.25">
+<Sync time="28.13"/>
+we're close to the hospital
+</Turn>
+<Turn speaker="S2" startTime="50.25" endTime="75.7">
+<Sync time="50.25"/>
+you know you're going to
+</Turn>
+</Section>
+<Section type="report" startTime="75.59" endTime="98.34" >
+<Turn speaker="S1" startTime="75.59" endTime="98.34">
+<Sync time="75.59"/>
+that's awesome i was getting a garden okay we're gonna move up a little bit more some hard hit you know what's really going to do it
+</Turn>
+</Section>
+</Episode>
+</Trans>

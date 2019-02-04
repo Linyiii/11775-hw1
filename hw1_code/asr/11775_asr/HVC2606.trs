@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2606" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="31.72" >
+<Turn speaker="S1" startTime="0.0" endTime="3.32">
+<Sync time="0.0"/>
+yeah they heard that age
+</Turn>
+<Turn speaker="S2" startTime="3.32" endTime="13.4">
+<Sync time="3.32"/>
+have you heard day oh i good man uh relating to have they your mind
+</Turn>
+<Turn speaker="S3" startTime="13.4" endTime="16.99">
+<Sync time="13.4"/>
+and
+</Turn>
+<Turn speaker="S4" startTime="16.99" endTime="25.69">
+<Sync time="16.99"/>
+uh oh yeah definitely quite low learned out tested though
+</Turn>
+<Turn speaker="S5" startTime="25.69" endTime="28.41">
+<Sync time="25.69"/>
+yeah you're the gang girl gives me
+</Turn>
+<Turn speaker="S6" startTime="28.41" endTime="31.72">
+<Sync time="28.41"/>
+yeah yeah oh yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

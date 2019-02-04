@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4661" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.24" endTime="14.5" >
+<Turn speaker="S1" startTime="4.24" endTime="14.5">
+<Sync time="4.24"/>
+just here
+</Turn>
+</Section>
+<Section type="report" startTime="21.93" endTime="53.45" >
+<Turn speaker="S2" startTime="21.93" endTime="26.11">
+<Sync time="21.93"/>
+yeah yeah we weren't smart
+</Turn>
+<Turn speaker="S3" startTime="26.11" endTime="32.63">
+<Sync time="26.11"/>
+he likes to well 'cause they can go
+</Turn>
+<Turn speaker="S4" startTime="32.63" endTime="42.52">
+<Sync time="32.63"/>
+oh you cute she's not so sure that your your head
+</Turn>
+<Turn speaker="S5" startTime="42.52" endTime="48.27">
+<Sync time="42.52"/>
+she got stadium is
+</Turn>
+<Turn speaker="S6" startTime="48.27" endTime="53.45">
+<Sync time="48.27"/>
+oh there huh
+</Turn>
+</Section>
+<Section type="report" startTime="58.14" endTime="66.02" >
+<Turn speaker="S7" startTime="58.14" endTime="66.02">
+<Sync time="58.14"/>
+too much time ooh seekers
+</Turn>
+</Section>
+</Episode>
+</Trans>

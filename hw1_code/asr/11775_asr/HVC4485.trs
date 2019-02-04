@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4485" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.05" endTime="35.67" >
+<Turn speaker="S1" startTime="0.05" endTime="1.44">
+<Sync time="0.05"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="1.44" endTime="13.37">
+<Sync time="1.44"/>
+my office which is fairly new right now i have a and most people don't believe i can do it so right now i'm going to prove that i can
+</Turn>
+<Turn speaker="S1" startTime="13.37" endTime="14.49">
+<Sync time="13.37"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="14.49" endTime="35.67">
+<Sync time="14.49"/>
+it's solved right now and i went to mix it up and once i'm finished mixing it up pretty good and there's no method really to mixing it up you can set it up some way but uh mixed up real good
+</Turn>
+</Section>
+<Section type="report" startTime="51.95" endTime="100.31" >
+<Turn speaker="S2" startTime="51.95" endTime="59.98">
+<Sync time="51.95"/>
+and we got it isn't no perfect or go step by step i'll tell you how to do it
+</Turn>
+<Turn speaker="S3" startTime="59.98" endTime="83.57">
+<Sync time="59.98"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="83.57" endTime="100.31">
+<Sync time="83.57"/>
+and so now we have all of the top as you can see and the so so now we're getting besides pieces to the top two years
+</Turn>
+</Section>
+<Section type="report" startTime="125.04" endTime="131.18" >
+<Turn speaker="S4" startTime="125.04" endTime="131.18">
+<Sync time="125.04"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="150.63" endTime="160.43" >
+<Turn speaker="S4" startTime="150.63" endTime="160.43">
+<Sync time="150.63"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="227.98" endTime="236.94" >
+<Turn speaker="S2" startTime="227.98" endTime="236.94">
+<Sync time="227.98"/>
+their habit living proof actually can not hold on one i can do are really cute so
+</Turn>
+</Section>
+<Section type="report" startTime="236.7" endTime="239.91" >
+<Turn speaker="S1" startTime="236.7" endTime="239.91">
+<Sync time="236.7"/>
+mhm
+</Turn>
+</Section>
+</Episode>
+</Trans>

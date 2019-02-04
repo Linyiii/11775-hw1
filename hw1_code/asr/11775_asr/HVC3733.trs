@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3733" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="14.76" endTime="21.94" >
+<Turn speaker="S1" startTime="14.76" endTime="21.94">
+<Sync time="14.76"/>
+when
+</Turn>
+</Section>
+<Section type="report" startTime="34.24" endTime="39.15" >
+<Turn speaker="S2" startTime="34.24" endTime="39.15">
+<Sync time="34.24"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="47.01" endTime="51.5" >
+<Turn speaker="S2" startTime="47.01" endTime="51.5">
+<Sync time="47.01"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="61.75" endTime="74.76" >
+<Turn speaker="S2" startTime="61.75" endTime="74.76">
+<Sync time="61.75"/>
+um
+</Turn>
+</Section>
+<Section type="report" startTime="95.09" endTime="104.61" >
+<Turn speaker="S2" startTime="95.09" endTime="104.61">
+<Sync time="95.09"/>
+and then today
+</Turn>
+</Section>
+<Section type="report" startTime="132.24" endTime="136.7" >
+<Turn speaker="S2" startTime="132.24" endTime="136.7">
+<Sync time="132.24"/>
+just
+</Turn>
+</Section>
+<Section type="report" startTime="145.81" endTime="160.6" >
+<Turn speaker="S2" startTime="145.81" endTime="160.6">
+<Sync time="145.81"/>
+and i remember that
+</Turn>
+</Section>
+<Section type="report" startTime="168.26" endTime="172.67" >
+<Turn speaker="S2" startTime="168.26" endTime="172.67">
+<Sync time="168.26"/>
+but doesn't
+</Turn>
+</Section>
+<Section type="report" startTime="204.91" endTime="215.34" >
+<Turn speaker="S3" startTime="204.91" endTime="208.11">
+<Sync time="204.91"/>
+no
+</Turn>
+<Turn speaker="S1" startTime="208.11" endTime="215.34">
+<Sync time="208.11"/>
+they
+</Turn>
+</Section>
+<Section type="report" startTime="227.83" endTime="232.68" >
+<Turn speaker="S2" startTime="227.83" endTime="232.68">
+<Sync time="227.83"/>
+the
+</Turn>
+</Section>
+<Section type="report" startTime="240.58" endTime="245.12" >
+<Turn speaker="S2" startTime="240.58" endTime="245.12">
+<Sync time="240.58"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="255.33" endTime="268.57" >
+<Turn speaker="S2" startTime="255.33" endTime="268.57">
+<Sync time="255.33"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="307.65" endTime="330.94" >
+<Turn speaker="S2" startTime="307.65" endTime="317.13">
+<Sync time="307.65"/>
+and and
+</Turn>
+<Turn speaker="S4" startTime="317.13" endTime="326.46">
+<Sync time="317.13"/>
+that
+</Turn>
+<Turn speaker="S2" startTime="326.46" endTime="330.94">
+<Sync time="326.46"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="340.12" endTime="355.02" >
+<Turn speaker="S2" startTime="340.12" endTime="355.02">
+<Sync time="340.12"/>
+i don't know
+</Turn>
+</Section>
+<Section type="report" startTime="362.74" endTime="367.25" >
+<Turn speaker="S2" startTime="362.74" endTime="367.25">
+<Sync time="362.74"/>
+mhm
+</Turn>
+</Section>
+</Episode>
+</Trans>

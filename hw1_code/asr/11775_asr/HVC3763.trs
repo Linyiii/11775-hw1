@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3763" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="34.41" >
+<Turn speaker="S1" startTime="0.0" endTime="6.91">
+<Sync time="0.0"/>
+the checkerboard two minutes later and she's really balls up now
+</Turn>
+<Turn speaker="S2" startTime="6.91" endTime="15.37">
+<Sync time="6.91"/>
+anywhere i i have three pieces that are using them
+</Turn>
+<Turn speaker="S1" startTime="15.37" endTime="23.75">
+<Sync time="15.37"/>
+she's talking about the three pieces physically can't move because they only go one direction and there's no direction to go
+</Turn>
+<Turn speaker="S2" startTime="23.75" endTime="27.38">
+<Sync time="23.75"/>
+to i'm using as collateral
+</Turn>
+<Turn speaker="S1" startTime="27.38" endTime="34.41">
+<Sync time="27.38"/>
+nice to hear any direction jumped biting my pieces so she probably just won't move
+</Turn>
+</Section>
+<Section type="report" startTime="34.17" endTime="39.89" >
+<Turn speaker="S2" startTime="34.17" endTime="39.89">
+<Sync time="34.17"/>
+no i i believe they're fabulous go
+</Turn>
+</Section>
+</Episode>
+</Trans>

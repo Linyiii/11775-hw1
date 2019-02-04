@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3589" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="32.86" endTime="165.62" >
+<Turn speaker="S1" startTime="32.86" endTime="112.44">
+<Sync time="32.86"/>
+yeah my job every day in a bar a doctor or wherever i want to change and people to keep on iraq and the for me to go out a way they were born you are pretty good good jay a day day to get into couponing on during the day
+</Turn>
+<Turn speaker="S2" startTime="112.44" endTime="125.45">
+<Sync time="112.44"/>
+no
+</Turn>
+<Turn speaker="S1" startTime="125.45" endTime="156.61">
+<Sync time="125.45"/>
+we don't get time and you don't go away
+</Turn>
+<Turn speaker="S3" startTime="156.61" endTime="165.62">
+<Sync time="156.61"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="190.43" endTime="254.49" >
+<Turn speaker="S4" startTime="190.43" endTime="220.2">
+<Sync time="190.43"/>
+now in general
+</Turn>
+<Turn speaker="S5" startTime="220.2" endTime="235.22">
+<Sync time="220.2"/>
+i don't know
+</Turn>
+<Turn speaker="S4" startTime="235.22" endTime="254.49">
+<Sync time="235.22"/>
+she has mysteries
+</Turn>
+</Section>
+<Section type="report" startTime="254.27" endTime="262.3" >
+<Turn speaker="S6" startTime="254.27" endTime="262.3">
+<Sync time="254.27"/>
+mhm
+</Turn>
+</Section>
+</Episode>
+</Trans>

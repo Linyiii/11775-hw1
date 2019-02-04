@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3280" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.03" endTime="120.7" >
+<Turn speaker="S1" startTime="3.03" endTime="120.7">
+<Sync time="3.03"/>
+what's your again i guess i don't get to know for a few any blurry vision multi you think the it's not it's not going to be able to do you uh as i know a i mean you know but it's okay if you are actually i mean you are well uh or or if you know they that on on
+</Turn>
+</Section>
+<Section type="report" startTime="135.32" endTime="148.7" >
+<Turn speaker="S1" startTime="135.32" endTime="148.7">
+<Sync time="135.32"/>
+what a lot usually only only to to to then you don't
+</Turn>
+</Section>
+<Section type="report" startTime="183.69" endTime="192.95" >
+<Turn speaker="S1" startTime="183.69" endTime="192.95">
+<Sync time="183.69"/>
+well so
+</Turn>
+</Section>
+<Section type="report" startTime="200.01" endTime="204.97" >
+<Turn speaker="S1" startTime="200.01" endTime="204.97">
+<Sync time="200.01"/>
+in the day
+</Turn>
+</Section>
+<Section type="report" startTime="209.72" endTime="238.32" >
+<Turn speaker="S1" startTime="209.72" endTime="212.83">
+<Sync time="209.72"/>
+that funny
+</Turn>
+<Turn speaker="S2" startTime="212.83" endTime="238.32">
+<Sync time="212.83"/>
+no i don't really
+</Turn>
+</Section>
+<Section type="report" startTime="239.86" endTime="309.98" >
+<Turn speaker="S1" startTime="239.86" endTime="258.95">
+<Sync time="239.86"/>
+do you when you see
+</Turn>
+<Turn speaker="S3" startTime="258.95" endTime="262.78">
+<Sync time="258.95"/>
+huh
+</Turn>
+<Turn speaker="S1" startTime="262.78" endTime="309.98">
+<Sync time="262.78"/>
+yeah she told me you can say you know or you get to a that you only that uh what do you think so yeah
+</Turn>
+</Section>
+<Section type="report" startTime="320.49" endTime="409.79" >
+<Turn speaker="S1" startTime="320.49" endTime="326.44">
+<Sync time="320.49"/>
+my from just plop into
+</Turn>
+<Turn speaker="S3" startTime="326.44" endTime="340.13">
+<Sync time="326.44"/>
+yeah
+</Turn>
+<Turn speaker="S4" startTime="340.13" endTime="356.31">
+<Sync time="340.13"/>
+oh for sure
+</Turn>
+<Turn speaker="S1" startTime="356.31" endTime="409.79">
+<Sync time="356.31"/>
+i get to know about i don't get paid and then you thank you even without them i do some uh but uh they get to to get into
+</Turn>
+</Section>
+</Episode>
+</Trans>

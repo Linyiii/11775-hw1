@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2300" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="49.45" >
+<Turn speaker="S1" startTime="0.0" endTime="49.45">
+<Sync time="0.0"/>
+so we are at new york on what changes manhattan um this is pretty much like the only game in town and it comes to has everything you need for the grade they've got a really good selection fortunately sizes the side but you know you just keep your they will help you um play windows to have a and pain decorating candies um cookie cutters she let
+</Turn>
+</Section>
+</Episode>
+</Trans>

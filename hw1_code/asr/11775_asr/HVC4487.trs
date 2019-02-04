@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4487" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="9.81" >
+<Turn speaker="S1" startTime="0.03" endTime="9.81">
+<Sync time="0.03"/>
+go ahead
+</Turn>
+</Section>
+<Section type="report" startTime="55.75" endTime="91.59" >
+<Turn speaker="S2" startTime="55.75" endTime="91.59">
+<Sync time="55.75"/>
+hey i don't do that and you're gonna hit us we're saying okay first of all end up with the giants done okay just trying to shop shot anyway yeah what are you doing you can either
+</Turn>
+</Section>
+</Episode>
+</Trans>

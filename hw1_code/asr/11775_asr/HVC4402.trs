@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4402" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="2.08" >
+<Turn speaker="S1" startTime="0.04" endTime="2.08">
+<Sync time="0.04"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="24.73" endTime="86.52" >
+<Turn speaker="S1" startTime="24.73" endTime="86.52">
+<Sync time="24.73"/>
+they they're fuel worldly possessions travel across those sorts of a new one mentors and slushing itself away away the harder for baseball and i play like congress gettysburg normandy take a pay our in the winter um hardship remember the one before we open virtue wants more occurrence do or what are what what we were we were doing that we would have been great moms we care afford that right before you deliver the future generations
+</Turn>
+</Section>
+</Episode>
+</Trans>

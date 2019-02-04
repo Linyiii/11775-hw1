@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5866" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.94" endTime="48.28" >
+<Turn speaker="S1" startTime="4.94" endTime="27.56">
+<Sync time="4.94"/>
+you know it's a lot of it are very like yours no why we're not you know why your hair longer like totally
+</Turn>
+<Turn speaker="S2" startTime="27.56" endTime="31.55">
+<Sync time="27.56"/>
+usually the light i okay i still like him
+</Turn>
+<Turn speaker="S1" startTime="31.55" endTime="48.28">
+<Sync time="31.55"/>
+well there's that other the other side i this look him that he's alive around mary saw bob down
+</Turn>
+</Section>
+<Section type="report" startTime="54.88" endTime="58.32" >
+<Turn speaker="S1" startTime="54.88" endTime="58.32">
+<Sync time="54.88"/>
+richard with like a rock star yeah
+</Turn>
+</Section>
+<Section type="report" startTime="60.73" endTime="70.65" >
+<Turn speaker="S2" startTime="60.73" endTime="70.65">
+<Sync time="60.73"/>
+when my never kevin my hair but sometimes that
+</Turn>
+</Section>
+<Section type="report" startTime="70.41" endTime="99.2" >
+<Turn speaker="S1" startTime="70.41" endTime="99.2">
+<Sync time="70.41"/>
+my videotape videotaping videotaping everything in the i do how did you know the little military contribute chicken
+</Turn>
+</Section>
+</Episode>
+</Trans>

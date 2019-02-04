@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4895" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="12.81" endTime="22.07" >
+<Turn speaker="S1" startTime="12.81" endTime="22.07">
+<Sync time="12.81"/>
+my name is
+</Turn>
+</Section>
+<Section type="report" startTime="22.86" endTime="26.51" >
+<Turn speaker="S1" startTime="22.86" endTime="26.51">
+<Sync time="22.86"/>
+you know um
+</Turn>
+</Section>
+<Section type="report" startTime="35.25" endTime="55.16" >
+<Turn speaker="S1" startTime="35.25" endTime="55.16">
+<Sync time="35.25"/>
+and
+</Turn>
+</Section>
+<Section type="report" startTime="70.42" endTime="77.02" >
+<Turn speaker="S2" startTime="70.42" endTime="77.02">
+<Sync time="70.42"/>
+the lady
+</Turn>
+</Section>
+<Section type="report" startTime="79.32" endTime="96.76" >
+<Turn speaker="S2" startTime="79.32" endTime="87.57">
+<Sync time="79.32"/>
+they can be really really young
+</Turn>
+<Turn speaker="S3" startTime="87.57" endTime="96.76">
+<Sync time="87.57"/>
+and uh uh you know about that
+</Turn>
+</Section>
+<Section type="report" startTime="111.74" endTime="121.82" >
+<Turn speaker="S4" startTime="111.74" endTime="121.82">
+<Sync time="111.74"/>
+you want make it
+</Turn>
+</Section>
+<Section type="report" startTime="138.29" endTime="222.67" >
+<Turn speaker="S4" startTime="138.29" endTime="144.53">
+<Sync time="138.29"/>
+okay
+</Turn>
+<Turn speaker="S5" startTime="144.53" endTime="222.67">
+<Sync time="144.53"/>
+you know you can't you can't you know no no no no no we're we're always reading you know the young young people that a a week and then on the time you know
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5021" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="13.95" endTime="19.77" >
+<Turn speaker="S1" startTime="13.95" endTime="19.77">
+<Sync time="13.95"/>
+to make noodles needs to do well and then for them into a bomb
+</Turn>
+</Section>
+<Section type="report" startTime="28.45" endTime="37.9" >
+<Turn speaker="S1" startTime="28.45" endTime="37.9">
+<Sync time="28.45"/>
+very thin and there's a large circle fold overwhelming and continue
+</Turn>
+</Section>
+<Section type="report" startTime="43.62" endTime="51.42" >
+<Turn speaker="S1" startTime="43.62" endTime="51.42">
+<Sync time="43.62"/>
+using the sharp knife into very thin slices gently separate the new
+</Turn>
+</Section>
+<Section type="report" startTime="56.05" endTime="60.26" >
+<Turn speaker="S1" startTime="56.05" endTime="60.26">
+<Sync time="56.05"/>
+all the ingredients you to make the company for the noodles
+</Turn>
+</Section>
+<Section type="report" startTime="62.54" endTime="74.4" >
+<Turn speaker="S1" startTime="62.54" endTime="74.4">
+<Sync time="62.54"/>
+place the onions and garlic and pan filled with olive oil and and then season with salt
+</Turn>
+</Section>
+<Section type="report" startTime="77.84" endTime="100.79" >
+<Turn speaker="S1" startTime="77.84" endTime="83.0">
+<Sync time="77.84"/>
+to the poor and the wind and then the parsley
+</Turn>
+<Turn speaker="S2" startTime="83.0" endTime="86.07">
+<Sync time="83.0"/>
+mhm
+</Turn>
+<Turn speaker="S1" startTime="86.07" endTime="100.79">
+<Sync time="86.07"/>
+poor in full of stuff in the meantime cook pasta and nike and boiling water strain the pasta and added to the class briefly
+</Turn>
+</Section>
+<Section type="report" startTime="111.77" endTime="118.52" >
+<Turn speaker="S1" startTime="111.77" endTime="118.52">
+<Sync time="111.77"/>
+transfer to a serving plate sprinkle parsley trips around the plane
+</Turn>
+</Section>
+</Episode>
+</Trans>

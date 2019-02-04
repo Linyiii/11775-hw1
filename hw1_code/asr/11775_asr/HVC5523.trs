@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5523" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="12.27" >
+<Turn speaker="S1" startTime="0.0" endTime="6.61">
+<Sync time="0.0"/>
+jack eating sour candy sour candy
+</Turn>
+<Turn speaker="S2" startTime="6.61" endTime="12.27">
+<Sync time="6.61"/>
+it's i wearing
+</Turn>
+</Section>
+<Section type="report" startTime="18.91" endTime="51.6" >
+<Turn speaker="S3" startTime="18.91" endTime="22.53">
+<Sync time="18.91"/>
+really do you think what are your own in your mouth
+</Turn>
+<Turn speaker="S4" startTime="22.53" endTime="30.01">
+<Sync time="22.53"/>
+yes he did
+</Turn>
+<Turn speaker="S5" startTime="30.01" endTime="40.28">
+<Sync time="30.01"/>
+to be around him and my first one too
+</Turn>
+<Turn speaker="S6" startTime="40.28" endTime="45.83">
+<Sync time="40.28"/>
+and but
+</Turn>
+<Turn speaker="S7" startTime="45.83" endTime="51.6">
+<Sync time="45.83"/>
+that cheesy pop foreign mom yeah thinner and make a face the
+</Turn>
+</Section>
+</Episode>
+</Trans>

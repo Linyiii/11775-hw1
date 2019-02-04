@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5041" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="14.28" endTime="53.75" >
+<Turn speaker="S1" startTime="14.28" endTime="35.58">
+<Sync time="14.28"/>
+no no no no not at all and
+</Turn>
+<Turn speaker="S2" startTime="35.58" endTime="53.75">
+<Sync time="35.58"/>
+oh
+</Turn>
+</Section>
+<Section type="report" startTime="53.82" endTime="81.71" >
+<Turn speaker="S3" startTime="53.82" endTime="81.71">
+<Sync time="53.82"/>
+i know we're looking for a long time ago oh god i have a i my little boy
+</Turn>
+</Section>
+</Episode>
+</Trans>

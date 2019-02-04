@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2399" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="9.7" endTime="13.31" >
+<Turn speaker="S1" startTime="9.7" endTime="13.31">
+<Sync time="9.7"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="17.8" endTime="38.49" >
+<Turn speaker="S2" startTime="17.8" endTime="22.35">
+<Sync time="17.8"/>
+oh they get the only pay peter
+</Turn>
+<Turn speaker="S3" startTime="22.35" endTime="26.41">
+<Sync time="22.35"/>
+hey you been paid
+</Turn>
+<Turn speaker="S4" startTime="26.41" endTime="29.68">
+<Sync time="26.41"/>
+maintain alive
+</Turn>
+<Turn speaker="S5" startTime="29.68" endTime="34.51">
+<Sync time="29.68"/>
+okay
+</Turn>
+<Turn speaker="S6" startTime="34.51" endTime="38.49">
+<Sync time="34.51"/>
+oh go ahead
+</Turn>
+</Section>
+<Section type="report" startTime="55.32" endTime="59.31" >
+<Turn speaker="S7" startTime="55.32" endTime="59.31">
+<Sync time="55.32"/>
+to do i do
+</Turn>
+</Section>
+</Episode>
+</Trans>

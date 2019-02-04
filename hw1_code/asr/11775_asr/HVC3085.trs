@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3085" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="119.47" >
+<Turn speaker="S1" startTime="0.0" endTime="48.7">
+<Sync time="0.0"/>
+to go down there for your child will get you worry about that stuff but you know and they're doing yeah i really look at i here in their but it right on top of the wonderful perfect to wonderful
+</Turn>
+<Turn speaker="S2" startTime="48.7" endTime="119.47">
+<Sync time="48.7"/>
+yeah i love it it's really good for a while he said well you got to i we get that out of the way here person and when was pretty close my dream and i have a patch that hurry yeah yeah oh i mean because i'm from different for making green screen newborn causing said thank you
+</Turn>
+</Section>
+<Section type="report" startTime="119.72" endTime="129.06" >
+<Turn speaker="S3" startTime="119.72" endTime="129.06">
+<Sync time="119.72"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

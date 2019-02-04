@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2762" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.58" endTime="97.8" >
+<Turn speaker="S1" startTime="4.58" endTime="41.54">
+<Sync time="4.58"/>
+some body will go through this will be able to share with a bomb in the house or have well they don't do the reason i didn't make your brain get get so much the way back now so she so slow
+</Turn>
+<Turn speaker="S2" startTime="41.54" endTime="59.74">
+<Sync time="41.54"/>
+now also just came on and go hey you know or or like or
+</Turn>
+<Turn speaker="S1" startTime="59.74" endTime="78.43">
+<Sync time="59.74"/>
+the cool place to give up now wasted your in the the water but you how about your still looking for
+</Turn>
+<Turn speaker="S2" startTime="78.43" endTime="97.8">
+<Sync time="78.43"/>
+hey now it's a game on the go today now the the only way you know
+</Turn>
+</Section>
+<Section type="report" startTime="114.8" endTime="194.41" >
+<Turn speaker="S2" startTime="114.8" endTime="132.35">
+<Sync time="114.8"/>
+hey now came on and go lay down your the only um
+</Turn>
+<Turn speaker="S3" startTime="132.35" endTime="168.49">
+<Sync time="132.35"/>
+to have some change well water concept you know we could use a little scary and make the dog and bring your bottom down to the one where they can never know you don't go
+</Turn>
+<Turn speaker="S2" startTime="168.49" endTime="194.41">
+<Sync time="168.49"/>
+okay now i'm now it's a game on and go hey hey now i always forget to show 'em and get all the time and she thinks da da da da da da da da da
+</Turn>
+</Section>
+<Section type="report" startTime="194.61" endTime="200.12" >
+<Turn speaker="S4" startTime="194.61" endTime="200.12">
+<Sync time="194.61"/>
+oh
+</Turn>
+</Section>
+</Episode>
+</Trans>

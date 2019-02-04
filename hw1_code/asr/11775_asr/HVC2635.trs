@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2635" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="13.06" endTime="21.98" >
+<Turn speaker="S1" startTime="13.06" endTime="21.98">
+<Sync time="13.06"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="25.27" endTime="61.8" >
+<Turn speaker="S1" startTime="25.27" endTime="34.1">
+<Sync time="25.27"/>
+i know
+</Turn>
+<Turn speaker="S2" startTime="34.1" endTime="53.78">
+<Sync time="34.1"/>
+yeah he is a back and they just that
+</Turn>
+<Turn speaker="S3" startTime="53.78" endTime="61.8">
+<Sync time="53.78"/>
+that that that
+</Turn>
+</Section>
+<Section type="report" startTime="74.14" endTime="101.99" >
+<Turn speaker="S1" startTime="74.14" endTime="82.1">
+<Sync time="74.14"/>
+an idea
+</Turn>
+<Turn speaker="S2" startTime="82.1" endTime="101.99">
+<Sync time="82.1"/>
+not being in contact with that just abandon now
+</Turn>
+</Section>
+<Section type="report" startTime="121.89" endTime="136.17" >
+<Turn speaker="S4" startTime="121.89" endTime="136.17">
+<Sync time="121.89"/>
+well we watch
+</Turn>
+</Section>
+<Section type="report" startTime="136.24" endTime="144.29" >
+<Turn speaker="S2" startTime="136.24" endTime="144.29">
+<Sync time="136.24"/>
+hit a you
+</Turn>
+</Section>
+</Episode>
+</Trans>

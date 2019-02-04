@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5403" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.17" endTime="53.23" >
+<Turn speaker="S1" startTime="0.17" endTime="13.38">
+<Sync time="0.17"/>
+mm
+</Turn>
+<Turn speaker="S2" startTime="13.38" endTime="44.46">
+<Sync time="13.38"/>
+okay i prefer to have the thursday use a day they're close to a a man you know we may have here
+</Turn>
+<Turn speaker="S3" startTime="44.46" endTime="53.23">
+<Sync time="44.46"/>
+one too
+</Turn>
+</Section>
+<Section type="report" startTime="60.01" endTime="61.19" >
+<Turn speaker="S3" startTime="60.01" endTime="61.19">
+<Sync time="60.01"/>
+ahead
+</Turn>
+</Section>
+<Section type="report" startTime="64.78" endTime="135.72" >
+<Turn speaker="S3" startTime="64.78" endTime="79.18">
+<Sync time="64.78"/>
+the one thing that will be with everything and they got just as like a dry
+</Turn>
+<Turn speaker="S2" startTime="79.18" endTime="85.22">
+<Sync time="79.18"/>
+mm oh yeah that's good
+</Turn>
+<Turn speaker="S3" startTime="85.22" endTime="98.77">
+<Sync time="85.22"/>
+more what i'm saying so never had a you could yeah okay
+</Turn>
+<Turn speaker="S2" startTime="98.77" endTime="103.3">
+<Sync time="98.77"/>
+jury may go and
+</Turn>
+<Turn speaker="S4" startTime="103.3" endTime="107.37">
+<Sync time="103.3"/>
+mhm
+</Turn>
+<Turn speaker="S3" startTime="107.37" endTime="130.42">
+<Sync time="107.37"/>
+mm yeah you can do it yeah go go go oh gosh that face
+</Turn>
+<Turn speaker="S2" startTime="130.42" endTime="135.72">
+<Sync time="130.42"/>
+that kind of they never did that i thought we were making cake
+</Turn>
+</Section>
+<Section type="report" startTime="139.42" endTime="188.22" >
+<Turn speaker="S3" startTime="139.42" endTime="150.45">
+<Sync time="139.42"/>
+you start getting back into they got macadamia
+</Turn>
+<Turn speaker="S2" startTime="150.45" endTime="163.84">
+<Sync time="150.45"/>
+i i believe there were like the big no peanuts and panic
+</Turn>
+<Turn speaker="S3" startTime="163.84" endTime="188.22">
+<Sync time="163.84"/>
+good good nice to meet you as close up on your leg that's great
+</Turn>
+</Section>
+</Episode>
+</Trans>

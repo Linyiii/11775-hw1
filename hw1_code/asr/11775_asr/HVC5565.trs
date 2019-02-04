@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5565" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="104.12" >
+<Turn speaker="S1" startTime="0.0" endTime="14.89">
+<Sync time="0.0"/>
+mm mm
+</Turn>
+<Turn speaker="S2" startTime="14.89" endTime="44.28">
+<Sync time="14.89"/>
+how about your kids at home you have a good time enjoy
+</Turn>
+<Turn speaker="S3" startTime="44.28" endTime="93.4">
+<Sync time="44.28"/>
+in in my bag and i i i feel you know and i have right now and again you know that i know there's no warning on them and they don't know
+</Turn>
+<Turn speaker="S4" startTime="93.4" endTime="104.12">
+<Sync time="93.4"/>
+and they turn around and you know
+</Turn>
+</Section>
+<Section type="report" startTime="115.21" endTime="241.09" >
+<Turn speaker="S4" startTime="115.21" endTime="126.15">
+<Sync time="115.21"/>
+drunk i'll smoke a day and um
+</Turn>
+<Turn speaker="S5" startTime="126.15" endTime="131.44">
+<Sync time="126.15"/>
+and then
+</Turn>
+<Turn speaker="S4" startTime="131.44" endTime="142.52">
+<Sync time="131.44"/>
+i was man and live
+</Turn>
+<Turn speaker="S5" startTime="142.52" endTime="146.86">
+<Sync time="142.52"/>
+um
+</Turn>
+<Turn speaker="S4" startTime="146.86" endTime="161.19">
+<Sync time="146.86"/>
+a mile two and i don't know
+</Turn>
+<Turn speaker="S5" startTime="161.19" endTime="197.67">
+<Sync time="161.19"/>
+and i'm gonna do and i know i'm i'm in i'm in i'm in i'm in i'm in i'm in um
+</Turn>
+<Turn speaker="S4" startTime="197.67" endTime="234.19">
+<Sync time="197.67"/>
+um but i don't know where and no no no no no no
+</Turn>
+<Turn speaker="S5" startTime="234.19" endTime="241.09">
+<Sync time="234.19"/>
+oh
+</Turn>
+</Section>
+</Episode>
+</Trans>

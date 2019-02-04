@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5571" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.05" endTime="31.37" >
+<Turn speaker="S1" startTime="0.05" endTime="13.12">
+<Sync time="0.05"/>
+she was sixteen and
+</Turn>
+<Turn speaker="S2" startTime="13.12" endTime="16.66">
+<Sync time="13.12"/>
+sure
+</Turn>
+<Turn speaker="S3" startTime="16.66" endTime="31.37">
+<Sync time="16.66"/>
+i was listening to hang around
+</Turn>
+</Section>
+<Section type="report" startTime="59.62" endTime="100.12" >
+<Turn speaker="S2" startTime="59.62" endTime="77.59">
+<Sync time="59.62"/>
+yeah i just got off do you have to be ready to go got all these guys get rid of them
+</Turn>
+<Turn speaker="S4" startTime="77.59" endTime="94.94">
+<Sync time="77.59"/>
+you know my
+</Turn>
+<Turn speaker="S5" startTime="94.94" endTime="100.12">
+<Sync time="94.94"/>
+mm mm
+</Turn>
+</Section>
+<Section type="report" startTime="110.22" endTime="151.03" >
+<Turn speaker="S6" startTime="110.22" endTime="151.03">
+<Sync time="110.22"/>
+better than i ever had a really good at that point where the family i don't wanna play with the forty to wrap it up and do some you don't like about them like that sometimes i feel bad we don't like i gotta get over my shoulder
+</Turn>
+</Section>
+<Section type="report" startTime="161.04" endTime="369.26" >
+<Turn speaker="S7" startTime="161.04" endTime="210.37">
+<Sync time="161.04"/>
+man and relaxes me though i know the just with my friends with the whole you know but everybody heard somebody talking about you really believe everybody lately i haven't even seen anybody i don't know what i really mean come on my way to go that way happened last may may try to that
+</Turn>
+<Turn speaker="S8" startTime="210.37" endTime="228.55">
+<Sync time="210.37"/>
+i no no back i don't know
+</Turn>
+<Turn speaker="S6" startTime="228.55" endTime="271.02">
+<Sync time="228.55"/>
+a lot and they gotta be on the ground like more like we'll go ahead and build up around you i don't know when you're home hurting man on the phone i keep wondering that with a good thing that most every job real talkative playing some gel
+</Turn>
+<Turn speaker="S8" startTime="271.02" endTime="286.03">
+<Sync time="271.02"/>
+i don't know man i don't know
+</Turn>
+<Turn speaker="S7" startTime="286.03" endTime="330.59">
+<Sync time="286.03"/>
+yeah i know like the shows everything around home get satisfaction it happening everybody's been you know like what you hear me all that just made that sometimes it's hard to get that much to say that again way you late for me i need to take that back i would have only one
+</Turn>
+<Turn speaker="S8" startTime="330.59" endTime="346.03">
+<Sync time="330.59"/>
+no no then i got back on
+</Turn>
+<Turn speaker="S6" startTime="346.03" endTime="350.03">
+<Sync time="346.03"/>
+you know have a lot
+</Turn>
+<Turn speaker="S9" startTime="350.03" endTime="369.26">
+<Sync time="350.03"/>
+no no no no no no no no no no no no no no no no no no i don't know i know i don't know
+</Turn>
+</Section>
+<Section type="report" startTime="373.89" endTime="384.63" >
+<Turn speaker="S2" startTime="373.89" endTime="384.63">
+<Sync time="373.89"/>
+i don't
+</Turn>
+</Section>
+</Episode>
+</Trans>

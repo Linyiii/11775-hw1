@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5528" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.63" endTime="61.52" >
+<Turn speaker="S1" startTime="0.63" endTime="17.54">
+<Sync time="0.63"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="17.54" endTime="31.39">
+<Sync time="17.54"/>
+yeah do you like the candy you like the candy or those nerds yummy
+</Turn>
+<Turn speaker="S1" startTime="31.39" endTime="38.93">
+<Sync time="31.39"/>
+mhm
+</Turn>
+<Turn speaker="S3" startTime="38.93" endTime="50.95">
+<Sync time="38.93"/>
+how how can when you see
+</Turn>
+<Turn speaker="S2" startTime="50.95" endTime="61.52">
+<Sync time="50.95"/>
+bye-bye
+</Turn>
+</Section>
+<Section type="report" startTime="61.7" endTime="64.88" >
+<Turn speaker="S4" startTime="61.7" endTime="64.88">
+<Sync time="61.7"/>
+thank you
+</Turn>
+</Section>
+</Episode>
+</Trans>

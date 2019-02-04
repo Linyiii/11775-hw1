@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4814" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="89.1" >
+<Turn speaker="S1" startTime="0.0" endTime="16.32">
+<Sync time="0.0"/>
+uh a uh
+</Turn>
+<Turn speaker="S2" startTime="16.32" endTime="20.69">
+<Sync time="16.32"/>
+no
+</Turn>
+<Turn speaker="S1" startTime="20.69" endTime="35.0">
+<Sync time="20.69"/>
+what uh understanding and
+</Turn>
+<Turn speaker="S2" startTime="35.0" endTime="79.66">
+<Sync time="35.0"/>
+why what club
+</Turn>
+<Turn speaker="S3" startTime="79.66" endTime="89.1">
+<Sync time="79.66"/>
+no no
+</Turn>
+</Section>
+<Section type="report" startTime="93.96" endTime="135.59" >
+<Turn speaker="S3" startTime="93.96" endTime="100.68">
+<Sync time="93.96"/>
+um
+</Turn>
+<Turn speaker="S2" startTime="100.68" endTime="135.59">
+<Sync time="100.68"/>
+last time they go a student right now
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2741" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.4" endTime="40.24" >
+<Turn speaker="S1" startTime="0.4" endTime="11.47">
+<Sync time="0.4"/>
+where are you in a tent
+</Turn>
+<Turn speaker="S2" startTime="11.47" endTime="15.43">
+<Sync time="11.47"/>
+yeah
+</Turn>
+<Turn speaker="S1" startTime="15.43" endTime="24.51">
+<Sync time="15.43"/>
+okay and i think probably join you open the
+</Turn>
+<Turn speaker="S2" startTime="24.51" endTime="27.03">
+<Sync time="24.51"/>
+right and
+</Turn>
+<Turn speaker="S1" startTime="27.03" endTime="40.24">
+<Sync time="27.03"/>
+okay and then
+</Turn>
+</Section>
+<Section type="report" startTime="40.0" endTime="67.97" >
+<Turn speaker="S2" startTime="40.0" endTime="67.97">
+<Sync time="40.0"/>
+so how do i do too i mean i've seen
+</Turn>
+</Section>
+</Episode>
+</Trans>

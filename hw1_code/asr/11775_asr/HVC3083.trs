@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3083" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="23.39" >
+<Turn speaker="S1" startTime="0.0" endTime="10.47">
+<Sync time="0.0"/>
+sounds like are you making are you oh my gosh humid perfect star man yeah
+</Turn>
+<Turn speaker="S2" startTime="10.47" endTime="19.17">
+<Sync time="10.47"/>
+i'm so you don't have to stand still buy yourself show me put it over here um
+</Turn>
+<Turn speaker="S1" startTime="19.17" endTime="23.39">
+<Sync time="19.17"/>
+perfect so daddy how you can
+</Turn>
+</Section>
+<Section type="report" startTime="26.77" endTime="84.62" >
+<Turn speaker="S1" startTime="26.77" endTime="57.17">
+<Sync time="26.77"/>
+age for being making cookies for santa gotta watch out because the tricky part the rolling it's a tricky part it's not easy mommy was having trouble we had to put 'em in the fridge to cooling down because they weren't willing to stick
+</Turn>
+<Turn speaker="S3" startTime="57.17" endTime="84.62">
+<Sync time="57.17"/>
+that's okay just those those watches her daughter
+</Turn>
+</Section>
+<Section type="report" startTime="90.13" endTime="103.71" >
+<Turn speaker="S1" startTime="90.13" endTime="103.71">
+<Sync time="90.13"/>
+per se daddy can you hold on to this law i guess one of the oven and that's good
+</Turn>
+</Section>
+<Section type="report" startTime="109.52" endTime="115.33" >
+<Turn speaker="S1" startTime="109.52" endTime="115.33">
+<Sync time="109.52"/>
+start a gingerbread man a tree we're gonna decorate them
+</Turn>
+</Section>
+<Section type="report" startTime="123.18" endTime="164.65" >
+<Turn speaker="S2" startTime="123.18" endTime="129.12">
+<Sync time="123.18"/>
+you can do the cooking
+</Turn>
+<Turn speaker="S4" startTime="129.12" endTime="136.15">
+<Sync time="129.12"/>
+yeah
+</Turn>
+<Turn speaker="S1" startTime="136.15" endTime="143.11">
+<Sync time="136.15"/>
+are getting a little sometimes it gets stuck on here and you have to periodically cleared up
+</Turn>
+<Turn speaker="S4" startTime="143.11" endTime="150.88">
+<Sync time="143.11"/>
+and then put fresh
+</Turn>
+<Turn speaker="S1" startTime="150.88" endTime="159.19">
+<Sync time="150.88"/>
+well it's gonna be very excited or you go girl
+</Turn>
+<Turn speaker="S4" startTime="159.19" endTime="164.65">
+<Sync time="159.19"/>
+so
+</Turn>
+</Section>
+<Section type="report" startTime="170.39" endTime="184.25" >
+<Turn speaker="S4" startTime="170.39" endTime="177.49">
+<Sync time="170.39"/>
+perfect christmas tree
+</Turn>
+<Turn speaker="S5" startTime="177.49" endTime="180.47">
+<Sync time="177.49"/>
+jeeze
+</Turn>
+<Turn speaker="S2" startTime="180.47" endTime="184.25">
+<Sync time="180.47"/>
+okay
+</Turn>
+</Section>
+</Episode>
+</Trans>

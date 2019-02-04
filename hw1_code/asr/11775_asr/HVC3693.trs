@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3693" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="25.03" endTime="96.9" >
+<Turn speaker="S1" startTime="25.03" endTime="57.58">
+<Sync time="25.03"/>
+right taken away from a mess or anything
+</Turn>
+<Turn speaker="S2" startTime="57.58" endTime="94.57">
+<Sync time="57.58"/>
+di di di di di di di di di di and on about my friends now um the long run right okay um
+</Turn>
+<Turn speaker="S3" startTime="94.57" endTime="96.9">
+<Sync time="94.57"/>
+man
+</Turn>
+</Section>
+<Section type="report" startTime="116.16" endTime="251.89" >
+<Turn speaker="S2" startTime="116.16" endTime="153.41">
+<Sync time="116.16"/>
+i'm dr dr and a lot of um the mom right now god oh god i'm
+</Turn>
+<Turn speaker="S3" startTime="153.41" endTime="164.3">
+<Sync time="153.41"/>
+okay
+</Turn>
+<Turn speaker="S4" startTime="164.3" endTime="182.74">
+<Sync time="164.3"/>
+you know you talking to you know
+</Turn>
+<Turn speaker="S2" startTime="182.74" endTime="211.46">
+<Sync time="182.74"/>
+no bars things i saw something on you no bars
+</Turn>
+<Turn speaker="S5" startTime="211.46" endTime="251.89">
+<Sync time="211.46"/>
+i don't know why not no i have a bad day
+</Turn>
+</Section>
+<Section type="report" startTime="251.71" endTime="255.03" >
+<Turn speaker="S3" startTime="251.71" endTime="255.03">
+<Sync time="251.71"/>
+mm mm
+</Turn>
+</Section>
+</Episode>
+</Trans>

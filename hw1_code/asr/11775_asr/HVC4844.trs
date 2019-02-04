@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4844" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="8.4" endTime="20.41" >
+<Turn speaker="S1" startTime="8.4" endTime="20.41">
+<Sync time="8.4"/>
+and know
+</Turn>
+</Section>
+<Section type="report" startTime="36.71" endTime="139.84" >
+<Turn speaker="S2" startTime="36.71" endTime="63.31">
+<Sync time="36.71"/>
+but the one i don't know random bran gentleman other bombing end up paying job i made it to me they want to know you know tell eat
+</Turn>
+<Turn speaker="S3" startTime="63.31" endTime="75.29">
+<Sync time="63.31"/>
+any negative and and it doesn't matter right
+</Turn>
+<Turn speaker="S2" startTime="75.29" endTime="108.17">
+<Sync time="75.29"/>
+crying shame time again now you are but then after that my dog needed a job and needed a new you better cold no
+</Turn>
+<Turn speaker="S3" startTime="108.17" endTime="134.05">
+<Sync time="108.17"/>
+and neither does make me read and then a lot on the phone
+</Turn>
+<Turn speaker="S2" startTime="134.05" endTime="139.84">
+<Sync time="134.05"/>
+eat eat eat eat
+</Turn>
+</Section>
+<Section type="report" startTime="164.89" endTime="192.27" >
+<Turn speaker="S3" startTime="164.89" endTime="192.27">
+<Sync time="164.89"/>
+and then you know a big banner ad like that and that and and lord of the matter anymore
+</Turn>
+</Section>
+</Episode>
+</Trans>

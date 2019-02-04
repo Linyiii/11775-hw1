@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4626" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="27.78" >
+<Turn speaker="S1" startTime="0.03" endTime="23.37">
+<Sync time="0.03"/>
+well here it is the last saturday or april mid eighties beautiful saturday sunday morning mowing the lawn trimming our bushes are in bloom this page down there
+</Turn>
+<Turn speaker="S2" startTime="23.37" endTime="27.78">
+<Sync time="23.37"/>
+really want to show me going across the street
+</Turn>
+</Section>
+<Section type="report" startTime="33.31" endTime="98.77" >
+<Turn speaker="S3" startTime="33.31" endTime="52.62">
+<Sync time="33.31"/>
+okay ron back there
+</Turn>
+<Turn speaker="S1" startTime="52.62" endTime="83.35">
+<Sync time="52.62"/>
+hi area right there with the stones turns quite quite deep about for about four or five feet below that three which is falling over and over a couple of years ago during a big storm across the creek now the girls use that as a test of daring do
+</Turn>
+<Turn speaker="S2" startTime="83.35" endTime="98.77">
+<Sync time="83.35"/>
+if you fall hurt yourself we can put on america's funniest home videos good job
+</Turn>
+</Section>
+<Section type="report" startTime="98.69" endTime="105.42" >
+<Turn speaker="S1" startTime="98.69" endTime="105.42">
+<Sync time="98.69"/>
+mhm they can even do that too but she does it on hand me
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6159" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.22" endTime="60.12" >
+<Turn speaker="S1" startTime="0.22" endTime="60.12">
+<Sync time="0.22"/>
+well right my circle the last time you know
+</Turn>
+</Section>
+<Section type="report" startTime="66.36" endTime="91.03" >
+<Turn speaker="S2" startTime="66.36" endTime="91.03">
+<Sync time="66.36"/>
+yep just totally different
+</Turn>
+</Section>
+<Section type="report" startTime="167.7" endTime="183.46" >
+<Turn speaker="S2" startTime="167.7" endTime="183.46">
+<Sync time="167.7"/>
+you know
+</Turn>
+</Section>
+<Section type="report" startTime="195.14" endTime="202.75" >
+<Turn speaker="S2" startTime="195.14" endTime="202.75">
+<Sync time="195.14"/>
+remind me
+</Turn>
+</Section>
+<Section type="report" startTime="221.15" endTime="274.65" >
+<Turn speaker="S1" startTime="221.15" endTime="274.65">
+<Sync time="221.15"/>
+the kobe so we can do that yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

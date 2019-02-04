@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4756" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="13.44" endTime="134.06" >
+<Turn speaker="S1" startTime="13.44" endTime="31.05">
+<Sync time="13.44"/>
+oh man she grow memories by i
+</Turn>
+<Turn speaker="S2" startTime="31.05" endTime="33.09">
+<Sync time="31.05"/>
+and
+</Turn>
+<Turn speaker="S1" startTime="33.09" endTime="39.59">
+<Sync time="33.09"/>
+yeah i could be friend again
+</Turn>
+<Turn speaker="S3" startTime="39.59" endTime="49.14">
+<Sync time="39.59"/>
+they don't always still and and um
+</Turn>
+<Turn speaker="S1" startTime="49.14" endTime="51.42">
+<Sync time="49.14"/>
+the
+</Turn>
+<Turn speaker="S3" startTime="51.42" endTime="61.39">
+<Sync time="51.42"/>
+that made a line
+</Turn>
+<Turn speaker="S2" startTime="61.39" endTime="86.88">
+<Sync time="61.39"/>
+really was the game to play tennis know reality t._v.
+</Turn>
+<Turn speaker="S4" startTime="86.88" endTime="106.83">
+<Sync time="86.88"/>
+and they go away or six and i'm not in
+</Turn>
+<Turn speaker="S3" startTime="106.83" endTime="110.38">
+<Sync time="106.83"/>
+but you
+</Turn>
+<Turn speaker="S5" startTime="110.38" endTime="134.06">
+<Sync time="110.38"/>
+um a that's a in in a in a in a in a
+</Turn>
+</Section>
+<Section type="report" startTime="134.14" endTime="145.52" >
+<Turn speaker="S4" startTime="134.14" endTime="145.52">
+<Sync time="134.14"/>
+stay away
+</Turn>
+</Section>
+</Episode>
+</Trans>

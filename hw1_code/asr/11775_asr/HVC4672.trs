@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4672" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="17.41" endTime="39.2" >
+<Turn speaker="S1" startTime="17.41" endTime="39.2">
+<Sync time="17.41"/>
+uh i don't rent them in a while
+</Turn>
+</Section>
+<Section type="report" startTime="61.46" endTime="132.77" >
+<Turn speaker="S1" startTime="61.46" endTime="81.33">
+<Sync time="61.46"/>
+oh man
+</Turn>
+<Turn speaker="S2" startTime="81.33" endTime="111.75">
+<Sync time="81.33"/>
+oh what part of it
+</Turn>
+<Turn speaker="S1" startTime="111.75" endTime="132.77">
+<Sync time="111.75"/>
+i know
+</Turn>
+</Section>
+<Section type="report" startTime="150.92" endTime="185.48" >
+<Turn speaker="S2" startTime="150.92" endTime="185.48">
+<Sync time="150.92"/>
+oh no no i'm
+</Turn>
+</Section>
+<Section type="report" startTime="185.24" endTime="222.24" >
+<Turn speaker="S3" startTime="185.24" endTime="222.24">
+<Sync time="185.24"/>
+well i got a dog or a book while you're eating
+</Turn>
+</Section>
+</Episode>
+</Trans>

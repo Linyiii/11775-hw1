@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3970" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="27.04" endTime="33.39" >
+<Turn speaker="S1" startTime="27.04" endTime="33.39">
+<Sync time="27.04"/>
+they start putting in middle school
+</Turn>
+</Section>
+<Section type="report" startTime="48.16" endTime="72.31" >
+<Turn speaker="S1" startTime="48.16" endTime="72.31">
+<Sync time="48.16"/>
+the government works you know you get rain here
+</Turn>
+</Section>
+</Episode>
+</Trans>

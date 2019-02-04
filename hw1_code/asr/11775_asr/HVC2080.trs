@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2080" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="22.92" >
+<Turn speaker="S1" startTime="0.0" endTime="22.92">
+<Sync time="0.0"/>
+that'd be good recording grouchy grouchy he's very unhappy to be here you're going to die grouchy you're going to make you feel we're not that i'm sorry hold him over the just cram in there yeah i think you're gonna have to put 'em in sideways
+</Turn>
+</Section>
+<Section type="report" startTime="32.97" endTime="36.52" >
+<Turn speaker="S1" startTime="32.97" endTime="36.52">
+<Sync time="32.97"/>
+oh poor little piling the other one
+</Turn>
+</Section>
+<Section type="report" startTime="44.48" endTime="57.54" >
+<Turn speaker="S1" startTime="44.48" endTime="57.54">
+<Sync time="44.48"/>
+that's the sad part is less than grouchy yeah my yeah it's way dripping
+</Turn>
+</Section>
+<Section type="report" startTime="62.39" endTime="77.49" >
+<Turn speaker="S1" startTime="62.39" endTime="77.49">
+<Sync time="62.39"/>
+and they're better than grouchy the top of it because it's seen we'll do whatever the boiling doesn't goodbye you guys about eighteen minutes
+</Turn>
+</Section>
+</Episode>
+</Trans>

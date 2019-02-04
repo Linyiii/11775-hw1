@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5883" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.13" endTime="32.86" >
+<Turn speaker="S1" startTime="0.13" endTime="32.86">
+<Sync time="0.13"/>
+yeah so how do you want to know what that's like an interesting uh compared to america like the like uh he's not like everyone gets the same here did they usually like yankee your hands
+</Turn>
+</Section>
+</Episode>
+</Trans>

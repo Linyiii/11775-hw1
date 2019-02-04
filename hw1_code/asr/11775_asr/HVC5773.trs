@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5773" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="15.82" >
+<Turn speaker="S1" startTime="0.0" endTime="3.32">
+<Sync time="0.0"/>
+mm mm
+</Turn>
+<Turn speaker="S2" startTime="3.32" endTime="15.82">
+<Sync time="3.32"/>
+uh uh a
+</Turn>
+</Section>
+<Section type="report" startTime="31.83" endTime="50.58" >
+<Turn speaker="S3" startTime="31.83" endTime="50.58">
+<Sync time="31.83"/>
+what type of food
+</Turn>
+</Section>
+<Section type="report" startTime="56.09" endTime="68.35" >
+<Turn speaker="S1" startTime="56.09" endTime="68.35">
+<Sync time="56.09"/>
+what
+</Turn>
+</Section>
+<Section type="report" startTime="88.91" endTime="107.9" >
+<Turn speaker="S1" startTime="88.91" endTime="97.32">
+<Sync time="88.91"/>
+you know
+</Turn>
+<Turn speaker="S4" startTime="97.32" endTime="107.9">
+<Sync time="97.32"/>
+i can eat when we that she around children
+</Turn>
+</Section>
+<Section type="report" startTime="115.14" endTime="133.02" >
+<Turn speaker="S1" startTime="115.14" endTime="125.32">
+<Sync time="115.14"/>
+yeah
+</Turn>
+<Turn speaker="S5" startTime="125.32" endTime="133.02">
+<Sync time="125.32"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="137.2" endTime="160.74" >
+<Turn speaker="S5" startTime="137.2" endTime="145.96">
+<Sync time="137.2"/>
+okay
+</Turn>
+<Turn speaker="S4" startTime="145.96" endTime="153.0">
+<Sync time="145.96"/>
+for the parents will tell you that number one
+</Turn>
+<Turn speaker="S1" startTime="153.0" endTime="160.74">
+<Sync time="153.0"/>
+well you know
+</Turn>
+</Section>
+<Section type="report" startTime="164.11" endTime="194.07" >
+<Turn speaker="S4" startTime="164.11" endTime="194.07">
+<Sync time="164.11"/>
+it'll be on the way and she she has no she'll be on c._n._n. that i know you have your cake mm yum yum yum yum yum yum yum yum yum yum yum
+</Turn>
+</Section>
+</Episode>
+</Trans>

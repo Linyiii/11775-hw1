@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4567" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="11.48" endTime="46.48" >
+<Turn speaker="S1" startTime="11.48" endTime="46.48">
+<Sync time="11.48"/>
+call her son or daughter who's doing what you doing it's your daughter's birthday is your daughter but you got the car
+</Turn>
+</Section>
+<Section type="report" startTime="59.2" endTime="60.76" >
+<Turn speaker="S1" startTime="59.2" endTime="60.76">
+<Sync time="59.2"/>
+so much stuff
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4397" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="2.94" >
+<Turn speaker="S1" startTime="0.04" endTime="2.94">
+<Sync time="0.04"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="6.77" endTime="118.27" >
+<Turn speaker="S2" startTime="6.77" endTime="71.68">
+<Sync time="6.77"/>
+to me is that what do you stay on the athlete no this i don't know how many
+</Turn>
+<Turn speaker="S3" startTime="71.68" endTime="104.43">
+<Sync time="71.68"/>
+mm mm
+</Turn>
+<Turn speaker="S4" startTime="104.43" endTime="107.59">
+<Sync time="104.43"/>
+mm
+</Turn>
+<Turn speaker="S3" startTime="107.59" endTime="113.36">
+<Sync time="107.59"/>
+um
+</Turn>
+<Turn speaker="S4" startTime="113.36" endTime="118.27">
+<Sync time="113.36"/>
+oh no
+</Turn>
+</Section>
+<Section type="report" startTime="153.03" endTime="454.96" >
+<Turn speaker="S5" startTime="153.03" endTime="156.93">
+<Sync time="153.03"/>
+mm mm
+</Turn>
+<Turn speaker="S4" startTime="156.93" endTime="160.86">
+<Sync time="156.93"/>
+our uh
+</Turn>
+<Turn speaker="S5" startTime="160.86" endTime="291.5">
+<Sync time="160.86"/>
+um and um um
+</Turn>
+<Turn speaker="S6" startTime="291.5" endTime="454.96">
+<Sync time="291.5"/>
+mum mum when i'm home when i'm when i'm on my mom's mom um um um
+</Turn>
+</Section>
+<Section type="report" startTime="455.59" endTime="488.25" >
+<Turn speaker="S6" startTime="455.59" endTime="488.25">
+<Sync time="455.59"/>
+um
+</Turn>
+</Section>
+</Episode>
+</Trans>

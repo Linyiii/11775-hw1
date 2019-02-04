@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4488" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="13.04" endTime="19.03" >
+<Turn speaker="S1" startTime="13.04" endTime="19.03">
+<Sync time="13.04"/>
+mhm mhm mhm mhm mhm
+</Turn>
+</Section>
+<Section type="report" startTime="19.14" endTime="100.96" >
+<Turn speaker="S2" startTime="19.14" endTime="100.96">
+<Sync time="19.14"/>
+as the sun went down and the young go fire was burning hiking boys i'm i'm headed for our own really besides the crystal found um when we go and the and mountains in where the and you sleep every night where the and the sun shines every day on the lemonade springs where the blue bird sings in the mountains and ended up being run in the mountains and all rubber trees are are there ain't no snow where the women don't blow and and the mountains and run the mountains you'll never change your socks and i'm a little extreme alcohol drinking
+</Turn>
+</Section>
+</Episode>
+</Trans>

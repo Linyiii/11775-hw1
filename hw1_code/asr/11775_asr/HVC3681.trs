@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3681" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="36.09" endTime="119.85" >
+<Turn speaker="S1" startTime="36.09" endTime="46.59">
+<Sync time="36.09"/>
+but the thing that could be for new years to the you know that
+</Turn>
+<Turn speaker="S2" startTime="46.59" endTime="50.28">
+<Sync time="46.59"/>
+me too
+</Turn>
+<Turn speaker="S1" startTime="50.28" endTime="60.49">
+<Sync time="50.28"/>
+you still we're you some of
+</Turn>
+<Turn speaker="S2" startTime="60.49" endTime="90.76">
+<Sync time="60.49"/>
+oh to say this
+</Turn>
+<Turn speaker="S3" startTime="90.76" endTime="119.85">
+<Sync time="90.76"/>
+i'm i'm lucky i only had one but i'm i'm i'm in
+</Turn>
+</Section>
+</Episode>
+</Trans>

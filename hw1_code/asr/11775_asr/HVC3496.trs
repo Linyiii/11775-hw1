@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3496" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="65.11" >
+<Turn speaker="S1" startTime="0.0" endTime="65.11">
+<Sync time="0.0"/>
+when they come over and over again i don't mind when they when they drink all the time people that our guys knew about how she does away
+</Turn>
+</Section>
+<Section type="report" startTime="77.53" endTime="89.21" >
+<Turn speaker="S2" startTime="77.53" endTime="89.21">
+<Sync time="77.53"/>
+and and and
+</Turn>
+</Section>
+</Episode>
+</Trans>

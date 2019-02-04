@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4613" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="10.68" endTime="28.18" >
+<Turn speaker="S1" startTime="10.68" endTime="28.18">
+<Sync time="10.68"/>
+hi there i'm just up in the top of our magnolia tree out in front of our house georgia the cool thing to cook a little bit of a view of where we live north hills house down there from the ground and i don't know it's really hard to tell you exactly how high up
+</Turn>
+</Section>
+<Section type="report" startTime="31.9" endTime="39.85" >
+<Turn speaker="S1" startTime="31.9" endTime="39.85">
+<Sync time="31.9"/>
+it's windy too to say that is pretty cool you probably don't think it's cool but i
+</Turn>
+</Section>
+</Episode>
+</Trans>

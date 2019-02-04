@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5514" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="6.74" endTime="157.13" >
+<Turn speaker="S1" startTime="6.74" endTime="119.82">
+<Sync time="6.74"/>
+i don't know about it yeah i don't know about a mile and a lot on me i don't think they raised on line now and i'm i'm inclined to try and and all like about a half of about a year although on the radio when i'm when i'm wondering if you on that
+</Turn>
+<Turn speaker="S2" startTime="119.82" endTime="150.62">
+<Sync time="119.82"/>
+how can they government get that they're not able to or terrible uh
+</Turn>
+<Turn speaker="S1" startTime="150.62" endTime="157.13">
+<Sync time="150.62"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4688" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="19.17" >
+<Turn speaker="S1" startTime="0.0" endTime="2.8">
+<Sync time="0.0"/>
+too much
+</Turn>
+<Turn speaker="S2" startTime="2.8" endTime="7.93">
+<Sync time="2.8"/>
+that's probably
+</Turn>
+<Turn speaker="S1" startTime="7.93" endTime="14.43">
+<Sync time="7.93"/>
+that's probably laughing
+</Turn>
+<Turn speaker="S2" startTime="14.43" endTime="19.17">
+<Sync time="14.43"/>
+and
+</Turn>
+</Section>
+<Section type="report" startTime="19.41" endTime="34.16" >
+<Turn speaker="S1" startTime="19.41" endTime="34.16">
+<Sync time="19.41"/>
+a lot of gas but it's not as well okay you go through this guy's house
+</Turn>
+</Section>
+</Episode>
+</Trans>

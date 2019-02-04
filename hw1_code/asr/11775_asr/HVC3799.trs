@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3799" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="0.08" >
+<Turn speaker="S1" startTime="0.0" endTime="0.08">
+<Sync time="0.0"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="32.71" endTime="169.59" >
+<Turn speaker="S2" startTime="32.71" endTime="56.05">
+<Sync time="32.71"/>
+you're gone
+</Turn>
+<Turn speaker="S3" startTime="56.05" endTime="76.0">
+<Sync time="56.05"/>
+my i was on last night
+</Turn>
+<Turn speaker="S4" startTime="76.0" endTime="105.4">
+<Sync time="76.0"/>
+me neither
+</Turn>
+<Turn speaker="S5" startTime="105.4" endTime="141.38">
+<Sync time="105.4"/>
+and um
+</Turn>
+<Turn speaker="S6" startTime="141.38" endTime="148.34">
+<Sync time="141.38"/>
+mm
+</Turn>
+<Turn speaker="S7" startTime="148.34" endTime="169.59">
+<Sync time="148.34"/>
+and put them in the school and we're going to do and then the one thing i would never do to prevent
+</Turn>
+</Section>
+<Section type="report" startTime="191.74" endTime="240.39" >
+<Turn speaker="S3" startTime="191.74" endTime="213.05">
+<Sync time="191.74"/>
+you're from new york so
+</Turn>
+<Turn speaker="S8" startTime="213.05" endTime="240.39">
+<Sync time="213.05"/>
+honestly i i could be anything but my dad signed up about
+</Turn>
+</Section>
+<Section type="report" startTime="246.57" endTime="378.38" >
+<Turn speaker="S9" startTime="246.57" endTime="252.01">
+<Sync time="246.57"/>
+and
+</Turn>
+<Turn speaker="S10" startTime="252.01" endTime="276.87">
+<Sync time="252.01"/>
+i'm not on that
+</Turn>
+<Turn speaker="S2" startTime="276.87" endTime="288.34">
+<Sync time="276.87"/>
+well i let my body funny
+</Turn>
+<Turn speaker="S11" startTime="288.34" endTime="300.65">
+<Sync time="288.34"/>
+i don't know i actually saw somebody job
+</Turn>
+<Turn speaker="S2" startTime="300.65" endTime="311.85">
+<Sync time="300.65"/>
+okay
+</Turn>
+<Turn speaker="S10" startTime="311.85" endTime="345.51">
+<Sync time="311.85"/>
+and he's saying
+</Turn>
+<Turn speaker="S2" startTime="345.51" endTime="355.85">
+<Sync time="345.51"/>
+well if you to
+</Turn>
+<Turn speaker="S11" startTime="355.85" endTime="368.79">
+<Sync time="355.85"/>
+they to talk about reality shows
+</Turn>
+<Turn speaker="S2" startTime="368.79" endTime="378.38">
+<Sync time="368.79"/>
+well no my mom my mom
+</Turn>
+</Section>
+<Section type="report" startTime="406.88" endTime="425.82" >
+<Turn speaker="S11" startTime="406.88" endTime="425.82">
+<Sync time="406.88"/>
+while somebody not your grandchildren i jog and i saw them i don't know and i got that
+</Turn>
+</Section>
+</Episode>
+</Trans>

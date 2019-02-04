@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5428" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.19" endTime="68.31" >
+<Turn speaker="S1" startTime="0.19" endTime="11.23">
+<Sync time="0.19"/>
+and uh and and and and and
+</Turn>
+<Turn speaker="S2" startTime="11.23" endTime="32.83">
+<Sync time="11.23"/>
+nah don't you know and uh
+</Turn>
+<Turn speaker="S3" startTime="32.83" endTime="39.29">
+<Sync time="32.83"/>
+you do
+</Turn>
+<Turn speaker="S4" startTime="39.29" endTime="54.8">
+<Sync time="39.29"/>
+mm mm
+</Turn>
+<Turn speaker="S3" startTime="54.8" endTime="60.17">
+<Sync time="54.8"/>
+then
+</Turn>
+<Turn speaker="S5" startTime="60.17" endTime="64.83">
+<Sync time="60.17"/>
+and uh
+</Turn>
+<Turn speaker="S6" startTime="64.83" endTime="68.31">
+<Sync time="64.83"/>
+and uh
+</Turn>
+</Section>
+<Section type="report" startTime="72.82" endTime="86.56" >
+<Turn speaker="S5" startTime="72.82" endTime="86.56">
+<Sync time="72.82"/>
+and ah he died on me to
+</Turn>
+</Section>
+<Section type="report" startTime="90.02" endTime="97.08" >
+<Turn speaker="S5" startTime="90.02" endTime="97.08">
+<Sync time="90.02"/>
+and he goes down
+</Turn>
+</Section>
+<Section type="report" startTime="100.51" endTime="142.22" >
+<Turn speaker="S6" startTime="100.51" endTime="113.01">
+<Sync time="100.51"/>
+one know to me at all going to do
+</Turn>
+<Turn speaker="S5" startTime="113.01" endTime="119.41">
+<Sync time="113.01"/>
+and then today
+</Turn>
+<Turn speaker="S7" startTime="119.41" endTime="128.85">
+<Sync time="119.41"/>
+oh no no no no
+</Turn>
+<Turn speaker="S6" startTime="128.85" endTime="131.52">
+<Sync time="128.85"/>
+and
+</Turn>
+<Turn speaker="S7" startTime="131.52" endTime="136.86">
+<Sync time="131.52"/>
+no
+</Turn>
+<Turn speaker="S5" startTime="136.86" endTime="142.22">
+<Sync time="136.86"/>
+about uh
+</Turn>
+</Section>
+<Section type="report" startTime="148.86" endTime="188.56" >
+<Turn speaker="S5" startTime="148.86" endTime="154.89">
+<Sync time="148.86"/>
+but you know what you're saying
+</Turn>
+<Turn speaker="S6" startTime="154.89" endTime="188.56">
+<Sync time="154.89"/>
+no and you know on your own insurance i'm a mom and dad are wrong to do
+</Turn>
+</Section>
+</Episode>
+</Trans>

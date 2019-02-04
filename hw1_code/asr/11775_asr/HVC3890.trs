@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3890" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="6.45" >
+<Turn speaker="S1" startTime="0.0" endTime="6.45">
+<Sync time="0.0"/>
+oh
+</Turn>
+</Section>
+<Section type="report" startTime="6.54" endTime="138.62" >
+<Turn speaker="S1" startTime="6.54" endTime="17.13">
+<Sync time="6.54"/>
+but no no no we don't they
+</Turn>
+<Turn speaker="S2" startTime="17.13" endTime="27.56">
+<Sync time="17.13"/>
+no not really it's about getting a mother
+</Turn>
+<Turn speaker="S1" startTime="27.56" endTime="85.98">
+<Sync time="27.56"/>
+so i don't know what i'm you know something you know but you know what the right now so
+</Turn>
+<Turn speaker="S2" startTime="85.98" endTime="138.62">
+<Sync time="85.98"/>
+so i go to clubs but like i'm i'm such snow called the vitamins shady with all the damn pets you know god damn clown we'll play around no banding no about like i know now we have horrible horrible we that it's not like you know so so in a pot matter how they when they know like
+</Turn>
+</Section>
+<Section type="report" startTime="150.24" endTime="239.27" >
+<Turn speaker="S2" startTime="150.24" endTime="186.44">
+<Sync time="150.24"/>
+and don't know you know work so
+</Turn>
+<Turn speaker="S3" startTime="186.44" endTime="239.27">
+<Sync time="186.44"/>
+um i don't know what those people who i dated i don't i don't know i don't know i don't know
+</Turn>
+</Section>
+<Section type="report" startTime="239.35" endTime="337.66" >
+<Turn speaker="S1" startTime="239.35" endTime="337.66">
+<Sync time="239.35"/>
+money the grand mom's on the table and then i got your mom cow mom you know i'm my name is like i don't know my mom and pop over there by stillwater right you get older you know we're talking about it okay to like you know watch it i don't know what i don't
+</Turn>
+</Section>
+</Episode>
+</Trans>

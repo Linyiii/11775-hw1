@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5753" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.26" endTime="77.99" >
+<Turn speaker="S1" startTime="0.26" endTime="5.69">
+<Sync time="0.26"/>
+and em
+</Turn>
+<Turn speaker="S2" startTime="5.69" endTime="33.88">
+<Sync time="5.69"/>
+no no no
+</Turn>
+<Turn speaker="S1" startTime="33.88" endTime="41.88">
+<Sync time="33.88"/>
+well yeah
+</Turn>
+<Turn speaker="S3" startTime="41.88" endTime="77.99">
+<Sync time="41.88"/>
+yeah yeah yeah yeah i know well why why why do they live in a tube down your job or a long time to learn a job right now
+</Turn>
+</Section>
+<Section type="report" startTime="83.64" endTime="88.52" >
+<Turn speaker="S1" startTime="83.64" endTime="88.52">
+<Sync time="83.64"/>
+no we're not we're not
+</Turn>
+</Section>
+</Episode>
+</Trans>

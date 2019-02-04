@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2587" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="186.69" endTime="213.77" >
+<Turn speaker="S1" startTime="186.69" endTime="193.07">
+<Sync time="186.69"/>
+oh
+</Turn>
+<Turn speaker="S2" startTime="193.07" endTime="213.77">
+<Sync time="193.07"/>
+when we do with the way that will be the bird
+</Turn>
+</Section>
+<Section type="report" startTime="216.62" endTime="296.4" >
+<Turn speaker="S2" startTime="216.62" endTime="246.61">
+<Sync time="216.62"/>
+i have bend and and then with family members
+</Turn>
+<Turn speaker="S3" startTime="246.61" endTime="255.62">
+<Sync time="246.61"/>
+see
+</Turn>
+<Turn speaker="S4" startTime="255.62" endTime="262.0">
+<Sync time="255.62"/>
+and and and
+</Turn>
+<Turn speaker="S5" startTime="262.0" endTime="296.4">
+<Sync time="262.0"/>
+on the line and why why or a or
+</Turn>
+</Section>
+<Section type="report" startTime="297.19" endTime="349.3" >
+<Turn speaker="S6" startTime="297.19" endTime="349.3">
+<Sync time="297.19"/>
+um and then the other
+</Turn>
+</Section>
+<Section type="report" startTime="383.38" endTime="385.91" >
+<Turn speaker="S4" startTime="383.38" endTime="385.91">
+<Sync time="383.38"/>
+alright
+</Turn>
+</Section>
+<Section type="report" startTime="390.79" endTime="397.51" >
+<Turn speaker="S4" startTime="390.79" endTime="397.51">
+<Sync time="390.79"/>
+over
+</Turn>
+</Section>
+<Section type="report" startTime="399.85" endTime="483.72" >
+<Turn speaker="S7" startTime="399.85" endTime="412.71">
+<Sync time="399.85"/>
+no
+</Turn>
+<Turn speaker="S4" startTime="412.71" endTime="464.57">
+<Sync time="412.71"/>
+you know when when one
+</Turn>
+<Turn speaker="S7" startTime="464.57" endTime="478.47">
+<Sync time="464.57"/>
+well
+</Turn>
+<Turn speaker="S4" startTime="478.47" endTime="483.72">
+<Sync time="478.47"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="515.82" endTime="543.3" >
+<Turn speaker="S4" startTime="515.82" endTime="528.01">
+<Sync time="515.82"/>
+perjury in a way
+</Turn>
+<Turn speaker="S7" startTime="528.01" endTime="543.3">
+<Sync time="528.01"/>
+all are black
+</Turn>
+</Section>
+<Section type="report" startTime="545.43" endTime="560.59" >
+<Turn speaker="S4" startTime="545.43" endTime="548.51">
+<Sync time="545.43"/>
+okay
+</Turn>
+<Turn speaker="S7" startTime="548.51" endTime="560.59">
+<Sync time="548.51"/>
+you
+</Turn>
+</Section>
+<Section type="report" startTime="562.96" endTime="612.07" >
+<Turn speaker="S7" startTime="562.96" endTime="575.9">
+<Sync time="562.96"/>
+mardi gras
+</Turn>
+<Turn speaker="S1" startTime="575.9" endTime="578.93">
+<Sync time="575.9"/>
+no
+</Turn>
+<Turn speaker="S4" startTime="578.93" endTime="608.38">
+<Sync time="578.93"/>
+um when she when you put your family
+</Turn>
+<Turn speaker="S1" startTime="608.38" endTime="612.07">
+<Sync time="608.38"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="627.81" endTime="641.58" >
+<Turn speaker="S7" startTime="627.81" endTime="641.58">
+<Sync time="627.81"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

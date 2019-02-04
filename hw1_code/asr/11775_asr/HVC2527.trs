@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2527" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="2.53" >
+<Turn speaker="S1" startTime="0.0" endTime="2.53">
+<Sync time="0.0"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="2.63" endTime="20.44" >
+<Turn speaker="S2" startTime="2.63" endTime="20.44">
+<Sync time="2.63"/>
+when you have a little bats an adventure canadian like that it's a great tasting beer enjoy important quality in u._s._a. prices have an adventure
+</Turn>
+</Section>
+</Episode>
+</Trans>

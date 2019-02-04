@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2649" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="28.19" >
+<Turn speaker="S1" startTime="0.0" endTime="4.25">
+<Sync time="0.0"/>
+but really what are you doing these painting nightmare
+</Turn>
+<Turn speaker="S2" startTime="4.25" endTime="11.17">
+<Sync time="4.25"/>
+yes hello hello and what do you do in l._a.
+</Turn>
+<Turn speaker="S3" startTime="11.17" endTime="17.78">
+<Sync time="11.17"/>
+oh and look up oh to say hello hi children else let's see
+</Turn>
+<Turn speaker="S4" startTime="17.78" endTime="20.63">
+<Sync time="17.78"/>
+ooh
+</Turn>
+<Turn speaker="S5" startTime="20.63" endTime="24.52">
+<Sync time="20.63"/>
+oh i've heard over here is from saint louis
+</Turn>
+<Turn speaker="S6" startTime="24.52" endTime="28.19">
+<Sync time="24.52"/>
+okay
+</Turn>
+</Section>
+</Episode>
+</Trans>

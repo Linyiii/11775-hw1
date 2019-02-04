@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2840" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="31.56" >
+<Turn speaker="S1" startTime="0.0" endTime="31.56">
+<Sync time="0.0"/>
+in the inside i don't do that or something or or
+</Turn>
+</Section>
+<Section type="report" startTime="35.8" endTime="43.04" >
+<Turn speaker="S1" startTime="35.8" endTime="43.04">
+<Sync time="35.8"/>
+oh
+</Turn>
+</Section>
+<Section type="report" startTime="52.65" endTime="72.64" >
+<Turn speaker="S1" startTime="52.65" endTime="62.43">
+<Sync time="52.65"/>
+but as i've i've had this one i'm i'm
+</Turn>
+<Turn speaker="S2" startTime="62.43" endTime="72.64">
+<Sync time="62.43"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="80.86" endTime="97.37" >
+<Turn speaker="S2" startTime="80.86" endTime="97.37">
+<Sync time="80.86"/>
+rough for me
+</Turn>
+</Section>
+<Section type="report" startTime="107.56" endTime="111.89" >
+<Turn speaker="S3" startTime="107.56" endTime="111.89">
+<Sync time="107.56"/>
+maybe all he's children are children
+</Turn>
+</Section>
+<Section type="report" startTime="120.53" endTime="128.22" >
+<Turn speaker="S1" startTime="120.53" endTime="128.22">
+<Sync time="120.53"/>
+hello how the the uh
+</Turn>
+</Section>
+<Section type="report" startTime="130.76" endTime="139.38" >
+<Turn speaker="S2" startTime="130.76" endTime="138.15">
+<Sync time="130.76"/>
+okay we don't own
+</Turn>
+<Turn speaker="S1" startTime="138.15" endTime="139.38">
+<Sync time="138.15"/>
+the
+</Turn>
+</Section>
+<Section type="report" startTime="142.04" endTime="143.48" >
+<Turn speaker="S1" startTime="142.04" endTime="143.48">
+<Sync time="142.04"/>
+for me
+</Turn>
+</Section>
+<Section type="report" startTime="151.27" endTime="158.37" >
+<Turn speaker="S1" startTime="151.27" endTime="158.37">
+<Sync time="151.27"/>
+how's it going
+</Turn>
+</Section>
+<Section type="report" startTime="173.72" endTime="188.42" >
+<Turn speaker="S1" startTime="173.72" endTime="188.42">
+<Sync time="173.72"/>
+um to make
+</Turn>
+</Section>
+<Section type="report" startTime="193.86" endTime="204.12" >
+<Turn speaker="S1" startTime="193.86" endTime="204.12">
+<Sync time="193.86"/>
+in may
+</Turn>
+</Section>
+<Section type="report" startTime="207.34" endTime="210.0" >
+<Turn speaker="S1" startTime="207.34" endTime="210.0">
+<Sync time="207.34"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="211.37" endTime="246.66" >
+<Turn speaker="S1" startTime="211.37" endTime="217.34">
+<Sync time="211.37"/>
+so
+</Turn>
+<Turn speaker="S4" startTime="217.34" endTime="246.66">
+<Sync time="217.34"/>
+they're not doing it caught up gonna boston
+</Turn>
+</Section>
+<Section type="report" startTime="289.14" endTime="300.8" >
+<Turn speaker="S1" startTime="289.14" endTime="300.8">
+<Sync time="289.14"/>
+an over again so
+</Turn>
+</Section>
+<Section type="report" startTime="301.14" endTime="309.48" >
+<Turn speaker="S1" startTime="301.14" endTime="309.48">
+<Sync time="301.14"/>
+or i just you know i'm not
+</Turn>
+</Section>
+<Section type="report" startTime="332.4" endTime="351.27" >
+<Turn speaker="S2" startTime="332.4" endTime="351.27">
+<Sync time="332.4"/>
+i'm going to call again so that is
+</Turn>
+</Section>
+<Section type="report" startTime="357.27" endTime="360.15" >
+<Turn speaker="S1" startTime="357.27" endTime="360.15">
+<Sync time="357.27"/>
+so it's
+</Turn>
+</Section>
+<Section type="report" startTime="379.12" endTime="387.7" >
+<Turn speaker="S2" startTime="379.12" endTime="387.7">
+<Sync time="379.12"/>
+that's good
+</Turn>
+</Section>
+<Section type="report" startTime="397.81" endTime="404.13" >
+<Turn speaker="S5" startTime="397.81" endTime="400.6">
+<Sync time="397.81"/>
+no
+</Turn>
+<Turn speaker="S1" startTime="400.6" endTime="404.13">
+<Sync time="400.6"/>
+saddam hussein
+</Turn>
+</Section>
+</Episode>
+</Trans>

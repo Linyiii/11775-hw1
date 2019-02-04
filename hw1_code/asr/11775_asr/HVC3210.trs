@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3210" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="21.52" >
+<Turn speaker="S1" startTime="0.0" endTime="7.17">
+<Sync time="0.0"/>
+uh uh
+</Turn>
+<Turn speaker="S2" startTime="7.17" endTime="14.11">
+<Sync time="7.17"/>
+uh and uh
+</Turn>
+<Turn speaker="S3" startTime="14.11" endTime="21.52">
+<Sync time="14.11"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="28.81" endTime="35.61" >
+<Turn speaker="S3" startTime="28.81" endTime="35.61">
+<Sync time="28.81"/>
+and
+</Turn>
+</Section>
+<Section type="report" startTime="44.24" endTime="58.76" >
+<Turn speaker="S3" startTime="44.24" endTime="50.63">
+<Sync time="44.24"/>
+yeah
+</Turn>
+<Turn speaker="S4" startTime="50.63" endTime="58.76">
+<Sync time="50.63"/>
+so uh lot of time
+</Turn>
+</Section>
+<Section type="report" startTime="69.48" endTime="91.29" >
+<Turn speaker="S4" startTime="69.48" endTime="81.02">
+<Sync time="69.48"/>
+uh no no no no no
+</Turn>
+<Turn speaker="S5" startTime="81.02" endTime="91.29">
+<Sync time="81.02"/>
+part of it i want to make sure we very runners
+</Turn>
+</Section>
+<Section type="report" startTime="94.26" endTime="102.64" >
+<Turn speaker="S4" startTime="94.26" endTime="102.64">
+<Sync time="94.26"/>
+uh
+</Turn>
+</Section>
+</Episode>
+</Trans>

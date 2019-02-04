@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5144" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="21.01" >
+<Turn speaker="S1" startTime="0.04" endTime="21.01">
+<Sync time="0.04"/>
+great
+</Turn>
+</Section>
+<Section type="report" startTime="21.08" endTime="103.33" >
+<Turn speaker="S1" startTime="21.08" endTime="103.33">
+<Sync time="21.08"/>
+we like it video i think i mean you know down down okay they kick your ass you know where i part right now i don't know like i i mean i
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2530" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="8.79" endTime="16.46" >
+<Turn speaker="S1" startTime="8.79" endTime="16.46">
+<Sync time="8.79"/>
+don't seem as sweet to me
+</Turn>
+</Section>
+<Section type="report" startTime="20.91" endTime="57.01" >
+<Turn speaker="S1" startTime="20.91" endTime="27.55">
+<Sync time="20.91"/>
+just mixing what used to be
+</Turn>
+<Turn speaker="S2" startTime="27.55" endTime="31.12">
+<Sync time="27.55"/>
+and
+</Turn>
+<Turn speaker="S1" startTime="31.12" endTime="57.01">
+<Sync time="31.12"/>
+no no that doesn't seem to have a even live oh not only
+</Turn>
+</Section>
+<Section type="report" startTime="78.38" endTime="108.0" >
+<Turn speaker="S3" startTime="78.38" endTime="108.0">
+<Sync time="78.38"/>
+and he
+</Turn>
+</Section>
+</Episode>
+</Trans>

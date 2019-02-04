@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5167" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.05" endTime="28.53" >
+<Turn speaker="S1" startTime="0.05" endTime="28.53">
+<Sync time="0.05"/>
+i can totally
+</Turn>
+</Section>
+<Section type="report" startTime="99.94" endTime="126.19" >
+<Turn speaker="S1" startTime="99.94" endTime="126.19">
+<Sync time="99.94"/>
+my mother on the phone
+</Turn>
+</Section>
+<Section type="report" startTime="186.06" endTime="190.31" >
+<Turn speaker="S2" startTime="186.06" endTime="190.31">
+<Sync time="186.06"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4892" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.1" endTime="20.56" >
+<Turn speaker="S1" startTime="0.1" endTime="10.28">
+<Sync time="0.1"/>
+mhm and and and
+</Turn>
+<Turn speaker="S2" startTime="10.28" endTime="20.56">
+<Sync time="10.28"/>
+uh
+</Turn>
+</Section>
+<Section type="report" startTime="29.81" endTime="89.87" >
+<Turn speaker="S3" startTime="29.81" endTime="39.66">
+<Sync time="29.81"/>
+no
+</Turn>
+<Turn speaker="S1" startTime="39.66" endTime="50.14">
+<Sync time="39.66"/>
+do you do
+</Turn>
+<Turn speaker="S2" startTime="50.14" endTime="70.77">
+<Sync time="50.14"/>
+when they do in the in the same thing in in many of them do they do do that then
+</Turn>
+<Turn speaker="S4" startTime="70.77" endTime="79.58">
+<Sync time="70.77"/>
+mhm
+</Turn>
+<Turn speaker="S3" startTime="79.58" endTime="89.87">
+<Sync time="79.58"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="90.12" endTime="111.41" >
+<Turn speaker="S1" startTime="90.12" endTime="111.41">
+<Sync time="90.12"/>
+and when they went into the and they do they do they
+</Turn>
+</Section>
+</Episode>
+</Trans>

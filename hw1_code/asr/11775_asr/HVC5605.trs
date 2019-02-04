@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5605" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="4.23" >
+<Turn speaker="S1" startTime="0.0" endTime="4.23">
+<Sync time="0.0"/>
+or you know rent
+</Turn>
+</Section>
+<Section type="report" startTime="11.18" endTime="24.88" >
+<Turn speaker="S2" startTime="11.18" endTime="17.03">
+<Sync time="11.18"/>
+i'm a nicer taught ice my volunteers arises a magical person had an adjective frankly learn
+</Turn>
+<Turn speaker="S3" startTime="17.03" endTime="24.88">
+<Sync time="17.03"/>
+all my as long as you can't get one of the whole thing it's kind of good right given a boat if they were out of the time
+</Turn>
+</Section>
+</Episode>
+</Trans>

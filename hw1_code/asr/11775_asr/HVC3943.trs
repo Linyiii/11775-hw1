@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3943" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="59.28" >
+<Turn speaker="S1" startTime="0.03" endTime="11.01">
+<Sync time="0.03"/>
+yeah but like
+</Turn>
+<Turn speaker="S2" startTime="11.01" endTime="21.29">
+<Sync time="11.01"/>
+hi i'm ryan solves very uh been playing bipolar for about eight months now uh help help started up here in pensacola and this is what we do
+</Turn>
+<Turn speaker="S3" startTime="21.29" endTime="38.35">
+<Sync time="21.29"/>
+was
+</Turn>
+<Turn speaker="S2" startTime="38.35" endTime="59.28">
+<Sync time="38.35"/>
+different way of learning how to use your bike or all of us just started this year i'm on this game and we've all dramatically seeing our skills involved because of uh learning how to slow down stop turn sharper lean on your bike more
+</Turn>
+</Section>
+<Section type="report" startTime="66.16" endTime="141.54" >
+<Turn speaker="S2" startTime="66.16" endTime="85.45">
+<Sync time="66.16"/>
+gets a little hectic or every once in a while you have some players they shouldn't really be against each other because they play a little bit harder um but uh it's fun when they do on the team falls crashes but every every little scrape doesn't really hurt that much 'cause it's just all and fun
+</Turn>
+<Turn speaker="S3" startTime="85.45" endTime="98.59">
+<Sync time="85.45"/>
+right
+</Turn>
+<Turn speaker="S2" startTime="98.59" endTime="112.12">
+<Sync time="98.59"/>
+anyone that would like to come uh it's not all hard when new players come is you know we we we don't we don't play as tough against um uh we we weren't as many people to come out and enjoy this crazy little thing that we do
+</Turn>
+<Turn speaker="S1" startTime="112.12" endTime="141.54">
+<Sync time="112.12"/>
+play like five hundred a month but since we started getting it's getting better and better like having more people if people don't play just hang out watch motivates you more to play and uh
+</Turn>
+</Section>
+<Section type="report" startTime="148.55" endTime="177.43" >
+<Turn speaker="S1" startTime="148.55" endTime="177.43">
+<Sync time="148.55"/>
+good attitude um maybe i'm just but they have good times
+</Turn>
+</Section>
+</Episode>
+</Trans>

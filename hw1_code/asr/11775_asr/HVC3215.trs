@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3215" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="3.5" >
+<Turn speaker="S1" startTime="0.0" endTime="3.5">
+<Sync time="0.0"/>
+uh-huh
+</Turn>
+</Section>
+<Section type="report" startTime="10.74" endTime="25.94" >
+<Turn speaker="S2" startTime="10.74" endTime="20.34">
+<Sync time="10.74"/>
+right yeah answer this is pretty thing and he's making
+</Turn>
+<Turn speaker="S3" startTime="20.34" endTime="25.94">
+<Sync time="20.34"/>
+decide eat
+</Turn>
+</Section>
+</Episode>
+</Trans>

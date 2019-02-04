@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2652" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="7.66" >
+<Turn speaker="S1" startTime="0.04" endTime="7.66">
+<Sync time="0.04"/>
+all the things or do something
+</Turn>
+</Section>
+<Section type="report" startTime="52.78" endTime="203.12" >
+<Turn speaker="S2" startTime="52.78" endTime="109.29">
+<Sync time="52.78"/>
+stop here cable they recording for how long on the radio in the long i'm scared like that what was going on there
+</Turn>
+<Turn speaker="S1" startTime="109.29" endTime="169.78">
+<Sync time="109.29"/>
+probably where did you get weird which where did you find out why not you can tell me i'm secrets that all the stickers
+</Turn>
+<Turn speaker="S2" startTime="169.78" endTime="175.63">
+<Sync time="169.78"/>
+they say
+</Turn>
+<Turn speaker="S3" startTime="175.63" endTime="203.12">
+<Sync time="175.63"/>
+me too i'm the only
+</Turn>
+</Section>
+</Episode>
+</Trans>

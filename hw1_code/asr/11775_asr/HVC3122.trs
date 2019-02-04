@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3122" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="21.47" >
+<Turn speaker="S1" startTime="0.0" endTime="21.47">
+<Sync time="0.0"/>
+maybe for any or the camera thing we can just walk or jog get pulled over there that uh
+</Turn>
+</Section>
+<Section type="report" startTime="23.8" endTime="29.58" >
+<Turn speaker="S1" startTime="23.8" endTime="29.58">
+<Sync time="23.8"/>
+yeah we're reading skills
+</Turn>
+</Section>
+<Section type="report" startTime="39.92" endTime="69.19" >
+<Turn speaker="S2" startTime="39.92" endTime="69.19">
+<Sync time="39.92"/>
+they won a rod more golf course uh about forty five degrees on and off rain windy and we're getting from a foot away today filming or talk to people more they say there's no problem because the public course we can use a and our fingers already freezing and we've only been here for about forty five minutes and back
+</Turn>
+</Section>
+<Section type="report" startTime="111.13" endTime="148.01" >
+<Turn speaker="S3" startTime="111.13" endTime="148.01">
+<Sync time="111.13"/>
+okay um six actually just something about an hour and a half of golfing is really starting to rain now and uh they they wanna parade or from the windshield chill yeah it's completely boring you know we're taking a little break trying to warm are frozen digits and uh maybe a little bit longer and and maybe just called morning for day one in the thing
+</Turn>
+</Section>
+</Episode>
+</Trans>

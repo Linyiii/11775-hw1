@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4725" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="5.07" endTime="51.35" >
+<Turn speaker="S1" startTime="5.07" endTime="35.49">
+<Sync time="5.07"/>
+hi i'm helen it's really important the washing machine or drier level in staple most come with it just like this one if you find you have a lovely washing machine you can screw up or dying to get the right level if you find any future broken or missing confines of placements for your specific website into the ultimate the machine
+</Turn>
+<Turn speaker="S2" startTime="35.49" endTime="37.96">
+<Sync time="35.49"/>
+like they
+</Turn>
+<Turn speaker="S1" startTime="37.96" endTime="48.45">
+<Sync time="37.96"/>
+if you have or one to reduce the machine spinning noise than onto vibration ration pots are perfect they simply slide under the existing feet
+</Turn>
+<Turn speaker="S2" startTime="48.45" endTime="51.35">
+<Sync time="48.45"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="51.58" endTime="63.74" >
+<Turn speaker="S1" startTime="51.58" endTime="63.74">
+<Sync time="51.58"/>
+replacement feet for all makes models washing machine and tumble drier pods are available from thanks for watching
+</Turn>
+</Section>
+</Episode>
+</Trans>

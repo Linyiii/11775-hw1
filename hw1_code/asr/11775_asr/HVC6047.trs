@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6047" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="65.03" >
+<Turn speaker="S1" startTime="0.0" endTime="18.63">
+<Sync time="0.0"/>
+down once and from breaks in a nice and easy to get some easy
+</Turn>
+<Turn speaker="S2" startTime="18.63" endTime="65.03">
+<Sync time="18.63"/>
+okay you have to break in time if i don't on the brakes and you know um okay so i started up you have to have like
+</Turn>
+</Section>
+<Section type="report" startTime="77.28" endTime="140.5" >
+<Turn speaker="S3" startTime="77.28" endTime="94.13">
+<Sync time="77.28"/>
+okay so then just start going into a was shut down once certain role and get a little bit of gas
+</Turn>
+<Turn speaker="S1" startTime="94.13" endTime="113.07">
+<Sync time="94.13"/>
+okay and he was going on too far enough to start saving for
+</Turn>
+<Turn speaker="S3" startTime="113.07" endTime="133.43">
+<Sync time="113.07"/>
+this shopping watching like a teacher
+</Turn>
+<Turn speaker="S1" startTime="133.43" endTime="140.5">
+<Sync time="133.43"/>
+just getting it
+</Turn>
+</Section>
+<Section type="report" startTime="140.72" endTime="153.46" >
+<Turn speaker="S2" startTime="140.72" endTime="153.46">
+<Sync time="140.72"/>
+yeah um i want to turn corners and stuff
+</Turn>
+</Section>
+</Episode>
+</Trans>

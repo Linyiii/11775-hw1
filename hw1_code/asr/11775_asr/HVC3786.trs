@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3786" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="53.05" endTime="75.93" >
+<Turn speaker="S1" startTime="53.05" endTime="63.6">
+<Sync time="53.05"/>
+oh my father
+</Turn>
+<Turn speaker="S2" startTime="63.6" endTime="75.93">
+<Sync time="63.6"/>
+i am i am a and again unless they that they shit i mean it whatsoever
+</Turn>
+</Section>
+</Episode>
+</Trans>

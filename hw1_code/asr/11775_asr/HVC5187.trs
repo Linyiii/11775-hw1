@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5187" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="8.2" endTime="88.92" >
+<Turn speaker="S1" startTime="8.2" endTime="21.21">
+<Sync time="8.2"/>
+got new watering can and gardening for their birthday today three years old
+</Turn>
+<Turn speaker="S2" startTime="21.21" endTime="82.06">
+<Sync time="21.21"/>
+so you got you got your too busy
+</Turn>
+<Turn speaker="S1" startTime="82.06" endTime="88.92">
+<Sync time="82.06"/>
+very good i mean all done
+</Turn>
+</Section>
+</Episode>
+</Trans>

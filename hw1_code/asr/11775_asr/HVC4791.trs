@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4791" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="8.22" >
+<Turn speaker="S1" startTime="0.0" endTime="8.22">
+<Sync time="0.0"/>
+terry our first day of learning how to ride the bike you can do it at about
+</Turn>
+</Section>
+<Section type="report" startTime="14.72" endTime="18.61" >
+<Turn speaker="S1" startTime="14.72" endTime="18.61">
+<Sync time="14.72"/>
+keep battling kind of like you normally
+</Turn>
+</Section>
+<Section type="report" startTime="22.45" endTime="26.32" >
+<Turn speaker="S1" startTime="22.45" endTime="26.32">
+<Sync time="22.45"/>
+i'm sure we'll do many of these surveys before we can like oh
+</Turn>
+</Section>
+</Episode>
+</Trans>

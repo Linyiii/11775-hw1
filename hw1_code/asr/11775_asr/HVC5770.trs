@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5770" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="70.73" >
+<Turn speaker="S1" startTime="0.0" endTime="10.43">
+<Sync time="0.0"/>
+right
+</Turn>
+<Turn speaker="S2" startTime="10.43" endTime="32.5">
+<Sync time="10.43"/>
+i mean for for for a course a handmade by her mother handmade cupcakes
+</Turn>
+<Turn speaker="S3" startTime="32.5" endTime="45.2">
+<Sync time="32.5"/>
+ah yeah i do you know
+</Turn>
+<Turn speaker="S2" startTime="45.2" endTime="47.46">
+<Sync time="45.2"/>
+i that
+</Turn>
+<Turn speaker="S3" startTime="47.46" endTime="52.12">
+<Sync time="47.46"/>
+i
+</Turn>
+<Turn speaker="S2" startTime="52.12" endTime="70.73">
+<Sync time="52.12"/>
+alright i'm going to
+</Turn>
+</Section>
+</Episode>
+</Trans>

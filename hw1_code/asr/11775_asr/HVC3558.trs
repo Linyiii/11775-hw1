@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3558" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.15" endTime="17.67" >
+<Turn speaker="S1" startTime="0.15" endTime="17.67">
+<Sync time="0.15"/>
+mm mm mhm mhm okay okay i have a
+</Turn>
+</Section>
+<Section type="report" startTime="20.38" endTime="25.6" >
+<Turn speaker="S2" startTime="20.38" endTime="25.6">
+<Sync time="20.38"/>
+wow you with family or not we be
+</Turn>
+</Section>
+<Section type="report" startTime="44.65" endTime="60.54" >
+<Turn speaker="S2" startTime="44.65" endTime="60.54">
+<Sync time="44.65"/>
+can you oh no why should you do you comfort her okay comfort happy
+</Turn>
+</Section>
+<Section type="report" startTime="65.38" endTime="78.26" >
+<Turn speaker="S2" startTime="65.38" endTime="78.26">
+<Sync time="65.38"/>
+for them to give her hugs and kisses oh that's so nice
+</Turn>
+</Section>
+<Section type="report" startTime="78.02" endTime="83.87" >
+<Turn speaker="S3" startTime="78.02" endTime="83.87">
+<Sync time="78.02"/>
+mhm
+</Turn>
+</Section>
+</Episode>
+</Trans>

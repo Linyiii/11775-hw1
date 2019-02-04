@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2546" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="57.44" >
+<Turn speaker="S1" startTime="0.0" endTime="5.17">
+<Sync time="0.0"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="5.17" endTime="57.44">
+<Sync time="5.17"/>
+i i i like i i like the ban and they were like washington don't jogging or do that that was the guy that do you like i like i like science and the the like was just going all day and night or the other way too long ago like i i like the president wants to be done where they got along uh our time for all americans to the gate
+</Turn>
+</Section>
+<Section type="report" startTime="57.21" endTime="61.14" >
+<Turn speaker="S1" startTime="57.21" endTime="61.14">
+<Sync time="57.21"/>
+i i
+</Turn>
+</Section>
+</Episode>
+</Trans>

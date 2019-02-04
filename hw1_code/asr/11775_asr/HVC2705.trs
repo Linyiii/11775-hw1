@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2705" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="40.1" >
+<Turn speaker="S1" startTime="0.0" endTime="3.22">
+<Sync time="0.0"/>
+yeah that's
+</Turn>
+<Turn speaker="S2" startTime="3.22" endTime="16.19">
+<Sync time="3.22"/>
+i i think i take take on it like any job at college and even like two three so i put that on it and you know and venus book thing making jokes
+</Turn>
+<Turn speaker="S3" startTime="16.19" endTime="30.0">
+<Sync time="16.19"/>
+so i mean my opinion on that um uh retired or um butter and nope mixed together eight mhm
+</Turn>
+<Turn speaker="S4" startTime="30.0" endTime="40.1">
+<Sync time="30.0"/>
+my so we're i guess even you're from new york for the easter thing and then uh
+</Turn>
+</Section>
+</Episode>
+</Trans>

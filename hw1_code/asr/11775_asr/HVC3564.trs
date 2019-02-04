@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3564" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="188.46" >
+<Turn speaker="S1" startTime="0.0" endTime="5.99">
+<Sync time="0.0"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="5.99" endTime="55.31">
+<Sync time="5.99"/>
+go in there and open the door he leaves me a story you know when they get old on really scared be can't read or the the last year
+</Turn>
+<Turn speaker="S3" startTime="55.31" endTime="69.45">
+<Sync time="55.31"/>
+well that was
+</Turn>
+<Turn speaker="S4" startTime="69.45" endTime="85.16">
+<Sync time="69.45"/>
+you're new
+</Turn>
+<Turn speaker="S2" startTime="85.16" endTime="124.82">
+<Sync time="85.16"/>
+like right now i really don't need it for the last one and is going out the door go right cool okay now he's on the t._v. actually just chilling
+</Turn>
+<Turn speaker="S3" startTime="124.82" endTime="137.4">
+<Sync time="124.82"/>
+well really to go
+</Turn>
+<Turn speaker="S4" startTime="137.4" endTime="154.24">
+<Sync time="137.4"/>
+we windows that something to do that you know
+</Turn>
+<Turn speaker="S2" startTime="154.24" endTime="168.05">
+<Sync time="154.24"/>
+think so well hurt himself video record yeah
+</Turn>
+<Turn speaker="S4" startTime="168.05" endTime="188.46">
+<Sync time="168.05"/>
+oh go go yeah i think he went back in a window unit or
+</Turn>
+</Section>
+</Episode>
+</Trans>

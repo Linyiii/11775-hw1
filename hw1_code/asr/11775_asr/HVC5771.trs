@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5771" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="11.09" >
+<Turn speaker="S1" startTime="0.0" endTime="11.09">
+<Sync time="0.0"/>
+hey yeah right yeah like i've never been allowed to play with my food
+</Turn>
+</Section>
+<Section type="report" startTime="11.19" endTime="23.41" >
+<Turn speaker="S1" startTime="11.19" endTime="23.41">
+<Sync time="11.19"/>
+how many turn or
+</Turn>
+</Section>
+<Section type="report" startTime="23.5" endTime="46.58" >
+<Turn speaker="S1" startTime="23.5" endTime="46.58">
+<Sync time="23.5"/>
+i this is ah yeah you turn american made it back
+</Turn>
+</Section>
+<Section type="report" startTime="46.69" endTime="73.31" >
+<Turn speaker="S1" startTime="46.69" endTime="73.31">
+<Sync time="46.69"/>
+there you go like that
+</Turn>
+</Section>
+<Section type="report" startTime="73.42" endTime="94.94" >
+<Turn speaker="S1" startTime="73.42" endTime="94.94">
+<Sync time="73.42"/>
+oh man now you're not permanent daddy has some days that i
+</Turn>
+</Section>
+</Episode>
+</Trans>

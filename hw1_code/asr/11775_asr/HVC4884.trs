@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4884" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.11" endTime="10.98" >
+<Turn speaker="S1" startTime="0.11" endTime="4.28">
+<Sync time="0.11"/>
+mm mm mm
+</Turn>
+<Turn speaker="S2" startTime="4.28" endTime="10.98">
+<Sync time="4.28"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="15.37" endTime="58.24" >
+<Turn speaker="S3" startTime="15.37" endTime="19.2">
+<Sync time="15.37"/>
+mm mm mm
+</Turn>
+<Turn speaker="S4" startTime="19.2" endTime="22.63">
+<Sync time="19.2"/>
+mm mm
+</Turn>
+<Turn speaker="S5" startTime="22.63" endTime="29.42">
+<Sync time="22.63"/>
+mine too totally disney getting
+</Turn>
+<Turn speaker="S6" startTime="29.42" endTime="31.95">
+<Sync time="29.42"/>
+even though it
+</Turn>
+<Turn speaker="S7" startTime="31.95" endTime="34.64">
+<Sync time="31.95"/>
+you mean mhm
+</Turn>
+<Turn speaker="S8" startTime="34.64" endTime="39.36">
+<Sync time="34.64"/>
+when there i and this
+</Turn>
+<Turn speaker="S9" startTime="39.36" endTime="44.9">
+<Sync time="39.36"/>
+none you look pianist nine and his news
+</Turn>
+<Turn speaker="S10" startTime="44.9" endTime="49.03">
+<Sync time="44.9"/>
+uh penn
+</Turn>
+<Turn speaker="S11" startTime="49.03" endTime="58.24">
+<Sync time="49.03"/>
+oh do you mind doing you know you see
+</Turn>
+</Section>
+</Episode>
+</Trans>

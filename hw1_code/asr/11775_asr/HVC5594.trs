@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5594" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.1" endTime="3.98" >
+<Turn speaker="S1" startTime="0.1" endTime="3.98">
+<Sync time="0.1"/>
+oh
+</Turn>
+</Section>
+<Section type="report" startTime="46.42" endTime="57.08" >
+<Turn speaker="S2" startTime="46.42" endTime="57.08">
+<Sync time="46.42"/>
+we to drive all alright
+</Turn>
+</Section>
+<Section type="report" startTime="103.83" endTime="189.71" >
+<Turn speaker="S2" startTime="103.83" endTime="189.71">
+<Sync time="103.83"/>
+more the money i wanna be pardon long and
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3685" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="3.73" >
+<Turn speaker="S1" startTime="0.0" endTime="3.73">
+<Sync time="0.0"/>
+yeah i'm in
+</Turn>
+</Section>
+<Section type="report" startTime="6.97" endTime="15.56" >
+<Turn speaker="S2" startTime="6.97" endTime="15.56">
+<Sync time="6.97"/>
+a clear
+</Turn>
+</Section>
+<Section type="report" startTime="29.31" endTime="96.79" >
+<Turn speaker="S1" startTime="29.31" endTime="50.25">
+<Sync time="29.31"/>
+something you had a girlfriend up north it actually took all his hair and had financial and made to in this in the christian jake after he passed away she made it to get in the wintertime it's picking up here actually it makes it even warmer
+</Turn>
+<Turn speaker="S2" startTime="50.25" endTime="61.15">
+<Sync time="50.25"/>
+really my crap
+</Turn>
+<Turn speaker="S1" startTime="61.15" endTime="96.79">
+<Sync time="61.15"/>
+we've uh breakfast like yeah now i know i usually do it three times a year they bring summer already weigh the pros on daylight hours it doesn't have anything to do with hot and cold oh it's daylight out
+</Turn>
+</Section>
+</Episode>
+</Trans>

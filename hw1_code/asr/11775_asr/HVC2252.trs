@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2252" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.22" endTime="104.01" >
+<Turn speaker="S1" startTime="0.22" endTime="22.61">
+<Sync time="0.22"/>
+uh uh
+</Turn>
+<Turn speaker="S2" startTime="22.61" endTime="29.15">
+<Sync time="22.61"/>
+uh uh uh not not not
+</Turn>
+<Turn speaker="S3" startTime="29.15" endTime="36.41">
+<Sync time="29.15"/>
+oh gosh
+</Turn>
+<Turn speaker="S4" startTime="36.41" endTime="51.11">
+<Sync time="36.41"/>
+like
+</Turn>
+<Turn speaker="S3" startTime="51.11" endTime="59.25">
+<Sync time="51.11"/>
+yeah they look at
+</Turn>
+<Turn speaker="S1" startTime="59.25" endTime="65.74">
+<Sync time="59.25"/>
+not that one
+</Turn>
+<Turn speaker="S3" startTime="65.74" endTime="72.76">
+<Sync time="65.74"/>
+was it
+</Turn>
+<Turn speaker="S1" startTime="72.76" endTime="86.42">
+<Sync time="72.76"/>
+what do you use it so he's dry dry
+</Turn>
+<Turn speaker="S3" startTime="86.42" endTime="95.63">
+<Sync time="86.42"/>
+why i
+</Turn>
+<Turn speaker="S5" startTime="95.63" endTime="104.01">
+<Sync time="95.63"/>
+we let him
+</Turn>
+</Section>
+<Section type="report" startTime="109.69" endTime="142.53" >
+<Turn speaker="S5" startTime="109.69" endTime="142.53">
+<Sync time="109.69"/>
+that'd be
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3669" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="14.23" endTime="15.17" >
+<Turn speaker="S1" startTime="14.23" endTime="15.17">
+<Sync time="14.23"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="36.49" endTime="50.73" >
+<Turn speaker="S2" startTime="36.49" endTime="50.73">
+<Sync time="36.49"/>
+and any birth control over the bank to mcdonalds and burger king
+</Turn>
+</Section>
+<Section type="report" startTime="71.86" endTime="86.17" >
+<Turn speaker="S2" startTime="71.86" endTime="86.17">
+<Sync time="71.86"/>
+or the looking for
+</Turn>
+</Section>
+<Section type="report" startTime="106.54" endTime="118.83" >
+<Turn speaker="S2" startTime="106.54" endTime="118.83">
+<Sync time="106.54"/>
+um the burger king mcdonalds and burger king
+</Turn>
+</Section>
+<Section type="report" startTime="139.68" endTime="153.98" >
+<Turn speaker="S2" startTime="139.68" endTime="153.98">
+<Sync time="139.68"/>
+we're back to the kentucky derby
+</Turn>
+</Section>
+<Section type="report" startTime="174.84" endTime="189.26" >
+<Turn speaker="S2" startTime="174.84" endTime="189.26">
+<Sync time="174.84"/>
+or
+</Turn>
+</Section>
+<Section type="report" startTime="209.61" endTime="224.86" >
+<Turn speaker="S2" startTime="209.61" endTime="223.92">
+<Sync time="209.61"/>
+or
+</Turn>
+<Turn speaker="S1" startTime="223.92" endTime="224.86">
+<Sync time="223.92"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="244.29" endTime="256.58" >
+<Turn speaker="S2" startTime="244.29" endTime="256.58">
+<Sync time="244.29"/>
+um the
+</Turn>
+</Section>
+</Episode>
+</Trans>

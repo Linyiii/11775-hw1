@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4282" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="20.0" endTime="34.14" >
+<Turn speaker="S1" startTime="20.0" endTime="34.14">
+<Sync time="20.0"/>
+so
+</Turn>
+</Section>
+<Section type="report" startTime="87.57" endTime="133.86" >
+<Turn speaker="S2" startTime="87.57" endTime="99.39">
+<Sync time="87.57"/>
+and
+</Turn>
+<Turn speaker="S3" startTime="99.39" endTime="133.86">
+<Sync time="99.39"/>
+that'll be the other way you got somebody that was the other hobby or something they making but i'm still a lot more
+</Turn>
+</Section>
+<Section type="report" startTime="144.35" endTime="163.16" >
+<Turn speaker="S4" startTime="144.35" endTime="163.16">
+<Sync time="144.35"/>
+good
+</Turn>
+</Section>
+<Section type="report" startTime="194.28" endTime="216.83" >
+<Turn speaker="S5" startTime="194.28" endTime="211.92">
+<Sync time="194.28"/>
+a million dollars
+</Turn>
+<Turn speaker="S6" startTime="211.92" endTime="216.83">
+<Sync time="211.92"/>
+i i
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3722" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.08" endTime="15.68" >
+<Turn speaker="S1" startTime="0.08" endTime="6.56">
+<Sync time="0.08"/>
+who is that what your feet toys here
+</Turn>
+<Turn speaker="S2" startTime="6.56" endTime="13.0">
+<Sync time="6.56"/>
+who's there
+</Turn>
+<Turn speaker="S3" startTime="13.0" endTime="15.68">
+<Sync time="13.0"/>
+joe
+</Turn>
+</Section>
+</Episode>
+</Trans>

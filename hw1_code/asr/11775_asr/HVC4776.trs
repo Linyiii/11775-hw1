@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4776" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="9.42" endTime="189.74" >
+<Turn speaker="S1" startTime="9.42" endTime="23.51">
+<Sync time="9.42"/>
+i'm i'm i'm on my own
+</Turn>
+<Turn speaker="S2" startTime="23.51" endTime="33.24">
+<Sync time="23.51"/>
+would change
+</Turn>
+<Turn speaker="S3" startTime="33.24" endTime="46.67">
+<Sync time="33.24"/>
+where they come on
+</Turn>
+<Turn speaker="S4" startTime="46.67" endTime="87.24">
+<Sync time="46.67"/>
+a lot of young i'm i'm not a lot and like when i don't know who i wanted to go to a woman behind
+</Turn>
+<Turn speaker="S2" startTime="87.24" endTime="98.35">
+<Sync time="87.24"/>
+you know they made you know
+</Turn>
+<Turn speaker="S3" startTime="98.35" endTime="112.43">
+<Sync time="98.35"/>
+why bam bam bam bam
+</Turn>
+<Turn speaker="S4" startTime="112.43" endTime="126.86">
+<Sync time="112.43"/>
+show a lot of jobs
+</Turn>
+<Turn speaker="S5" startTime="126.86" endTime="138.03">
+<Sync time="126.86"/>
+now you're on
+</Turn>
+<Turn speaker="S4" startTime="138.03" endTime="189.74">
+<Sync time="138.03"/>
+you know you my when i'm going to and and and now you know my god a long time and they know i don't know
+</Turn>
+</Section>
+<Section type="report" startTime="189.58" endTime="196.03" >
+<Turn speaker="S1" startTime="189.58" endTime="196.03">
+<Sync time="189.58"/>
+yeah well you know
+</Turn>
+</Section>
+</Episode>
+</Trans>

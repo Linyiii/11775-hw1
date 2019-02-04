@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2807" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.17" endTime="71.87" >
+<Turn speaker="S1" startTime="0.17" endTime="9.68">
+<Sync time="0.17"/>
+two parent families
+</Turn>
+<Turn speaker="S2" startTime="9.68" endTime="13.93">
+<Sync time="9.68"/>
+certainly i then again
+</Turn>
+<Turn speaker="S1" startTime="13.93" endTime="38.82">
+<Sync time="13.93"/>
+how many were girls three boys and
+</Turn>
+<Turn speaker="S3" startTime="38.82" endTime="64.91">
+<Sync time="38.82"/>
+you baby that you you made all those years girl you good girl jelly beans you don't put jimmy beans either
+</Turn>
+<Turn speaker="S2" startTime="64.91" endTime="71.87">
+<Sync time="64.91"/>
+no it's a beautiful
+</Turn>
+</Section>
+<Section type="report" startTime="77.84" endTime="95.63" >
+<Turn speaker="S2" startTime="77.84" endTime="81.4">
+<Sync time="77.84"/>
+he'll be coming
+</Turn>
+<Turn speaker="S1" startTime="81.4" endTime="87.02">
+<Sync time="81.4"/>
+careful some water
+</Turn>
+<Turn speaker="S2" startTime="87.02" endTime="95.63">
+<Sync time="87.02"/>
+dirty enough
+</Turn>
+</Section>
+<Section type="report" startTime="111.62" endTime="114.31" >
+<Turn speaker="S1" startTime="111.62" endTime="114.31">
+<Sync time="111.62"/>
+no okay
+</Turn>
+</Section>
+</Episode>
+</Trans>

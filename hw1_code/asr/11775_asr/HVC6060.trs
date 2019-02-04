@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6060" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.13" endTime="41.88" >
+<Turn speaker="S1" startTime="0.13" endTime="28.84">
+<Sync time="0.13"/>
+to march there you go like why a lot of stupid people ask me a lot of stupid questions about that like can i ask i or can you teach me how to dance while i can't answer your questions i tend give you some valuable experience if you join the school advanced today will teach you be exciting new moves
+</Turn>
+<Turn speaker="S2" startTime="28.84" endTime="41.88">
+<Sync time="28.84"/>
+uh
+</Turn>
+</Section>
+<Section type="report" startTime="66.66" endTime="88.99" >
+<Turn speaker="S1" startTime="66.66" endTime="80.59">
+<Sync time="66.66"/>
+what am i speaking english or just put the boxes over there so if you're interested in dancing and learning the correct way to do so please joined uh jeff goldblum school that you regret it
+</Turn>
+<Turn speaker="S3" startTime="80.59" endTime="88.99">
+<Sync time="80.59"/>
+they
+</Turn>
+</Section>
+</Episode>
+</Trans>

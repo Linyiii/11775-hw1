@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4281" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="23.74" >
+<Turn speaker="S1" startTime="0.0" endTime="23.74">
+<Sync time="0.0"/>
+good times good times i get some weird weird situations i uh i did a show in philly too long ago and it was good but the show ran late and i ran to the train station missed the last rain in new york to sleep with the station which was pretty scary and i'm laying on a bench goes you know
+</Turn>
+</Section>
+<Section type="report" startTime="23.8" endTime="91.05" >
+<Turn speaker="S2" startTime="23.8" endTime="91.05">
+<Sync time="23.8"/>
+here in my mind i tell you that you're going to bump will do that now i'm doing my heart i'm terrified guarding guarding helping out here you know not war going around like he's got a gun out here so your job you know the doctor's that was pretty rough that checked out and go by what did i tell you the million dollars
+</Turn>
+</Section>
+</Episode>
+</Trans>

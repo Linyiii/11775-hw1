@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3516" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="9.16" endTime="14.75" >
+<Turn speaker="S1" startTime="9.16" endTime="14.75">
+<Sync time="9.16"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="40.0" endTime="47.08" >
+<Turn speaker="S2" startTime="40.0" endTime="47.08">
+<Sync time="40.0"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="64.66" endTime="67.43" >
+<Turn speaker="S2" startTime="64.66" endTime="67.43">
+<Sync time="64.66"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="70.86" endTime="77.94" >
+<Turn speaker="S2" startTime="70.86" endTime="77.94">
+<Sync time="70.86"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="96.74" endTime="109.38" >
+<Turn speaker="S3" startTime="96.74" endTime="109.38">
+<Sync time="96.74"/>
+uh-huh
+</Turn>
+</Section>
+</Episode>
+</Trans>

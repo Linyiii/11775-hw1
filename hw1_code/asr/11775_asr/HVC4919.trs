@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4919" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="8.02" endTime="207.04" >
+<Turn speaker="S1" startTime="8.02" endTime="28.57">
+<Sync time="8.02"/>
+so i got some friends coming over to make some make macaroni and meatballs sounds good but everybody wanted much football game tonight so there's some early boiling water here and i've got a
+</Turn>
+<Turn speaker="S2" startTime="28.57" endTime="91.65">
+<Sync time="28.57"/>
+a decent size handfuls of solve because you really want your water and it tastes like salt like salt water let that uh will be right back linguine or spaghetti or using today day it's one of the i've ever used my life at all you want to do is just keep that in really need to do to sort of pasta water mix it around a little bit so the snake initially the salt water will actually help that believe it or not for about eight minutes and it will be done so we'll do that with you done and it's gonna hit it was
+</Turn>
+<Turn speaker="S3" startTime="91.65" endTime="100.66">
+<Sync time="91.65"/>
+going to get that all mixed in and
+</Turn>
+<Turn speaker="S2" startTime="100.66" endTime="108.49">
+<Sync time="100.66"/>
+alright we got our spaghetti and meatballs the pan here we got our other non boil and we're going to do here is
+</Turn>
+<Turn speaker="S3" startTime="108.49" endTime="133.31">
+<Sync time="108.49"/>
+some mozzarella cheese forward all nice and they're
+</Turn>
+<Turn speaker="S1" startTime="133.31" endTime="144.71">
+<Sync time="133.31"/>
+on top of that this is just a little bit of
+</Turn>
+<Turn speaker="S4" startTime="144.71" endTime="156.97">
+<Sync time="144.71"/>
+just some extra goodness
+</Turn>
+<Turn speaker="S2" startTime="156.97" endTime="160.64">
+<Sync time="156.97"/>
+there you have brought us up in the sack when it comes out
+</Turn>
+<Turn speaker="S5" startTime="160.64" endTime="173.4">
+<Sync time="160.64"/>
+there is one way or another degree or another so we will have a good time
+</Turn>
+<Turn speaker="S1" startTime="173.4" endTime="183.6">
+<Sync time="173.4"/>
+alright here it is fresh out we are talking some goodness here for about ten minutes or so maybe fifteen
+</Turn>
+<Turn speaker="S5" startTime="183.6" endTime="207.04">
+<Sync time="183.6"/>
+you know we're gonna set up so we just want to try to be much easier you know you can use pre made everything go by faster just by that run in my diet you just want to try
+</Turn>
+</Section>
+<Section type="report" startTime="207.16" endTime="210.7" >
+<Turn speaker="S2" startTime="207.16" endTime="210.7">
+<Sync time="207.16"/>
+like it used to have one out there
+</Turn>
+</Section>
+</Episode>
+</Trans>

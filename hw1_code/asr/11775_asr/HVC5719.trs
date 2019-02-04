@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5719" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="57.03" >
+<Turn speaker="S1" startTime="0.0" endTime="57.03">
+<Sync time="0.0"/>
+ten dollar bill or doing a new one no i mean ten dollar bill one no one's going to get it would you rather have an old ten dollar bill or why don't they don't have enough to what do we just had a meeting yeah yeah they good ice skating and how was it was horrible i hated it what kind of
+</Turn>
+</Section>
+</Episode>
+</Trans>

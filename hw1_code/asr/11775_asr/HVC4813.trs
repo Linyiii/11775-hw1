@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4813" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="29.95" >
+<Turn speaker="S1" startTime="0.0" endTime="29.95">
+<Sync time="0.0"/>
+i actually enjoy his daddy number i don't know they don't see anybody like i say money or or or whatever on on on what
+</Turn>
+</Section>
+<Section type="report" startTime="37.23" endTime="44.5" >
+<Turn speaker="S1" startTime="37.23" endTime="44.5">
+<Sync time="37.23"/>
+okay i don't know what you can tell time
+</Turn>
+</Section>
+<Section type="report" startTime="52.38" endTime="67.47" >
+<Turn speaker="S1" startTime="52.38" endTime="67.47">
+<Sync time="52.38"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

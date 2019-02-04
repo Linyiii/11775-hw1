@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6028" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="63.14" endTime="80.63" >
+<Turn speaker="S1" startTime="63.14" endTime="80.63">
+<Sync time="63.14"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="182.38" endTime="188.4" >
+<Turn speaker="S1" startTime="182.38" endTime="188.4">
+<Sync time="182.38"/>
+whatever
+</Turn>
+</Section>
+</Episode>
+</Trans>

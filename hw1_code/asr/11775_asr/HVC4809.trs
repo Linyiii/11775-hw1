@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4809" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="60.87" >
+<Turn speaker="S1" startTime="0.0" endTime="14.35">
+<Sync time="0.0"/>
+depending on the beach
+</Turn>
+<Turn speaker="S2" startTime="14.35" endTime="24.59">
+<Sync time="14.35"/>
+who who in the the new moon in the middle of that in the news in the money into the ball
+</Turn>
+<Turn speaker="S3" startTime="24.59" endTime="32.46">
+<Sync time="24.59"/>
+oh man
+</Turn>
+<Turn speaker="S4" startTime="32.46" endTime="38.17">
+<Sync time="32.46"/>
+mhm
+</Turn>
+<Turn speaker="S5" startTime="38.17" endTime="60.87">
+<Sync time="38.17"/>
+medically indian everything anything they're human beings and if you're gonna get me anything to him and then the potential for like the news every day and then they
+</Turn>
+</Section>
+</Episode>
+</Trans>

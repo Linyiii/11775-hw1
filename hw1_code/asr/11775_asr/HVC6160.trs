@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6160" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="16.34" endTime="49.02" >
+<Turn speaker="S1" startTime="16.34" endTime="43.01">
+<Sync time="16.34"/>
+no they don't want to make it
+</Turn>
+<Turn speaker="S2" startTime="43.01" endTime="49.02">
+<Sync time="43.01"/>
+that sounds too high
+</Turn>
+</Section>
+<Section type="report" startTime="68.17" endTime="88.8" >
+<Turn speaker="S3" startTime="68.17" endTime="78.92">
+<Sync time="68.17"/>
+um
+</Turn>
+<Turn speaker="S4" startTime="78.92" endTime="83.34">
+<Sync time="78.92"/>
+yeah
+</Turn>
+<Turn speaker="S5" startTime="83.34" endTime="88.8">
+<Sync time="83.34"/>
+too
+</Turn>
+</Section>
+<Section type="report" startTime="107.25" endTime="129.28" >
+<Turn speaker="S1" startTime="107.25" endTime="122.38">
+<Sync time="107.25"/>
+now that i'm here
+</Turn>
+<Turn speaker="S2" startTime="122.38" endTime="129.28">
+<Sync time="122.38"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="145.19" endTime="167.23" >
+<Turn speaker="S3" startTime="145.19" endTime="167.23">
+<Sync time="145.19"/>
+and i was know
+</Turn>
+</Section>
+<Section type="report" startTime="171.86" endTime="189.57" >
+<Turn speaker="S2" startTime="171.86" endTime="189.57">
+<Sync time="171.86"/>
+no no no no
+</Turn>
+</Section>
+<Section type="report" startTime="213.39" endTime="297.98" >
+<Turn speaker="S3" startTime="213.39" endTime="256.4">
+<Sync time="213.39"/>
+oh oh oh oh no
+</Turn>
+<Turn speaker="S6" startTime="256.4" endTime="297.98">
+<Sync time="256.4"/>
+yeah hey there's no way there with my friends know that the power away and be waited on oh i no well i know
+</Turn>
+</Section>
+</Episode>
+</Trans>

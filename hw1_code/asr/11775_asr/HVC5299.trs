@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5299" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.01" endTime="26.48" >
+<Turn speaker="S1" startTime="0.01" endTime="7.84">
+<Sync time="0.01"/>
+they say that again seen good again seen good now see voice th thing
+</Turn>
+<Turn speaker="S2" startTime="7.84" endTime="14.24">
+<Sync time="7.84"/>
+yeah we see
+</Turn>
+<Turn speaker="S3" startTime="14.24" endTime="19.36">
+<Sync time="14.24"/>
+yeah do you eat voice more means mm yeah
+</Turn>
+<Turn speaker="S4" startTime="19.36" endTime="23.02">
+<Sync time="19.36"/>
+see the knees right yeah i mean
+</Turn>
+<Turn speaker="S5" startTime="23.02" endTime="26.48">
+<Sync time="23.02"/>
+longer mm right
+</Turn>
+</Section>
+</Episode>
+</Trans>

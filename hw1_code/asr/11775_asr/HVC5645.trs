@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5645" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.71" endTime="7.66" >
+<Turn speaker="S1" startTime="3.71" endTime="7.66">
+<Sync time="3.71"/>
+so so far this washington
+</Turn>
+</Section>
+<Section type="report" startTime="17.35" endTime="101.17" >
+<Turn speaker="S2" startTime="17.35" endTime="45.4">
+<Sync time="17.35"/>
+ah or or low uh or or or or uh
+</Turn>
+<Turn speaker="S3" startTime="45.4" endTime="50.99">
+<Sync time="45.4"/>
+no
+</Turn>
+<Turn speaker="S4" startTime="50.99" endTime="75.88">
+<Sync time="50.99"/>
+ah her or or wherever they are also a hour or so
+</Turn>
+<Turn speaker="S3" startTime="75.88" endTime="101.17">
+<Sync time="75.88"/>
+uh for a man or or or
+</Turn>
+</Section>
+<Section type="report" startTime="130.11" endTime="152.18" >
+<Turn speaker="S5" startTime="130.11" endTime="136.6">
+<Sync time="130.11"/>
+ah no
+</Turn>
+<Turn speaker="S2" startTime="136.6" endTime="139.59">
+<Sync time="136.6"/>
+hum
+</Turn>
+<Turn speaker="S5" startTime="139.59" endTime="152.18">
+<Sync time="139.59"/>
+oh god
+</Turn>
+</Section>
+<Section type="report" startTime="156.68" endTime="160.1" >
+<Turn speaker="S1" startTime="156.68" endTime="160.1">
+<Sync time="156.68"/>
+there are that you know that
+</Turn>
+</Section>
+</Episode>
+</Trans>

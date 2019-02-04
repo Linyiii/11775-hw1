@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5245" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="61.23" >
+<Turn speaker="S1" startTime="0.0" endTime="8.62">
+<Sync time="0.0"/>
+so
+</Turn>
+<Turn speaker="S2" startTime="8.62" endTime="30.03">
+<Sync time="8.62"/>
+to the baby move okay yeah
+</Turn>
+<Turn speaker="S3" startTime="30.03" endTime="61.23">
+<Sync time="30.03"/>
+i mean you know
+</Turn>
+</Section>
+<Section type="report" startTime="84.77" endTime="161.71" >
+<Turn speaker="S4" startTime="84.77" endTime="133.23">
+<Sync time="84.77"/>
+war button am i'm going to call me uh you know i got some money
+</Turn>
+<Turn speaker="S3" startTime="133.23" endTime="161.71">
+<Sync time="133.23"/>
+they don't want to talk about
+</Turn>
+</Section>
+<Section type="report" startTime="175.16" endTime="288.65" >
+<Turn speaker="S3" startTime="175.16" endTime="225.27">
+<Sync time="175.16"/>
+you know then they can do that you know you know what i'm going to see checked
+</Turn>
+<Turn speaker="S1" startTime="225.27" endTime="240.31">
+<Sync time="225.27"/>
+you know when you were saying
+</Turn>
+<Turn speaker="S5" startTime="240.31" endTime="288.65">
+<Sync time="240.31"/>
+no i making they're wanting to do that don't going to or maybe i don't get them a sunday 'cause he does he
+</Turn>
+</Section>
+<Section type="report" startTime="304.03" endTime="334.64" >
+<Turn speaker="S5" startTime="304.03" endTime="334.64">
+<Sync time="304.03"/>
+you have the town and they all have dogs in the beginning that we go out there
+</Turn>
+</Section>
+<Section type="report" startTime="334.4" endTime="336.53" >
+<Turn speaker="S6" startTime="334.4" endTime="336.53">
+<Sync time="334.4"/>
+okay
+</Turn>
+</Section>
+</Episode>
+</Trans>

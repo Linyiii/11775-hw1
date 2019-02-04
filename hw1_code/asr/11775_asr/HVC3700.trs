@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3700" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="25.97" >
+<Turn speaker="S1" startTime="0.0" endTime="25.97">
+<Sync time="0.0"/>
+so i've been there before she looks for millionaire shit forgot about turning radius son it's like
+</Turn>
+</Section>
+<Section type="report" startTime="57.27" endTime="111.42" >
+<Turn speaker="S1" startTime="57.27" endTime="66.05">
+<Sync time="57.27"/>
+well can you know
+</Turn>
+<Turn speaker="S2" startTime="66.05" endTime="70.67">
+<Sync time="66.05"/>
+no
+</Turn>
+<Turn speaker="S3" startTime="70.67" endTime="86.13">
+<Sync time="70.67"/>
+car to take a thousand or something
+</Turn>
+<Turn speaker="S2" startTime="86.13" endTime="98.05">
+<Sync time="86.13"/>
+um
+</Turn>
+<Turn speaker="S1" startTime="98.05" endTime="103.91">
+<Sync time="98.05"/>
+uh joe joe
+</Turn>
+<Turn speaker="S2" startTime="103.91" endTime="111.42">
+<Sync time="103.91"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="113.44" endTime="140.55" >
+<Turn speaker="S2" startTime="113.44" endTime="140.55">
+<Sync time="113.44"/>
+she came on
+</Turn>
+</Section>
+<Section type="report" startTime="149.75" endTime="210.6" >
+<Turn speaker="S2" startTime="149.75" endTime="157.02">
+<Sync time="149.75"/>
+yeah
+</Turn>
+<Turn speaker="S3" startTime="157.02" endTime="167.32">
+<Sync time="157.02"/>
+yeah we'll see
+</Turn>
+<Turn speaker="S2" startTime="167.32" endTime="184.8">
+<Sync time="167.32"/>
+they just gave me one of those that don't go out and then you will to talk about
+</Turn>
+<Turn speaker="S1" startTime="184.8" endTime="210.6">
+<Sync time="184.8"/>
+and that makes for about almost ninety which turns out to be about let's see three bucks fill three three blocks people one and a half gallon nice
+</Turn>
+</Section>
+<Section type="report" startTime="210.89" endTime="223.54" >
+<Turn speaker="S4" startTime="210.89" endTime="223.54">
+<Sync time="210.89"/>
+the only place
+</Turn>
+</Section>
+<Section type="report" startTime="226.26" endTime="233.71" >
+<Turn speaker="S5" startTime="226.26" endTime="233.71">
+<Sync time="226.26"/>
+huh
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4712" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.41" endTime="117.8" >
+<Turn speaker="S1" startTime="4.41" endTime="117.8">
+<Sync time="4.41"/>
+i'm close to go to school all day long all day you talk oh my god you know joe blow off steam today you can still smell on the machine to me it would be interesting to talk to people you're just pulling her to go all over
+</Turn>
+</Section>
+</Episode>
+</Trans>

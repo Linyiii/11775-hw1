@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2166" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.08" endTime="35.19" >
+<Turn speaker="S1" startTime="0.08" endTime="35.19">
+<Sync time="0.08"/>
+and then we will do you change your family have di di di di di di di or not the men making the same thing again and again and then
+</Turn>
+</Section>
+</Episode>
+</Trans>

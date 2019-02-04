@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3479" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.08" endTime="14.72" >
+<Turn speaker="S1" startTime="0.08" endTime="7.07">
+<Sync time="0.08"/>
+i find that hard
+</Turn>
+<Turn speaker="S2" startTime="7.07" endTime="14.72">
+<Sync time="7.07"/>
+during the iran scrambled
+</Turn>
+</Section>
+<Section type="report" startTime="19.9" endTime="54.68" >
+<Turn speaker="S2" startTime="19.9" endTime="27.57">
+<Sync time="19.9"/>
+you going to go higher a point i already industries every time i think okay i'm just curious
+</Turn>
+<Turn speaker="S1" startTime="27.57" endTime="49.46">
+<Sync time="27.57"/>
+think it really is it's nice it's a little and then you've got rewarded
+</Turn>
+<Turn speaker="S2" startTime="49.46" endTime="54.68">
+<Sync time="49.46"/>
+tried to record armed we don't have to carry your well
+</Turn>
+</Section>
+<Section type="report" startTime="69.24" endTime="85.29" >
+<Turn speaker="S2" startTime="69.24" endTime="85.29">
+<Sync time="69.24"/>
+video feeling like why he literally i want to be able to three right
+</Turn>
+</Section>
+</Episode>
+</Trans>

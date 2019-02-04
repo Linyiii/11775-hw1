@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4438" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.17" endTime="11.97" >
+<Turn speaker="S1" startTime="0.17" endTime="2.8">
+<Sync time="0.17"/>
+yeah
+</Turn>
+<Turn speaker="S2" startTime="2.8" endTime="11.97">
+<Sync time="2.8"/>
+argue yeah mhm yeah
+</Turn>
+</Section>
+<Section type="report" startTime="19.93" endTime="43.58" >
+<Turn speaker="S3" startTime="19.93" endTime="25.76">
+<Sync time="19.93"/>
+mm
+</Turn>
+<Turn speaker="S4" startTime="25.76" endTime="37.15">
+<Sync time="25.76"/>
+other what do you live in one day
+</Turn>
+<Turn speaker="S5" startTime="37.15" endTime="43.58">
+<Sync time="37.15"/>
+mhm yeah uh-huh uh-huh uh-huh but
+</Turn>
+</Section>
+<Section type="report" startTime="48.37" endTime="52.53" >
+<Turn speaker="S6" startTime="48.37" endTime="52.53">
+<Sync time="48.37"/>
+right
+</Turn>
+</Section>
+<Section type="report" startTime="58.64" endTime="69.3" >
+<Turn speaker="S7" startTime="58.64" endTime="69.3">
+<Sync time="58.64"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="80.97" endTime="88.2" >
+<Turn speaker="S8" startTime="80.97" endTime="84.88">
+<Sync time="80.97"/>
+oh god
+</Turn>
+<Turn speaker="S9" startTime="84.88" endTime="88.2">
+<Sync time="84.88"/>
+really
+</Turn>
+</Section>
+<Section type="report" startTime="91.43" endTime="116.17" >
+<Turn speaker="S10" startTime="91.43" endTime="96.28">
+<Sync time="91.43"/>
+okay
+</Turn>
+<Turn speaker="S11" startTime="96.28" endTime="101.81">
+<Sync time="96.28"/>
+mhm yeah actually smokes and then uh
+</Turn>
+<Turn speaker="S12" startTime="101.81" endTime="110.68">
+<Sync time="101.81"/>
+oh wow
+</Turn>
+<Turn speaker="S13" startTime="110.68" endTime="116.17">
+<Sync time="110.68"/>
+lots of
+</Turn>
+</Section>
+</Episode>
+</Trans>

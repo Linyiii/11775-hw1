@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5480" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="6.55" endTime="25.93" >
+<Turn speaker="S1" startTime="6.55" endTime="11.06">
+<Sync time="6.55"/>
+looks to me there's none of this
+</Turn>
+<Turn speaker="S2" startTime="11.06" endTime="25.93">
+<Sync time="11.06"/>
+so let's see
+</Turn>
+</Section>
+<Section type="report" startTime="55.01" endTime="57.94" >
+<Turn speaker="S3" startTime="55.01" endTime="57.94">
+<Sync time="55.01"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="71.13" endTime="84.68" >
+<Turn speaker="S4" startTime="71.13" endTime="80.63">
+<Sync time="71.13"/>
+the number and and the guy again
+</Turn>
+<Turn speaker="S5" startTime="80.63" endTime="84.68">
+<Sync time="80.63"/>
+it's been in the north side
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2562" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.05" endTime="116.81" >
+<Turn speaker="S1" startTime="0.05" endTime="14.24">
+<Sync time="0.05"/>
+and they can do to think
+</Turn>
+<Turn speaker="S2" startTime="14.24" endTime="96.42">
+<Sync time="14.24"/>
+the the that the body weight and and and uh they just mad at each other and then they will show me how do you ever watch that one day and then the strike for sure but they found in the money
+</Turn>
+<Turn speaker="S1" startTime="96.42" endTime="108.89">
+<Sync time="96.42"/>
+the the what uh
+</Turn>
+<Turn speaker="S2" startTime="108.89" endTime="116.81">
+<Sync time="108.89"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="133.2" endTime="148.69" >
+<Turn speaker="S2" startTime="133.2" endTime="148.69">
+<Sync time="133.2"/>
+no no no big game and
+</Turn>
+</Section>
+</Episode>
+</Trans>

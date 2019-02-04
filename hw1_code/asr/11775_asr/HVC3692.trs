@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3692" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="25.92" endTime="76.77" >
+<Turn speaker="S1" startTime="25.92" endTime="76.77">
+<Sync time="25.92"/>
+and then they told me they have a new mom so that that just want to live on a on a video store two dollars here across the road all the money and all college
+</Turn>
+</Section>
+</Episode>
+</Trans>

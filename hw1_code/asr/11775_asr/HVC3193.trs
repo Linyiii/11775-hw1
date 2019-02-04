@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3193" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="38.15" >
+<Turn speaker="S1" startTime="0.0" endTime="2.79">
+<Sync time="0.0"/>
+see today
+</Turn>
+<Turn speaker="S2" startTime="2.79" endTime="9.53">
+<Sync time="2.79"/>
+how how how how kids raymond men drinking how how how how
+</Turn>
+<Turn speaker="S3" startTime="9.53" endTime="15.68">
+<Sync time="9.53"/>
+tiny mittens you get those mitten and teeny tiny kittens
+</Turn>
+<Turn speaker="S4" startTime="15.68" endTime="23.46">
+<Sync time="15.68"/>
+panic stage when jenny how change drinking pays drink
+</Turn>
+<Turn speaker="S5" startTime="23.46" endTime="33.16">
+<Sync time="23.46"/>
+jamie teeny tiny pennies and then those blaming wedding the doctor
+</Turn>
+<Turn speaker="S6" startTime="33.16" endTime="38.15">
+<Sync time="33.16"/>
+little trendy all and doggies rank log gays and is
+</Turn>
+</Section>
+</Episode>
+</Trans>

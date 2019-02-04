@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2689" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="2.96" endTime="75.08" >
+<Turn speaker="S1" startTime="2.96" endTime="11.71">
+<Sync time="2.96"/>
+you can find regularly so that's right
+</Turn>
+<Turn speaker="S2" startTime="11.71" endTime="16.73">
+<Sync time="11.71"/>
+mhm
+</Turn>
+<Turn speaker="S3" startTime="16.73" endTime="24.6">
+<Sync time="16.73"/>
+yep yep said two grand problems
+</Turn>
+<Turn speaker="S4" startTime="24.6" endTime="30.68">
+<Sync time="24.6"/>
+never seen you cry like this before
+</Turn>
+<Turn speaker="S5" startTime="30.68" endTime="44.04">
+<Sync time="30.68"/>
+me cry never never any crime straight
+</Turn>
+<Turn speaker="S6" startTime="44.04" endTime="47.55">
+<Sync time="44.04"/>
+right
+</Turn>
+<Turn speaker="S7" startTime="47.55" endTime="53.43">
+<Sync time="47.55"/>
+school lena
+</Turn>
+<Turn speaker="S8" startTime="53.43" endTime="60.3">
+<Sync time="53.43"/>
+cleaning crews her these men can climb
+</Turn>
+<Turn speaker="S9" startTime="60.3" endTime="65.25">
+<Sync time="60.3"/>
+yeah
+</Turn>
+<Turn speaker="S10" startTime="65.25" endTime="75.08">
+<Sync time="65.25"/>
+and then jump
+</Turn>
+</Section>
+</Episode>
+</Trans>

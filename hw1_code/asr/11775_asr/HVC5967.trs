@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5967" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.74" endTime="85.54" >
+<Turn speaker="S1" startTime="3.74" endTime="38.04">
+<Sync time="3.74"/>
+i'm normally tropicana and you have a tournament when i go wow that's interesting what do you think about that okay well it is
+</Turn>
+<Turn speaker="S2" startTime="38.04" endTime="85.54">
+<Sync time="38.04"/>
+i i think we're always going on here my sister's tournament and what kind of car are you going to look at the camera what kind of car you going to say mom he said he's gonna take yoga showdown shuttle going to go hey worldly the now that's actually really i i'll tell you later right roger
+</Turn>
+</Section>
+<Section type="report" startTime="91.13" endTime="135.54" >
+<Turn speaker="S3" startTime="91.13" endTime="114.71">
+<Sync time="91.13"/>
+like a c._d. or by then who
+</Turn>
+<Turn speaker="S4" startTime="114.71" endTime="118.88">
+<Sync time="114.71"/>
+okay
+</Turn>
+<Turn speaker="S5" startTime="118.88" endTime="127.07">
+<Sync time="118.88"/>
+i mean
+</Turn>
+<Turn speaker="S4" startTime="127.07" endTime="135.54">
+<Sync time="127.07"/>
+going on
+</Turn>
+</Section>
+<Section type="report" startTime="162.07" endTime="206.47" >
+<Turn speaker="S5" startTime="162.07" endTime="182.06">
+<Sync time="162.07"/>
+in second
+</Turn>
+<Turn speaker="S4" startTime="182.06" endTime="206.47">
+<Sync time="182.06"/>
+i i remember when you when are you happy with it well actually you had a good time right okay okay
+</Turn>
+</Section>
+<Section type="report" startTime="206.23" endTime="227.84" >
+<Turn speaker="S1" startTime="206.23" endTime="227.84">
+<Sync time="206.23"/>
+i i did you enjoy the karate tournaments you want to do other tournaments okay back to normal
+</Turn>
+</Section>
+</Episode>
+</Trans>

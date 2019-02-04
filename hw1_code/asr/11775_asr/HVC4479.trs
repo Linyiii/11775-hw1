@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4479" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.53" endTime="2.98" >
+<Turn speaker="S1" startTime="0.53" endTime="2.98">
+<Sync time="0.53"/>
+give me that is
+</Turn>
+</Section>
+<Section type="report" startTime="21.27" endTime="153.42" >
+<Turn speaker="S2" startTime="21.27" endTime="75.4">
+<Sync time="21.27"/>
+you know to you know why they call that may find those being married or and dr and then i would draw the line with them or do you mean
+</Turn>
+<Turn speaker="S1" startTime="75.4" endTime="76.87">
+<Sync time="75.4"/>
+that is
+</Turn>
+<Turn speaker="S3" startTime="76.87" endTime="95.31">
+<Sync time="76.87"/>
+i'm sure
+</Turn>
+<Turn speaker="S2" startTime="95.31" endTime="149.5">
+<Sync time="95.31"/>
+turned on the on the ball ball down the the best way to be and bumping into new things and and going
+</Turn>
+<Turn speaker="S1" startTime="149.5" endTime="153.42">
+<Sync time="149.5"/>
+that
+</Turn>
+</Section>
+</Episode>
+</Trans>

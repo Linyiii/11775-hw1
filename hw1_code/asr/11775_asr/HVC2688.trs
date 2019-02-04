@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2688" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="57.73" >
+<Turn speaker="S1" startTime="0.0" endTime="3.92">
+<Sync time="0.0"/>
+okay
+</Turn>
+<Turn speaker="S2" startTime="3.92" endTime="8.45">
+<Sync time="3.92"/>
+oh okay
+</Turn>
+<Turn speaker="S3" startTime="8.45" endTime="13.68">
+<Sync time="8.45"/>
+semi or what area
+</Turn>
+<Turn speaker="S4" startTime="13.68" endTime="19.63">
+<Sync time="13.68"/>
+hey guess out all right cool
+</Turn>
+<Turn speaker="S5" startTime="19.63" endTime="29.41">
+<Sync time="19.63"/>
+i know
+</Turn>
+<Turn speaker="S6" startTime="29.41" endTime="32.32">
+<Sync time="29.41"/>
+that's neat let me know little one
+</Turn>
+<Turn speaker="S7" startTime="32.32" endTime="42.81">
+<Sync time="32.32"/>
+okay
+</Turn>
+<Turn speaker="S8" startTime="42.81" endTime="52.11">
+<Sync time="42.81"/>
+guide orange going on with racial you're writing nato
+</Turn>
+<Turn speaker="S9" startTime="52.11" endTime="57.73">
+<Sync time="52.11"/>
+yeah i'm a i'm mike
+</Turn>
+</Section>
+<Section type="report" startTime="61.08" endTime="65.77" >
+<Turn speaker="S10" startTime="61.08" endTime="65.77">
+<Sync time="61.08"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="68.47" endTime="85.84" >
+<Turn speaker="S11" startTime="68.47" endTime="71.56">
+<Sync time="68.47"/>
+no yeah
+</Turn>
+<Turn speaker="S12" startTime="71.56" endTime="76.68">
+<Sync time="71.56"/>
+i can make lines
+</Turn>
+<Turn speaker="S13" startTime="76.68" endTime="85.84">
+<Sync time="76.68"/>
+oh in l._a. for
+</Turn>
+</Section>
+</Episode>
+</Trans>

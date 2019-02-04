@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5761" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.07" endTime="17.55" >
+<Turn speaker="S1" startTime="0.07" endTime="3.54">
+<Sync time="0.07"/>
+i know
+</Turn>
+<Turn speaker="S2" startTime="3.54" endTime="11.82">
+<Sync time="3.54"/>
+have the right that actually really knew no pay me
+</Turn>
+<Turn speaker="S3" startTime="11.82" endTime="17.55">
+<Sync time="11.82"/>
+neither did i do
+</Turn>
+</Section>
+<Section type="report" startTime="21.83" endTime="28.76" >
+<Turn speaker="S4" startTime="21.83" endTime="28.76">
+<Sync time="21.83"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="38.48" endTime="52.09" >
+<Turn speaker="S5" startTime="38.48" endTime="44.43">
+<Sync time="38.48"/>
+yeah
+</Turn>
+<Turn speaker="S6" startTime="44.43" endTime="52.09">
+<Sync time="44.43"/>
+i'm from missouri
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4377" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="7.13" endTime="9.17" >
+<Turn speaker="S1" startTime="7.13" endTime="9.17">
+<Sync time="7.13"/>
+oh oh yeah
+</Turn>
+</Section>
+<Section type="report" startTime="16.74" endTime="101.8" >
+<Turn speaker="S1" startTime="16.74" endTime="21.18">
+<Sync time="16.74"/>
+they're in there
+</Turn>
+<Turn speaker="S2" startTime="21.18" endTime="29.68">
+<Sync time="21.18"/>
+oh oh well it depends on
+</Turn>
+<Turn speaker="S1" startTime="29.68" endTime="101.8">
+<Sync time="29.68"/>
+never mind what just having a question does it if you start to pee in your pants and your really close to the bathroom it absolutely couches pissing your pets man that's exactly what you might not understand me correctly i mean does that count as like being in your hands if it happens when you're literally like a foot away from the bathroom i understand perfectly pets outside the bathroom door no i'm telling you that i did not at all i'm telling you that i was a hypothetical thing so you didn't your pets no answer all your apartment running for the bathroom and then just stop banging on the door my hands and then you said things like bathroom oh gosh oh no my parents oh never mind maybe just the t._v. they say those things or maybe for maybe you should just trust me i didn't see my parents today are just passing or not
+</Turn>
+</Section>
+<Section type="report" startTime="106.58" endTime="116.21" >
+<Turn speaker="S2" startTime="106.58" endTime="116.21">
+<Sync time="106.58"/>
+caught it happened again you know i just i see more pull ups
+</Turn>
+</Section>
+</Episode>
+</Trans>

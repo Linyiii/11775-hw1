@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3264" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="128.54" >
+<Turn speaker="S1" startTime="0.0" endTime="61.22">
+<Sync time="0.0"/>
+i have i'm sure you get out of money recovery strength you know and well they're probably gonna have to drive all right there down the bottom was ill like i was working for
+</Turn>
+<Turn speaker="S2" startTime="61.22" endTime="80.18">
+<Sync time="61.22"/>
+catching it so i there's no that's what killed me i got gotta cover on lawrenceville
+</Turn>
+<Turn speaker="S1" startTime="80.18" endTime="128.54">
+<Sync time="80.18"/>
+that we do engineering came to thing about the late thirties or whatever you're you're actually doing so slip on your shoulders there how are you i'm
+</Turn>
+</Section>
+</Episode>
+</Trans>

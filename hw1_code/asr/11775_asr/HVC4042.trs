@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4042" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="27.24" >
+<Turn speaker="S1" startTime="0.0" endTime="10.81">
+<Sync time="0.0"/>
+i don't know if you notice the make sure you might wanna check out a little bit of innovation with the innovation whoa
+</Turn>
+<Turn speaker="S2" startTime="10.81" endTime="13.8">
+<Sync time="10.81"/>
+mhm
+</Turn>
+<Turn speaker="S1" startTime="13.8" endTime="27.24">
+<Sync time="13.8"/>
+well first movie oh imagine a or any sort of brand you just pull it up on the web cam and having a specific um watch out for my membership
+</Turn>
+</Section>
+<Section type="report" startTime="30.95" endTime="84.72" >
+<Turn speaker="S1" startTime="30.95" endTime="34.36">
+<Sync time="30.95"/>
+world probably not your chest
+</Turn>
+<Turn speaker="S2" startTime="34.36" endTime="38.61">
+<Sync time="34.36"/>
+why not
+</Turn>
+<Turn speaker="S1" startTime="38.61" endTime="76.77">
+<Sync time="38.61"/>
+that's the shirt that seeing on the screen uh like and just say let me just jump back into the street and see how quickly whereas i'm too far away oh what's that winter as often as i keep saying that is awesome though
+</Turn>
+<Turn speaker="S3" startTime="76.77" endTime="84.72">
+<Sync time="76.77"/>
+mhm
+</Turn>
+</Section>
+<Section type="report" startTime="84.95" endTime="90.84" >
+<Turn speaker="S1" startTime="84.95" endTime="90.84">
+<Sync time="84.95"/>
+unbelievable
+</Turn>
+</Section>
+</Episode>
+</Trans>

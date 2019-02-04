@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3343" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="19.83" >
+<Turn speaker="S1" startTime="0.0" endTime="19.83">
+<Sync time="0.0"/>
+when you're working on but yeah kind kinda did you make today today special kind that's plenty of sprinkle what kinda did you make
+</Turn>
+</Section>
+<Section type="report" startTime="23.32" endTime="68.58" >
+<Turn speaker="S1" startTime="23.32" endTime="39.76">
+<Sync time="23.32"/>
+rockets and what else what color are they don't they look good try try it so that one's years now
+</Turn>
+<Turn speaker="S2" startTime="39.76" endTime="52.1">
+<Sync time="39.76"/>
+good yeah make 'em again sometime
+</Turn>
+<Turn speaker="S1" startTime="52.1" endTime="57.73">
+<Sync time="52.1"/>
+excited you love to bake oh that was
+</Turn>
+<Turn speaker="S2" startTime="57.73" endTime="68.58">
+<Sync time="57.73"/>
+who to show everybody money saving any in the corner that's pretty cool
+</Turn>
+</Section>
+<Section type="report" startTime="68.83" endTime="124.2" >
+<Turn speaker="S1" startTime="68.83" endTime="124.2">
+<Sync time="68.83"/>
+in the corner yeah you did great jazz some more okay let's see what you do shows how you do it what's that you putting on top of milk frosting no those sprinkles who's that it's just getting like okay that's plenty sprinkles cupcakes plenty are you a baker just a couple of more give me some did you have fun i can't wait to teach them
+</Turn>
+</Section>
+</Episode>
+</Trans>

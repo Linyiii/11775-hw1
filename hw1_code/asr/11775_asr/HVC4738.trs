@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4738" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="35.54" endTime="143.55" >
+<Turn speaker="S1" startTime="35.54" endTime="49.78">
+<Sync time="35.54"/>
+and uh
+</Turn>
+<Turn speaker="S2" startTime="49.78" endTime="52.75">
+<Sync time="49.78"/>
+x. back
+</Turn>
+<Turn speaker="S3" startTime="52.75" endTime="62.17">
+<Sync time="52.75"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="62.17" endTime="79.96">
+<Sync time="62.17"/>
+i i didn't appreciate it happened
+</Turn>
+<Turn speaker="S3" startTime="79.96" endTime="125.45">
+<Sync time="79.96"/>
+yeah
+</Turn>
+<Turn speaker="S4" startTime="125.45" endTime="131.08">
+<Sync time="125.45"/>
+yeah
+</Turn>
+<Turn speaker="S5" startTime="131.08" endTime="143.55">
+<Sync time="131.08"/>
+yeah but at the park
+</Turn>
+</Section>
+<Section type="report" startTime="150.07" endTime="220.91" >
+<Turn speaker="S5" startTime="150.07" endTime="182.91">
+<Sync time="150.07"/>
+you know every time you did oh yes standing around the government and pretty good department i think he did what do you run around
+</Turn>
+<Turn speaker="S6" startTime="182.91" endTime="192.31">
+<Sync time="182.91"/>
+you know every time you know a buddy
+</Turn>
+<Turn speaker="S7" startTime="192.31" endTime="220.91">
+<Sync time="192.31"/>
+you know and then they really want to take it i can tell
+</Turn>
+</Section>
+<Section type="report" startTime="220.86" endTime="225.42" >
+<Turn speaker="S2" startTime="220.86" endTime="225.42">
+<Sync time="220.86"/>
+right
+</Turn>
+</Section>
+</Episode>
+</Trans>

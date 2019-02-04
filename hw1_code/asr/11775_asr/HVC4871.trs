@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4871" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="35.27" endTime="57.94" >
+<Turn speaker="S1" startTime="35.27" endTime="57.94">
+<Sync time="35.27"/>
+breaking down on camel's back in history and you can do this three times a day
+</Turn>
+</Section>
+<Section type="report" startTime="66.53" endTime="94.98" >
+<Turn speaker="S2" startTime="66.53" endTime="94.98">
+<Sync time="66.53"/>
+to the gym they did
+</Turn>
+</Section>
+<Section type="report" startTime="94.81" endTime="109.6" >
+<Turn speaker="S1" startTime="94.81" endTime="109.6">
+<Sync time="94.81"/>
+i know they got in order to watch
+</Turn>
+</Section>
+</Episode>
+</Trans>

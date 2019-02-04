@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2836" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.03" endTime="181.97" >
+<Turn speaker="S1" startTime="0.03" endTime="14.28">
+<Sync time="0.03"/>
+who who get the job i know they tell you the the one you got to be little bit of
+</Turn>
+<Turn speaker="S2" startTime="14.28" endTime="58.51">
+<Sync time="14.28"/>
+some of them build them up you know download them did they tell us so
+</Turn>
+<Turn speaker="S3" startTime="58.51" endTime="88.02">
+<Sync time="58.51"/>
+you're not playing when i was on my way
+</Turn>
+<Turn speaker="S4" startTime="88.02" endTime="181.97">
+<Sync time="88.02"/>
+as bad bad bad bad bad bad
+</Turn>
+</Section>
+<Section type="report" startTime="195.71" endTime="265.04" >
+<Turn speaker="S5" startTime="195.71" endTime="265.04">
+<Sync time="195.71"/>
+you know like on the phone rang
+</Turn>
+</Section>
+</Episode>
+</Trans>

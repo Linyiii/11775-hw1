@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5010" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S15" name="K15" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S16" name="K16" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S17" name="K17" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S18" name="K18" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S19" name="K19" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.05" endTime="47.4" >
+<Turn speaker="S1" startTime="0.05" endTime="10.45">
+<Sync time="0.05"/>
+hi the theme of two hundred italian recipes want to show you how is it is to cook italian food here we're going to demonstrate sweet potatoes recipe number
+</Turn>
+<Turn speaker="S2" startTime="10.45" endTime="14.61">
+<Sync time="10.45"/>
+twenty eight seventy five you know the second second christmas liberation
+</Turn>
+<Turn speaker="S3" startTime="14.61" endTime="21.2">
+<Sync time="14.61"/>
+is about thirty minutes and one on twenty there's this dish and we need the following
+</Turn>
+<Turn speaker="S4" startTime="21.2" endTime="25.56">
+<Sync time="21.2"/>
+no mm mm twenty one place that in offices and with
+</Turn>
+<Turn speaker="S5" startTime="25.56" endTime="29.28">
+<Sync time="25.56"/>
+mine too i'm the nato and vitamin tables
+</Turn>
+<Turn speaker="S6" startTime="29.28" endTime="37.86">
+<Sync time="29.28"/>
+i'm only one almost god like one little branch of half of water salt pepper
+</Turn>
+<Turn speaker="S7" startTime="37.86" endTime="41.84">
+<Sync time="37.86"/>
+the number of serving supposedly tracked me too it's about sport
+</Turn>
+<Turn speaker="S8" startTime="41.84" endTime="47.4">
+<Sync time="41.84"/>
+matt good man
+</Turn>
+</Section>
+<Section type="report" startTime="58.07" endTime="71.98" >
+<Turn speaker="S9" startTime="58.07" endTime="62.4">
+<Sync time="58.07"/>
+the garlic and the oil you know bowling leaded turn mm mhm
+</Turn>
+<Turn speaker="S10" startTime="62.4" endTime="71.98">
+<Sync time="62.4"/>
+mhm mhm
+</Turn>
+</Section>
+<Section type="report" startTime="75.75" endTime="128.73" >
+<Turn speaker="S11" startTime="75.75" endTime="83.79">
+<Sync time="75.75"/>
+mm mm mm
+</Turn>
+<Turn speaker="S12" startTime="83.79" endTime="87.09">
+<Sync time="83.79"/>
+mm mhm mhm mhm
+</Turn>
+<Turn speaker="S13" startTime="87.09" endTime="92.9">
+<Sync time="87.09"/>
+mm let them to labor and i did when he doesn't cut it in the meat mm mhm they're both married
+</Turn>
+<Turn speaker="S14" startTime="92.9" endTime="96.64">
+<Sync time="92.9"/>
+mm mm mm mm mm
+</Turn>
+<Turn speaker="S15" startTime="96.64" endTime="101.31">
+<Sync time="96.64"/>
+the water mhm tall
+</Turn>
+<Turn speaker="S16" startTime="101.31" endTime="106.25">
+<Sync time="101.31"/>
+mm mm mm plucking teams let him in it
+</Turn>
+<Turn speaker="S17" startTime="106.25" endTime="111.16">
+<Sync time="106.25"/>
+mm
+</Turn>
+<Turn speaker="S18" startTime="111.16" endTime="119.08">
+<Sync time="111.16"/>
+mhm how fun and fun and for a bird melting enlightening following the mayor characters
+</Turn>
+<Turn speaker="S19" startTime="119.08" endTime="128.73">
+<Sync time="119.08"/>
+i'm glad i don't know download retton
+</Turn>
+</Section>
+</Episode>
+</Trans>

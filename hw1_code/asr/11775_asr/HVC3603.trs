@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3603" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="4.48" endTime="23.33" >
+<Turn speaker="S1" startTime="4.48" endTime="23.33">
+<Sync time="4.48"/>
+and uh
+</Turn>
+</Section>
+<Section type="report" startTime="57.81" endTime="199.74" >
+<Turn speaker="S1" startTime="57.81" endTime="62.28">
+<Sync time="57.81"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="62.28" endTime="96.81">
+<Sync time="62.28"/>
+um
+</Turn>
+<Turn speaker="S3" startTime="96.81" endTime="113.41">
+<Sync time="96.81"/>
+oh when you're when you're when you're fine
+</Turn>
+<Turn speaker="S2" startTime="113.41" endTime="199.74">
+<Sync time="113.41"/>
+she she she she
+</Turn>
+</Section>
+<Section type="report" startTime="216.74" endTime="285.58" >
+<Turn speaker="S2" startTime="216.74" endTime="285.58">
+<Sync time="216.74"/>
+on on on um um um
+</Turn>
+</Section>
+</Episode>
+</Trans>

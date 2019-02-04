@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5039" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="109.97" >
+<Turn speaker="S1" startTime="0.0" endTime="25.04">
+<Sync time="0.0"/>
+and then my um and you have the uh sooner than the um
+</Turn>
+<Turn speaker="S2" startTime="25.04" endTime="109.97">
+<Sync time="25.04"/>
+yeah i don't know man movie that you haven't unfortunately we are going on and then the crack to make a job and a dog in l._a.
+</Turn>
+</Section>
+<Section type="report" startTime="110.07" endTime="117.89" >
+<Turn speaker="S1" startTime="110.07" endTime="117.89">
+<Sync time="110.07"/>
+i bought a dollars
+</Turn>
+</Section>
+</Episode>
+</Trans>

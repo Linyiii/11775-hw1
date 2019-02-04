@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5860" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="32.08" >
+<Turn speaker="S1" startTime="0.0" endTime="8.38">
+<Sync time="0.0"/>
+sometimes on the yeah and all time that it was not quieted down the road
+</Turn>
+<Turn speaker="S2" startTime="8.38" endTime="14.71">
+<Sync time="8.38"/>
+uh-huh
+</Turn>
+<Turn speaker="S3" startTime="14.71" endTime="27.35">
+<Sync time="14.71"/>
+you must say um maybe had allergies i wouldn't mind uh it wasn't smart and i that's why how it is
+</Turn>
+<Turn speaker="S4" startTime="27.35" endTime="32.08">
+<Sync time="27.35"/>
+slighted uh
+</Turn>
+</Section>
+</Episode>
+</Trans>

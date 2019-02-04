@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5857" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S15" name="K15" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S16" name="K16" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="102.22" >
+<Turn speaker="S1" startTime="0.04" endTime="6.57">
+<Sync time="0.04"/>
+what happened to your hair clara to cut it clean game
+</Turn>
+<Turn speaker="S2" startTime="6.57" endTime="13.95">
+<Sync time="6.57"/>
+calling did did he cut i must too yeah was it crazy is your hair crazy now yeah yeah so the cameras
+</Turn>
+<Turn speaker="S3" startTime="13.95" endTime="18.51">
+<Sync time="13.95"/>
+crazy here yeah like how crazy that is
+</Turn>
+<Turn speaker="S4" startTime="18.51" endTime="31.04">
+<Sync time="18.51"/>
+he save i'm incorrect new clip yeah you didn't raise 'til the cut it for you yeah yeah they higher correct yeah is she gonna cut it short for you
+</Turn>
+<Turn speaker="S5" startTime="31.04" endTime="40.59">
+<Sync time="31.04"/>
+um well here i can't share yep so you know cut your hair in the kitchen is it gonna be cute yeah
+</Turn>
+<Turn speaker="S6" startTime="40.59" endTime="48.28">
+<Sync time="40.59"/>
+it cut chalet shows okay you're going to cut it with my scissors paper
+</Turn>
+<Turn speaker="S7" startTime="48.28" endTime="56.59">
+<Sync time="48.28"/>
+yes only paper temper only pink paper yeah that's the only thing that scissors need to cut huh
+</Turn>
+<Turn speaker="S8" startTime="56.59" endTime="61.09">
+<Sync time="56.59"/>
+nick yeah i mean
+</Turn>
+<Turn speaker="S9" startTime="61.09" endTime="66.22">
+<Sync time="61.09"/>
+these guys make huh yeah i mean and making lakes so
+</Turn>
+<Turn speaker="S10" startTime="66.22" endTime="70.81">
+<Sync time="66.22"/>
+i i really and i like him a letter
+</Turn>
+<Turn speaker="S11" startTime="70.81" endTime="76.66">
+<Sync time="70.81"/>
+no yeah uh sick oh when are we cutting
+</Turn>
+<Turn speaker="S12" startTime="76.66" endTime="84.11">
+<Sync time="76.66"/>
+your hair i got ah rachel gonna cut it tonight guy oh
+</Turn>
+<Turn speaker="S13" startTime="84.11" endTime="88.17">
+<Sync time="84.11"/>
+they really
+</Turn>
+<Turn speaker="S14" startTime="88.17" endTime="93.83">
+<Sync time="88.17"/>
+this guy i work
+</Turn>
+<Turn speaker="S15" startTime="93.83" endTime="99.56">
+<Sync time="93.83"/>
+yeah yeah and they're yeah they are bigger mainly energy
+</Turn>
+<Turn speaker="S16" startTime="99.56" endTime="102.22">
+<Sync time="99.56"/>
+and sharp huh yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

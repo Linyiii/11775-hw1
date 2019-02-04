@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4731" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.07" endTime="39.39" >
+<Turn speaker="S1" startTime="0.07" endTime="32.1">
+<Sync time="0.07"/>
+mhm you just a lot of bad about the money will turn into things planned then they then i'm
+</Turn>
+<Turn speaker="S2" startTime="32.1" endTime="39.39">
+<Sync time="32.1"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="39.56" endTime="67.55" >
+<Turn speaker="S3" startTime="39.56" endTime="67.55">
+<Sync time="39.56"/>
+drums
+</Turn>
+</Section>
+</Episode>
+</Trans>

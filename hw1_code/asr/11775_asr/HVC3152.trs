@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3152" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="2.73" endTime="93.3" >
+<Turn speaker="S1" startTime="2.73" endTime="41.87">
+<Sync time="2.73"/>
+uh being being being on the news and then they get a steak or whatever
+</Turn>
+<Turn speaker="S2" startTime="41.87" endTime="50.97">
+<Sync time="41.87"/>
+they um
+</Turn>
+<Turn speaker="S1" startTime="50.97" endTime="74.51">
+<Sync time="50.97"/>
+oh what can they go go go to some guy from the banks
+</Turn>
+<Turn speaker="S2" startTime="74.51" endTime="93.3">
+<Sync time="74.51"/>
+the mayor of new york
+</Turn>
+</Section>
+<Section type="report" startTime="100.11" endTime="114.96" >
+<Turn speaker="S2" startTime="100.11" endTime="114.96">
+<Sync time="100.11"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

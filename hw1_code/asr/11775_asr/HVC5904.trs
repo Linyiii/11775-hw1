@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5904" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="44.28" >
+<Turn speaker="S1" startTime="0.0" endTime="2.69">
+<Sync time="0.0"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="2.69" endTime="18.63">
+<Sync time="2.69"/>
+no not at all
+</Turn>
+<Turn speaker="S1" startTime="18.63" endTime="32.63">
+<Sync time="18.63"/>
+uh
+</Turn>
+<Turn speaker="S2" startTime="32.63" endTime="44.28">
+<Sync time="32.63"/>
+on my mother
+</Turn>
+</Section>
+<Section type="report" startTime="49.7" endTime="168.98" >
+<Turn speaker="S2" startTime="49.7" endTime="69.13">
+<Sync time="49.7"/>
+i'm on the radio and
+</Turn>
+<Turn speaker="S3" startTime="69.13" endTime="81.89">
+<Sync time="69.13"/>
+and then a a ball five ten dollars
+</Turn>
+<Turn speaker="S4" startTime="81.89" endTime="90.57">
+<Sync time="81.89"/>
+oh oh oh
+</Turn>
+<Turn speaker="S3" startTime="90.57" endTime="96.29">
+<Sync time="90.57"/>
+um
+</Turn>
+<Turn speaker="S4" startTime="96.29" endTime="100.74">
+<Sync time="96.29"/>
+but the
+</Turn>
+<Turn speaker="S3" startTime="100.74" endTime="111.21">
+<Sync time="100.74"/>
+and oh
+</Turn>
+<Turn speaker="S1" startTime="111.21" endTime="118.0">
+<Sync time="111.21"/>
+no
+</Turn>
+<Turn speaker="S2" startTime="118.0" endTime="130.19">
+<Sync time="118.0"/>
+no
+</Turn>
+<Turn speaker="S1" startTime="130.19" endTime="142.36">
+<Sync time="130.19"/>
+no one's going off
+</Turn>
+<Turn speaker="S2" startTime="142.36" endTime="160.11">
+<Sync time="142.36"/>
+uh they were all my life
+</Turn>
+<Turn speaker="S1" startTime="160.11" endTime="168.98">
+<Sync time="160.11"/>
+the
+</Turn>
+</Section>
+<Section type="report" startTime="169.02" endTime="177.12" >
+<Turn speaker="S2" startTime="169.02" endTime="177.12">
+<Sync time="169.02"/>
+um
+</Turn>
+</Section>
+</Episode>
+</Trans>

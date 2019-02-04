@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2727" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="59.75" >
+<Turn speaker="S1" startTime="0.0" endTime="30.0">
+<Sync time="0.0"/>
+and then and then ah those those those are all day
+</Turn>
+<Turn speaker="S2" startTime="30.0" endTime="59.75">
+<Sync time="30.0"/>
+you know in time and they don't they got mad or a little little daniella
+</Turn>
+</Section>
+<Section type="report" startTime="59.83" endTime="64.11" >
+<Turn speaker="S1" startTime="59.83" endTime="64.11">
+<Sync time="59.83"/>
+no
+</Turn>
+</Section>
+</Episode>
+</Trans>

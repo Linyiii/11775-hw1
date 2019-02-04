@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4352" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="65.85" >
+<Turn speaker="S1" startTime="0.0" endTime="2.65">
+<Sync time="0.0"/>
+you're actually get more
+</Turn>
+<Turn speaker="S2" startTime="2.65" endTime="5.86">
+<Sync time="2.65"/>
+and then you're on um pretty much on candid camera
+</Turn>
+<Turn speaker="S3" startTime="5.86" endTime="11.11">
+<Sync time="5.86"/>
+because i have to focus manually inside exposure manually one um
+</Turn>
+<Turn speaker="S4" startTime="11.11" endTime="14.54">
+<Sync time="11.11"/>
+taking a video oh your team video yeah you were like
+</Turn>
+<Turn speaker="S5" startTime="14.54" endTime="19.8">
+<Sync time="14.54"/>
+you know change the uh u._n. everything and we were telling you
+</Turn>
+<Turn speaker="S6" startTime="19.8" endTime="26.44">
+<Sync time="19.8"/>
+i went home still no accounting or some actor you no i don't know um
+</Turn>
+<Turn speaker="S7" startTime="26.44" endTime="31.88">
+<Sync time="26.44"/>
+okay okay i'm not a camera you when i eat 'em on a
+</Turn>
+<Turn speaker="S8" startTime="31.88" endTime="38.16">
+<Sync time="31.88"/>
+i read money i guess if i had no more mommy
+</Turn>
+<Turn speaker="S9" startTime="38.16" endTime="45.05">
+<Sync time="38.16"/>
+terrible terrible i think the worst joke they've ever heard
+</Turn>
+<Turn speaker="S10" startTime="45.05" endTime="48.75">
+<Sync time="45.05"/>
+and then he'd be real bad sort of feel
+</Turn>
+<Turn speaker="S11" startTime="48.75" endTime="52.26">
+<Sync time="48.75"/>
+you can't miss at a mom a b. shootings you sound island
+</Turn>
+<Turn speaker="S12" startTime="52.26" endTime="58.79">
+<Sync time="52.26"/>
+this thing slow you don't get you know and i vote it's korean i don't remember what it is but it's very good
+</Turn>
+<Turn speaker="S13" startTime="58.79" endTime="62.98">
+<Sync time="58.79"/>
+yeah i eat out also
+</Turn>
+<Turn speaker="S14" startTime="62.98" endTime="65.85">
+<Sync time="62.98"/>
+yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

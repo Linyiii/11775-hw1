@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4025" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.19" endTime="17.12" >
+<Turn speaker="S1" startTime="0.19" endTime="4.65">
+<Sync time="0.19"/>
+know
+</Turn>
+<Turn speaker="S2" startTime="4.65" endTime="17.12">
+<Sync time="4.65"/>
+dollars they china johnny dumping joe dimaggio the doppler real models
+</Turn>
+</Section>
+<Section type="report" startTime="26.0" endTime="134.61" >
+<Turn speaker="S2" startTime="26.0" endTime="36.97">
+<Sync time="26.0"/>
+dying in the rye i look back and they got a new way
+</Turn>
+<Turn speaker="S1" startTime="36.97" endTime="51.03">
+<Sync time="36.97"/>
+then they don't want to try to
+</Turn>
+<Turn speaker="S2" startTime="51.03" endTime="76.29">
+<Sync time="51.03"/>
+look out for the common goals for the day around the clock i'm dying james dean but now they they go up
+</Turn>
+<Turn speaker="S1" startTime="76.29" endTime="91.16">
+<Sync time="76.29"/>
+da da da da di di di di
+</Turn>
+<Turn speaker="S2" startTime="91.16" endTime="119.36">
+<Sync time="91.16"/>
+you don't want my i i'm not the not the the
+</Turn>
+<Turn speaker="S1" startTime="119.36" endTime="134.61">
+<Sync time="119.36"/>
+di da da da da da da da da way and
+</Turn>
+</Section>
+<Section type="report" startTime="134.58" endTime="147.31" >
+<Turn speaker="S2" startTime="134.58" endTime="147.31">
+<Sync time="134.58"/>
+they read a little older men john glenn
+</Turn>
+</Section>
+</Episode>
+</Trans>

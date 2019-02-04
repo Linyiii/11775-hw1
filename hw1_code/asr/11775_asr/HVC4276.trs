@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4276" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="6.54" endTime="23.77" >
+<Turn speaker="S1" startTime="6.54" endTime="23.77">
+<Sync time="6.54"/>
+video we're going to have power laptop and what's wrong with this computer chip on the inside of the power jack is loose somewhat open it up and see if i see anything on the jack itself or inside the show what's happening in there and get it fixed up
+</Turn>
+</Section>
+<Section type="report" startTime="30.11" endTime="39.05" >
+<Turn speaker="S1" startTime="30.11" endTime="39.05">
+<Sync time="30.11"/>
+first thing i'd like to do is get a piece of phone so i turn the computer over it doesn't scratch surface of the computer
+</Turn>
+</Section>
+<Section type="report" startTime="40.7" endTime="55.48" >
+<Turn speaker="S1" startTime="40.7" endTime="55.48">
+<Sync time="40.7"/>
+and then first and second thing actually take the battery off and then i like to start taking components out of the machine because i know i'm going to get down to mother board level so to take the memory out hard drive
+</Turn>
+</Section>
+<Section type="report" startTime="55.83" endTime="62.46" >
+<Turn speaker="S1" startTime="55.83" endTime="62.46">
+<Sync time="55.83"/>
+anything that's attached to the mother board that's gonna stop me from getting getting the whole computer apart
+</Turn>
+</Section>
+<Section type="report" startTime="71.21" endTime="75.36" >
+<Turn speaker="S1" startTime="71.21" endTime="75.36">
+<Sync time="71.21"/>
+take a hard drive out here
+</Turn>
+</Section>
+<Section type="report" startTime="75.42" endTime="92.47" >
+<Turn speaker="S1" startTime="75.42" endTime="92.47">
+<Sync time="75.42"/>
+there's computers very dusty on the inside so usually out of a laptop for i um you know give it back to a customer but if i'm gonna take the entire laptop apart i won't clean anything i'll clean it on uh as i go basis so
+</Turn>
+</Section>
+<Section type="report" startTime="98.02" endTime="109.57" >
+<Turn speaker="S1" startTime="98.02" endTime="109.57">
+<Sync time="98.02"/>
+most machines secrets i'd like to do is to get that front tops laid off this allows me to get access to keyboard and screen which are two things i like take off next
+</Turn>
+</Section>
+</Episode>
+</Trans>

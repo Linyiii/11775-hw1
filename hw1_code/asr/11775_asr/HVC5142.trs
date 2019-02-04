@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5142" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="238.82" >
+<Turn speaker="S1" startTime="0.0" endTime="4.64">
+<Sync time="0.0"/>
+thing is sweating news a lot of weight
+</Turn>
+<Turn speaker="S2" startTime="4.64" endTime="27.96">
+<Sync time="4.64"/>
+uh i'm i'm i'm i'm the same thing
+</Turn>
+<Turn speaker="S3" startTime="27.96" endTime="47.89">
+<Sync time="27.96"/>
+to to go
+</Turn>
+<Turn speaker="S4" startTime="47.89" endTime="67.64">
+<Sync time="47.89"/>
+i know and if they go out with a ball and
+</Turn>
+<Turn speaker="S2" startTime="67.64" endTime="79.15">
+<Sync time="67.64"/>
+they they they they're older than me
+</Turn>
+<Turn speaker="S4" startTime="79.15" endTime="98.62">
+<Sync time="79.15"/>
+they are so bad i don't know that um
+</Turn>
+<Turn speaker="S5" startTime="98.62" endTime="113.76">
+<Sync time="98.62"/>
+and like being around on 'em and you and me ah no no no no no uh i'm i'm
+</Turn>
+<Turn speaker="S4" startTime="113.76" endTime="143.08">
+<Sync time="113.76"/>
+uh no know for a fellow that lab
+</Turn>
+<Turn speaker="S6" startTime="143.08" endTime="181.47">
+<Sync time="143.08"/>
+way back when i finally went bang bang and the way back when i go back a plant patio but a lot yeah
+</Turn>
+<Turn speaker="S5" startTime="181.47" endTime="225.83">
+<Sync time="181.47"/>
+on a few bar and a half an hour and a million and i'm a i'm a i'm a minority or are you a a man to a bar but uh no no no no no and uh
+</Turn>
+<Turn speaker="S7" startTime="225.83" endTime="238.82">
+<Sync time="225.83"/>
+oh
+</Turn>
+</Section>
+<Section type="report" startTime="247.53" endTime="261.2" >
+<Turn speaker="S8" startTime="247.53" endTime="261.2">
+<Sync time="247.53"/>
+i i'm turkey and um
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2673" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.07" endTime="19.1" >
+<Turn speaker="S1" startTime="0.07" endTime="5.18">
+<Sync time="0.07"/>
+everyone's got their own car
+</Turn>
+<Turn speaker="S2" startTime="5.18" endTime="12.7">
+<Sync time="5.18"/>
+right
+</Turn>
+<Turn speaker="S1" startTime="12.7" endTime="19.1">
+<Sync time="12.7"/>
+eighty nine my air conditioning vents they don't work adjustable rear view mirror
+</Turn>
+</Section>
+<Section type="report" startTime="24.33" endTime="60.15" >
+<Turn speaker="S1" startTime="24.33" endTime="29.06">
+<Sync time="24.33"/>
+they halogen headlights their water cooled halogen headlines
+</Turn>
+<Turn speaker="S2" startTime="29.06" endTime="41.79">
+<Sync time="29.06"/>
+water from the
+</Turn>
+<Turn speaker="S1" startTime="41.79" endTime="60.15">
+<Sync time="41.79"/>
+on or removed my shift has to roll down the window we always have this little camera feature not features like these i gotta make sure i stay secure
+</Turn>
+</Section>
+<Section type="report" startTime="69.04" endTime="87.73" >
+<Turn speaker="S3" startTime="69.04" endTime="78.06">
+<Sync time="69.04"/>
+mhm
+</Turn>
+<Turn speaker="S1" startTime="78.06" endTime="87.73">
+<Sync time="78.06"/>
+wrong my personal opinion i just blow it up
+</Turn>
+</Section>
+</Episode>
+</Trans>

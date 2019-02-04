@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4280" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.05" endTime="35.39" >
+<Turn speaker="S1" startTime="0.05" endTime="35.39">
+<Sync time="0.05"/>
+hello here at school myself and i thought oh i'm a very happy boats or the uh seemed to be some kind of mixed up because you see there yeah give me the from mistake i can see generals or denice are still shots in so yeah i'm gonna to it back or get my money back and or something but anyway take care bye
+</Turn>
+</Section>
+</Episode>
+</Trans>

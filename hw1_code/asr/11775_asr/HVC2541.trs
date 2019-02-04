@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2541" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="59.89" >
+<Turn speaker="S1" startTime="0.0" endTime="59.89">
+<Sync time="0.0"/>
+i mean it's it's bad it's yesterday mhm no at harold okay shake you you've got to tell me what's wrong with the coffee bad taste no what am i gonna do hi jane austen help me out hates my coffee do you use tastes good is fresh fresh i'll try it jean this coffee delicious you know that um it's not the same time we've been using is it don't just shake your head explain why the coffee so good good okay good as fresh
+</Turn>
+</Section>
+</Episode>
+</Trans>

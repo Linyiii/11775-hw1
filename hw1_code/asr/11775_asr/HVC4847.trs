@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4847" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="206.44" >
+<Turn speaker="S1" startTime="0.0" endTime="93.42">
+<Sync time="0.0"/>
+i lost both of us but frankly oh so you will be happy and know i have an old and you may want few buttons are missing and it doesn't really work to pay them doesn't work out maybe the the vice president but i'm not one for here's one for it it's oh when i was wondering you know can read it
+</Turn>
+<Turn speaker="S2" startTime="93.42" endTime="116.99">
+<Sync time="93.42"/>
+um get me some why is my dream taste like a like fishes or was there uh fishes us in my apple cider explaining
+</Turn>
+<Turn speaker="S1" startTime="116.99" endTime="140.79">
+<Sync time="116.99"/>
+so yeah michael jackson the last one we get together and a no i don't have any children sorry
+</Turn>
+<Turn speaker="S2" startTime="140.79" endTime="159.82">
+<Sync time="140.79"/>
+make a sandwich you know i'm not a big show you put my favorite mayonnaise on the sandwich i keep it in the ventilation system to hide it from you put it back and get word was
+</Turn>
+<Turn speaker="S1" startTime="159.82" endTime="186.58">
+<Sync time="159.82"/>
+i recently watched one of the movies and in my opinion then you're in love him in the west it's a nice
+</Turn>
+<Turn speaker="S2" startTime="186.58" endTime="206.44">
+<Sync time="186.58"/>
+oh i need to poop never mind get a dog maybe harriet tubman i'm expecting a oh she lost one
+</Turn>
+</Section>
+<Section type="report" startTime="206.66" endTime="211.95" >
+<Turn speaker="S1" startTime="206.66" endTime="211.95">
+<Sync time="206.66"/>
+dr right
+</Turn>
+</Section>
+</Episode>
+</Trans>

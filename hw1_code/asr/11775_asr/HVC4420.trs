@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4420" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.79" endTime="11.13" >
+<Turn speaker="S1" startTime="3.79" endTime="11.13">
+<Sync time="3.79"/>
+that mark sorry
+</Turn>
+</Section>
+<Section type="report" startTime="31.26" endTime="53.6" >
+<Turn speaker="S1" startTime="31.26" endTime="37.66">
+<Sync time="31.26"/>
+did you
+</Turn>
+<Turn speaker="S2" startTime="37.66" endTime="50.42">
+<Sync time="37.66"/>
+really really right on the hip
+</Turn>
+<Turn speaker="S1" startTime="50.42" endTime="53.6">
+<Sync time="50.42"/>
+that's much lean kill
+</Turn>
+</Section>
+<Section type="report" startTime="54.99" endTime="72.01" >
+<Turn speaker="S2" startTime="54.99" endTime="72.01">
+<Sync time="54.99"/>
+i do have a lot of training to do it on the edge
+</Turn>
+</Section>
+<Section type="report" startTime="81.15" endTime="84.87" >
+<Turn speaker="S1" startTime="81.15" endTime="84.87">
+<Sync time="81.15"/>
+it can be kind of a weapon like a
+</Turn>
+</Section>
+<Section type="report" startTime="184.38" endTime="230.4" >
+<Turn speaker="S1" startTime="184.38" endTime="197.28">
+<Sync time="184.38"/>
+but it came with the house
+</Turn>
+<Turn speaker="S2" startTime="197.28" endTime="208.87">
+<Sync time="197.28"/>
+know
+</Turn>
+<Turn speaker="S1" startTime="208.87" endTime="216.96">
+<Sync time="208.87"/>
+really we really yeah that works really well
+</Turn>
+<Turn speaker="S3" startTime="216.96" endTime="220.92">
+<Sync time="216.96"/>
+okay
+</Turn>
+<Turn speaker="S1" startTime="220.92" endTime="230.4">
+<Sync time="220.92"/>
+and how well josh in case you play with when they come over now living even more
+</Turn>
+</Section>
+<Section type="report" startTime="235.91" endTime="242.14" >
+<Turn speaker="S1" startTime="235.91" endTime="242.14">
+<Sync time="235.91"/>
+yeah i do it
+</Turn>
+</Section>
+</Episode>
+</Trans>

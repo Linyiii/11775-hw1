@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6029" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="15.41" >
+<Turn speaker="S1" startTime="0.0" endTime="2.77">
+<Sync time="0.0"/>
+yeah and
+</Turn>
+<Turn speaker="S2" startTime="2.77" endTime="11.11">
+<Sync time="2.77"/>
+um i think a um or
+</Turn>
+<Turn speaker="S3" startTime="11.11" endTime="15.41">
+<Sync time="11.11"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="51.44" endTime="57.91" >
+<Turn speaker="S2" startTime="51.44" endTime="57.91">
+<Sync time="51.44"/>
+yeah that's what i tell ya get jobs
+</Turn>
+</Section>
+</Episode>
+</Trans>

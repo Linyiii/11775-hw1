@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5643" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.06" endTime="6.03" >
+<Turn speaker="S1" startTime="0.06" endTime="6.03">
+<Sync time="0.06"/>
+pardon
+</Turn>
+</Section>
+<Section type="report" startTime="45.85" endTime="193.27" >
+<Turn speaker="S2" startTime="45.85" endTime="108.28">
+<Sync time="45.85"/>
+my is making money on a face and they don't you know i got my head you know a bummer
+</Turn>
+<Turn speaker="S3" startTime="108.28" endTime="120.61">
+<Sync time="108.28"/>
+yeah
+</Turn>
+<Turn speaker="S2" startTime="120.61" endTime="193.27">
+<Sync time="120.61"/>
+no no no way but they're not doing nothing no no no no
+</Turn>
+</Section>
+</Episode>
+</Trans>

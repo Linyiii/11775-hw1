@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4773" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="25.11" >
+<Turn speaker="S1" startTime="0.04" endTime="25.11">
+<Sync time="0.04"/>
+you're rushing and get your feet on pedals go you gotta get up enough
+</Turn>
+</Section>
+<Section type="report" startTime="34.01" endTime="47.0" >
+<Turn speaker="S1" startTime="34.01" endTime="47.0">
+<Sync time="34.01"/>
+my thought was wow oh
+</Turn>
+</Section>
+<Section type="report" startTime="60.35" endTime="69.78" >
+<Turn speaker="S1" startTime="60.35" endTime="66.77">
+<Sync time="60.35"/>
+right um
+</Turn>
+<Turn speaker="S2" startTime="66.77" endTime="69.78">
+<Sync time="66.77"/>
+hey look you're riding a bike
+</Turn>
+</Section>
+<Section type="report" startTime="72.96" endTime="134.56" >
+<Turn speaker="S2" startTime="72.96" endTime="79.05">
+<Sync time="72.96"/>
+oh you're almost here what are you doing baby girl
+</Turn>
+<Turn speaker="S1" startTime="79.05" endTime="93.68">
+<Sync time="79.05"/>
+um you always look up look straight ahead don't look down look up
+</Turn>
+<Turn speaker="S3" startTime="93.68" endTime="99.91">
+<Sync time="93.68"/>
+watching take off
+</Turn>
+<Turn speaker="S1" startTime="99.91" endTime="105.23">
+<Sync time="99.91"/>
+go go go go go no right
+</Turn>
+<Turn speaker="S2" startTime="105.23" endTime="112.11">
+<Sync time="105.23"/>
+get a bigger bike that the the too small too small
+</Turn>
+<Turn speaker="S1" startTime="112.11" endTime="134.56">
+<Sync time="112.11"/>
+the bigger bike oh really i didn't know what to look up look down on the news so
+</Turn>
+</Section>
+</Episode>
+</Trans>

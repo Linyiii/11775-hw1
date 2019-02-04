@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5385" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="4.88" >
+<Turn speaker="S1" startTime="0.04" endTime="4.88">
+<Sync time="0.04"/>
+who is not that level
+</Turn>
+</Section>
+<Section type="report" startTime="7.78" endTime="32.06" >
+<Turn speaker="S2" startTime="7.78" endTime="13.44">
+<Sync time="7.78"/>
+mhm
+</Turn>
+<Turn speaker="S3" startTime="13.44" endTime="20.51">
+<Sync time="13.44"/>
+uh like i might uh
+</Turn>
+<Turn speaker="S4" startTime="20.51" endTime="24.86">
+<Sync time="20.51"/>
+oh no it's just that i'm pretty good on
+</Turn>
+<Turn speaker="S5" startTime="24.86" endTime="32.06">
+<Sync time="24.86"/>
+see
+</Turn>
+</Section>
+</Episode>
+</Trans>

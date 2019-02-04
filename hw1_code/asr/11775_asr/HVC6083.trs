@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC6083" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S15" name="K15" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S16" name="K16" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S17" name="K17" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S18" name="K18" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S19" name="K19" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S20" name="K20" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S21" name="K21" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S22" name="K22" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S23" name="K23" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S24" name="K24" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S25" name="K25" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S26" name="K26" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S27" name="K27" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S28" name="K28" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S29" name="K29" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S30" name="K30" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S31" name="K31" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S32" name="K32" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S33" name="K33" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S34" name="K34" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S35" name="K35" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S36" name="K36" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S37" name="K37" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S38" name="K38" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S39" name="K39" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S40" name="K40" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S41" name="K41" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S42" name="K42" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S43" name="K43" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S44" name="K44" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S45" name="K45" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S46" name="K46" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S47" name="K47" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S48" name="K48" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S49" name="K49" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S50" name="K50" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S51" name="K51" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S52" name="K52" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="10.51" endTime="279.21" >
+<Turn speaker="S1" startTime="10.51" endTime="24.66">
+<Sync time="10.51"/>
+yeah um
+</Turn>
+<Turn speaker="S2" startTime="24.66" endTime="31.57">
+<Sync time="24.66"/>
+mhm mhm mhm
+</Turn>
+<Turn speaker="S3" startTime="31.57" endTime="36.28">
+<Sync time="31.57"/>
+yeah
+</Turn>
+<Turn speaker="S4" startTime="36.28" endTime="40.01">
+<Sync time="36.28"/>
+yeah
+</Turn>
+<Turn speaker="S5" startTime="40.01" endTime="42.93">
+<Sync time="40.01"/>
+and then and
+</Turn>
+<Turn speaker="S6" startTime="42.93" endTime="50.81">
+<Sync time="42.93"/>
+and um
+</Turn>
+<Turn speaker="S7" startTime="50.81" endTime="53.77">
+<Sync time="50.81"/>
+yea right
+</Turn>
+<Turn speaker="S8" startTime="53.77" endTime="59.95">
+<Sync time="53.77"/>
+but um
+</Turn>
+<Turn speaker="S9" startTime="59.95" endTime="62.63">
+<Sync time="59.95"/>
+yeah
+</Turn>
+<Turn speaker="S10" startTime="62.63" endTime="65.73">
+<Sync time="62.63"/>
+my my ah
+</Turn>
+<Turn speaker="S11" startTime="65.73" endTime="71.71">
+<Sync time="65.73"/>
+nah nah nah nah
+</Turn>
+<Turn speaker="S12" startTime="71.71" endTime="76.64">
+<Sync time="71.71"/>
+mm mm
+</Turn>
+<Turn speaker="S13" startTime="76.64" endTime="82.27">
+<Sync time="76.64"/>
+nah nah nah
+</Turn>
+<Turn speaker="S14" startTime="82.27" endTime="87.84">
+<Sync time="82.27"/>
+uh yeah
+</Turn>
+<Turn speaker="S15" startTime="87.84" endTime="91.1">
+<Sync time="87.84"/>
+and uh
+</Turn>
+<Turn speaker="S16" startTime="91.1" endTime="104.6">
+<Sync time="91.1"/>
+yeah that there are and
+</Turn>
+<Turn speaker="S17" startTime="104.6" endTime="115.37">
+<Sync time="104.6"/>
+nah nah nah and and and
+</Turn>
+<Turn speaker="S18" startTime="115.37" endTime="123.07">
+<Sync time="115.37"/>
+nah nah nah
+</Turn>
+<Turn speaker="S19" startTime="123.07" endTime="126.24">
+<Sync time="123.07"/>
+and then
+</Turn>
+<Turn speaker="S20" startTime="126.24" endTime="137.08">
+<Sync time="126.24"/>
+nah nah nah nah there
+</Turn>
+<Turn speaker="S21" startTime="137.08" endTime="140.81">
+<Sync time="137.08"/>
+mm mm
+</Turn>
+<Turn speaker="S22" startTime="140.81" endTime="152.11">
+<Sync time="140.81"/>
+um i'm a uh uh i
+</Turn>
+<Turn speaker="S23" startTime="152.11" endTime="155.23">
+<Sync time="152.11"/>
+oh man oh man um
+</Turn>
+<Turn speaker="S24" startTime="155.23" endTime="160.19">
+<Sync time="155.23"/>
+and you're using a day
+</Turn>
+<Turn speaker="S25" startTime="160.19" endTime="163.19">
+<Sync time="160.19"/>
+and um
+</Turn>
+<Turn speaker="S26" startTime="163.19" endTime="166.05">
+<Sync time="163.19"/>
+huh
+</Turn>
+<Turn speaker="S27" startTime="166.05" endTime="169.14">
+<Sync time="166.05"/>
+and uh
+</Turn>
+<Turn speaker="S28" startTime="169.14" endTime="171.81">
+<Sync time="169.14"/>
+and uh
+</Turn>
+<Turn speaker="S29" startTime="171.81" endTime="181.65">
+<Sync time="171.81"/>
+mhm and and you know
+</Turn>
+<Turn speaker="S30" startTime="181.65" endTime="186.65">
+<Sync time="181.65"/>
+um and uh
+</Turn>
+<Turn speaker="S31" startTime="186.65" endTime="190.05">
+<Sync time="186.65"/>
+and ah
+</Turn>
+<Turn speaker="S32" startTime="190.05" endTime="199.69">
+<Sync time="190.05"/>
+and uh
+</Turn>
+<Turn speaker="S33" startTime="199.69" endTime="204.34">
+<Sync time="199.69"/>
+and
+</Turn>
+<Turn speaker="S34" startTime="204.34" endTime="213.43">
+<Sync time="204.34"/>
+nah
+</Turn>
+<Turn speaker="S35" startTime="213.43" endTime="230.99">
+<Sync time="213.43"/>
+uh um
+</Turn>
+<Turn speaker="S36" startTime="230.99" endTime="239.79">
+<Sync time="230.99"/>
+mhm do um and and um
+</Turn>
+<Turn speaker="S37" startTime="239.79" endTime="245.63">
+<Sync time="239.79"/>
+and uh
+</Turn>
+<Turn speaker="S38" startTime="245.63" endTime="248.95">
+<Sync time="245.63"/>
+oh no no no
+</Turn>
+<Turn speaker="S39" startTime="248.95" endTime="253.24">
+<Sync time="248.95"/>
+and then and then
+</Turn>
+<Turn speaker="S40" startTime="253.24" endTime="258.69">
+<Sync time="253.24"/>
+nah nah
+</Turn>
+<Turn speaker="S41" startTime="258.69" endTime="264.7">
+<Sync time="258.69"/>
+yeah and then uh
+</Turn>
+<Turn speaker="S42" startTime="264.7" endTime="267.58">
+<Sync time="264.7"/>
+my um
+</Turn>
+<Turn speaker="S43" startTime="267.58" endTime="272.15">
+<Sync time="267.58"/>
+nah nah nah nah
+</Turn>
+<Turn speaker="S44" startTime="272.15" endTime="276.4">
+<Sync time="272.15"/>
+nah
+</Turn>
+<Turn speaker="S45" startTime="276.4" endTime="279.21">
+<Sync time="276.4"/>
+and uh
+</Turn>
+</Section>
+<Section type="report" startTime="287.69" endTime="334.12" >
+<Turn speaker="S46" startTime="287.69" endTime="291.84">
+<Sync time="287.69"/>
+and uh
+</Turn>
+<Turn speaker="S47" startTime="291.84" endTime="298.68">
+<Sync time="291.84"/>
+and uh
+</Turn>
+<Turn speaker="S48" startTime="298.68" endTime="301.88">
+<Sync time="298.68"/>
+and
+</Turn>
+<Turn speaker="S49" startTime="301.88" endTime="309.2">
+<Sync time="301.88"/>
+nah uh uh uh uh
+</Turn>
+<Turn speaker="S50" startTime="309.2" endTime="314.58">
+<Sync time="309.2"/>
+mm mm mm mm
+</Turn>
+<Turn speaker="S51" startTime="314.58" endTime="319.91">
+<Sync time="314.58"/>
+mhm
+</Turn>
+<Turn speaker="S52" startTime="319.91" endTime="334.12">
+<Sync time="319.91"/>
+and and mm mm mm mm
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5999" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="35.58" >
+<Turn speaker="S1" startTime="0.0" endTime="3.51">
+<Sync time="0.0"/>
+hey yeah of that around there
+</Turn>
+<Turn speaker="S2" startTime="3.51" endTime="6.92">
+<Sync time="3.51"/>
+everybody ready have either
+</Turn>
+<Turn speaker="S3" startTime="6.92" endTime="11.14">
+<Sync time="6.92"/>
+and he uh ah ah
+</Turn>
+<Turn speaker="S4" startTime="11.14" endTime="15.45">
+<Sync time="11.14"/>
+yeah i mean
+</Turn>
+<Turn speaker="S5" startTime="15.45" endTime="22.95">
+<Sync time="15.45"/>
+and yeah um any um any like a dinner every year
+</Turn>
+<Turn speaker="S6" startTime="22.95" endTime="35.58">
+<Sync time="22.95"/>
+yeah that'd be a blow out your candles and can you
+</Turn>
+</Section>
+<Section type="report" startTime="40.33" endTime="49.82" >
+<Turn speaker="S7" startTime="40.33" endTime="43.94">
+<Sync time="40.33"/>
+oh
+</Turn>
+<Turn speaker="S8" startTime="43.94" endTime="49.82">
+<Sync time="43.94"/>
+i go on the airplane army oh well they're playing on the airplane
+</Turn>
+</Section>
+<Section type="report" startTime="52.57" endTime="79.9" >
+<Turn speaker="S9" startTime="52.57" endTime="58.74">
+<Sync time="52.57"/>
+oh really hard she's oh my god
+</Turn>
+<Turn speaker="S10" startTime="58.74" endTime="65.47">
+<Sync time="58.74"/>
+well mine are doing she'll do it abby well on a airplane
+</Turn>
+<Turn speaker="S11" startTime="65.47" endTime="68.99">
+<Sync time="65.47"/>
+i mean you can do it oh okay
+</Turn>
+<Turn speaker="S12" startTime="68.99" endTime="73.99">
+<Sync time="68.99"/>
+evidently i mean look at the same you could blow it out
+</Turn>
+<Turn speaker="S13" startTime="73.99" endTime="79.9">
+<Sync time="73.99"/>
+fine but you see
+</Turn>
+</Section>
+</Episode>
+</Trans>

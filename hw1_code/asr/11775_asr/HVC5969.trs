@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5969" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="52.08" >
+<Turn speaker="S1" startTime="0.0" endTime="24.78">
+<Sync time="0.0"/>
+yeah you know
+</Turn>
+<Turn speaker="S2" startTime="24.78" endTime="48.4">
+<Sync time="24.78"/>
+no it's only forty one month room all
+</Turn>
+<Turn speaker="S1" startTime="48.4" endTime="52.08">
+<Sync time="48.4"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="55.16" endTime="85.35" >
+<Turn speaker="S1" startTime="55.16" endTime="74.42">
+<Sync time="55.16"/>
+that's right
+</Turn>
+<Turn speaker="S3" startTime="74.42" endTime="85.35">
+<Sync time="74.42"/>
+i'm not a time
+</Turn>
+</Section>
+<Section type="report" startTime="96.21" endTime="100.09" >
+<Turn speaker="S3" startTime="96.21" endTime="100.09">
+<Sync time="96.21"/>
+okay
+</Turn>
+</Section>
+</Episode>
+</Trans>

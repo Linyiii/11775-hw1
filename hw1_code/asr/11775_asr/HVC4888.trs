@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4888" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.1" endTime="136.02" >
+<Turn speaker="S1" startTime="0.1" endTime="14.74">
+<Sync time="0.1"/>
+i don't see them out of here
+</Turn>
+<Turn speaker="S2" startTime="14.74" endTime="53.95">
+<Sync time="14.74"/>
+and now that you know i know that no i haven't gotten around to turn around and they'll never care for that i know on the owners would you want to know that you know
+</Turn>
+<Turn speaker="S3" startTime="53.95" endTime="111.69">
+<Sync time="53.95"/>
+three seven dollars i no i didn't know how long have you go you know you know i don't know if you got me me gel slightly tightening lighten the like because i don't know i'm sure yeah yeah
+</Turn>
+<Turn speaker="S2" startTime="111.69" endTime="118.93">
+<Sync time="111.69"/>
+yeah i was on
+</Turn>
+<Turn speaker="S3" startTime="118.93" endTime="136.02">
+<Sync time="118.93"/>
+on the phone but when the the pillow diabetes in your average some bowling or any
+</Turn>
+</Section>
+<Section type="report" startTime="135.84" endTime="136.59" >
+<Turn speaker="S1" startTime="135.84" endTime="136.59">
+<Sync time="135.84"/>
+you
+</Turn>
+</Section>
+</Episode>
+</Trans>

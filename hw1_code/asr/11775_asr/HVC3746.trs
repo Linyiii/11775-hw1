@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3746" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="125.6" >
+<Turn speaker="S1" startTime="0.0" endTime="11.52">
+<Sync time="0.0"/>
+right yeah you must think we still you know like wasn't paying attention you know
+</Turn>
+<Turn speaker="S2" startTime="11.52" endTime="25.23">
+<Sync time="11.52"/>
+thank i started you know tables joke about the come down and got my life not really a lot
+</Turn>
+<Turn speaker="S3" startTime="25.23" endTime="31.38">
+<Sync time="25.23"/>
+it's a thousand something
+</Turn>
+<Turn speaker="S4" startTime="31.38" endTime="36.93">
+<Sync time="31.38"/>
+family family uh i learned how to play
+</Turn>
+<Turn speaker="S2" startTime="36.93" endTime="78.66">
+<Sync time="36.93"/>
+actually i don't know how to play with the um the um electronic you know years ago when he first came out and i'm like playing it taught me you know and then i started going to i play like my days off or before work being lower on the plane you know for our two hours you know and uh you know playing that one
+</Turn>
+<Turn speaker="S1" startTime="78.66" endTime="80.87">
+<Sync time="78.66"/>
+yes
+</Turn>
+<Turn speaker="S3" startTime="80.87" endTime="86.44">
+<Sync time="80.87"/>
+you can take like a person's personal you know
+</Turn>
+<Turn speaker="S5" startTime="86.44" endTime="103.69">
+<Sync time="86.44"/>
+you know or
+</Turn>
+<Turn speaker="S3" startTime="103.69" endTime="117.45">
+<Sync time="103.69"/>
+so uh that's what makes it so as a legal like real people and so it's like a skill to do it you can just sort of skill
+</Turn>
+<Turn speaker="S1" startTime="117.45" endTime="122.17">
+<Sync time="117.45"/>
+yeah you're right
+</Turn>
+<Turn speaker="S2" startTime="122.17" endTime="125.6">
+<Sync time="122.17"/>
+we've got we've got
+</Turn>
+</Section>
+<Section type="report" startTime="125.83" endTime="137.16" >
+<Turn speaker="S4" startTime="125.83" endTime="137.16">
+<Sync time="125.83"/>
+yeah yeah sure man
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4789" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="31.48" >
+<Turn speaker="S1" startTime="0.0" endTime="31.48">
+<Sync time="0.0"/>
+and then not turn turn turn around the job what do have to write any more honey it's video which the spiderman riding
+</Turn>
+</Section>
+<Section type="report" startTime="35.37" endTime="96.86" >
+<Turn speaker="S1" startTime="35.37" endTime="61.53">
+<Sync time="35.37"/>
+then it's going to get her camera too i think mine so can you give us you wanna ride what what you never good you're kidding me
+</Turn>
+<Turn speaker="S2" startTime="61.53" endTime="87.15">
+<Sync time="61.53"/>
+i just turn around in circles around here i see the gum towards me do another come round here around me there you go you you don't have to turn that around here me around here
+</Turn>
+<Turn speaker="S3" startTime="87.15" endTime="96.86">
+<Sync time="87.15"/>
+amazing
+</Turn>
+</Section>
+<Section type="report" startTime="126.42" endTime="139.49" >
+<Turn speaker="S3" startTime="126.42" endTime="139.49">
+<Sync time="126.42"/>
+yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

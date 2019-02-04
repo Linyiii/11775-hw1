@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3224" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.06" endTime="159.27" >
+<Turn speaker="S1" startTime="0.06" endTime="41.59">
+<Sync time="0.06"/>
+mm mm mm mm mm i don't know i i'm i i'm oh you are not so good you know don't try to say a single word just here with me is you can
+</Turn>
+<Turn speaker="S2" startTime="41.59" endTime="57.55">
+<Sync time="41.59"/>
+uh uh uh uh
+</Turn>
+<Turn speaker="S1" startTime="57.55" endTime="92.57">
+<Sync time="57.55"/>
+so your mind and you can count on eliminating waiting for them are so good they decide to take me a hand for i'm i we will go over backwards can say so good
+</Turn>
+<Turn speaker="S2" startTime="92.57" endTime="108.7">
+<Sync time="92.57"/>
+uh a mom and uh i'm uh
+</Turn>
+<Turn speaker="S1" startTime="108.7" endTime="110.98">
+<Sync time="108.7"/>
+good
+</Turn>
+<Turn speaker="S3" startTime="110.98" endTime="125.99">
+<Sync time="110.98"/>
+and
+</Turn>
+<Turn speaker="S1" startTime="125.99" endTime="127.1">
+<Sync time="125.99"/>
+good
+</Turn>
+<Turn speaker="S4" startTime="127.1" endTime="151.45">
+<Sync time="127.1"/>
+um my mom's mom or a bar
+</Turn>
+<Turn speaker="S1" startTime="151.45" endTime="159.27">
+<Sync time="151.45"/>
+mm mm
+</Turn>
+</Section>
+</Episode>
+</Trans>

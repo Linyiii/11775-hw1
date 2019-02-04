@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2615" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.07" endTime="14.19" >
+<Turn speaker="S1" startTime="0.07" endTime="4.8">
+<Sync time="0.07"/>
+i bet that was the other day i said look i'm
+</Turn>
+<Turn speaker="S2" startTime="4.8" endTime="7.41">
+<Sync time="4.8"/>
+i didn't know what you're saying
+</Turn>
+<Turn speaker="S3" startTime="7.41" endTime="10.66">
+<Sync time="7.41"/>
+well not on so
+</Turn>
+<Turn speaker="S4" startTime="10.66" endTime="14.19">
+<Sync time="10.66"/>
+somebody that listens ring one around here
+</Turn>
+</Section>
+</Episode>
+</Trans>

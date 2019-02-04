@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5260" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="9.58" endTime="182.93" >
+<Turn speaker="S1" startTime="9.58" endTime="23.73">
+<Sync time="9.58"/>
+uh
+</Turn>
+<Turn speaker="S2" startTime="23.73" endTime="43.82">
+<Sync time="23.73"/>
+oh no
+</Turn>
+<Turn speaker="S3" startTime="43.82" endTime="49.42">
+<Sync time="43.82"/>
+may may be a mess
+</Turn>
+<Turn speaker="S4" startTime="49.42" endTime="62.02">
+<Sync time="49.42"/>
+half an hour and ten
+</Turn>
+<Turn speaker="S2" startTime="62.02" endTime="85.0">
+<Sync time="62.02"/>
+but i don't know like yeah oh well i uh oh
+</Turn>
+<Turn speaker="S3" startTime="85.0" endTime="90.47">
+<Sync time="85.0"/>
+may may make you know
+</Turn>
+<Turn speaker="S4" startTime="90.47" endTime="103.36">
+<Sync time="90.47"/>
+yeah i am but um
+</Turn>
+<Turn speaker="S2" startTime="103.36" endTime="126.55">
+<Sync time="103.36"/>
+wow
+</Turn>
+<Turn speaker="S3" startTime="126.55" endTime="134.73">
+<Sync time="126.55"/>
+may be moving at home all
+</Turn>
+<Turn speaker="S4" startTime="134.73" endTime="182.93">
+<Sync time="134.73"/>
+no no no no no no no
+</Turn>
+</Section>
+</Episode>
+</Trans>

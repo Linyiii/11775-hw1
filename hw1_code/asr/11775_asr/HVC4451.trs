@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4451" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.22" endTime="86.96" >
+<Turn speaker="S1" startTime="0.22" endTime="28.37">
+<Sync time="0.22"/>
+a week i'll buy a._b._c. c._b._s. and n._b._c. right now we have read practicing singing that's right or media also than actually going to take dance lesson to step out there i had on a street stocks again for the fourth street day enron was dances with business number snake commercial hardwood floors and continues to lead the way
+</Turn>
+<Turn speaker="S2" startTime="28.37" endTime="86.96">
+<Sync time="28.37"/>
+the reduction for the best price collections now offering more appreciation day off of march more intellectual domestic you don't pay me a better time to buy a hardwood floor hurry nosy and we are much more than thirty first missed out on me to savings and support any manufacturer dealer here you put your side roger okay let's go let's go let's get the what the rush back and change like and now on your own personal time window in the office running my so find another copy you can open email attachment windows
+</Turn>
+</Section>
+<Section type="report" startTime="86.72" endTime="90.0" >
+<Turn speaker="S1" startTime="86.72" endTime="90.0">
+<Sync time="86.72"/>
+six
+</Turn>
+</Section>
+</Episode>
+</Trans>

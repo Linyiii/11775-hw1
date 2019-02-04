@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5978" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.31" endTime="43.36" >
+<Turn speaker="S1" startTime="0.31" endTime="4.37">
+<Sync time="0.31"/>
+yeah yeah
+</Turn>
+<Turn speaker="S2" startTime="4.37" endTime="16.42">
+<Sync time="4.37"/>
+you know i like bulb and everything that was like on my own rather than the regular him you don't got on and on the way he got um
+</Turn>
+<Turn speaker="S3" startTime="16.42" endTime="24.77">
+<Sync time="16.42"/>
+i didn't come off oh man
+</Turn>
+<Turn speaker="S4" startTime="24.77" endTime="27.36">
+<Sync time="24.77"/>
+oh man uh
+</Turn>
+<Turn speaker="S5" startTime="27.36" endTime="40.29">
+<Sync time="27.36"/>
+yeah you do you guys day um
+</Turn>
+<Turn speaker="S6" startTime="40.29" endTime="43.36">
+<Sync time="40.29"/>
+yeah
+</Turn>
+</Section>
+<Section type="report" startTime="50.72" endTime="68.85" >
+<Turn speaker="S7" startTime="50.72" endTime="62.57">
+<Sync time="50.72"/>
+i know you don't mind on having any too
+</Turn>
+<Turn speaker="S8" startTime="62.57" endTime="68.85">
+<Sync time="62.57"/>
+yeah well
+</Turn>
+</Section>
+</Episode>
+</Trans>

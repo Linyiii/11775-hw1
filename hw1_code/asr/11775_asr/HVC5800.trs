@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5800" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="40.18" endTime="48.13" >
+<Turn speaker="S1" startTime="40.18" endTime="48.13">
+<Sync time="40.18"/>
+well i guess
+</Turn>
+</Section>
+<Section type="report" startTime="66.16" endTime="77.5" >
+<Turn speaker="S1" startTime="66.16" endTime="77.5">
+<Sync time="66.16"/>
+and she bought was gonna be
+</Turn>
+</Section>
+<Section type="report" startTime="98.95" endTime="116.92" >
+<Turn speaker="S2" startTime="98.95" endTime="112.73">
+<Sync time="98.95"/>
+but
+</Turn>
+<Turn speaker="S1" startTime="112.73" endTime="116.92">
+<Sync time="112.73"/>
+that's not bad not bad
+</Turn>
+</Section>
+</Episode>
+</Trans>

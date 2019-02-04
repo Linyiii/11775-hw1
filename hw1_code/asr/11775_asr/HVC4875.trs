@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4875" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="79.94" >
+<Turn speaker="S1" startTime="0.0" endTime="15.81">
+<Sync time="0.0"/>
+okay nothing is that hurting you should probably have gotten a bag or something
+</Turn>
+<Turn speaker="S2" startTime="15.81" endTime="30.85">
+<Sync time="15.81"/>
+this guy pink panther he's
+</Turn>
+<Turn speaker="S1" startTime="30.85" endTime="53.79">
+<Sync time="30.85"/>
+and like so different from that in my time why should i have you know we only that yeah
+</Turn>
+<Turn speaker="S3" startTime="53.79" endTime="61.3">
+<Sync time="53.79"/>
+a little more of that now
+</Turn>
+<Turn speaker="S1" startTime="61.3" endTime="79.94">
+<Sync time="61.3"/>
+well yeah you're right here she's a little bit yeah russian and she's making her whole eventually all even
+</Turn>
+</Section>
+<Section type="report" startTime="91.85" endTime="107.18" >
+<Turn speaker="S4" startTime="91.85" endTime="98.03">
+<Sync time="91.85"/>
+i mean like i said it was better okay
+</Turn>
+<Turn speaker="S2" startTime="98.03" endTime="107.18">
+<Sync time="98.03"/>
+anybody else let me have you had to you know
+</Turn>
+</Section>
+<Section type="report" startTime="107.19" endTime="121.68" >
+<Turn speaker="S4" startTime="107.19" endTime="121.68">
+<Sync time="107.19"/>
+no no
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5728" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="9.94" endTime="24.61" >
+<Turn speaker="S1" startTime="9.94" endTime="24.61">
+<Sync time="9.94"/>
+yeah yeah revenge health
+</Turn>
+</Section>
+<Section type="report" startTime="44.77" endTime="72.0" >
+<Turn speaker="S2" startTime="44.77" endTime="48.34">
+<Sync time="44.77"/>
+another season
+</Turn>
+<Turn speaker="S3" startTime="48.34" endTime="57.59">
+<Sync time="48.34"/>
+i keep thinking
+</Turn>
+<Turn speaker="S1" startTime="57.59" endTime="62.98">
+<Sync time="57.59"/>
+have you know
+</Turn>
+<Turn speaker="S3" startTime="62.98" endTime="68.73">
+<Sync time="62.98"/>
+like
+</Turn>
+<Turn speaker="S1" startTime="68.73" endTime="72.0">
+<Sync time="68.73"/>
+no three miles
+</Turn>
+</Section>
+</Episode>
+</Trans>

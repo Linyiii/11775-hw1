@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2685" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="1.01" endTime="2.88" >
+<Turn speaker="S1" startTime="1.01" endTime="2.88">
+<Sync time="1.01"/>
+welcome to start cooking dot com
+</Turn>
+</Section>
+<Section type="report" startTime="3.1" endTime="48.06" >
+<Turn speaker="S2" startTime="3.1" endTime="9.35">
+<Sync time="3.1"/>
+today we're grilling chicken indoor
+</Turn>
+<Turn speaker="S1" startTime="9.35" endTime="48.06">
+<Sync time="9.35"/>
+reading a waiting list is that the individuality and these boneless skinless chicken breasts each way about five minutes before season them flatten them just to be the same thickness and will cook even like chicken shiny side up that's inside where the skin was a piece of plastic wrap over the chicken and gently pound chicken until it's equal thickness route if you don't have meat pounder handle do the trick in a small bowl mixed together three fourths teaspoon of salt a tablespoon of brown and white sugar garlic powder and a half a teaspoon of onion powder
+</Turn>
+</Section>
+<Section type="report" startTime="48.67" endTime="51.86" >
+<Turn speaker="S1" startTime="48.67" endTime="51.86">
+<Sync time="48.67"/>
+a mixture of both sides of the chicken
+</Turn>
+</Section>
+<Section type="report" startTime="52.15" endTime="78.12" >
+<Turn speaker="S1" startTime="52.15" endTime="78.12">
+<Sync time="52.15"/>
+these grill pants are perfect for indoor grilling you can use oil but pan means you don't have to which makes things a lot healthier if you don't have a grill pan and regular stick fry pan will work but you won't get the traditional grill marks on your chicken springfield a few drops of water and set it on the stove to medium temperature when the water evaporated japan is ready to start cooking
+</Turn>
+</Section>
+<Section type="report" startTime="78.52" endTime="90.0" >
+<Turn speaker="S1" startTime="78.52" endTime="90.0">
+<Sync time="78.52"/>
+the chicken fan shiny side down so that is the first five minutes don't touch the chicken if you move it around you'll never get those beautiful
+</Turn>
+</Section>
+</Episode>
+</Trans>

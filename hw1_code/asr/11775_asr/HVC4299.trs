@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4299" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="7.65" endTime="67.81" >
+<Turn speaker="S1" startTime="7.65" endTime="67.81">
+<Sync time="7.65"/>
+who driver driver me right which way way
+</Turn>
+</Section>
+<Section type="report" startTime="98.54" endTime="103.47" >
+<Turn speaker="S1" startTime="98.54" endTime="103.47">
+<Sync time="98.54"/>
+we do the best i
+</Turn>
+</Section>
+<Section type="report" startTime="109.7" endTime="187.85" >
+<Turn speaker="S1" startTime="109.7" endTime="112.6">
+<Sync time="109.7"/>
+just for jobs
+</Turn>
+<Turn speaker="S2" startTime="112.6" endTime="187.85">
+<Sync time="112.6"/>
+actually mother's why water that's the way to make a little higher than
+</Turn>
+</Section>
+<Section type="report" startTime="202.62" endTime="246.88" >
+<Turn speaker="S2" startTime="202.62" endTime="246.88">
+<Sync time="202.62"/>
+actually actually actually actually
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2719" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.19" endTime="120.3" >
+<Turn speaker="S1" startTime="0.19" endTime="9.99">
+<Sync time="0.19"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="9.99" endTime="33.46">
+<Sync time="9.99"/>
+no
+</Turn>
+<Turn speaker="S3" startTime="33.46" endTime="88.09">
+<Sync time="33.46"/>
+no i don't you know what i mean and my hair spray or brain just man to be to to be my ideal meal
+</Turn>
+<Turn speaker="S2" startTime="88.09" endTime="116.78">
+<Sync time="88.09"/>
+to do that
+</Turn>
+<Turn speaker="S3" startTime="116.78" endTime="120.3">
+<Sync time="116.78"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="121.34" endTime="216.74" >
+<Turn speaker="S2" startTime="121.34" endTime="133.84">
+<Sync time="121.34"/>
+and and all that
+</Turn>
+<Turn speaker="S3" startTime="133.84" endTime="190.09">
+<Sync time="133.84"/>
+no i get all come out and you're going to read it all new to me you know
+</Turn>
+<Turn speaker="S2" startTime="190.09" endTime="216.74">
+<Sync time="190.09"/>
+we're in and and how long
+</Turn>
+</Section>
+<Section type="report" startTime="220.57" endTime="266.74" >
+<Turn speaker="S4" startTime="220.57" endTime="221.43">
+<Sync time="220.57"/>
+no
+</Turn>
+<Turn speaker="S5" startTime="221.43" endTime="243.66">
+<Sync time="221.43"/>
+they day
+</Turn>
+<Turn speaker="S1" startTime="243.66" endTime="253.57">
+<Sync time="243.66"/>
+no
+</Turn>
+<Turn speaker="S6" startTime="253.57" endTime="266.74">
+<Sync time="253.57"/>
+no
+</Turn>
+</Section>
+<Section type="report" startTime="274.85" endTime="311.94" >
+<Turn speaker="S2" startTime="274.85" endTime="292.51">
+<Sync time="274.85"/>
+no no
+</Turn>
+<Turn speaker="S3" startTime="292.51" endTime="296.64">
+<Sync time="292.51"/>
+um
+</Turn>
+<Turn speaker="S4" startTime="296.64" endTime="309.26">
+<Sync time="296.64"/>
+ah
+</Turn>
+<Turn speaker="S2" startTime="309.26" endTime="311.94">
+<Sync time="309.26"/>
+the um
+</Turn>
+</Section>
+</Episode>
+</Trans>

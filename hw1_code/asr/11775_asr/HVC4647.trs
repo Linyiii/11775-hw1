@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4647" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S10" name="K10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S11" name="K11" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S12" name="K12" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S13" name="K13" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S14" name="K14" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S15" name="K15" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S8" name="K8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S9" name="K9" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.11" endTime="8.02" >
+<Turn speaker="S1" startTime="0.11" endTime="3.6">
+<Sync time="0.11"/>
+and show me how you see the guy in
+</Turn>
+<Turn speaker="S2" startTime="3.6" endTime="8.02">
+<Sync time="3.6"/>
+we have to stand out here can you show me how to feed him put some in your hand
+</Turn>
+</Section>
+<Section type="report" startTime="12.2" endTime="46.89" >
+<Turn speaker="S3" startTime="12.2" endTime="19.64">
+<Sync time="12.2"/>
+yeah he didn't they are there's me then
+</Turn>
+<Turn speaker="S4" startTime="19.64" endTime="27.2">
+<Sync time="19.64"/>
+that gave exactly i don't think they'll let you type sport uh-huh
+</Turn>
+<Turn speaker="S5" startTime="27.2" endTime="30.22">
+<Sync time="27.2"/>
+it's similar to the goats they're hungry they're waiting
+</Turn>
+<Turn speaker="S6" startTime="30.22" endTime="33.83">
+<Sync time="30.22"/>
+good job
+</Turn>
+<Turn speaker="S7" startTime="33.83" endTime="38.73">
+<Sync time="33.83"/>
+does it take them when they like your hand yes
+</Turn>
+<Turn speaker="S8" startTime="38.73" endTime="43.89">
+<Sync time="38.73"/>
+it does he like that white one
+</Turn>
+<Turn speaker="S9" startTime="43.89" endTime="46.89">
+<Sync time="43.89"/>
+right there
+</Turn>
+</Section>
+<Section type="report" startTime="50.12" endTime="59.31" >
+<Turn speaker="S10" startTime="50.12" endTime="55.77">
+<Sync time="50.12"/>
+that's in your own uh feed the go
+</Turn>
+<Turn speaker="S11" startTime="55.77" endTime="59.31">
+<Sync time="55.77"/>
+frankly he didn't give some to head safeguard
+</Turn>
+</Section>
+<Section type="report" startTime="63.65" endTime="70.49" >
+<Turn speaker="S12" startTime="63.65" endTime="70.49">
+<Sync time="63.65"/>
+give some of the food to hudson i think maybe they bite no they don't buy they just you got to hold your hand not flat
+</Turn>
+</Section>
+<Section type="report" startTime="82.57" endTime="95.94" >
+<Turn speaker="S13" startTime="82.57" endTime="87.94">
+<Sync time="82.57"/>
+changed any
+</Turn>
+<Turn speaker="S14" startTime="87.94" endTime="90.79">
+<Sync time="87.94"/>
+are those
+</Turn>
+<Turn speaker="S15" startTime="90.79" endTime="95.94">
+<Sync time="90.79"/>
+yes
+</Turn>
+</Section>
+</Episode>
+</Trans>

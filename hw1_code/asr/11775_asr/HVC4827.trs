@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4827" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="10.58" endTime="40.82" >
+<Turn speaker="S1" startTime="10.58" endTime="26.07">
+<Sync time="10.58"/>
+you're company to just put the bucket down
+</Turn>
+<Turn speaker="S2" startTime="26.07" endTime="40.82">
+<Sync time="26.07"/>
+you get a handful let go close so oh doesn't want to get dirty luckily
+</Turn>
+</Section>
+<Section type="report" startTime="44.76" endTime="68.3" >
+<Turn speaker="S2" startTime="44.76" endTime="52.25">
+<Sync time="44.76"/>
+what do you think about
+</Turn>
+<Turn speaker="S1" startTime="52.25" endTime="65.78">
+<Sync time="52.25"/>
+he's our pockets
+</Turn>
+<Turn speaker="S3" startTime="65.78" endTime="68.3">
+<Sync time="65.78"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="73.76" endTime="114.26" >
+<Turn speaker="S3" startTime="73.76" endTime="114.26">
+<Sync time="73.76"/>
+you got pocket how many pocket let me pick you up by airplane
+</Turn>
+</Section>
+</Episode>
+</Trans>

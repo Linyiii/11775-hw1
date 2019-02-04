@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3218" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.49" endTime="21.44" >
+<Turn speaker="S1" startTime="0.49" endTime="14.91">
+<Sync time="0.49"/>
+and i know
+</Turn>
+<Turn speaker="S2" startTime="14.91" endTime="21.44">
+<Sync time="14.91"/>
+oh
+</Turn>
+</Section>
+<Section type="report" startTime="25.92" endTime="68.93" >
+<Turn speaker="S2" startTime="25.92" endTime="43.46">
+<Sync time="25.92"/>
+my little tone generally don't know that thank you i'm dr do you know
+</Turn>
+<Turn speaker="S3" startTime="43.46" endTime="56.71">
+<Sync time="43.46"/>
+you know that
+</Turn>
+<Turn speaker="S2" startTime="56.71" endTime="68.93">
+<Sync time="56.71"/>
+i don't know i just don't have to you buy a book and
+</Turn>
+</Section>
+<Section type="report" startTime="81.17" endTime="84.36" >
+<Turn speaker="S2" startTime="81.17" endTime="84.36">
+<Sync time="81.17"/>
+what
+</Turn>
+</Section>
+</Episode>
+</Trans>

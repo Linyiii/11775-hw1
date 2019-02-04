@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3438" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="11.05" endTime="63.6" >
+<Turn speaker="S1" startTime="11.05" endTime="18.48">
+<Sync time="11.05"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="18.48" endTime="31.68">
+<Sync time="18.48"/>
+right over to to get medical care
+</Turn>
+<Turn speaker="S1" startTime="31.68" endTime="34.68">
+<Sync time="31.68"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="34.68" endTime="42.73">
+<Sync time="34.68"/>
+i'm in austin the not just someone getting a job
+</Turn>
+<Turn speaker="S1" startTime="42.73" endTime="47.68">
+<Sync time="42.73"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="47.68" endTime="57.38">
+<Sync time="47.68"/>
+not a good candidate to
+</Turn>
+<Turn speaker="S3" startTime="57.38" endTime="63.6">
+<Sync time="57.38"/>
+she she she
+</Turn>
+</Section>
+<Section type="report" startTime="69.08" endTime="181.85" >
+<Turn speaker="S1" startTime="69.08" endTime="85.61">
+<Sync time="69.08"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="85.61" endTime="92.32">
+<Sync time="85.61"/>
+uh jokes either one of
+</Turn>
+<Turn speaker="S1" startTime="92.32" endTime="97.86">
+<Sync time="92.32"/>
+mhm
+</Turn>
+<Turn speaker="S2" startTime="97.86" endTime="107.24">
+<Sync time="97.86"/>
+so so the or one of them
+</Turn>
+<Turn speaker="S1" startTime="107.24" endTime="123.7">
+<Sync time="107.24"/>
+mhm
+</Turn>
+<Turn speaker="S3" startTime="123.7" endTime="153.04">
+<Sync time="123.7"/>
+shot him
+</Turn>
+<Turn speaker="S2" startTime="153.04" endTime="181.85">
+<Sync time="153.04"/>
+i forgot the some it'll take then there's
+</Turn>
+</Section>
+</Episode>
+</Trans>

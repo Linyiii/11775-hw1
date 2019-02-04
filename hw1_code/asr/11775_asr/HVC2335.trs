@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2335" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="21.23" >
+<Turn speaker="S1" startTime="0.0" endTime="3.44">
+<Sync time="0.0"/>
+that logan what are you eating
+</Turn>
+<Turn speaker="S2" startTime="3.44" endTime="12.48">
+<Sync time="3.44"/>
+my take like brownies do rebel
+</Turn>
+<Turn speaker="S3" startTime="12.48" endTime="17.32">
+<Sync time="12.48"/>
+like
+</Turn>
+<Turn speaker="S4" startTime="17.32" endTime="21.23">
+<Sync time="17.32"/>
+you're i believe that we make again
+</Turn>
+</Section>
+<Section type="report" startTime="25.11" endTime="38.83" >
+<Turn speaker="S5" startTime="25.11" endTime="32.33">
+<Sync time="25.11"/>
+no i said i'll i'll try that big by i have to buy it for her on my um
+</Turn>
+<Turn speaker="S6" startTime="32.33" endTime="38.83">
+<Sync time="32.33"/>
+no get much time i want to get into
+</Turn>
+</Section>
+</Episode>
+</Trans>

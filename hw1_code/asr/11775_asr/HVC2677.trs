@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2677" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="19.35" endTime="86.42" >
+<Turn speaker="S1" startTime="19.35" endTime="65.72">
+<Sync time="19.35"/>
+she had been showing me one minute i'll be pretty much eat what stays down and this is your due date um energy and they the one to one thing that way and they showed the german body anybody it's gonna be
+</Turn>
+<Turn speaker="S2" startTime="65.72" endTime="86.42">
+<Sync time="65.72"/>
+no no no no no i'm from a long day um
+</Turn>
+</Section>
+</Episode>
+</Trans>

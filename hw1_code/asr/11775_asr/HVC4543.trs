@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4543" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S7" name="K7" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="34.3" >
+<Turn speaker="S1" startTime="0.0" endTime="8.2">
+<Sync time="0.0"/>
+show
+</Turn>
+<Turn speaker="S2" startTime="8.2" endTime="12.1">
+<Sync time="8.2"/>
+my neighbors actually off of you
+</Turn>
+<Turn speaker="S3" startTime="12.1" endTime="20.21">
+<Sync time="12.1"/>
+i don't think you know and then my um my own
+</Turn>
+<Turn speaker="S4" startTime="20.21" endTime="23.17">
+<Sync time="20.21"/>
+and
+</Turn>
+<Turn speaker="S5" startTime="23.17" endTime="26.36">
+<Sync time="23.17"/>
+off and go away i didn't see
+</Turn>
+<Turn speaker="S6" startTime="26.36" endTime="31.37">
+<Sync time="26.36"/>
+i know i we didn't know what i'm she'll bite judy georgia
+</Turn>
+<Turn speaker="S7" startTime="31.37" endTime="34.3">
+<Sync time="31.37"/>
+uh yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

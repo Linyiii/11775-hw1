@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5779" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="189.59" >
+<Turn speaker="S1" startTime="0.0" endTime="18.12">
+<Sync time="0.0"/>
+make your birthday where you get you a candle don't grab the fire okay
+</Turn>
+<Turn speaker="S2" startTime="18.12" endTime="35.61">
+<Sync time="18.12"/>
+happy day do you have a day do you have to be happy but do you
+</Turn>
+<Turn speaker="S1" startTime="35.61" endTime="52.92">
+<Sync time="35.61"/>
+okay no no no never i don't know what you do
+</Turn>
+<Turn speaker="S3" startTime="52.92" endTime="78.46">
+<Sync time="52.92"/>
+okay um she likes
+</Turn>
+<Turn speaker="S1" startTime="78.46" endTime="125.14">
+<Sync time="78.46"/>
+okay once a year on the opposite i agree i think we have to
+</Turn>
+<Turn speaker="S3" startTime="125.14" endTime="143.2">
+<Sync time="125.14"/>
+yeah
+</Turn>
+<Turn speaker="S1" startTime="143.2" endTime="161.55">
+<Sync time="143.2"/>
+okay so you want an animal
+</Turn>
+<Turn speaker="S3" startTime="161.55" endTime="189.59">
+<Sync time="161.55"/>
+i mean
+</Turn>
+</Section>
+<Section type="report" startTime="189.78" endTime="217.02" >
+<Turn speaker="S1" startTime="189.78" endTime="217.02">
+<Sync time="189.78"/>
+good i'm yeah yum yum yum were for you
+</Turn>
+</Section>
+</Episode>
+</Trans>

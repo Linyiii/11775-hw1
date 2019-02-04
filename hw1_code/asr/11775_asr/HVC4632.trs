@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4632" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="149.4" >
+<Turn speaker="S1" startTime="0.0" endTime="149.4">
+<Sync time="0.0"/>
+no no no no no no they want to cut that that'll take oh no nice to meet you i like to go to had the chicken like i'm on the other hand silly playful little girl with the raleigh middle of the day was that was one of the you know they put the chicken or chicken or we go do you want to get around
+</Turn>
+</Section>
+</Episode>
+</Trans>

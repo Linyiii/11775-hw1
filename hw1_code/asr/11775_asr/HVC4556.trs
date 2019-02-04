@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4556" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="37.76" endTime="78.51" >
+<Turn speaker="S1" startTime="37.76" endTime="47.04">
+<Sync time="37.76"/>
+i live on that was that last for cost oh
+</Turn>
+<Turn speaker="S2" startTime="47.04" endTime="55.22">
+<Sync time="47.04"/>
+mhm
+</Turn>
+<Turn speaker="S1" startTime="55.22" endTime="61.99">
+<Sync time="55.22"/>
+you never moving
+</Turn>
+<Turn speaker="S2" startTime="61.99" endTime="78.51">
+<Sync time="61.99"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="85.08" endTime="117.09" >
+<Turn speaker="S1" startTime="85.08" endTime="105.31">
+<Sync time="85.08"/>
+it is managed strength push yourself off of her body basically under looks matt she goes there you go girl push a little more eh
+</Turn>
+<Turn speaker="S3" startTime="105.31" endTime="111.32">
+<Sync time="105.31"/>
+oh
+</Turn>
+<Turn speaker="S1" startTime="111.32" endTime="117.09">
+<Sync time="111.32"/>
+not chinese
+</Turn>
+</Section>
+<Section type="report" startTime="141.73" endTime="158.97" >
+<Turn speaker="S3" startTime="141.73" endTime="155.27">
+<Sync time="141.73"/>
+new in new york
+</Turn>
+<Turn speaker="S2" startTime="155.27" endTime="158.97">
+<Sync time="155.27"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="256.09" endTime="263.51" >
+<Turn speaker="S4" startTime="256.09" endTime="263.51">
+<Sync time="256.09"/>
+who's your baby does he is your first baby died giving their lung
+</Turn>
+</Section>
+<Section type="report" startTime="267.06" endTime="278.95" >
+<Turn speaker="S4" startTime="267.06" endTime="278.95">
+<Sync time="267.06"/>
+mm mm mm uh giving your kid is
+</Turn>
+</Section>
+<Section type="report" startTime="282.92" endTime="289.79" >
+<Turn speaker="S1" startTime="282.92" endTime="289.79">
+<Sync time="282.92"/>
+mm mm
+</Turn>
+</Section>
+</Episode>
+</Trans>

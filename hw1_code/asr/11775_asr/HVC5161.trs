@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5161" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="6.64" endTime="136.91" >
+<Turn speaker="S1" startTime="6.64" endTime="30.87">
+<Sync time="6.64"/>
+make you bend your knees fall way way way less than the show and i'm all right um i am sick
+</Turn>
+<Turn speaker="S2" startTime="30.87" endTime="56.49">
+<Sync time="30.87"/>
+and and all that but the one on side by side you know
+</Turn>
+<Turn speaker="S1" startTime="56.49" endTime="85.32">
+<Sync time="56.49"/>
+i don't know a a cloudy day care
+</Turn>
+<Turn speaker="S2" startTime="85.32" endTime="112.53">
+<Sync time="85.32"/>
+he was and all that stuff now on on a lot of people that died now uh
+</Turn>
+<Turn speaker="S3" startTime="112.53" endTime="136.91">
+<Sync time="112.53"/>
+that game
+</Turn>
+</Section>
+<Section type="report" startTime="139.01" endTime="195.03" >
+<Turn speaker="S3" startTime="139.01" endTime="159.55">
+<Sync time="139.01"/>
+so
+</Turn>
+<Turn speaker="S2" startTime="159.55" endTime="188.42">
+<Sync time="159.55"/>
+whoa whoa whoa whoa whoa whoa whoa whoa whoa whoa whoa i thought that was on minimum wage and the crime or uh
+</Turn>
+<Turn speaker="S4" startTime="188.42" endTime="195.03">
+<Sync time="188.42"/>
+i uh
+</Turn>
+</Section>
+<Section type="report" startTime="195.12" endTime="197.89" >
+<Turn speaker="S5" startTime="195.12" endTime="197.89">
+<Sync time="195.12"/>
+mm mm mm mm mm
+</Turn>
+</Section>
+</Episode>
+</Trans>

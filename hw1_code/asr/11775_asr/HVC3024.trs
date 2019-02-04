@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3024" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="73.56" endTime="169.97" >
+<Turn speaker="S1" startTime="73.56" endTime="121.62">
+<Sync time="73.56"/>
+and then they were
+</Turn>
+<Turn speaker="S2" startTime="121.62" endTime="169.97">
+<Sync time="121.62"/>
+and then and i know one thing
+</Turn>
+</Section>
+<Section type="report" startTime="170.22" endTime="229.66" >
+<Turn speaker="S1" startTime="170.22" endTime="229.66">
+<Sync time="170.22"/>
+i don't think they should do it and on and on and on and
+</Turn>
+</Section>
+</Episode>
+</Trans>

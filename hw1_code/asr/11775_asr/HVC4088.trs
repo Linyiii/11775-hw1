@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4088" version="1" version_date="190116">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.01" endTime="38.01" >
+<Turn speaker="S1" startTime="0.01" endTime="8.21">
+<Sync time="0.01"/>
+i'm eighteen and i are getting ready to go head to head all out for eating blitzkrieg
+</Turn>
+<Turn speaker="S2" startTime="8.21" endTime="16.61">
+<Sync time="8.21"/>
+for one i i had a pet right let's say the alright let's do it three one
+</Turn>
+<Turn speaker="S3" startTime="16.61" endTime="21.51">
+<Sync time="16.61"/>
+you saw boy she's got a stone cold face
+</Turn>
+<Turn speaker="S4" startTime="21.51" endTime="25.85">
+<Sync time="21.51"/>
+oh no
+</Turn>
+<Turn speaker="S5" startTime="25.85" endTime="31.16">
+<Sync time="25.85"/>
+and there were any one who drink they knew that they can pay david
+</Turn>
+<Turn speaker="S6" startTime="31.16" endTime="38.01">
+<Sync time="31.16"/>
+why go on and to make
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3571" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="70.96" >
+<Turn speaker="S1" startTime="0.0" endTime="70.96">
+<Sync time="0.0"/>
+you know you know what you're you when you come beginning to handle came and told me they called me the way but you know what i mean hundred grand
+</Turn>
+</Section>
+</Episode>
+</Trans>

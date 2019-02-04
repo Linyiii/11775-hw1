@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3649" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="18.84" endTime="85.29" >
+<Turn speaker="S1" startTime="18.84" endTime="35.05">
+<Sync time="18.84"/>
+when you come to robert major vehicle and then moving into production once it goes into production dissemble the vehicle inspected further damage update the men's and notify the insurance company
+</Turn>
+<Turn speaker="S2" startTime="35.05" endTime="38.26">
+<Sync time="35.05"/>
+mm mm
+</Turn>
+<Turn speaker="S1" startTime="38.26" endTime="52.61">
+<Sync time="38.26"/>
+when you're vehicles into body shop bike riding the panel that needs to straighten metal finish paying the machine that'll to finish off color coded bond finish off and
+</Turn>
+<Turn speaker="S2" startTime="52.61" endTime="55.33">
+<Sync time="52.61"/>
+mhm
+</Turn>
+<Turn speaker="S1" startTime="55.33" endTime="85.29">
+<Sync time="55.33"/>
+when it comes out of the body shop and moves into the shop moving into surgery room the state of the art equipment picking the year will cure primary so we have no diaper back shrinkage normally usually takes eight to six hours now down ten to fifteen minutes we are back to to protect the rest of the finishing the vehicle feather edge prime then block crime and when it's finished off and then it goes into our our waterborne
+</Turn>
+</Section>
+<Section type="report" startTime="88.29" endTime="104.75" >
+<Turn speaker="S1" startTime="88.29" endTime="104.75">
+<Sync time="88.29"/>
+apply or waterborne paint makes a screen certified flyer clear to make it a hundred and seventy two hundred degrees and brings it back to the factory pre law conditions after cool down it's ready for family
+</Turn>
+</Section>
+<Section type="report" startTime="111.07" endTime="119.97" >
+<Turn speaker="S3" startTime="111.07" endTime="119.97">
+<Sync time="111.07"/>
+after assembly goes detail iraq after the detail the customers called ready for
+</Turn>
+</Section>
+</Episode>
+</Trans>

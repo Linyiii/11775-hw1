@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2095" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="1.56" endTime="14.08" >
+<Turn speaker="S1" startTime="1.56" endTime="14.08">
+<Sync time="1.56"/>
+cooking that's what's in austin oh john when the door
+</Turn>
+</Section>
+<Section type="report" startTime="28.97" endTime="37.33" >
+<Turn speaker="S1" startTime="28.97" endTime="37.33">
+<Sync time="28.97"/>
+nice is nice
+</Turn>
+</Section>
+</Episode>
+</Trans>

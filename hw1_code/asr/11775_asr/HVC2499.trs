@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2499" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="86.0" >
+<Turn speaker="S1" startTime="0.0" endTime="18.68">
+<Sync time="0.0"/>
+i mean they were like you know right
+</Turn>
+<Turn speaker="S2" startTime="18.68" endTime="86.0">
+<Sync time="18.68"/>
+can't going down down down down you know so they got the number one thing that would probably be a dog and my grandma and all the way we do we feel about when you started candy
+</Turn>
+</Section>
+<Section type="report" startTime="86.21" endTime="90.95" >
+<Turn speaker="S1" startTime="86.21" endTime="90.95">
+<Sync time="86.21"/>
+yeah
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3893" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.04" endTime="54.02" >
+<Turn speaker="S1" startTime="0.04" endTime="20.29">
+<Sync time="0.04"/>
+and then they go they have like way
+</Turn>
+<Turn speaker="S2" startTime="20.29" endTime="31.78">
+<Sync time="20.29"/>
+the man down so you know what i'm a little
+</Turn>
+<Turn speaker="S3" startTime="31.78" endTime="54.02">
+<Sync time="31.78"/>
+done it in a in a city
+</Turn>
+</Section>
+<Section type="report" startTime="53.78" endTime="85.45" >
+<Turn speaker="S2" startTime="53.78" endTime="85.45">
+<Sync time="53.78"/>
+no and i live in the world would be difficult
+</Turn>
+</Section>
+</Episode>
+</Trans>

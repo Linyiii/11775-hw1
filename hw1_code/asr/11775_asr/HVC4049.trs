@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC4049" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="3.14" endTime="17.36" >
+<Turn speaker="S1" startTime="3.14" endTime="17.36">
+<Sync time="3.14"/>
+oh she she started going down to the other one she had met them here so you going down to the other ones are well no but he's still over there she's going down to find stuff before you get down there
+</Turn>
+</Section>
+<Section type="report" startTime="21.4" endTime="34.39" >
+<Turn speaker="S1" startTime="21.4" endTime="34.39">
+<Sync time="21.4"/>
+all that they can't see now and there's there's some good and stuff that was bad not through now he's got it
+</Turn>
+</Section>
+<Section type="report" startTime="39.97" endTime="58.25" >
+<Turn speaker="S1" startTime="39.97" endTime="58.25">
+<Sync time="39.97"/>
+still going through he's loving this all this food for the whole thing as personal down you know he's looking down there that do i think maybe not you know he's
+</Turn>
+</Section>
+<Section type="report" startTime="70.76" endTime="81.84" >
+<Turn speaker="S2" startTime="70.76" endTime="81.84">
+<Sync time="70.76"/>
+mhm
+</Turn>
+</Section>
+</Episode>
+</Trans>

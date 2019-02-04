@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC2321" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S4" name="K4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S5" name="K5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S6" name="K6" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="91.43" >
+<Turn speaker="S1" startTime="0.0" endTime="21.51">
+<Sync time="0.0"/>
+right right yeah they do they have the the right they do
+</Turn>
+<Turn speaker="S2" startTime="21.51" endTime="39.27">
+<Sync time="21.51"/>
+i don't know i know
+</Turn>
+<Turn speaker="S3" startTime="39.27" endTime="54.06">
+<Sync time="39.27"/>
+oh you better get out like i think they do it
+</Turn>
+<Turn speaker="S4" startTime="54.06" endTime="58.42">
+<Sync time="54.06"/>
+do you think
+</Turn>
+<Turn speaker="S3" startTime="58.42" endTime="68.44">
+<Sync time="58.42"/>
+no you can't just try to
+</Turn>
+<Turn speaker="S5" startTime="68.44" endTime="76.19">
+<Sync time="68.44"/>
+happy you know
+</Turn>
+<Turn speaker="S2" startTime="76.19" endTime="91.43">
+<Sync time="76.19"/>
+you know
+</Turn>
+</Section>
+<Section type="report" startTime="94.56" endTime="129.27" >
+<Turn speaker="S3" startTime="94.56" endTime="100.35">
+<Sync time="94.56"/>
+yeah i i don't
+</Turn>
+<Turn speaker="S4" startTime="100.35" endTime="108.78">
+<Sync time="100.35"/>
+okay
+</Turn>
+<Turn speaker="S6" startTime="108.78" endTime="117.06">
+<Sync time="108.78"/>
+mine too
+</Turn>
+<Turn speaker="S3" startTime="117.06" endTime="129.27">
+<Sync time="117.06"/>
+okay
+</Turn>
+</Section>
+<Section type="report" startTime="134.58" endTime="232.76" >
+<Turn speaker="S3" startTime="134.58" endTime="140.71">
+<Sync time="134.58"/>
+when when you went to the case now you can take them
+</Turn>
+<Turn speaker="S6" startTime="140.71" endTime="157.9">
+<Sync time="140.71"/>
+see people who supposedly
+</Turn>
+<Turn speaker="S3" startTime="157.9" endTime="226.86">
+<Sync time="157.9"/>
+that we're we're the dangers sugar drink like i think why do i like i know i thought that would be okay your camera upbringing when does the other one i went to see it
+</Turn>
+<Turn speaker="S6" startTime="226.86" endTime="232.76">
+<Sync time="226.86"/>
+okay yeah
+</Turn>
+</Section>
+<Section type="report" startTime="238.7" endTime="456.42" >
+<Turn speaker="S3" startTime="238.7" endTime="254.99">
+<Sync time="238.7"/>
+that is awesome what'd you say you're to look at them and i say okay
+</Turn>
+<Turn speaker="S6" startTime="254.99" endTime="271.97">
+<Sync time="254.99"/>
+oh my
+</Turn>
+<Turn speaker="S5" startTime="271.97" endTime="314.19">
+<Sync time="271.97"/>
+no no oh my gosh okay mining fast
+</Turn>
+<Turn speaker="S3" startTime="314.19" endTime="318.8">
+<Sync time="314.19"/>
+yeah i agree
+</Turn>
+<Turn speaker="S5" startTime="318.8" endTime="323.61">
+<Sync time="318.8"/>
+yes
+</Turn>
+<Turn speaker="S3" startTime="323.61" endTime="337.45">
+<Sync time="323.61"/>
+you know i haven't gotten christian yeah
+</Turn>
+<Turn speaker="S4" startTime="337.45" endTime="377.4">
+<Sync time="337.45"/>
+they were underwear much more you got to get
+</Turn>
+<Turn speaker="S2" startTime="377.4" endTime="416.61">
+<Sync time="377.4"/>
+i'm i'm really open to find a new one him or her all not that huh rita from the guy that was nice so whoever recommend
+</Turn>
+<Turn speaker="S3" startTime="416.61" endTime="422.28">
+<Sync time="416.61"/>
+and i try to relax or encourage christian six year old
+</Turn>
+<Turn speaker="S2" startTime="422.28" endTime="456.42">
+<Sync time="422.28"/>
+where do you say oh you're kidding what is that oh really um
+</Turn>
+</Section>
+<Section type="report" startTime="477.41" endTime="484.94" >
+<Turn speaker="S2" startTime="477.41" endTime="484.94">
+<Sync time="477.41"/>
+uh-huh yeah buddy
+</Turn>
+</Section>
+<Section type="report" startTime="484.74" endTime="499.28" >
+<Turn speaker="S3" startTime="484.74" endTime="499.28">
+<Sync time="484.74"/>
+yeah oh yeah you better go around and okay
+</Turn>
+</Section>
+</Episode>
+</Trans>

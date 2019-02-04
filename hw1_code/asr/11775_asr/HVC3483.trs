@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC3483" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S2" name="K2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="S3" name="K3" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="13.45" >
+<Turn speaker="S1" startTime="0.0" endTime="13.45">
+<Sync time="0.0"/>
+go
+</Turn>
+</Section>
+<Section type="report" startTime="19.02" endTime="25.93" >
+<Turn speaker="S2" startTime="19.02" endTime="25.93">
+<Sync time="19.02"/>
+you know
+</Turn>
+</Section>
+<Section type="report" startTime="31.59" endTime="53.73" >
+<Turn speaker="S3" startTime="31.59" endTime="53.73">
+<Sync time="31.59"/>
+here's a big boy
+</Turn>
+</Section>
+</Episode>
+</Trans>

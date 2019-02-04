@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="est-speech2txt" audio_filename="HVC5725" version="1" version_date="190115">
+<Speakers>
+<Speaker id="S1" name="K1" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0.0" endTime="59.04" >
+<Turn speaker="S1" startTime="0.0" endTime="59.04">
+<Sync time="0.0"/>
+i don't know what is the highest favorite restaurant your period so do you have any other halloween i don't know what do you call aren't guy with no arms and legs i don't know what do you call him i don't know oh that's pretty funny you're pretty funny i alright happy halloween
+</Turn>
+</Section>
+</Episode>
+</Trans>

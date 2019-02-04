@@ -16,8 +16,18 @@
       <file leaf-file-name="create_asrfeat.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hw1_code/scripts/create_asrfeat.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+            <state relative-caret-position="407">
+              <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vocab" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw1_code/vocab">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="2869" column="3" lean-forward="true" selection-start-line="2869" selection-start-column="3" selection-end-line="2869" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -309,14 +319,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw1_code/vocab">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35956">
-          <caret line="2877" column="3" lean-forward="true" selection-start-line="2877" selection-start-column="3" selection-end-line="2877" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hw1_code/scripts/stop-word-list.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
@@ -455,10 +457,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hw1_code/vocab">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2869" column="3" lean-forward="true" selection-start-line="2869" selection-start-column="3" selection-end-line="2869" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hw1_code/scripts/create_asrfeat.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        <state relative-caret-position="407">
+          <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
           <folding />
         </state>
       </provider>

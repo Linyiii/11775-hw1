@@ -27,8 +27,7 @@ if __name__ == '__main__':
     vocab = {} # dictionary for better hashing
     vocab_fd = open(vocab_file, "r")
     for voc in vocab_fd.readlines():
-        v_list = voc.strip().lower()
-        v = v.split(' ')[1]
+        v = voc.strip().lower()
         if v not in stops:
             vocab[v] = 1
     vocab_fd.close()

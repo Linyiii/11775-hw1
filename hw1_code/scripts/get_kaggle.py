@@ -48,6 +48,7 @@ if __name__ == '__main__':
     # print name_list
 
     # write to output file
+    out_file_fd.write("VideoID,Label\n")
     for j in range(len(p0_conf)):
         out_file_fd.write(name_list[j] + "," + str(labels[j]) + "\n")
 

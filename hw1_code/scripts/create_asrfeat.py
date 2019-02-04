@@ -44,7 +44,7 @@ if __name__ == '__main__':
     file_list_fd = open(file_list, 'r')
     for fil in file_list_fd.readlines():
         file_id = fil.strip()
-        path = "ars/" + "11775_asr" + file_id + ".ctm"
+        path = "asr/" + "11775_asr" + file_id + ".ctm"
 
         # open output file
         out_file = "asrfeat/" + file_id

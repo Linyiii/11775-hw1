@@ -17,7 +17,7 @@ if __name__ == '__main__':
 
     # load stop words
     stops = {} # dictionary for better hashing
-    stops_fd = open("stop-word-list.txt")
+    stops_fd = open("scripts/stop-word-list.txt")
     for sto in stops_fd.readlines():
         s = sto.strip().lower()
         stops[s] = 1

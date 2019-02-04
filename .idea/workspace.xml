@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0429ceb5-74f0-4e46-a567-b651ecc4fa19" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hw1_code/scripts/test_svm.py" afterPath="$PROJECT_DIR$/hw1_code/scripts/test_svm.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hw1_code/scripts/train_svm.py" afterPath="$PROJECT_DIR$/hw1_code/scripts/train_svm.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="train_svm.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="train_svm.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hw1_code/scripts/train_svm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="25" column="64" lean-forward="false" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
+            <state relative-caret-position="203">
+              <caret line="68" column="31" lean-forward="true" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
               <folding>
                 <element signature="e#16#28#0" expanded="true" />
               </folding>
@@ -55,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_svm.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_svm.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hw1_code/scripts/test_svm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="25" column="53" lean-forward="false" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+            <state relative-caret-position="-181">
+              <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -68,7 +69,7 @@
       <file leaf-file-name="all_trn.lst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/all_trn.lst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-16516">
+            <state relative-caret-position="-16159">
               <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
               <folding />
             </state>
@@ -145,14 +146,14 @@
         <option value="$PROJECT_DIR$/hw1_code/scripts/P0" />
         <option value="$PROJECT_DIR$/hw1_code/scripts/get_kaggle.py" />
         <option value="$PROJECT_DIR$/combined_train.lst" />
-        <option value="$PROJECT_DIR$/hw1_code/scripts/train_svm.py" />
         <option value="$PROJECT_DIR$/hw1_code/scripts/test_svm.py" />
+        <option value="$PROJECT_DIR$/hw1_code/scripts/train_svm.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="68" />
-    <option name="y" value="23" />
+    <option name="x" value="15" />
+    <option name="y" value="87" />
     <option name="width" value="1280" />
     <option name="height" value="700" />
   </component>
@@ -184,12 +185,6 @@
               <item name="11775-hw1" type="b2602c69:ProjectViewProjectNode" />
               <item name="11775-hw1" type="462c0819:PsiDirectoryNode" />
               <item name="hw1_code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="11775-hw1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="11775-hw1" type="462c0819:PsiDirectoryNode" />
-              <item name="hw1_code" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -235,7 +230,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="68" y="23" width="1280" height="700" extended-state="0" />
+    <frame x="15" y="87" width="1280" height="700" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25767368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -566,10 +561,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/all_trn.lst">
+    <entry file="file://$PROJECT_DIR$/hw1_code/list/P001_val_label">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16516">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw1_code/scripts/test_svm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-181">
+          <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="57" />
           <folding />
         </state>
       </provider>
@@ -582,10 +585,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw1_code/list/P001_val_label">
+    <entry file="file://$PROJECT_DIR$/all_trn.lst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-16159">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -600,19 +603,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hw1_code/scripts/train_svm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="25" column="64" lean-forward="false" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
+        <state relative-caret-position="203">
+          <caret line="68" column="31" lean-forward="true" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
           <folding>
             <element signature="e#16#28#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw1_code/scripts/test_svm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="25" column="53" lean-forward="false" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>

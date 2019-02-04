@@ -12,8 +12,8 @@ export PATH=$opensmile_path/bin:$PATH
 export LD_LIBRARY_PATH=$opensmile_path/lib:$LD_LIBRARY_PATH
 
 # Two additional variables
-video_path=../video   # path to the directory containing all the videos. In this example setup, we are linking all the videos to "../video"
-cluster_num=50        # the number of clusters in k-means. Note that 50 is by no means the optimal solution.
+video_path=/home/video   # path to the directory containing all the videos. In this example setup, we are linking all the videos to "../video"
+cluster_num=800        # the number of clusters in k-means. Note that 50 is by no means the optimal solution.
                       # You need to explore the best config by yourself.
 mkdir -p audio mfcc kmeans
 

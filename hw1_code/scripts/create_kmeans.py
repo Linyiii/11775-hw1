@@ -4,6 +4,7 @@ import os
 import cPickle
 from sklearn.cluster.k_means_ import KMeans
 import sys
+
 # Generate k-means features for videos; each video is represented by a single vector
 
 if __name__ == '__main__':
@@ -19,8 +20,8 @@ if __name__ == '__main__':
     file_list = sys.argv[3]
 
     # load the kmeans model
-    kmeans = cPickle.load(open(kmeans_model,"rb"))
-    print("Successfully loaded K-means model.")
+    kmeans = cPickle.load(open(kmeans_model, "rb"))
+    print "Successfully loaded K-means model."
 
     # process each audio file
     file_list_fd = open(file_list, "r")
@@ -36,7 +37,7 @@ if __name__ == '__main__':
         if not os.path.exists(mfcc_file):
             # write -1 to the file?
             # out_file_fd.write("-1\n")
-            histogram.fill(1.0/cluster_num) # manually set features
+            histogram.fill(1.0 / cluster_num)  # manually set features
 
         # mfcc file exists
         else:
@@ -50,10 +51,10 @@ if __name__ == '__main__':
             for f in kmeans_features:
                 histogram[f] += 1
 
-            # TO DO: normalize features?????
+                # TO DO: normalize features?????
 
         # write histogram to output file
-        histogram_str = ';'.join([str(t) for t in v])
+        histogram_str = ';'.join([str(t) for t in histogram])
         histogram_str = histogram_str + "\n"
         out_file_fd.write(histogram_str)
 

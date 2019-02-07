@@ -69,7 +69,7 @@ if __name__ == '__main__':
     # svm_model = SVC(kernel='linear', class_weight='balanced', cache_size=1000,
     #                 C=10)  # tune this!!!!!!!!!!!!!!!!!!!!!!
     # svm_model = LinearSVC(C=1, loss='squared_hinge', multi_class='ovr', class_weight='balanced', tol=1e-6)
-    svm_model = SVC(kernel="sigmoid", gamma=5)
+    svm_model = SVC(kernel="sigmoid", gamma=1)
 
     svm_model.fit(feat_matrix, label_vector)
     cPickle.dump(svm_model, output_file_fd)
